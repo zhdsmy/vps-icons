@@ -3285,21 +3285,20 @@
       "brandColor": "#FFD54F",
       "source": "https://www.rainyun.com/img/logo.d193755d.png",
       "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
-      "quality": "raster",
+      "quality": "redrawn",
       "processing": [
-        "Isolate the sun, cloud and rain from the transparent header. Separate the sun and cloud contours in the monochrome mask.",
-        "Use slate-gray cloud and stronger blue rain on white backgrounds; retain the native pale tones on dark surfaces."
+        "Redraw the sun rays, exposed center, three cloud lobes and four rounded rain strokes from the official header. Preserve the two interface palettes and keep the open space between the sun and cloud in monochrome."
       ],
       "small": {
         "artwork": "Use the isolated brand symbol at sidebar sizes.",
         "source": "https://www.rainyun.com/img/logo.d193755d.png"
       },
-      "nativeSize": [
-        1120,
-        390
-      ],
       "variants": {
-        "svg": [],
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
         "png": [
           "color",
           "color-dark",
@@ -3321,20 +3320,19 @@
       "brandColor": "#00AEEF",
       "source": "https://www.lcayun.com/themes/web/LcayunM1/assets/img/logo.png",
       "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
-      "quality": "raster",
+      "quality": "redrawn",
       "processing": [
-        "Crop the blue-green mountain emblem, preserving its pixel trail. Remove dark wordmark pixels where the two bounding boxes overlap."
+        "Reconstruct the arched cap, reflection, shaded base, rising peak and stepped trail of the official mark. Use local gradients in color and the outline of the same pieces in monochrome."
       ],
       "small": {
         "artwork": "Use the isolated brand symbol at sidebar sizes.",
         "source": "https://www.lcayun.com/themes/web/LcayunM1/assets/img/logo.png"
       },
-      "nativeSize": [
-        776,
-        186
-      ],
       "variants": {
-        "svg": [],
+        "svg": [
+          "color",
+          "mono"
+        ],
         "png": [
           "color",
           "mono-black",
@@ -3458,23 +3456,22 @@
       ],
       "website": "https://www.nhncloud.com/kr",
       "brandColor": "#125DE6",
-      "source": "https://www.nhncloud.com/favicons/android-chrome-256x256.png",
+      "source": "https://docs.nhncloud.com/ko/img/favicons/safari-pinned-tab.svg",
       "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
-      "quality": "raster",
+      "quality": "vector",
       "processing": [
-        "Preserve the official Android icon, including its navy tile. Extract the inner three-lobed cloud against the tile for the monochrome silhouette."
+        "Use the company documentation favicon paths, original rounded tile and horizontal gradient. Remove the redundant full-canvas mask. The compact color master reproduces the gradient over the original navy before omitting the tile."
       ],
       "small": {
-        "source": "https://www.nhncloud.com/favicons/android-chrome-256x256.png",
-        "artwork": "Use the isolated three-lobed mark without the navy tile. Separate the overlaps in single ink at 16, 24 and 32 px.",
+        "source": "https://docs.nhncloud.com/ko/img/favicons/safari-pinned-tab.svg",
+        "artwork": "Show the three original shapes without the tile through 32 px. Open the overlaps in single ink.",
         "maxSize": 32
       },
-      "nativeSize": [
-        256,
-        256
-      ],
       "variants": {
-        "svg": [],
+        "svg": [
+          "color",
+          "mono"
+        ],
         "png": [
           "color",
           "mono-black",
@@ -3568,20 +3565,19 @@
       "brandColor": "#775FEF",
       "source": "https://zgovps.com/wp-content/uploads/2023/10/cropped-icon.png",
       "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
-      "quality": "raster",
+      "quality": "redrawn",
       "processing": [
-        "Keep the transparent circular WordPress site icon and its original gradient. Use its white Z as the single-ink mark."
+        "Redraw the rounded italic Z and the slightly slanted circular field of the original site icon. Recreate the blue-to-violet gradient and use the Z alone in monochrome."
       ],
       "small": {
         "artwork": "Use the isolated brand symbol at sidebar sizes.",
         "source": "https://zgovps.com/wp-content/uploads/2023/10/cropped-icon.png"
       },
-      "nativeSize": [
-        512,
-        512
-      ],
       "variants": {
-        "svg": [],
+        "svg": [
+          "color",
+          "mono"
+        ],
         "png": [
           "color",
           "mono-black",
@@ -3602,20 +3598,20 @@
       "brandColor": "#034DFF",
       "source": "https://www.yecaoyun.com/Public/Home/img/logo.png",
       "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
-      "quality": "raster",
+      "quality": "redrawn",
       "processing": [
-        "Isolate the cloud from the white footer lockup and use the blue of the official favicon on light backgrounds."
+        "Reconstruct the cloud outline, the two tapering leaves and the three stepped fragments from the official transparent wordmark. Use the favicon blue on light surfaces and white on dark surfaces."
       ],
       "small": {
         "artwork": "Use the isolated brand symbol at sidebar sizes.",
         "source": "https://www.yecaoyun.com/Public/Home/img/logo.png"
       },
-      "nativeSize": [
-        1202,
-        310
-      ],
       "variants": {
-        "svg": [],
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
         "png": [
           "color",
           "color-dark",
@@ -3712,20 +3708,19 @@
       "brandColor": "#E50027",
       "source": "https://www.cucloud.cn/templets/1/default/images/about-woyun-logo.png",
       "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
-      "quality": "raster",
+      "quality": "redrawn",
       "processing": [
-        "Crop the red cloud and Chinese knot (157 × 111 px) from the transparent 418 × 112 official wordmark."
+        "Redraw the open cloud segments and the four symmetrical knot loops from the official lockup. Use compound paths for the crossing and its four open counters."
       ],
       "small": {
         "artwork": "Use the isolated brand symbol at sidebar sizes.",
         "source": "https://www.cucloud.cn/templets/1/default/images/about-woyun-logo.png"
       },
-      "nativeSize": [
-        418,
-        112
-      ],
       "variants": {
-        "svg": [],
+        "svg": [
+          "color",
+          "mono"
+        ],
         "png": [
           "color",
           "mono-black",
@@ -3819,20 +3814,19 @@
       "brandColor": "#328DDB",
       "source": "https://www.henghost.com/favicon.ico",
       "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
-      "quality": "raster",
+      "quality": "redrawn",
       "processing": [
-        "Keep the HC site tile from the 256 px frame of the official favicon. Extract its white initials for both monochrome variants."
+        "Reconstruct the square field and the two HC letterforms from the 256 px company favicon. Use the lettering alone in single ink."
       ],
       "small": {
         "artwork": "Use the isolated brand symbol at sidebar sizes.",
         "source": "https://www.henghost.com/favicon.ico"
       },
-      "nativeSize": [
-        256,
-        256
-      ],
       "variants": {
-        "svg": [],
+        "svg": [
+          "color",
+          "mono"
+        ],
         "png": [
           "color",
           "mono-black",
@@ -3888,23 +3882,23 @@
       ],
       "website": "https://www.ktcloud.com/",
       "brandColor": "#ED1B23",
-      "source": "https://www.ktcloud.com/static/img/common/png/og_image.png",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
-      "quality": "raster",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/22/KT_Corp_2D_logo.svg",
+      "license": "Public domain (Wikimedia Commons, PD-textlogo); trademark rights reserved by KT.",
+      "quality": "vector",
       "processing": [
-        "Crop the kt monogram from the official social card. Remove its black field by color, and use the dark lettering of the positive header logo on light backgrounds.",
-        "Additional color or contour reference: https://www.ktcloud.com/static/img/common/png/logo-positive.png"
+        "Use the two native contours of the flat kt mark as seen in the KT Cloud header. Match the letter and ribbon colors to the positive header and the official dark social card.",
+        "Official references: https://www.ktcloud.com/static/img/common/png/logo-positive.png and https://www.ktcloud.com/static/img/common/png/og_image.png"
       ],
       "small": {
         "artwork": "Use the isolated brand symbol at sidebar sizes.",
-        "source": "https://www.ktcloud.com/static/img/common/png/og_image.png"
+        "source": "https://upload.wikimedia.org/wikipedia/commons/2/22/KT_Corp_2D_logo.svg"
       },
-      "nativeSize": [
-        1200,
-        630
-      ],
       "variants": {
-        "svg": [],
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
         "png": [
           "color",
           "color-dark",
@@ -3926,21 +3920,21 @@
       "brandColor": "#FFBFF1",
       "source": "https://www.akkocloud.com/templates/akko/assets/img/logo-1.png",
       "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
-      "quality": "raster",
+      "quality": "redrawn",
       "processing": [
-        "Retain the official two-part wordmark. Use deeper rose on light surfaces and the original pink on dark surfaces. Knock out the white letters in the monochrome panel."
+        "Reconstruct the letter outlines and rounded panel from the official wordmark. Use deep rose on light backgrounds, the original pink on dark backgrounds, and transparent counterforms in monochrome."
       ],
       "small": {
-        "artwork": "Enlarge the original leading A for 16, 24 and 32 px.",
+        "artwork": "Use the same leading A at 16, 24 and 32 px, enlarged to the optical box.",
         "source": "https://www.akkocloud.com/templates/akko/assets/img/logo-1.png",
         "maxSize": 32
       },
-      "nativeSize": [
-        387,
-        109
-      ],
       "variants": {
-        "svg": [],
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
         "png": [
           "color",
           "color-dark",
