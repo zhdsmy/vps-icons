@@ -2978,7 +2978,7 @@
       "website": "https://www.upyun.com/",
       "brandColor": "#00A0FF",
       "source": "https://www.upyun.com/static/img/黑logo.42ad028.svg",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
         "Isolate the original graphic mark and center its visible bounds on the 64-unit canvas."
@@ -3011,7 +3011,7 @@
       "website": "https://qingcloud.com/",
       "brandColor": "#0FA06D",
       "source": "https://qc-website.sh1a.qingstor.com/files/2023/06/qingcloud.svg",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
         "Isolate the original graphic mark and center its visible bounds on the 64-unit canvas."
@@ -3044,7 +3044,7 @@
       "website": "https://www.byteplus.com/en",
       "brandColor": "#006AFF",
       "source": "https://sf-bpcms.bytepluscdn.com/obj/byteplus-assets/images/bp-logo-colored.svg",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
         "Isolate the original graphic mark and center its visible bounds on the 64-unit canvas."
@@ -3078,7 +3078,7 @@
       "website": "https://www.sakura.ad.jp/",
       "brandColor": "#FF5577",
       "source": "https://www.sakura.ad.jp/assets/images/logo.svg",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
         "Isolate the original graphic mark and center its visible bounds on the 64-unit canvas.",
@@ -3114,7 +3114,7 @@
       "website": "https://www.xserver.ne.jp/",
       "brandColor": "#1B5FA6",
       "source": "https://www.xserver.ne.jp/img/common/icon.svg?date=241219",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
         "Isolate the original graphic mark and center its visible bounds on the 64-unit canvas."
@@ -3149,7 +3149,7 @@
       "website": "https://www.kagoya.jp/",
       "brandColor": "#00418F",
       "source": "https://www.kagoya.jp/app/themes/kagoya/assets/img/common/logo/mark.svg",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
         "Normalize the official blue wave emblem to the 64-unit canvas, lighten dark-mode blue (#7FBCFF), and provide a bolder, vertically boosted 5-arc small variant at <= 32 px."
@@ -3185,7 +3185,7 @@
       "website": "https://www.vmiss.com/",
       "brandColor": "#727CF5",
       "source": "https://www.vmiss.com/wp-content/uploads/2023/11/logo.svg",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
         "Normalize the official VMISS cloud-and-V mark to the 64-unit canvas, add a brightened color-dark variant, and reinforce the cloud outline at 16 and 24 px."
@@ -3221,7 +3221,7 @@
       "website": "https://www.vmrack.net/",
       "brandColor": "#165DFF",
       "source": "https://www.vmrack.net/favicon.svg",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
         "Isolate the original graphic mark and center its visible bounds on the 64-unit canvas."
@@ -3255,7 +3255,7 @@
       "website": "https://neburst.com/",
       "brandColor": "#078DEE",
       "source": "https://neburst.com/favicon.svg",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
         "Normalize the official Neburst ring-and-rays mark to the 64-unit canvas, add a brightened color-dark variant (#34A8FF), and simplify to a bolder 4-ray small variant at 16 and 24 px."
@@ -3292,7 +3292,7 @@
       "website": "https://www.rainyun.com/",
       "brandColor": "#FFD54F",
       "source": "https://www.rainyun.com/img/logo.d193755d.png",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
         "Redraw the sun rays, exposed center, three cloud lobes and four rounded rain strokes from the official header. Preserve the two interface palettes and keep the open space between the sun and cloud in monochrome."
@@ -3327,7 +3327,7 @@
       "website": "https://www.lcayun.com/",
       "brandColor": "#00AEEF",
       "source": "https://www.lcayun.com/themes/web/LcayunM1/assets/img/logo.png",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
         "Reconstruct the arched cap, reflection, shaded base, rising peak and stepped trail of the official mark. Use brightened gradients on dark surfaces and vertically boost a simplified silhouette without micro trailing dots through 24 px."
@@ -3363,7 +3363,7 @@
       "website": "https://www.lightnode.com/",
       "brandColor": "#33D6FF",
       "source": "https://www.lightnode.com/static/images/header-logo.png",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
         "Optically size the geometric LightNode emblem to 50 x 45 on the 64-unit canvas, deepen light-mode cyan (#0CC2F2) for white backgrounds, and add a brightened color-dark variant."
@@ -3399,7 +3399,7 @@
       "website": "https://www.conoha.jp/",
       "brandColor": "#21B8D7",
       "source": "https://support.conoha.jp",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
         "Take the first C contour from the support header wordmark and use the cyan from its linked square favicon."
@@ -3433,7 +3433,7 @@
       "website": "https://www.ncloud.com/",
       "brandColor": "#03C75A",
       "source": "https://www.ncloud.com/img/ncp-logo-shd.svg",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
         "Extract the two left-hand paths from the official black navigation logo and restore the green-to-turquoise treatment from the site favicon.",
@@ -3468,7 +3468,7 @@
       "website": "https://www.nhncloud.com/kr",
       "brandColor": "#125DE6",
       "source": "https://docs.nhncloud.com/ko/img/favicons/safari-pinned-tab.svg",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
         "Use the company documentation favicon paths, original rounded tile optically scaled to 50×50, and horizontal gradient. Knock the seamed three-lobe cloud out of the tile in monochrome, lift the dark tile contrast, and tint the tile-free compact light gradient so the left lobe stays visible on white."
@@ -3505,7 +3505,7 @@
       "website": "https://lisahost.com/",
       "brandColor": "#3C59BA",
       "source": "https://lisahost.com/favicon.ico",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
         "Reconstruct both angular parts of the L from the official favicon, checking the silhouette against the white header logo."
@@ -3541,7 +3541,7 @@
       "website": "https://zgovps.com/",
       "brandColor": "#775FEF",
       "source": "https://zgovps.com/wp-content/uploads/2023/10/cropped-icon.png",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
         "Redraw the rounded italic Z and the slightly slanted circular field of the original site icon. Recreate the blue-to-violet gradient with lifted dark-mode stops and punch the Z out of the circular badge in monochrome."
@@ -3576,7 +3576,7 @@
       "website": "https://www.yecaoyun.com/",
       "brandColor": "#034DFF",
       "source": "https://www.yecaoyun.com/Public/Home/img/logo.png",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
         "Reconstruct the cloud outline, the two tapering leaves and the three stepped fragments from the official transparent wordmark. Use brand blue on light surfaces, brightened blue on dark surfaces, and a stroke-reinforced compact master without the three tiny bottom fragments through 24 px."
@@ -3613,7 +3613,7 @@
       "website": "https://ksyun.com",
       "brandColor": "#ED0032",
       "source": "https://resource.ksyun.com/project/cms/8b2b5c8f8a322a7b8c66bcc5f1f08302",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
         "Normalize the red circle cloud badge to the 64-unit canvas, add a brightened color-dark variant (#FF3355), punch the cloud out of the circle in monochrome, and thicken the cloud cutout for 16 and 24 px."
@@ -3650,7 +3650,7 @@
       "website": "https://ecloud.10086.cn:443/portal",
       "brandColor": "#0085CF",
       "source": "https://ecloud.eos-guangzhou-1.cmecloud.cn/fe/favicon.ico",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
         "Normalize the redrawn China Mobile eCloud mark to the 64-unit canvas, add a brightened color-dark variant, and provide a stroke-reinforced 16/24 px small variant."
@@ -3687,7 +3687,7 @@
       "website": "https://www.cucloud.cn/",
       "brandColor": "#E50027",
       "source": "https://web.archive.org/web/20261018200308im_/https://www.cucloud.cn/templets/1/default/images/about-woyun-logo.png",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
         "Redraw the open cloud segments and the four symmetrical knot loops from the official lockup. Use compound paths for the crossing and its four open counters, a brightened red on dark surfaces, and a stroke-reinforced compact master through 24 px."
@@ -3724,7 +3724,7 @@
       "website": "https://www.west.cn/",
       "brandColor": "#065396",
       "source": "https://www.west.cn/favicon.ico",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
         "Normalize the redrawn West.cn emblem to the 64-unit canvas, keep the lightened color-dark blue (#5FB9FF), and simplify the bottom stripes to two bolder bars with a wider W gap at 16 and 24 px."
@@ -3760,7 +3760,7 @@
       "website": "https://www.hncloud.com/",
       "brandColor": "#00CACA",
       "source": "https://www.hncloud.com/static/images/home/company-logo.jpg",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
         "Deepen the mint-to-blue gradient (#00B584 to #0082D6) for white-background legibility, keep the bright neon gradient in color-dark, and add a stroke-reinforced 16/24 px small variant."
@@ -3796,7 +3796,7 @@
       "website": "https://www.henghost.com/",
       "brandColor": "#328DDB",
       "source": "https://www.henghost.com/favicon.ico",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
         "Reconstruct the square field optically scaled to 50×50 and the two HC letterforms from the 256 px company favicon. Lift the blue tile on dark surfaces and punch HC out of the square badge in monochrome."
@@ -3832,7 +3832,7 @@
       "website": "https://wangsu.com",
       "brandColor": "#005AAB",
       "source": "https://wangsu.com/favicon.ico",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
         "Normalize the redrawn Wangsu wave mark to the 64-unit canvas, keep lightened #75BFFF in color-dark, and use a bolder, taller single-counter wave silhouette for <= 32 px legibility."
@@ -3904,7 +3904,7 @@
       "website": "https://www.akkocloud.com/",
       "brandColor": "#FFBFF1",
       "source": "https://www.akkocloud.com/templates/akko/assets/img/logo-1.png",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
         "Reconstruct the letter outlines and rounded panel from the official wordmark. Use deep rose on light backgrounds, the original pink on dark backgrounds, and transparent counterforms in monochrome."
@@ -5531,9 +5531,8 @@
         "zh-CN": "Dedibox"
       },
       "aliases": [
-        "scaleway",
         "scaleway dedibox",
-        "online.net"
+        "online.net dedibox"
       ],
       "website": "https://www.scaleway.com/en/dedibox/",
       "brandColor": "#521094",
@@ -5753,16 +5752,16 @@
       ],
       "website": "https://www.nocix.net",
       "brandColor": "#002C8A",
-      "source": "https://www.google.com/s2/favicons?domain=nocix.net&sz=256",
+      "source": "https://www.nocix.net/favicon.ico",
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
-        "Redraw the opposing blue chevrons and slotted chassis from the domain favicon. Use a lighter navy on dark surfaces.",
+        "Redraw the opposing blue chevrons and slotted chassis from the official NOCIX favicon, also verified against the larger cached favicon. Use a lighter navy on dark surfaces.",
         "Darken the two outer cyan facets on white to preserve the split diagonal silhouette."
       ],
       "small": {
         "artwork": "Use the standalone brand mark at 16 px.",
-        "source": "https://www.google.com/s2/favicons?domain=nocix.net&sz=256"
+        "source": "https://www.nocix.net/favicon.ico"
       },
       "variants": {
         "svg": [
@@ -5785,8 +5784,6 @@
         "zh-CN": "Kimsufi"
       },
       "aliases": [
-        "ovhcloud",
-        "ovh",
         "ovh kimsufi",
         "ks"
       ],
@@ -5824,9 +5821,8 @@
         "zh-CN": "So you Start"
       },
       "aliases": [
-        "ovhcloud",
-        "ovh",
         "so you start",
+        "ovh soyoustart",
         "sys"
       ],
       "website": "https://eco.ovhcloud.com/en/soyoustart/",
@@ -5870,7 +5866,7 @@
       "website": "https://cloud.inspur.com/",
       "brandColor": "#0D48CE",
       "source": "https://cloud.inspur.com/cn/template/images/favicon.svg",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
         "Isolate the brand mark from the official vector and center its visible bounds on a 64-unit canvas."
@@ -5906,7 +5902,7 @@
       "website": "https://web.arena.ne.jp/",
       "brandColor": "#5B4E8B",
       "source": "https://web.arena.ne.jp/images/ico_logo_default.svg",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
         "Isolate the brand mark from the official vector and center its visible bounds on a 64-unit canvas."
@@ -5942,7 +5938,7 @@
       "website": "https://www.gabia.com/",
       "brandColor": "#060708",
       "source": "https://static.gabia.com/www/common/img/logo.svg",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
         "Center the original wordmark in the standard master; isolate the leading letter for sidebar sizes."
@@ -5979,7 +5975,7 @@
       "website": "https://hosting.cafe24.com/",
       "brandColor": "#084FFF",
       "source": "https://img.cafe24.com/images/common/cafe24.svg",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
         "Center the original wordmark in the standard master; isolate the leading letter for sidebar sizes.",
@@ -6017,7 +6013,7 @@
       "website": "https://bizflycloud.vn/",
       "brandColor": "#250368",
       "source": "https://bizflycloud.vn/logo/bizfly-cloud.svg",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
         "Select the four paper-plane paths above the wordmark. Keep an open crease in the monochrome silhouette.",
@@ -6054,7 +6050,7 @@
       "website": "https://idcloudhost.com/",
       "brandColor": "#2683FF",
       "source": "https://console.idcloudhost.com/app/favicon.svg",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
         "Fit the official blue console tile to 50 units and cut the original cloud out of the same rounded tile for monochrome."
@@ -6088,7 +6084,7 @@
       "website": "https://www.exabytes.my/",
       "brandColor": "#0066CC",
       "source": "https://www.exabytes.com/images/freshdesk/logo-exabytes-grow-ai.svg",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
         "Extract the three hexagonal e emblem paths to the left of the support logo. Retain the letter counter in monochrome.",
@@ -6125,7 +6121,7 @@
       "website": "https://nipa.cloud/",
       "brandColor": "#E91E76",
       "source": "https://nipa.cloud/_next/static/media/base-N-logo.ccc7391f.svg",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
         "Isolate the brand mark from the official vector and center its visible bounds on a 64-unit canvas.",
@@ -6163,7 +6159,7 @@
       "website": "https://www.unicloud.com/",
       "brandColor": "#9F0087",
       "source": "https://www.unicloud.com/upload/images/2024/7/1fd82770e622c26c.png",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
         "Reconstruct the two interlocking rounded frames and central diagonal from the official header and favicon."
@@ -6199,7 +6195,7 @@
       "website": "https://www.e2enetworks.com/",
       "brandColor": "#3E9DD6",
       "source": "https://www.e2enetworks.com/e2e-cloud-logo.png",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
         "Redraw the cloud outline and the three rectilinear E2E characters from the official cloud header.",
@@ -6237,7 +6233,7 @@
       "website": "https://www.baishan.com/",
       "brandColor": "#106FB8",
       "source": "https://uc.portal.baishancloud.com/static/logo_baishan.png",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
         "Reconstruct the two angular mountain forms in the official portal icon, cross-checked against the brand’s GitHub avatar."
@@ -6274,7 +6270,7 @@
       "website": "https://www.vnet.com/",
       "brandColor": "#005BFF",
       "source": "https://www.vnet.com/home/images/logo.png",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
         "Reconstruct the Latin VNET lettering and the green dot in its diagonal N from the official bilingual header."
@@ -6311,7 +6307,7 @@
       "website": "https://www.capitalonline.net/",
       "brandColor": "#E84225",
       "source": "https://www.capitalonline.net/templets/default/images/title-icon.ico",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
         "Fit curves to the orange CDS lettering in the official favicon. Preserve the horizontal bands; use the striped C for sidebar exports.",
@@ -6347,7 +6343,7 @@
       "website": "https://sf.163.com/",
       "brandColor": "#C0282D",
       "source": "https://nos.netease.com/cloud-website-bucket/202602051555382d6deb18-efae-4b5d-bd00-a47e6d622a5e.png",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
         "Trace the circular signal mark at the left of the official NetEase Shufan header; cross-check the shape against the product favicon."
@@ -6385,7 +6381,7 @@
       "website": "https://www.zzidc.com/",
       "brandColor": "#333333",
       "source": "https://libs.zzidc.com/zzidccom/images/common/logo.png",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
         "Reconstruct the three segments of the globe above the GAINET wordmark. Adapt the official white silhouette to charcoal on light backgrounds.",
@@ -6423,7 +6419,7 @@
       "website": "https://www.xinnet.com/",
       "brandColor": "#E60012",
       "source": "https://imgi.xinnet.com/static/xinnet/images/newIndex/logo.1a7a2e6.png",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
         "Isolate the red X, orbit and dot from the official header; fit their alpha contours and omit the black lettering."
@@ -6460,7 +6456,7 @@
       "website": "https://www.gystack.com/",
       "brandColor": "#0049FF",
       "source": "https://cdn.vpsor.cn/2.0/img/home/20210912_seo_logo.jpg",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
         "Rebuild the overlapping cyan and blue cloud lobes and the detached dot using the GYStack header artwork and vpsor.cn favicon.",
@@ -6497,7 +6493,7 @@
       "website": "https://www.iij.ad.jp/",
       "brandColor": "#595656",
       "source": "https://www.iij.ad.jp/favicon.ico",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
         "Reconstruct the two slab-serif I forms, hooked J and red dot from the official browser icon; retain the entire monogram.",
@@ -6536,7 +6532,7 @@
       "website": "https://cloud.hinet.net/",
       "brandColor": "#0065AC",
       "source": "https://www.cht.com.tw/home/eshop/-/media/web/images/logo/cht_logo.svg",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
         "Extract the striped round emblem from the operator’s official SVG. The hicloud portal header uses the same mark.",
@@ -6574,7 +6570,7 @@
       "website": "https://viettelidc.com.vn/",
       "brandColor": "#ED1B2F",
       "source": "https://portal.viettelidc.com.vn/img/Favicon-IDC.png",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
         "Reconstruct the single curved V from Viettel IDC’s customer portal icon; its rounded fold also appears in the portal header."
@@ -6608,7 +6604,7 @@
       "website": "https://www.biznetgio.com/",
       "brandColor": "#158B38",
       "source": "https://web-cms.biznetgio.com/uploads/Biznet_GIO_Logo_1_header_78e8b0eceb.webp",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
         "Redraw the isolated green B ribbon from the official Biznet GioCloud header and use a directional gradient for the folded surface.",

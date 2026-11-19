@@ -3,8 +3,25 @@ import { readFileSync, readdirSync } from 'node:fs'
 import { join } from 'node:path'
 import { DOMParser } from '@xmldom/xmldom'
 import { PNG } from 'pngjs'
-import { artPath, index, qualities, pngPath, read, sizes, svgPath } from './catalog.mjs'
+import { artPath, index, licenses, qualities, pngPath, read, sizes, svgPath } from './catalog.mjs'
 import { preview, readme } from './pages.mjs'
+
+const aliasOwners = new Map()
+const lookupKey = value => value.normalize('NFKC').toLowerCase().replace(/[\p{P}\s]/gu, '')
+function checkAliasOwner(value, slug) {
+  const key = lookupKey(value)
+  const owner = aliasOwners.get(key)
+  assert(!owner || owner === slug, `${slug}: "${value}" conflicts with an alias of ${owner}`)
+  return key
+}
+for (const { slug, aliases, license } of index.icons) {
+  assert(licenses.has(license), `${slug}: unrecognized license "${license}"`)
+  for (const alias of aliases) aliasOwners.set(checkAliasOwner(alias, slug), slug)
+}
+for (const { slug, name } of index.icons) {
+  checkAliasOwner(slug, slug)
+  checkAliasOwner(name, slug)
+}
 
 assert.deepEqual(JSON.parse(read('index.json')), index)
 assert.equal(read('README.md'), readme(index, read('src/readme.md')))
