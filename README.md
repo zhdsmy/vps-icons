@@ -155,6 +155,16 @@ Use PNG where the SVG variant list is empty. The index gives the original source
 | ![](png/color/24/strato.png) | STRATO · STRATO | [`strato`](svg/color/strato.svg) | — | vector | [↗](https://www.strato.de/_assets/img/svg/logo_strato_white_mobile.svg) |
 | ![](png/color/24/servers-com.png) | Servers.com · Servers.com | [`servers-com`](svg/color/servers-com.svg) | — | vector | [↗](https://www.servers.com/global/generated/assets/favicon.svg) |
 | ![](png/color/24/hostgator.png) | HostGator · HostGator | [`hostgator`](svg/color/hostgator.svg) | — | vector | [↗](https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/hostgator-icon.svg) |
+| ![](png/color/24/siteground.png) | SiteGround · SiteGround | [`siteground`](svg/color/siteground.svg) | [✓](svg/color-dark/siteground.svg) | vector | [↗](https://static-cdn.siteground.com/assets/img/svg/logos/sg_black.svg) |
+| ![](png/color/24/hosting-com.png) | hosting.com · hosting.com | [`hosting-com`](svg/color/hosting-com.svg) | [✓](svg/color-dark/hosting-com.svg) | vector | [↗](https://hosting.com/assets/brand/hosting-logo-on-dark.svg) |
+| ![](png/color/24/hostus.png) | HostUS · HostUS | [`hostus`](svg/color/hostus.svg) | [✓](svg/color-dark/hostus.svg) | vector | [↗](https://hostus.us/img/logo.svg) |
+| ![](png/color/24/webdock.png) | Webdock · Webdock | [`webdock`](svg/color/webdock.svg) | [✓](svg/color-dark/webdock.svg) | vector | [↗](https://webdock.io/__l5e/assets-v1/b754cb92-e545-492b-8c5f-a17bb9978f16/webdock-favicon.svg) |
+| ![](png/color/24/ruvds.png) | RUVDS · RUVDS | [`ruvds`](svg/color/ruvds.svg) | [✓](svg/color-dark/ruvds.svg) | vector | [↗](https://ruvds.com/img/ruvds-logo-w.svg?v=1) |
+| ![](png/color/24/firstvds.png) | FirstVDS · FirstVDS | [`firstvds`](svg/color/firstvds.svg) | — | vector | [↗](https://firstvds.ru/) |
+| ![](png/color/24/clouvider.png) | Clouvider · Clouvider | [`clouvider`](svg/color/clouvider.svg) | [✓](svg/color-dark/clouvider.svg) | vector | [↗](https://www.clouvider.com/resources/manifest/safari-pinned-tab.svg) |
+| ![](png/color/24/reg-ru.png) | REG.RU · REG.RU | [`reg-ru`](svg/color/reg-ru.svg) | [✓](svg/color-dark/reg-ru.svg) | vector | [↗](https://help.reg.ru/) |
+| ![](png/color/24/inmotion-hosting.png) | InMotion Hosting · InMotion Hosting | [`inmotion-hosting`](svg/color/inmotion-hosting.svg) | [✓](svg/color-dark/inmotion-hosting.svg) | redrawn | [↗](https://avatars.githubusercontent.com/u/7607996?v=4&s=512) |
+| ![](png/color/24/cloudsigma.png) | CloudSigma · CloudSigma | [`cloudsigma`](svg/color/cloudsigma.svg) | — | redrawn | [↗](https://avatars.githubusercontent.com/u/2410618?v=4&s=512) |
 
 ## 贡献 / Contributing
 

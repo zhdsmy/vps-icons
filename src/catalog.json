@@ -2311,5 +2311,252 @@
       "artwork": "Use the isolated brand symbol at 16 px.",
       "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/hostgator-icon.svg"
     }
+  },
+  {
+    "slug": "siteground",
+    "name": "SiteGround",
+    "names": {
+      "zh-CN": "SiteGround"
+    },
+    "aliases": [
+      "site ground"
+    ],
+    "website": "https://www.siteground.com",
+    "brandColor": "#96CB4C",
+    "source": "https://static-cdn.siteground.com/assets/img/svg/logos/sg_black.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Extract the green spiral and its central ring from the official logo. Reverse the dark ring on dark backgrounds.",
+      "Keep the central ring distinct in mono with a transparent gutter."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand symbol at 16 px.",
+      "source": "https://static-cdn.siteground.com/assets/img/svg/logos/sg_black.svg"
+    }
+  },
+  {
+    "slug": "hosting-com",
+    "name": "hosting.com",
+    "names": {
+      "zh-CN": "hosting.com"
+    },
+    "aliases": [
+      "a2 hosting",
+      "a2-hosting",
+      "a2hosting"
+    ],
+    "website": "https://hosting.com",
+    "brandColor": "#45F489",
+    "source": "https://hosting.com/assets/brand/hosting-logo-on-dark.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Isolate the current hosting.com symbol. Use the native charcoal ink on light surfaces and the green-to-lime favicon treatment on dark surfaces.",
+      "Palette reference: https://hosting.com/assets/brand/favicons/apple-touch-icon.png"
+    ],
+    "small": {
+      "artwork": "Use the isolated brand symbol at 16 px.",
+      "source": "https://hosting.com/assets/brand/hosting-logo-on-dark.svg"
+    }
+  },
+  {
+    "slug": "hostus",
+    "name": "HostUS",
+    "names": {
+      "zh-CN": "HostUS"
+    },
+    "aliases": [
+      "hostus.us"
+    ],
+    "website": "https://hostus.us",
+    "brandColor": "#F78D1E",
+    "source": "https://hostus.us/img/logo.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Isolate the orange and black server rack from the official header. Reverse the black ink on dark surfaces."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand symbol at 16 px.",
+      "source": "https://hostus.us/img/logo.svg"
+    }
+  },
+  {
+    "slug": "webdock",
+    "name": "Webdock",
+    "names": {
+      "zh-CN": "Webdock"
+    },
+    "aliases": [
+      "webdock.io"
+    ],
+    "website": "https://webdock.io",
+    "brandColor": "#182A37",
+    "source": "https://webdock.io/__l5e/assets-v1/b754cb92-e545-492b-8c5f-a17bb9978f16/webdock-favicon.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Separate the four official chevrons. Express the opacity fade on the two back strokes with solid inks at icon size."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand symbol at 16 px.",
+      "source": "https://webdock.io/__l5e/assets-v1/b754cb92-e545-492b-8c5f-a17bb9978f16/webdock-favicon.svg"
+    }
+  },
+  {
+    "slug": "ruvds",
+    "name": "RUVDS",
+    "names": {
+      "zh-CN": "RUVDS"
+    },
+    "aliases": [
+      "ru vds"
+    ],
+    "website": "https://ruvds.com",
+    "brandColor": "#1798CB",
+    "source": "https://ruvds.com/img/ruvds-logo-w.svg?v=1",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Center the original cloud-and-RU mark. Use brighter cyan on dark surfaces."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand symbol at 16 px.",
+      "source": "https://ruvds.com/img/ruvds-logo-w.svg?v=1"
+    }
+  },
+  {
+    "slug": "firstvds",
+    "name": "FirstVDS",
+    "names": {
+      "zh-CN": "FirstVDS"
+    },
+    "aliases": [
+      "first vds"
+    ],
+    "website": "https://firstvds.ru",
+    "brandColor": "#83B235",
+    "source": "https://firstvds.ru/",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Extract the green numbered hexagon and its superscript from the current inline header SVG."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand symbol at 16 px.",
+      "source": "https://firstvds.ru/"
+    }
+  },
+  {
+    "slug": "clouvider",
+    "name": "Clouvider",
+    "names": {
+      "zh-CN": "Clouvider"
+    },
+    "aliases": [
+      "clouvider cloud"
+    ],
+    "website": "https://www.clouvider.com",
+    "brandColor": "#211B43",
+    "source": "https://www.clouvider.com/resources/manifest/safari-pinned-tab.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Reverse the negative-space pinned-tab paths into the standalone mascot. Color its eyes from the official touch icon palette."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand symbol at 16 px.",
+      "source": "https://www.clouvider.com/resources/manifest/safari-pinned-tab.svg"
+    }
+  },
+  {
+    "slug": "reg-ru",
+    "name": "REG.RU",
+    "names": {
+      "zh-CN": "REG.RU"
+    },
+    "aliases": [
+      "reg.ru",
+      "рег.ру"
+    ],
+    "website": "https://www.reg.ru",
+    "brandColor": "#1264ED",
+    "source": "https://help.reg.ru/",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Lift the leading Cyrillic Р from the current Рег.ру help-center wordmark and center the glyph."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand symbol at 16 px.",
+      "source": "https://help.reg.ru/"
+    }
+  },
+  {
+    "slug": "inmotion-hosting",
+    "name": "InMotion Hosting",
+    "names": {
+      "zh-CN": "InMotion Hosting"
+    },
+    "aliases": [
+      "inmotion"
+    ],
+    "website": "https://www.inmotionhosting.com",
+    "brandColor": "#C42227",
+    "source": "https://avatars.githubusercontent.com/u/7607996?v=4&s=512",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Reconstruct the two separated red speed lines against the official transparent GitHub avatar. Keep their common narrow tip.",
+      "Apply a 1.7× vertical optical adjustment for 16–32 px."
+    ],
+    "small": {
+      "artwork": "Increase the vertical scale of the two red streaks for 16–32 px.",
+      "source": "https://avatars.githubusercontent.com/u/7607996?v=4&s=512"
+    },
+    "smallMax": 32
+  },
+  {
+    "slug": "cloudsigma",
+    "name": "CloudSigma",
+    "names": {
+      "zh-CN": "CloudSigma"
+    },
+    "aliases": [
+      "cloud sigma"
+    ],
+    "website": "https://www.cloudsigma.com",
+    "brandColor": "#018440",
+    "source": "https://avatars.githubusercontent.com/u/2410618?v=4&s=512",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Reconstruct both interlocking green angular bands against the provider-linked GitHub avatar and remove the white field."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand symbol at 16 px.",
+      "source": "https://avatars.githubusercontent.com/u/2410618?v=4&s=512"
+    }
   }
 ]
