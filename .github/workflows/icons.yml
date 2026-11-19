@@ -12,5 +12,11 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci && npm run build && npm run check
-      - name: Verify generated files are committed
-        run: test -z "$(git status --porcelain --untracked-files=all)"
+      - name: Verify generated files are in sync
+        run: |
+          if [ -n "$(git status --porcelain --untracked-files=all)" ]; then
+            git status --short
+            git diff --stat
+            echo "Generated files are out of sync. Run 'npm run build' and commit the results."
+            exit 1
+          fi
