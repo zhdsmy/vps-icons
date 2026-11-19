@@ -3512,5 +3512,258 @@
       "source": "https://avatars.githubusercontent.com/u/7524527?v=4&s=512"
     },
     "smallMax": 32
+  },
+  {
+    "slug": "inspur-cloud",
+    "name": "Inspur Cloud",
+    "names": {
+      "zh-CN": "浪潮云"
+    },
+    "aliases": [
+      "inspur",
+      "langchaoyun"
+    ],
+    "website": "https://cloud.inspur.com/",
+    "brandColor": "#0D48CE",
+    "source": "https://cloud.inspur.com/cn/template/images/favicon.svg",
+    "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Isolate the brand mark from the official vector and center its visible bounds on a 64-unit canvas."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand mark at sidebar sizes.",
+      "source": "https://cloud.inspur.com/cn/template/images/favicon.svg"
+    }
+  },
+  {
+    "slug": "webarena",
+    "name": "WebARENA",
+    "names": {
+      "zh-CN": "NTT WebARENA"
+    },
+    "aliases": [
+      "webarena",
+      "NTTPC"
+    ],
+    "website": "https://web.arena.ne.jp/",
+    "brandColor": "#5B4E8B",
+    "source": "https://web.arena.ne.jp/images/ico_logo_default.svg",
+    "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Isolate the brand mark from the official vector and center its visible bounds on a 64-unit canvas."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand mark at sidebar sizes.",
+      "source": "https://web.arena.ne.jp/images/ico_logo_default.svg"
+    }
+  },
+  {
+    "slug": "gabia",
+    "name": "Gabia",
+    "names": {
+      "zh-CN": "Gabia"
+    },
+    "aliases": [
+      "가비아",
+      "gabia"
+    ],
+    "website": "https://www.gabia.com/",
+    "brandColor": "#060708",
+    "source": "https://static.gabia.com/www/common/img/logo.svg",
+    "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Center the original wordmark in the standard master; isolate the leading letter for sidebar sizes."
+    ],
+    "small": {
+      "artwork": "Use the native first letter through 32 px, following the official favicon.",
+      "source": "https://static.gabia.com/www/common/img/logo.svg"
+    },
+    "smallMax": 32
+  },
+  {
+    "slug": "cafe24",
+    "name": "Cafe24",
+    "names": {
+      "zh-CN": "Cafe24"
+    },
+    "aliases": [
+      "카페24",
+      "cafe24"
+    ],
+    "website": "https://hosting.cafe24.com/",
+    "brandColor": "#084FFF",
+    "source": "https://img.cafe24.com/images/common/cafe24.svg",
+    "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Center the original wordmark in the standard master; isolate the leading letter for sidebar sizes."
+    ],
+    "small": {
+      "artwork": "Use the native first letter through 32 px, following the official favicon.",
+      "source": "https://img.cafe24.com/images/common/cafe24.svg"
+    },
+    "smallMax": 32
+  },
+  {
+    "slug": "bizfly-cloud",
+    "name": "BizFly Cloud",
+    "names": {
+      "zh-CN": "BizFly Cloud"
+    },
+    "aliases": [
+      "bizfly",
+      "vccorp"
+    ],
+    "website": "https://bizflycloud.vn/",
+    "brandColor": "#250368",
+    "source": "https://bizflycloud.vn/logo/bizfly-cloud.svg",
+    "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Select the four paper-plane paths above the wordmark. Keep an open crease in the monochrome silhouette."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand mark at sidebar sizes.",
+      "source": "https://bizflycloud.vn/logo/bizfly-cloud.svg"
+    }
+  },
+  {
+    "slug": "idcloudhost",
+    "name": "IDCloudHost",
+    "names": {
+      "zh-CN": "IDCloudHost"
+    },
+    "aliases": [
+      "idch",
+      "idcloudhost"
+    ],
+    "website": "https://idcloudhost.com/",
+    "brandColor": "#2683FF",
+    "source": "https://console.idcloudhost.com/app/favicon.svg",
+    "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Retain the original console favicon tile and white cloud. Use the isolated cloud silhouette in monochrome."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand mark at sidebar sizes.",
+      "source": "https://console.idcloudhost.com/app/favicon.svg"
+    }
+  },
+  {
+    "slug": "exabytes",
+    "name": "Exabytes",
+    "names": {
+      "zh-CN": "Exabytes"
+    },
+    "aliases": [
+      "exabytes malaysia",
+      "exabytes"
+    ],
+    "website": "https://www.exabytes.my/",
+    "brandColor": "#0066CC",
+    "source": "https://www.exabytes.com/images/freshdesk/logo-exabytes-grow-ai.svg",
+    "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Extract the three hexagonal e emblem paths to the left of the support logo. Retain the letter counter in monochrome."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand mark at sidebar sizes.",
+      "source": "https://www.exabytes.com/images/freshdesk/logo-exabytes-grow-ai.svg"
+    }
+  },
+  {
+    "slug": "nipa-cloud",
+    "name": "NIPA Cloud",
+    "names": {
+      "zh-CN": "NIPA Cloud"
+    },
+    "aliases": [
+      "nipa",
+      "nipa cloud"
+    ],
+    "website": "https://nipa.cloud/",
+    "brandColor": "#E91E76",
+    "source": "https://nipa.cloud/_next/static/media/base-N-logo.ccc7391f.svg",
+    "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Isolate the brand mark from the official vector and center its visible bounds on a 64-unit canvas."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand mark at sidebar sizes.",
+      "source": "https://nipa.cloud/_next/static/media/base-N-logo.ccc7391f.svg"
+    }
+  },
+  {
+    "slug": "unisyscloud",
+    "name": "Unicloud",
+    "names": {
+      "zh-CN": "紫光云"
+    },
+    "aliases": [
+      "unicloud",
+      "紫光云",
+      "ziguangyun"
+    ],
+    "website": "https://www.unicloud.com/",
+    "brandColor": "#9F0087",
+    "source": "https://www.unicloud.com/upload/images/2024/7/1fd82770e622c26c.png",
+    "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Reconstruct the two interlocking rounded frames and central diagonal from the official header and favicon."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand mark at sidebar sizes.",
+      "source": "https://www.unicloud.com/upload/images/2024/7/1fd82770e622c26c.png"
+    }
+  },
+  {
+    "slug": "e2e-networks",
+    "name": "E2E Networks",
+    "names": {
+      "zh-CN": "E2E Networks"
+    },
+    "aliases": [
+      "e2e",
+      "e2e networks"
+    ],
+    "website": "https://www.e2enetworks.com/",
+    "brandColor": "#3E9DD6",
+    "source": "https://www.e2enetworks.com/e2e-cloud-logo.png",
+    "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Redraw the cloud outline and the three rectilinear E2E characters from the official cloud header."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand mark at sidebar sizes.",
+      "source": "https://www.e2enetworks.com/e2e-cloud-logo.png"
+    }
   }
 ]

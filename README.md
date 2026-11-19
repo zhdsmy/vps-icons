@@ -203,6 +203,16 @@ Use PNG where the SVG variant list is empty. The index gives the original source
 | ![](png/color/24/servarica.png) | ServaRICA · ServaRICA | [`servarica`](svg/color/servarica.svg) | [✓](svg/color-dark/servarica.svg) | redrawn | [↗](https://servarica.com/logo-icon.png) |
 | ![](png/color/24/krypt.png) | Krypt · Krypt | [`krypt`](svg/color/krypt.svg) | — | redrawn | [↗](https://www.linkedin.com/showcase/kryptcom/) |
 | ![](png/color/24/beget.png) | Beget · Beget | [`beget`](svg/color/beget.svg) | — | redrawn | [↗](https://avatars.githubusercontent.com/u/7524527?v=4&s=512) |
+| ![](png/color/24/inspur-cloud.png) | Inspur Cloud · 浪潮云 | [`inspur-cloud`](svg/color/inspur-cloud.svg) | [✓](svg/color-dark/inspur-cloud.svg) | vector | [↗](https://cloud.inspur.com/cn/template/images/favicon.svg) |
+| ![](png/color/24/webarena.png) | WebARENA · NTT WebARENA | [`webarena`](svg/color/webarena.svg) | [✓](svg/color-dark/webarena.svg) | vector | [↗](https://web.arena.ne.jp/images/ico_logo_default.svg) |
+| ![](png/color/24/gabia.png) | Gabia · Gabia | [`gabia`](svg/color/gabia.svg) | [✓](svg/color-dark/gabia.svg) | vector | [↗](https://static.gabia.com/www/common/img/logo.svg) |
+| ![](png/color/24/cafe24.png) | Cafe24 · Cafe24 | [`cafe24`](svg/color/cafe24.svg) | [✓](svg/color-dark/cafe24.svg) | vector | [↗](https://img.cafe24.com/images/common/cafe24.svg) |
+| ![](png/color/24/bizfly-cloud.png) | BizFly Cloud · BizFly Cloud | [`bizfly-cloud`](svg/color/bizfly-cloud.svg) | [✓](svg/color-dark/bizfly-cloud.svg) | vector | [↗](https://bizflycloud.vn/logo/bizfly-cloud.svg) |
+| ![](png/color/24/idcloudhost.png) | IDCloudHost · IDCloudHost | [`idcloudhost`](svg/color/idcloudhost.svg) | — | vector | [↗](https://console.idcloudhost.com/app/favicon.svg) |
+| ![](png/color/24/exabytes.png) | Exabytes · Exabytes | [`exabytes`](svg/color/exabytes.svg) | — | vector | [↗](https://www.exabytes.com/images/freshdesk/logo-exabytes-grow-ai.svg) |
+| ![](png/color/24/nipa-cloud.png) | NIPA Cloud · NIPA Cloud | [`nipa-cloud`](svg/color/nipa-cloud.svg) | — | vector | [↗](https://nipa.cloud/_next/static/media/base-N-logo.ccc7391f.svg) |
+| ![](png/color/24/unisyscloud.png) | Unicloud · 紫光云 | [`unisyscloud`](svg/color/unisyscloud.svg) | [✓](svg/color-dark/unisyscloud.svg) | redrawn | [↗](https://www.unicloud.com/upload/images/2024/7/1fd82770e622c26c.png) |
+| ![](png/color/24/e2e-networks.png) | E2E Networks · E2E Networks | [`e2e-networks`](svg/color/e2e-networks.svg) | [✓](svg/color-dark/e2e-networks.svg) | redrawn | [↗](https://www.e2enetworks.com/e2e-cloud-logo.png) |
 
 ## 贡献 / Contributing
 
