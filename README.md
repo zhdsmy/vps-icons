@@ -228,6 +228,16 @@ Use PNG where the SVG variant list is empty. The index gives the original source
 | ![](png/color/24/nocix.png) | Nocix · Nocix | [`nocix`](svg/color/nocix.svg) | [✓](svg/color-dark/nocix.svg) | redrawn | [↗](https://www.google.com/s2/favicons?domain=nocix.net&sz=256) |
 | ![](png/color/24/kimsufi.png) | Kimsufi · Kimsufi | [`kimsufi`](svg/color/kimsufi.svg) | [✓](svg/color-dark/kimsufi.svg) | vector | [↗](https://www.kimsufi.com/components/kimsufi/header.6c21aa24/logo.svg) |
 | ![](png/color/24/soyoustart.png) | So you Start · So you Start | [`soyoustart`](svg/color/soyoustart.svg) | [✓](svg/color-dark/soyoustart.svg) | vector | [↗](https://www.soyoustart.com/7af16cdb/contrib/ovh_theme_patternlab/images/logos/soYouStart_logo.svg) |
+| ![](png/color/24/100tb.png) | 100TB · 100TB | [`100tb`](svg/color/100tb.svg) | — | vector | [↗](https://100tb.io/favicons/sakura.svg) |
+| ![](png/color/24/vollcloud.png) | VollCloud · VollCloud | [`vollcloud`](svg/color/vollcloud.svg) | [✓](svg/color-dark/vollcloud.svg) | vector | [↗](https://vollcloud.com/templates/voll/includes/ws/images/logo.svg) |
+| ![](png/color/24/terabix.png) | Terabix · Terabix | [`terabix`](svg/color/terabix.svg) | [✓](svg/color-dark/terabix.svg) | vector | [↗](https://terabix.net/wp-content/uploads/2023/09/Asset-2.svg) |
+| ![](png/color/24/ipraft.png) | iPRaft · iPRaft | [`ipraft`](svg/color/ipraft.svg) | — | vector | [↗](https://ipraft.com/) |
+| ![](png/color/24/cubecloud.png) | CubeCloud · 魔方云 | [`cubecloud`](svg/color/cubecloud.svg) | [✓](svg/color-dark/cubecloud.svg) | vector | [↗](https://www.cubecloud.net/) |
+| ![](png/color/24/onidel.png) | Onidel · Onidel | [`onidel`](svg/color/onidel.svg) | [✓](svg/color-dark/onidel.svg) | vector | [↗](https://onidel.com/onidel-logo-dark.svg) |
+| ![](png/color/24/raksmart.png) | RAKsmart · RAKsmart | [`raksmart`](svg/color/raksmart.svg) | — | redrawn | [↗](https://cn.raksmart.com/static/images/logo3.png) |
+| ![](png/color/24/orangevps.png) | OrangeVPS · OrangeVPS | [`orangevps`](svg/color/orangevps.svg) | — | redrawn | [↗](https://orangevps.com/wp-content/uploads/2026/06/cropped-IMG_3369-180x180.png) |
+| ![](png/color/24/tnahosting.png) | TNAHosting · TNAHosting | [`tnahosting`](svg/color/tnahosting.svg) | [✓](svg/color-dark/tnahosting.svg) | redrawn | [↗](https://tnahosting.net/wp-content/uploads/2025/10/cropped-favicon-192x192.png) |
+| ![](png/color/24/ethernet-servers.png) | Ethernet Servers · Ethernet Servers | [`ethernet-servers`](svg/color/ethernet-servers.svg) | [✓](svg/color-dark/ethernet-servers.svg) | redrawn | [↗](https://www.ethernetservers.com/templates/lagom2/assets/img/favicons/favicon-192.png) |
 
 ## 贡献 / Contributing
 

@@ -5855,6 +5855,351 @@
           "mono-white"
         ]
       }
+    },
+    {
+      "slug": "100tb",
+      "name": "100TB",
+      "names": {
+        "zh-CN": "100TB"
+      },
+      "aliases": [
+        "100tb.io"
+      ],
+      "website": "https://100tb.io",
+      "brandColor": "#3B5DE7",
+      "source": "https://100tb.io/favicons/sakura.svg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Keep the official blue favicon tile and white cloud. Use the cloud contour alone for mono."
+      ],
+      "small": {
+        "artwork": "Use the standalone brand mark at 16 px.",
+        "source": "https://100tb.io/favicons/sakura.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "vollcloud",
+      "name": "VollCloud",
+      "names": {
+        "zh-CN": "VollCloud"
+      },
+      "aliases": [
+        "vollcloud.com"
+      ],
+      "website": "https://vollcloud.com",
+      "brandColor": "#145AFF",
+      "source": "https://vollcloud.com/templates/voll/includes/ws/images/logo.svg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Isolate the open cloud and checkmark from the provider wordmark."
+      ],
+      "small": {
+        "artwork": "Use the standalone brand mark at 16 px.",
+        "source": "https://vollcloud.com/templates/voll/includes/ws/images/logo.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "terabix",
+      "name": "Terabix",
+      "names": {
+        "zh-CN": "Terabix"
+      },
+      "aliases": [
+        "terabix.net"
+      ],
+      "website": "https://terabix.net",
+      "brandColor": "#143CF3",
+      "source": "https://terabix.net/wp-content/uploads/2023/09/Asset-2.svg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Keep all four blue pieces of the official T emblem from the site header."
+      ],
+      "small": {
+        "artwork": "Use the standalone brand mark at 16 px.",
+        "source": "https://terabix.net/wp-content/uploads/2023/09/Asset-2.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "ipraft",
+      "name": "iPRaft",
+      "names": {
+        "zh-CN": "iPRaft"
+      },
+      "aliases": [
+        "ip raft"
+      ],
+      "website": "https://ipraft.com",
+      "brandColor": "#3BB842",
+      "source": "https://ipraft.com/",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Center the four squares from the live navigation mark, preserving both greens."
+      ],
+      "small": {
+        "artwork": "Use the standalone brand mark at 16 px.",
+        "source": "https://ipraft.com/"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "cubecloud",
+      "name": "CubeCloud",
+      "names": {
+        "zh-CN": "魔方云"
+      },
+      "aliases": [
+        "魔方云",
+        "mofangyun"
+      ],
+      "website": "https://www.cubecloud.net",
+      "brandColor": "#F59B09",
+      "source": "https://www.cubecloud.net/",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Keep the two paths of the header cube, using the orange right face from the official touch icon.",
+        "Color reference: https://www.cubecloud.net/templates/cubecloud/assets/img/favicon/180.png?v=425420d0"
+      ],
+      "small": {
+        "artwork": "Use the standalone brand mark at 16 px.",
+        "source": "https://www.cubecloud.net/"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "onidel",
+      "name": "Onidel",
+      "names": {
+        "zh-CN": "Onidel"
+      },
+      "aliases": [
+        "onidel cloud"
+      ],
+      "website": "https://onidel.com",
+      "brandColor": "#FF4B4B",
+      "source": "https://onidel.com/onidel-logo-dark.svg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Lift the two sloped rounded layers from the brand lockup. Use the leading layer for the standalone monochrome shape."
+      ],
+      "small": {
+        "artwork": "Use the standalone brand mark at 16 px.",
+        "source": "https://onidel.com/onidel-logo-dark.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "raksmart",
+      "name": "RAKsmart",
+      "names": {
+        "zh-CN": "RAKsmart"
+      },
+      "aliases": [
+        "raksmart.com"
+      ],
+      "website": "https://www.raksmart.com",
+      "brandColor": "#FF5500",
+      "source": "https://cn.raksmart.com/static/images/logo3.png",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "redrawn",
+      "processing": [
+        "Rebuild the stacked angular ribbons of the domain favicon with their two orange inks."
+      ],
+      "small": {
+        "artwork": "Use the standalone brand mark at 16 px.",
+        "source": "https://cn.raksmart.com/static/images/logo3.png"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "orangevps",
+      "name": "OrangeVPS",
+      "names": {
+        "zh-CN": "OrangeVPS"
+      },
+      "aliases": [
+        "orangevps.com"
+      ],
+      "website": "https://orangevps.com",
+      "brandColor": "#FC5000",
+      "source": "https://orangevps.com/wp-content/uploads/2026/06/cropped-IMG_3369-180x180.png",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "redrawn",
+      "processing": [
+        "Trace the three diagonal strokes and detached dot from the official touch icon."
+      ],
+      "small": {
+        "artwork": "Use the standalone brand mark at 16 px.",
+        "source": "https://orangevps.com/wp-content/uploads/2026/06/cropped-IMG_3369-180x180.png"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "tnahosting",
+      "name": "TNAHosting",
+      "names": {
+        "zh-CN": "TNAHosting"
+      },
+      "aliases": [
+        "tna hosting"
+      ],
+      "website": "https://tnahosting.net",
+      "brandColor": "#C3262E",
+      "source": "https://tnahosting.net/wp-content/uploads/2025/10/cropped-favicon-192x192.png",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "redrawn",
+      "processing": [
+        "Reconstruct the two-color globe from the site icon, leaving the latitude and longitude gaps transparent."
+      ],
+      "small": {
+        "artwork": "Use the standalone brand mark at 16 px.",
+        "source": "https://tnahosting.net/wp-content/uploads/2025/10/cropped-favicon-192x192.png"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "ethernet-servers",
+      "name": "Ethernet Servers",
+      "names": {
+        "zh-CN": "Ethernet Servers"
+      },
+      "aliases": [
+        "ethernetservers"
+      ],
+      "website": "https://www.ethernetservers.com",
+      "brandColor": "#328FE4",
+      "source": "https://www.ethernetservers.com/templates/lagom2/assets/img/favicons/favicon-192.png",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "redrawn",
+      "processing": [
+        "Rebuild the standalone three-tier server E of the site icon. Use the stronger header blue on light backgrounds.",
+        "Header color reference: https://www.ethernetservers.com/templates/lagom2/assets/img/logo/logo_big.944106186.png"
+      ],
+      "small": {
+        "artwork": "Use the standalone brand mark at 16 px.",
+        "source": "https://www.ethernetservers.com/templates/lagom2/assets/img/favicons/favicon-192.png"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
     }
   ]
 }
