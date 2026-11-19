@@ -115,6 +115,16 @@ Use PNG where the SVG variant list is empty. The index gives the original source
 | ![](png/color/24/relay.png) | Relay · 中转 | [`relay`](svg/color/relay.svg) | [✓](svg/color-dark/relay.svg) | vector | [↗](src/art/relay/mono.svg) |
 | ![](png/color/24/other.png) | Other · 其他 | [`other`](svg/color/other.svg) | [✓](svg/color-dark/other.svg) | vector | [↗](src/art/other/mono.svg) |
 | ![](png/color/24/unknown.png) | Unknown · 未知厂商 | [`unknown`](svg/color/unknown.svg) | [✓](svg/color-dark/unknown.svg) | vector | [↗](src/art/unknown/mono.svg) |
+| ![](png/color/24/render.png) | Render · Render | [`render`](svg/color/render.svg) | [✓](svg/color-dark/render.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/render.svg) |
+| ![](png/color/24/railway.png) | Railway · Railway | [`railway`](svg/color/railway.svg) | [✓](svg/color-dark/railway.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/railway.svg) |
+| ![](png/color/24/heroku.png) | Heroku · Heroku | [`heroku`](svg/color/heroku.svg) | [✓](svg/color-dark/heroku.svg) | vector | [↗](https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/heroku-icon.svg) |
+| ![](png/color/24/netlify.png) | Netlify · Netlify | [`netlify`](svg/color/netlify.svg) | [✓](svg/color-dark/netlify.svg) | vector | [↗](https://www.netlify.com/favicon/v2/icon.svg) |
+| ![](png/color/24/fastly.png) | Fastly · Fastly | [`fastly`](svg/color/fastly.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/fastly.svg) |
+| ![](png/color/24/gcore.png) | Gcore · Gcore | [`gcore`](svg/color/gcore.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/gcore.svg) |
+| ![](png/color/24/godaddy.png) | GoDaddy · GoDaddy | [`godaddy`](svg/color/godaddy.svg) | [✓](svg/color-dark/godaddy.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/godaddy.svg) |
+| ![](png/color/24/backblaze.png) | Backblaze · Backblaze | [`backblaze`](svg/color/backblaze.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/backblaze.svg) |
+| ![](png/color/24/wasabi.png) | Wasabi · Wasabi | [`wasabi`](svg/color/wasabi.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/wasabi.svg) |
+| ![](png/color/24/yandex-cloud.png) | Yandex Cloud · Yandex 云 | [`yandex-cloud`](svg/color/yandex-cloud.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/yandexcloud.svg) |
 
 ## 贡献 / Contributing
 

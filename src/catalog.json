@@ -1364,5 +1364,247 @@
       "artwork": "Use the primary graphic mark at 16 px.",
       "source": "src/art/unknown/mono.svg"
     }
+  },
+  {
+    "slug": "render",
+    "name": "Render",
+    "names": {
+      "zh-CN": "Render"
+    },
+    "aliases": [
+      "render.com"
+    ],
+    "website": "https://render.com",
+    "brandColor": "#000000",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/render.svg",
+    "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Center the Simple Icons symbol with optical padding. Use different inks on light and dark surfaces."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand symbol at 16 px.",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/render.svg"
+    }
+  },
+  {
+    "slug": "railway",
+    "name": "Railway",
+    "names": {
+      "zh-CN": "Railway"
+    },
+    "aliases": [
+      "railway.app"
+    ],
+    "website": "https://railway.com",
+    "brandColor": "#0B0D0E",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/railway.svg",
+    "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Center the Simple Icons symbol with optical padding. Use different inks on light and dark surfaces."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand symbol at 16 px.",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/railway.svg"
+    }
+  },
+  {
+    "slug": "heroku",
+    "name": "Heroku",
+    "names": {
+      "zh-CN": "Heroku"
+    },
+    "aliases": [
+      "heroku cloud"
+    ],
+    "website": "https://www.heroku.com",
+    "brandColor": "#430098",
+    "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/heroku-icon.svg",
+    "license": "CC0-1.0 (SVG Logos collection); brand rights reserved",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Retain the complete outlined badge. Use light lavender ink on dark surfaces."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand symbol at 16 px.",
+      "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/heroku-icon.svg"
+    }
+  },
+  {
+    "slug": "netlify",
+    "name": "Netlify",
+    "names": {
+      "zh-CN": "Netlify"
+    },
+    "aliases": [
+      "netlify hosting"
+    ],
+    "website": "https://www.netlify.com",
+    "brandColor": "#131619",
+    "source": "https://www.netlify.com/favicon/v2/icon.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Separate the official adaptive favicon into its light and dark inks, drop the common translation and center the four paths."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand symbol at 16 px.",
+      "source": "https://www.netlify.com/favicon/v2/icon.svg"
+    }
+  },
+  {
+    "slug": "fastly",
+    "name": "Fastly",
+    "names": {
+      "zh-CN": "Fastly"
+    },
+    "aliases": [
+      "fastly cdn"
+    ],
+    "website": "https://www.fastly.com",
+    "brandColor": "#FF282D",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/fastly.svg",
+    "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Center the Simple Icons symbol with optical padding. Apply the collection brand color."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand symbol at 16 px.",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/fastly.svg"
+    }
+  },
+  {
+    "slug": "gcore",
+    "name": "Gcore",
+    "names": {
+      "zh-CN": "Gcore"
+    },
+    "aliases": [
+      "g-core labs",
+      "gcore cloud"
+    ],
+    "website": "https://gcore.com",
+    "brandColor": "#FF4C00",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/gcore.svg",
+    "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Center the Simple Icons symbol with optical padding. Apply the collection brand color."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand symbol at 16 px.",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/gcore.svg"
+    }
+  },
+  {
+    "slug": "godaddy",
+    "name": "GoDaddy",
+    "names": {
+      "zh-CN": "GoDaddy"
+    },
+    "aliases": [
+      "go daddy"
+    ],
+    "website": "https://www.godaddy.com",
+    "brandColor": "#1BDBDB",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/godaddy.svg",
+    "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Center the Simple Icons symbol with optical padding. Use different inks on light and dark surfaces."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand symbol at 16 px.",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/godaddy.svg"
+    }
+  },
+  {
+    "slug": "backblaze",
+    "name": "Backblaze",
+    "names": {
+      "zh-CN": "Backblaze"
+    },
+    "aliases": [
+      "backblaze b2"
+    ],
+    "website": "https://www.backblaze.com",
+    "brandColor": "#E21E29",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/backblaze.svg",
+    "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Center the Simple Icons symbol with optical padding. Apply the collection brand color."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand symbol at 16 px.",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/backblaze.svg"
+    }
+  },
+  {
+    "slug": "wasabi",
+    "name": "Wasabi",
+    "names": {
+      "zh-CN": "Wasabi"
+    },
+    "aliases": [
+      "wasabi cloud storage"
+    ],
+    "website": "https://wasabi.com",
+    "brandColor": "#01CD3E",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/wasabi.svg",
+    "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Center the Simple Icons symbol with optical padding. Apply the collection brand color."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand symbol at 16 px.",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/wasabi.svg"
+    }
+  },
+  {
+    "slug": "yandex-cloud",
+    "name": "Yandex Cloud",
+    "names": {
+      "zh-CN": "Yandex 云"
+    },
+    "aliases": [
+      "yandexcloud",
+      "yandex cloud"
+    ],
+    "website": "https://yandex.cloud",
+    "brandColor": "#5282FF",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/yandexcloud.svg",
+    "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Center the Simple Icons symbol with optical padding. Apply the collection brand color."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand symbol at 16 px.",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/yandexcloud.svg"
+    }
   }
 ]
