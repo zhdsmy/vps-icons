@@ -174,11 +174,12 @@
       "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
       "quality": "vector",
       "processing": [
-        "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+        "Keep the native cloud-and-rays mark at 32 px+ and add a stroke-reinforced 16/24 px small variant so the cloud outline and sun rays stay legible at small sizes."
       ],
       "small": {
-        "artwork": "Use the primary graphic mark at 16 px.",
-        "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/ibmcloud.svg"
+        "artwork": "Use the stroke-reinforced cloud-and-rays mark at 16 and 24 px.",
+        "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/ibmcloud.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -354,19 +355,22 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Extract the five paths of the graphic mark from the official header SVG."
+        "Keep the native infinity-cloud mark, add a brightened red color-dark variant for dark backgrounds, and add a stroke-reinforced 16/24 px small variant."
       ],
       "small": {
-        "artwork": "Use the primary graphic mark at 16 px.",
-        "source": "https://img1.jcloudcs.com/portal/header/jdcloud-logo-2021.svg"
+        "artwork": "Use the stroke-reinforced infinity mark at 16 and 24 px.",
+        "source": "https://img1.jcloudcs.com/portal/header/jdcloud-logo-2021.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -564,7 +568,7 @@
       "license": "CC0-1.0 (SVG Logos collection); brand rights reserved",
       "quality": "vector",
       "processing": [
-        "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+        "Keep the native isometric stacked-cube mark, replace the washed-out single-hue color-dark with vivid two-tone greens and mint edges, and convert monochrome to solid-ink facets without gray opacity."
       ],
       "small": {
         "artwork": "Use the primary graphic mark at 16 px.",
@@ -745,11 +749,12 @@
       "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
       "quality": "vector",
       "processing": [
-        "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+        "Center the native looped ribbon cleanly within 94% width and add an optically taller, bolder 16/24 px small variant for crisp sidebar legibility."
       ],
       "small": {
-        "artwork": "Use the primary graphic mark at 16 px.",
-        "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/upcloud.svg"
+        "artwork": "Use the optically taller, bolder looped-ribbon mark at 16 and 24 px.",
+        "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/upcloud.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -780,11 +785,12 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+        "Isolate the native three-ring cloud mark, slightly deepen the amber ring for light-background contrast, and add a bolder apple-touch-icon-weight 16/24 px small variant."
       ],
       "small": {
-        "artwork": "Use the primary graphic mark at 16 px.",
-        "source": "https://cdn.contabo.com/contabo-logo-2.svg"
+        "artwork": "Use the optically thickened three-ring cloud at 16 and 24 px.",
+        "source": "https://cdn.contabo.com/contabo-logo-2.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -849,12 +855,12 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters.",
-        "Header vector with blue sampled from the official site icon."
+        "Reconstruct the native 3-tier isometric diamond stack with opaque single/overlap brand blues matching Kamatera logo.png (removing washed-out 0.5 opacity), a solid-ink stacked-tier monochrome mark, and a bolder 16/24 px small variant."
       ],
       "small": {
-        "artwork": "Use the primary graphic mark at 16 px.",
-        "source": "https://www.kamatera.com/wp-content/themes/kamatera/images/Group%20666.svg"
+        "artwork": "Use the bolder 3-tier isometric stack at 16 and 24 px.",
+        "source": "https://www.kamatera.com/wp-content/themes/kamatera/images/Group%20666.svg",
+        "maxSize": 24
       },
       "paletteSource": "https://www.kamatera.com/wp-content/uploads/cropped-cropped-06169472-7db8-4ba3-91f6-3b4e34b5e168-1.png",
       "variants": {
@@ -995,11 +1001,12 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+        "Keep the native hatching-servers-in-egg geometry with strengthened cool-silver eggshell contrast on light backgrounds, opaque tones in color-dark, a solid-ink cracked-egg monochrome silhouette, and a simplified 16/24 px small variant."
       ],
       "small": {
-        "artwork": "Use the primary graphic mark at 16 px.",
-        "source": "https://hosthatch.com/images/favicon.svg"
+        "artwork": "Use the simplified wider hatching-egg mark with bolder vents at 16 and 24 px.",
+        "source": "https://hosthatch.com/images/favicon.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -1428,7 +1435,7 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+        "Keep the native blue gradient ring and replace the translucent monochrome variant with a solid-ink cutout swirl ring."
       ],
       "small": {
         "artwork": "Use the primary graphic mark at 16 px.",
@@ -1462,7 +1469,7 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+        "Keep the native layered shield mark, add a brightened cyan-blue color-dark variant, and remove opacity shading from monochrome so the concentric shields render cleanly."
       ],
       "small": {
         "artwork": "Use the primary graphic mark at 16 px.",
@@ -1471,10 +1478,12 @@
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -1496,7 +1505,7 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+        "Isolate the native 3-wave mark on the 64-unit viewBox; set the middle wave to Evoxt brand navy (#2B3A67) on light backgrounds and #FFFFFF in color-dark so all three waves stay legible on both themes."
       ],
       "small": {
         "artwork": "Use the primary graphic mark at 16 px.",
@@ -1505,10 +1514,12 @@
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -1634,19 +1645,22 @@
       "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
       "quality": "vector",
       "processing": [
-        "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+        "Keep the native striped triangle at 32 px+, add a brightened coral-red color-dark variant, and provide a wider-slit 16/24 px small variant to eliminate checkerboard moire."
       ],
       "small": {
-        "artwork": "Use the primary graphic mark at 16 px.",
-        "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/exoscale.svg"
+        "artwork": "Use the wider-slit striped triangle at 16 and 24 px to prevent moire.",
+        "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/exoscale.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
