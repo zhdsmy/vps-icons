@@ -2104,9 +2104,9 @@
         "Isolate the original graphic mark and center its visible bounds on the 64-unit canvas."
       ],
       "small": {
-        "artwork": "Retain seven original ribbons and reinforce the six fine lines for the 16 and 24 px PNGs.",
         "source": "https://www.kagoya.jp/app/themes/kagoya/assets/img/common/logo/mark.svg",
-        "maxSize": 24
+        "artwork": "Retain five native ribbons, reinforce the two flanks on each side and expand the height for 16, 24 and 32 px.",
+        "maxSize": 32
       },
       "variants": {
         "svg": [
@@ -2238,7 +2238,8 @@
       "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
       "quality": "raster",
       "processing": [
-        "Isolate the sun, cloud and rain from the transparent header. Separate the sun and cloud contours in the monochrome mask."
+        "Isolate the sun, cloud and rain from the transparent header. Separate the sun and cloud contours in the monochrome mask.",
+        "Use slate-gray cloud and stronger blue rain on white backgrounds; retain the native pale tones on dark surfaces."
       ],
       "small": {
         "artwork": "Use the isolated brand symbol at sidebar sizes.",
@@ -2252,6 +2253,7 @@
         "svg": [],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -2272,7 +2274,7 @@
       "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
       "quality": "raster",
       "processing": [
-        "Crop the left mountain-and-cloud emblem from the transparent header, retaining its color bands and pixel trail."
+        "Crop the blue-green mountain emblem, preserving its pixel trail. Remove dark wordmark pixels where the two bounding boxes overlap."
       ],
       "small": {
         "artwork": "Use the isolated brand symbol at sidebar sizes.",
@@ -2374,13 +2376,14 @@
       "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
       "quality": "vector",
       "processing": [
-        "Extract the two left-hand paths from the official black navigation logo and restore the green-to-turquoise treatment from the site favicon."
+        "Extract the two left-hand paths from the official black navigation logo and restore the green-to-turquoise treatment from the site favicon.",
+        "Use the two native mask contours for the square and disc.",
+        "Additional color or contour reference: https://www.ncloud.com/img/favicon.png"
       ],
       "small": {
         "artwork": "Use the isolated brand symbol at sidebar sizes.",
         "source": "https://www.ncloud.com/img/ncp-logo-shd.svg"
       },
-      "colorSource": "https://www.ncloud.com/img/favicon.png",
       "variants": {
         "svg": [
           "color",
@@ -2411,8 +2414,9 @@
         "Preserve the official Android icon, including its navy tile. Extract the inner three-lobed cloud against the tile for the monochrome silhouette."
       ],
       "small": {
-        "artwork": "Use the isolated brand symbol at sidebar sizes.",
-        "source": "https://www.nhncloud.com/favicons/android-chrome-256x256.png"
+        "source": "https://www.nhncloud.com/favicons/android-chrome-256x256.png",
+        "artwork": "Use the isolated three-lobed mark without the navy tile. Separate the overlaps in single ink at 16, 24 and 32 px.",
+        "maxSize": 32
       },
       "nativeSize": [
         256,
@@ -2564,6 +2568,355 @@
         "png": [
           "color",
           "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "kingsoft-cloud",
+      "name": "Kingsoft Cloud",
+      "names": {
+        "zh-CN": "金山云"
+      },
+      "aliases": [
+        "ksyun",
+        "jinshanyun"
+      ],
+      "website": "https://ksyun.com",
+      "brandColor": "#ED0032",
+      "source": "https://resource.ksyun.com/project/cms/8b2b5c8f8a322a7b8c66bcc5f1f08302",
+      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "quality": "redrawn",
+      "processing": [
+        "Reconstruct the circular favicon and its white cloud loops. Cross-check the crossing against the company GitHub avatar."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at sidebar sizes.",
+        "source": "https://resource.ksyun.com/project/cms/8b2b5c8f8a322a7b8c66bcc5f1f08302"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "ecloud",
+      "name": "China Mobile Cloud",
+      "names": {
+        "zh-CN": "移动云"
+      },
+      "aliases": [
+        "移动云",
+        "ydyun"
+      ],
+      "website": "https://ecloud.10086.cn:443/portal",
+      "brandColor": "#0085CF",
+      "source": "https://ecloud.eos-guangzhou-1.cmecloud.cn/fe/favicon.ico",
+      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "quality": "redrawn",
+      "processing": [
+        "Redraw the two open cloud contours and green link from the official favicon; use its unbroken outline for the single-ink version."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at sidebar sizes.",
+        "source": "https://ecloud.eos-guangzhou-1.cmecloud.cn/fe/favicon.ico"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "unicom-cloud",
+      "name": "China Unicom Cloud",
+      "names": {
+        "zh-CN": "联通云"
+      },
+      "aliases": [
+        "中国联通云",
+        "liantongyun"
+      ],
+      "website": "https://www.cucloud.cn/",
+      "brandColor": "#E50027",
+      "source": "https://www.cucloud.cn/templets/1/default/images/about-woyun-logo.png",
+      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "quality": "raster",
+      "processing": [
+        "Crop the red cloud and Chinese knot (157 × 111 px) from the transparent 418 × 112 official wordmark."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at sidebar sizes.",
+        "source": "https://www.cucloud.cn/templets/1/default/images/about-woyun-logo.png"
+      },
+      "nativeSize": [
+        418,
+        112
+      ],
+      "variants": {
+        "svg": [],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "west-cn",
+      "name": "West.cn",
+      "names": {
+        "zh-CN": "西部数码"
+      },
+      "aliases": [
+        "west digital",
+        "xibushuma"
+      ],
+      "website": "https://www.west.cn/",
+      "brandColor": "#065396",
+      "source": "https://www.west.cn/favicon.ico",
+      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "quality": "redrawn",
+      "processing": [
+        "Reconstruct the W cutout and three horizontal base stripes from the official favicon, checking the proportions against the site wordmark."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at sidebar sizes.",
+        "source": "https://www.west.cn/favicon.ico"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "hncloud",
+      "name": "HNCloud",
+      "names": {
+        "zh-CN": "华纳云"
+      },
+      "aliases": [
+        "huanayun"
+      ],
+      "website": "https://www.hncloud.com/",
+      "brandColor": "#00CACA",
+      "source": "https://www.hncloud.com/static/images/home/company-logo.jpg",
+      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "quality": "redrawn",
+      "processing": [
+        "Reconstruct the official cloud and lightning strokes with rounded ends; interpolate the green and blue sampled from the company lockup."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at sidebar sizes.",
+        "source": "https://www.hncloud.com/static/images/home/company-logo.jpg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "henghost",
+      "name": "Henghost",
+      "names": {
+        "zh-CN": "恒创科技"
+      },
+      "aliases": [
+        "hengchuang"
+      ],
+      "website": "https://www.henghost.com/",
+      "brandColor": "#328DDB",
+      "source": "https://www.henghost.com/favicon.ico",
+      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "quality": "raster",
+      "processing": [
+        "Keep the HC site tile from the 256 px frame of the official favicon. Extract its white initials for both monochrome variants."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at sidebar sizes.",
+        "source": "https://www.henghost.com/favicon.ico"
+      },
+      "nativeSize": [
+        256,
+        256
+      ],
+      "variants": {
+        "svg": [],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "wangsu",
+      "name": "Wangsu",
+      "names": {
+        "zh-CN": "网宿科技"
+      },
+      "aliases": [
+        "chinanetcenter",
+        "wangsu"
+      ],
+      "website": "https://wangsu.com",
+      "brandColor": "#005AAB",
+      "source": "https://wangsu.com/favicon.ico",
+      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "quality": "redrawn",
+      "processing": [
+        "Redraw the tapered blue swirl and three counters from the public favicon, using the larger wordmark on the company encyclopedia page as a contour reference.",
+        "Additional color or contour reference: https://upload.wikimedia.org/wikipedia/en/7/72/Wangsu_Science_%26_Technology_logo.png"
+      ],
+      "small": {
+        "source": "https://wangsu.com/favicon.ico",
+        "artwork": "Expand the swirl vertically to keep its openings and tail visible at 16, 24 and 32 px.",
+        "maxSize": 32
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "kt-cloud",
+      "name": "kt cloud",
+      "names": {
+        "zh-CN": "KT 云"
+      },
+      "aliases": [
+        "케이티클라우드"
+      ],
+      "website": "https://www.ktcloud.com/",
+      "brandColor": "#ED1B23",
+      "source": "https://www.ktcloud.com/static/img/common/png/og_image.png",
+      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "quality": "raster",
+      "processing": [
+        "Crop the kt monogram from the official social card. Remove its black field by color, and use the dark lettering of the positive header logo on light backgrounds.",
+        "Additional color or contour reference: https://www.ktcloud.com/static/img/common/png/logo-positive.png"
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at sidebar sizes.",
+        "source": "https://www.ktcloud.com/static/img/common/png/og_image.png"
+      },
+      "nativeSize": [
+        1200,
+        630
+      ],
+      "variants": {
+        "svg": [],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "akkocloud",
+      "name": "AkkoCloud",
+      "names": {
+        "zh-CN": "AkkoCloud"
+      },
+      "aliases": [
+        "akko cloud"
+      ],
+      "website": "https://www.akkocloud.com/",
+      "brandColor": "#FFBFF1",
+      "source": "https://www.akkocloud.com/templates/akko/assets/img/logo-1.png",
+      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "quality": "raster",
+      "processing": [
+        "Retain the official two-part wordmark. Use deeper rose on light surfaces and the original pink on dark surfaces. Knock out the white letters in the monochrome panel."
+      ],
+      "small": {
+        "artwork": "Enlarge the original leading A for 16, 24 and 32 px.",
+        "source": "https://www.akkocloud.com/templates/akko/assets/img/logo-1.png",
+        "maxSize": 32
+      },
+      "nativeSize": [
+        387,
+        109
+      ],
+      "variants": {
+        "svg": [],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "megalayer",
+      "name": "Megalayer",
+      "names": {
+        "zh-CN": "美络云"
+      },
+      "aliases": [
+        "megalayer"
+      ],
+      "website": "https://www.megalayer.net/",
+      "brandColor": "#D65738",
+      "source": "https://web.archive.org/web/20251212055501im_/https://www.megalayer.net/en/uploadfile/upload/2019091114172699.png",
+      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "quality": "redrawn",
+      "processing": [
+        "Redraw the orange-red angular emblem from the archived official masthead. The archived page labels it “Megalayer - Global ISP”."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at sidebar sizes.",
+        "source": "https://web.archive.org/web/20251212055501im_/https://www.megalayer.net/en/uploadfile/upload/2019091114172699.png"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
           "mono-black",
           "mono-white"
         ]
