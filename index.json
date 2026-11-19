@@ -427,12 +427,12 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
-        "Hand-draw the rounded blue gradient tile, diagonal sheen, and white U with its 4x4 top-left pixel cluster as clean geometric SVG against the 460 x 460 official GitHub organization avatar.",
-        "Export the isolated geometric U and pixel cluster scaled to fill the 64 x 64 canvas for monochrome."
+        "Hand-draw the blue rounded-square badge and pixelated U mark as clean SVG against the 512 x 512 official GitHub organization avatar, optically sized to 50 x 50 with larger crisp pixel blocks at 16 and 24 px."
       ],
       "small": {
-        "artwork": "Use the primary UCloud mark at 16 px.",
-        "source": "https://avatars.githubusercontent.com/u/14289247?v=4&s=512"
+        "artwork": "Use the optically sized badge and U mark with bolder pixel blocks at 16 and 24 px.",
+        "source": "https://avatars.githubusercontent.com/u/14289247?v=4&s=512",
+        "maxSize": 24
       },
       "sourcePage": "https://github.com/ucloud",
       "variants": {
@@ -641,7 +641,7 @@
       "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
       "quality": "vector",
       "processing": [
-        "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+        "Isolate the native square badge and optically size to 50 x 50 on the 64-unit canvas across color, color-dark, and monochrome."
       ],
       "small": {
         "artwork": "Use the primary graphic mark at 16 px.",
@@ -820,7 +820,7 @@
       "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
       "quality": "vector",
       "processing": [
-        "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+        "Isolate the native rounded-square badge and optically size to 50 x 50 on the 64-unit canvas across color, color-dark, and monochrome."
       ],
       "small": {
         "artwork": "Use the primary graphic mark at 16 px.",
@@ -893,7 +893,7 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+        "Isolate the native square badge, optically size to 50 x 50 on the 64-unit canvas, brighten blue in color-dark, and punch the diagonal slash out of the square in monochrome."
       ],
       "small": {
         "artwork": "Use the primary graphic mark at 16 px.",
@@ -1110,12 +1110,12 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
-        "Hand-draw the three-puff cloud and three horizontal server rack slots with pill status LEDs against the 906 x 96 official header logo (cross-checked with https://greencloudvps.com/img/site/favicon.png).",
-        "Tune slot spacing and LED pill proportions for clear recognition at 16, 24, and 32 px."
+        "Hand-draw the ascending green cloud with trailing speed bars as clean SVG against the official header logo, centered vertically on the 64-unit canvas with wider simplified speed slots at 16 and 24 px."
       ],
       "small": {
-        "artwork": "Use the primary graphic mark at 16 px.",
-        "source": "https://greencloudvps.com/img/site/logo.png"
+        "artwork": "Use the centered speed-cloud with wider simplified slots at 16 and 24 px.",
+        "source": "https://greencloudvps.com/img/site/logo.png",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -1181,11 +1181,12 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+        "Isolate the native segmented-V mark on the 64-unit viewBox and add a bolder, wider-gapped 16/24 px small variant for sidebar legibility."
       ],
       "small": {
-        "artwork": "Use the primary graphic mark at 16 px.",
-        "source": "https://v.ps/favicon.svg"
+        "artwork": "Use the bolder segmented-V mark with wider horizontal gaps at 16 and 24 px.",
+        "source": "https://v.ps/favicon.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -1254,8 +1255,7 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
-        "Hand-draw the swirling B emblem as clean SVG against the 637 x 590 mark cropped from the 2720 x 2000 official logo-dark.png, omitting the faint background polygon shadow.",
-        "Preserve the official blue-to-purple linear gradient in color, match the official white logo-light.png for color-dark, and export a clean monochrome silhouette."
+        "Hand-draw the swirling B badge as clean SVG against the official header logo (logo-dark.png) and 32 x 32 favicon, using vivid lightened brand indigo (#9491FF) in color-dark."
       ],
       "small": {
         "artwork": "Use the primary swirling B emblem at 16 px.",
@@ -1292,11 +1292,12 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+        "Optically size the native blue rounded-square badge to 50 x 50, punch the terminal prompt out of the badge in monochrome, and provide a bolder prompt cutout for 16 and 24 px."
       ],
       "small": {
-        "artwork": "Use the primary graphic mark at 16 px.",
-        "source": "https://www.dmit.io/templates/dmit_theme_2020/dmit/assets/images/dmit_logo.svg"
+        "artwork": "Use the 50 x 50 badge with a bolder terminal prompt cutout at 16 and 24 px.",
+        "source": "https://www.dmit.io/templates/dmit_theme_2020/dmit/assets/images/dmit_logo.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -1611,7 +1612,7 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+        "Optically size the native rebranded Aurora rounded-square badge to 50 x 50 and punch the curved chevron out of the rounded square in monochrome."
       ],
       "small": {
         "artwork": "Use the primary graphic mark at 16 px.",
@@ -1756,7 +1757,7 @@
       "license": "MIT",
       "quality": "vector",
       "processing": [
-        "Original filled geometric pictogram drawn on the common canvas."
+        "Original filled geometric pictogram optically balanced to 50 x 48 on the common canvas with subtle rounded bays and crisp LED cutouts."
       ],
       "small": {
         "artwork": "Use the primary graphic mark at 16 px.",
