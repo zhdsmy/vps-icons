@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <g transform="translate(3.429 3.429) scale(0.89286)">
+    <g transform="matrix(0.7000000 0 0 0.7000000 4.000000 4.000000)">
+      <rect x="0" y="0" width="80" height="80" rx="9" fill="#2AC3FF"/>
+      <path fill="#FFFFFF" d="M13 20H19V39L37 20H45L27 39L46 65H38L23 44L19 48V65H13Z"/>
+      <path fill="#FFFFFF" d="M51 34H57V39Q60 32 68 34V41Q62 39 59 43Q57 47 57 52V65H51Z"/>
+    </g>
+  </g>
+</svg>

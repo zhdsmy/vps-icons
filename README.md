@@ -135,16 +135,16 @@ Use PNG where the SVG variant list is empty. The index gives the original source
 | ![](png/color/24/bluehost.png) | Bluehost · Bluehost | [`bluehost`](svg/color/bluehost.svg) | — | vector | [↗](https://upload.wikimedia.org/wikipedia/commons/9/9a/Bluehost_logo_2019.svg) |
 | ![](png/color/24/cherry-servers.png) | Cherry Servers · Cherry Servers | [`cherry-servers`](svg/color/cherry-servers.svg) | — | vector | [↗](https://www.cherryservers.com/) |
 | ![](png/color/24/latitude-sh.png) | Latitude.sh · Latitude.sh | [`latitude-sh`](svg/color/latitude-sh.svg) | [✓](svg/color-dark/latitude-sh.svg) | vector | [↗](https://www.latitude.sh/favicon.svg) |
-| ![](png/color/24/interserver.png) | InterServer · InterServer | [`interserver`](svg/color/interserver.svg) | — | redrawn | [↗](https://www.interserver.net/assets/images/new/logo.svg) |
-| ![](png/color/24/virmach.png) | VirMach · VirMach | [`virmach`](svg/color/virmach.svg) | — | redrawn | [↗](https://virmach.com/wp-content/uploads/2022/09/cropped-logo.png) |
+| ![](png/color/24/interserver.png) | InterServer · InterServer | [`interserver`](svg/color/interserver.svg) | [✓](svg/color-dark/interserver.svg) | redrawn | [↗](https://www.interserver.net/assets/images/new/logo.svg) |
+| ![](png/color/24/virmach.png) | VirMach · VirMach | [`virmach`](svg/color/virmach.svg) | [✓](svg/color-dark/virmach.svg) | redrawn | [↗](https://virmach.com/wp-content/uploads/2022/09/cropped-logo.png) |
 | ![](png/color/24/psychz.png) | Psychz Networks · Psychz Networks | [`psychz`](svg/color/psychz.svg) | — | vector | [↗](https://www.psychz.net/assets/images/header/logo.svg) |
-| ![](png/color/24/time4vps.png) | Time4VPS · Time4VPS | [`time4vps`](svg/color/time4vps.svg) | — | vector | [↗](https://raw.githubusercontent.com/glincker/thesvg/8980fb3d96d7e20a5ada9b85db56110d529d3c55/public/icons/time4vps-badge/default.svg) |
+| ![](png/color/24/time4vps.png) | Time4VPS · Time4VPS | [`time4vps`](svg/color/time4vps.svg) | [✓](svg/color-dark/time4vps.svg) | vector | [↗](https://raw.githubusercontent.com/glincker/thesvg/8980fb3d96d7e20a5ada9b85db56110d529d3c55/public/icons/time4vps-badge/default.svg) |
 | ![](png/color/24/aeza.png) | Aeza · Aeza | [`aeza`](svg/color/aeza.svg) | — | vector | [↗](https://aeza.net/_next/static/media/logo.25e02724.svg) |
 | ![](png/color/24/hostkey.png) | HOSTKEY · HOSTKEY | [`hostkey`](svg/color/hostkey.svg) | — | vector | [↗](https://hostkey.com/hk/images/logo.svg) |
 | ![](png/color/24/selectel.png) | Selectel · Selectel | [`selectel`](svg/color/selectel.svg) | — | vector | [↗](https://selectel.ru/favicon.svg) |
 | ![](png/color/24/timeweb.png) | Timeweb Cloud · Timeweb Cloud | [`timeweb`](svg/color/timeweb.svg) | [✓](svg/color-dark/timeweb.svg) | vector | [↗](https://timeweb.cloud/favicon.svg) |
 | ![](png/color/24/reliablesite.png) | ReliableSite · ReliableSite | [`reliablesite`](svg/color/reliablesite.svg) | [✓](svg/color-dark/reliablesite.svg) | vector | [↗](https://www.reliablesite.net/static/img/minified-svg/logo.svg) |
-| ![](png/color/24/ishosting.png) | is*hosting · is*hosting | [`ishosting`](svg/color/ishosting.svg) | — | redrawn | [↗](https://avatars.githubusercontent.com/u/260690308?v=4&s=512) |
+| ![](png/color/24/ishosting.png) | is*hosting · is*hosting | [`ishosting`](svg/color/ishosting.svg) | [✓](svg/color-dark/ishosting.svg) | redrawn | [↗](https://avatars.githubusercontent.com/u/260690308?v=4&s=512) |
 | ![](png/color/24/qiniu.png) | Qiniu Cloud · 七牛云 | [`qiniu`](svg/color/qiniu.svg) | [✓](svg/color-dark/qiniu.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/qiniu-color.svg) |
 | ![](png/color/24/upyun.png) | Upyun · 又拍云 | [`upyun`](svg/color/upyun.svg) | — | vector | [↗](https://www.upyun.com/static/img/黑logo.42ad028.svg) |
 | ![](png/color/24/qingcloud.png) | QingCloud · 青云 | [`qingcloud`](svg/color/qingcloud.svg) | — | vector | [↗](https://qc-website.sh1a.qingstor.com/files/2023/06/qingcloud.svg) |
@@ -174,13 +174,13 @@ Use PNG where the SVG variant list is empty. The index gives the original source
 | ![](png/color/24/kt-cloud.png) | kt cloud · KT 云 | [`kt-cloud`](svg/color/kt-cloud.svg) | [✓](svg/color-dark/kt-cloud.svg) | vector | [↗](https://upload.wikimedia.org/wikipedia/commons/2/22/KT_Corp_2D_logo.svg) |
 | ![](png/color/24/akkocloud.png) | AkkoCloud · AkkoCloud | [`akkocloud`](svg/color/akkocloud.svg) | [✓](svg/color-dark/akkocloud.svg) | redrawn | [↗](https://www.akkocloud.com/templates/akko/assets/img/logo-1.png) |
 | ![](png/color/24/megalayer.png) | Megalayer · 美络云 | [`megalayer`](svg/color/megalayer.svg) | — | redrawn | [↗](https://web.archive.org/web/20251212055501im_/https://www.megalayer.net/en/uploadfile/upload/2019091114172699.png) |
-| ![](png/color/24/rackspace.png) | Rackspace Technology · Rackspace Technology | [`rackspace`](svg/color/rackspace.svg) | — | vector | [↗](https://www.rackspace.com/wp-content/uploads/2026/10/Rackspace_Logo_Black.svg) |
+| ![](png/color/24/rackspace.png) | Rackspace Technology · Rackspace Technology | [`rackspace`](svg/color/rackspace.svg) | [✓](svg/color-dark/rackspace.svg) | vector | [↗](https://www.rackspace.com/wp-content/uploads/2026/10/Rackspace_Logo_Black.svg) |
 | ![](png/color/24/cloudways.png) | Cloudways · Cloudways | [`cloudways`](svg/color/cloudways.svg) | [✓](svg/color-dark/cloudways.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/cloudways.svg) |
 | ![](png/color/24/infomaniak.png) | Infomaniak · Infomaniak | [`infomaniak`](svg/color/infomaniak.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/infomaniak.svg) |
 | ![](png/color/24/wp-engine.png) | WP Engine · WP Engine | [`wp-engine`](svg/color/wp-engine.svg) | [✓](svg/color-dark/wp-engine.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/wpengine.svg) |
 | ![](png/color/24/koyeb.png) | Koyeb · Koyeb | [`koyeb`](svg/color/koyeb.svg) | [✓](svg/color-dark/koyeb.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/koyeb.svg) |
 | ![](png/color/24/kinsta.png) | Kinsta · Kinsta | [`kinsta`](svg/color/kinsta.svg) | [✓](svg/color-dark/kinsta.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/kinsta.svg) |
-| ![](png/color/24/gandi.png) | Gandi · Gandi | [`gandi`](svg/color/gandi.svg) | — | vector | [↗](https://www.gandi.net/static/images/favicon.e848261f33f9.svg) |
+| ![](png/color/24/gandi.png) | Gandi · Gandi | [`gandi`](svg/color/gandi.svg) | [✓](svg/color-dark/gandi.svg) | vector | [↗](https://www.gandi.net/static/images/favicon.e848261f33f9.svg) |
 | ![](png/color/24/strato.png) | STRATO · STRATO | [`strato`](svg/color/strato.svg) | — | vector | [↗](https://www.strato.de/_assets/img/svg/logo_strato_white_mobile.svg) |
 | ![](png/color/24/servers-com.png) | Servers.com · Servers.com | [`servers-com`](svg/color/servers-com.svg) | — | vector | [↗](https://www.servers.com/global/generated/assets/favicon.svg) |
 | ![](png/color/24/hostgator.png) | HostGator · HostGator | [`hostgator`](svg/color/hostgator.svg) | — | vector | [↗](https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/hostgator-icon.svg) |
@@ -189,7 +189,7 @@ Use PNG where the SVG variant list is empty. The index gives the original source
 | ![](png/color/24/hostus.png) | HostUS · HostUS | [`hostus`](svg/color/hostus.svg) | [✓](svg/color-dark/hostus.svg) | vector | [↗](https://hostus.us/img/logo.svg) |
 | ![](png/color/24/webdock.png) | Webdock · Webdock | [`webdock`](svg/color/webdock.svg) | [✓](svg/color-dark/webdock.svg) | vector | [↗](https://webdock.io/__l5e/assets-v1/b754cb92-e545-492b-8c5f-a17bb9978f16/webdock-favicon.svg) |
 | ![](png/color/24/ruvds.png) | RUVDS · RUVDS | [`ruvds`](svg/color/ruvds.svg) | [✓](svg/color-dark/ruvds.svg) | vector | [↗](https://ruvds.com/img/ruvds-logo-w.svg?v=1) |
-| ![](png/color/24/firstvds.png) | FirstVDS · FirstVDS | [`firstvds`](svg/color/firstvds.svg) | — | vector | [↗](https://firstvds.ru/) |
+| ![](png/color/24/firstvds.png) | FirstVDS · FirstVDS | [`firstvds`](svg/color/firstvds.svg) | [✓](svg/color-dark/firstvds.svg) | vector | [↗](https://firstvds.ru/) |
 | ![](png/color/24/clouvider.png) | Clouvider · Clouvider | [`clouvider`](svg/color/clouvider.svg) | [✓](svg/color-dark/clouvider.svg) | vector | [↗](https://www.clouvider.com/resources/manifest/safari-pinned-tab.svg) |
 | ![](png/color/24/reg-ru.png) | REG.RU · REG.RU | [`reg-ru`](svg/color/reg-ru.svg) | [✓](svg/color-dark/reg-ru.svg) | vector | [↗](https://help.reg.ru/) |
 | ![](png/color/24/inmotion-hosting.png) | InMotion Hosting · InMotion Hosting | [`inmotion-hosting`](svg/color/inmotion-hosting.svg) | [✓](svg/color-dark/inmotion-hosting.svg) | redrawn | [↗](https://avatars.githubusercontent.com/u/7607996?v=4&s=512) |
@@ -197,10 +197,10 @@ Use PNG where the SVG variant list is empty. The index gives the original source
 | ![](png/color/24/liteserver.png) | LiteServer · LiteServer | [`liteserver`](svg/color/liteserver.svg) | [✓](svg/color-dark/liteserver.svg) | redrawn | [↗](https://liteserver.nl/inhoud/uploads/2020/10/favicon.png) |
 | ![](png/color/24/alphavps.png) | AlphaVPS · AlphaVPS | [`alphavps`](svg/color/alphavps.svg) | [✓](svg/color-dark/alphavps.svg) | redrawn | [↗](https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/152862/logo2.png) |
 | ![](png/color/24/host-europe.png) | Host Europe · Host Europe | [`host-europe`](svg/color/host-europe.svg) | [✓](svg/color-dark/host-europe.svg) | redrawn | [↗](https://www.hosteurope.de/blog/wp-content/themes/he-blog/_icons/apple-touch-icon.png) |
-| ![](png/color/24/sharktech.png) | Sharktech · Sharktech | [`sharktech`](svg/color/sharktech.svg) | [✓](svg/color-dark/sharktech.svg) | redrawn | [↗](https://sharktech.net/assets/sharktech-logo.png) |
+| ![](png/color/24/sharktech.png) | Sharktech · Sharktech | [`sharktech`](svg/color/sharktech.svg) | [✓](svg/color-dark/sharktech.svg) | redrawn | [↗](https://s3-eu-west-1.amazonaws.com/tpd/logos/59fd07170000ff0005af7aeb/0x0.png) |
 | ![](png/color/24/atlantic-net.png) | Atlantic.Net · Atlantic.Net | [`atlantic-net`](svg/color/atlantic-net.svg) | [✓](svg/color-dark/atlantic-net.svg) | redrawn | [↗](https://www.atlantic.net/wp-content/themes/anet/img/site/icons/icon-512-any.png) |
 | ![](png/color/24/servarica.png) | ServaRICA · ServaRICA | [`servarica`](svg/color/servarica.svg) | [✓](svg/color-dark/servarica.svg) | redrawn | [↗](https://servarica.com/logo-icon.png) |
-| ![](png/color/24/krypt.png) | Krypt · Krypt | [`krypt`](svg/color/krypt.svg) | — | redrawn | [↗](https://www.linkedin.com/showcase/kryptcom/) |
+| ![](png/color/24/krypt.png) | Krypt · Krypt | [`krypt`](svg/color/krypt.svg) | [✓](svg/color-dark/krypt.svg) | redrawn | [↗](https://www.linkedin.com/showcase/kryptcom/) |
 | ![](png/color/24/beget.png) | Beget · Beget | [`beget`](svg/color/beget.svg) | — | redrawn | [↗](https://avatars.githubusercontent.com/u/7524527?v=4&s=512) |
 
 ## 贡献 / Contributing
