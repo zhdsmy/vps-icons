@@ -4,9 +4,9 @@
 
 Self-contained cloud, VPS, hosting, and generic infrastructure icons for monitoring dashboards, status pages, directories, and documentation. Load directly via jsDelivr CDN or self-host offline.
 
-当前共收录 **185** 个图标（`vector` 130 · `redrawn` 55；全部提供 SVG 与 8 档 PNG；**128** 个含深色变体，**56** 个含小尺寸专版）。
+当前共收录 **185** 个图标（`vector` 130 · `redrawn` 55；全部提供 SVG 与 8 档 PNG；**135** 个含深色变体，**59** 个含小尺寸专版）。
 
-Currently **185** icons (130 `vector`, 55 `redrawn`; all with SVG + 8 PNG sizes; **128** dark variants, **56** compact small masters).
+Currently **185** icons (130 `vector`, 55 `redrawn`; all with SVG + 8 PNG sizes; **135** dark variants, **59** compact small masters).
 
 [在线/本地对照预览 · Preview](preview.html) · [完整元数据索引 · index.json](index.json)
 
@@ -319,18 +319,18 @@ All current entries ship as SVG (zero PNG-only, `upscaled`, or `placeholder` ico
 | ![](png/color/24/coreweave.png) | CoreWeave · CoreWeave | [`coreweave`](svg/color/coreweave.svg) | [✓](svg/color-dark/coreweave.svg) | — | vector | [↗](https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/coreweave-icon.svg) |
 | ![](png/color/24/lambda.png) | Lambda · Lambda | [`lambda`](svg/color/lambda.svg) | [✓](svg/color-dark/lambda.svg) | — | vector | [↗](https://lambda.com/hubfs/favicon-48x48-1.svg) |
 | ![](png/color/24/runpod.png) | Runpod · Runpod | [`runpod`](svg/color/runpod.svg) | [✓](svg/color-dark/runpod.svg) | — | vector | [↗](https://cdn.prod.website-files.com/69ce570adca53340abab8376/69cfb722ebc6a6cfe4f48961_runpod-logo-white.svg) |
-| ![](png/color/24/vast-ai.png) | Vast.ai · Vast.ai | [`vast-ai`](svg/color/vast-ai.svg) | [✓](svg/color-dark/vast-ai.svg) | — | vector | [↗](https://vast.ai/vast_logo.svg) |
+| ![](png/color/24/vast-ai.png) | Vast.ai · Vast.ai | [`vast-ai`](svg/color/vast-ai.svg) | [✓](svg/color-dark/vast-ai.svg) | [≤24](svg/small/color/vast-ai.svg) | vector | [↗](https://vast.ai/vast_logo.svg) |
 | ![](png/color/24/paperspace.png) | Paperspace · Paperspace | [`paperspace`](svg/color/paperspace.svg) | [✓](svg/color-dark/paperspace.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/paperspace.svg) |
-| ![](png/color/24/nebius.png) | Nebius · Nebius | [`nebius`](svg/color/nebius.svg) | — | — | vector | [↗](https://nebius.com/favicon/favicon.svg) |
-| ![](png/color/24/crusoe.png) | Crusoe · Crusoe | [`crusoe`](svg/color/crusoe.svg) | — | — | vector | [↗](https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/crusoe-color.svg) |
+| ![](png/color/24/nebius.png) | Nebius · Nebius | [`nebius`](svg/color/nebius.svg) | [✓](svg/color-dark/nebius.svg) | — | vector | [↗](https://nebius.com/favicon/favicon.svg) |
+| ![](png/color/24/crusoe.png) | Crusoe · Crusoe | [`crusoe`](svg/color/crusoe.svg) | [✓](svg/color-dark/crusoe.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/crusoe-color.svg) |
 | ![](png/color/24/hyperstack.png) | Hyperstack · Hyperstack | [`hyperstack`](svg/color/hyperstack.svg) | [✓](svg/color-dark/hyperstack.svg) | — | vector | [↗](https://www.hyperstack.cloud/hubfs/hyperstack_2023/home/logo.svg) |
-| ![](png/color/24/modal.png) | Modal · Modal | [`modal`](svg/color/modal.svg) | — | — | vector | [↗](https://modal.com/assets/favicon.svg) |
+| ![](png/color/24/modal.png) | Modal · Modal | [`modal`](svg/color/modal.svg) | [✓](svg/color-dark/modal.svg) | [≤24](svg/small/color/modal.svg) | vector | [↗](https://modal.com/assets/favicon.svg) |
 | ![](png/color/24/zeabur.png) | Zeabur · Zeabur | [`zeabur`](svg/color/zeabur.svg) | [✓](svg/color-dark/zeabur.svg) | — | vector | [↗](https://zeabur.com/logo.svg) |
-| ![](png/color/24/tensordock.png) | TensorDock · TensorDock | [`tensordock`](svg/color/tensordock.svg) | — | — | vector | [↗](https://www.tensordock.com/assets/favicon/safari-pinned-tab.svg) |
+| ![](png/color/24/tensordock.png) | TensorDock · TensorDock | [`tensordock`](svg/color/tensordock.svg) | [✓](svg/color-dark/tensordock.svg) | — | vector | [↗](https://www.tensordock.com/assets/favicon/safari-pinned-tab.svg) |
 | ![](png/color/24/deno-deploy.png) | Deno Deploy · Deno Deploy | [`deno-deploy`](svg/color/deno-deploy.svg) | [✓](svg/color-dark/deno-deploy.svg) | — | vector | [↗](https://deno.com/logos/deploy/mark.svg?__frsh_c=2c7be834343e725c25fa21f2d98d4350fa3b3f96) |
 | ![](png/color/24/cdn77.png) | CDN77 · CDN77 | [`cdn77`](svg/color/cdn77.svg) | [✓](svg/color-dark/cdn77.svg) | — | vector | [↗](https://www.cdn77.com/safari-pinned-tab.svg) |
 | ![](png/color/24/keycdn.png) | KeyCDN · KeyCDN | [`keycdn`](svg/color/keycdn.svg) | [✓](svg/color-dark/keycdn.svg) | — | vector | [↗](https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/keycdn-icon.svg) |
-| ![](png/color/24/sealos.png) | Sealos · Sealos | [`sealos`](svg/color/sealos.svg) | — | — | vector | [↗](https://sealos.io) |
+| ![](png/color/24/sealos.png) | Sealos · Sealos | [`sealos`](svg/color/sealos.svg) | [✓](svg/color-dark/sealos.svg) | — | vector | [↗](https://sealos.io) |
 | ![](png/color/24/advin-servers.png) | Advin Servers · Advin Servers | [`advin-servers`](svg/color/advin-servers.svg) | [✓](svg/color-dark/advin-servers.svg) | — | vector | [↗](https://advinservers.com/eagle_white.svg) |
 | ![](png/color/24/lunanode.png) | LunaNode · LunaNode | [`lunanode`](svg/color/lunanode.svg) | [✓](svg/color-dark/lunanode.svg) | — | vector | [↗](https://raw.githubusercontent.com/glincker/thesvg/8980fb3d96d7e20a5ada9b85db56110d529d3c55/public/icons/lunanode-badge/default.svg) |
 | ![](png/color/24/dedibox.png) | Dedibox · Dedibox | [`dedibox`](svg/color/dedibox.svg) | [✓](svg/color-dark/dedibox.svg) | [≤32](svg/small/color/dedibox.svg) | vector | [↗](https://raw.githubusercontent.com/scaleway/ultraviolet/4d3aa101bfbc358782b8353650ccd06fd8df40df/packages/icons/src/components/ProductIcon/assets/primary/dedibox.svg) |
@@ -348,8 +348,8 @@ All current entries ship as SVG (zero PNG-only, `upscaled`, or `placeholder` ico
 | ![](png/color/24/cafe24.png) | Cafe24 · Cafe24 | [`cafe24`](svg/color/cafe24.svg) | [✓](svg/color-dark/cafe24.svg) | [≤32](svg/small/color/cafe24.svg) | vector | [↗](https://img.cafe24.com/images/common/cafe24.svg) |
 | ![](png/color/24/bizfly-cloud.png) | BizFly Cloud · BizFly Cloud | [`bizfly-cloud`](svg/color/bizfly-cloud.svg) | [✓](svg/color-dark/bizfly-cloud.svg) | — | vector | [↗](https://bizflycloud.vn/logo/bizfly-cloud.svg) |
 | ![](png/color/24/idcloudhost.png) | IDCloudHost · IDCloudHost | [`idcloudhost`](svg/color/idcloudhost.svg) | — | — | vector | [↗](https://console.idcloudhost.com/app/favicon.svg) |
-| ![](png/color/24/exabytes.png) | Exabytes · Exabytes | [`exabytes`](svg/color/exabytes.svg) | — | — | vector | [↗](https://www.exabytes.com/images/freshdesk/logo-exabytes-grow-ai.svg) |
-| ![](png/color/24/nipa-cloud.png) | NIPA Cloud · NIPA Cloud | [`nipa-cloud`](svg/color/nipa-cloud.svg) | — | — | vector | [↗](https://nipa.cloud/_next/static/media/base-N-logo.ccc7391f.svg) |
+| ![](png/color/24/exabytes.png) | Exabytes · Exabytes | [`exabytes`](svg/color/exabytes.svg) | [✓](svg/color-dark/exabytes.svg) | — | vector | [↗](https://www.exabytes.com/images/freshdesk/logo-exabytes-grow-ai.svg) |
+| ![](png/color/24/nipa-cloud.png) | NIPA Cloud · NIPA Cloud | [`nipa-cloud`](svg/color/nipa-cloud.svg) | [✓](svg/color-dark/nipa-cloud.svg) | — | vector | [↗](https://nipa.cloud/_next/static/media/base-N-logo.ccc7391f.svg) |
 | ![](png/color/24/unisyscloud.png) | Unicloud · 紫光云 | [`unisyscloud`](svg/color/unisyscloud.svg) | [✓](svg/color-dark/unisyscloud.svg) | — | redrawn | [↗](https://www.unicloud.com/upload/images/2024/7/1fd82770e622c26c.png) |
 | ![](png/color/24/e2e-networks.png) | E2E Networks · E2E Networks | [`e2e-networks`](svg/color/e2e-networks.svg) | [✓](svg/color-dark/e2e-networks.svg) | [≤32](svg/small/color/e2e-networks.svg) | redrawn | [↗](https://www.e2enetworks.com/e2e-cloud-logo.png) |
 | ![](png/color/24/baishan.png) | BaishanCloud · 白山云 | [`baishan`](svg/color/baishan.svg) | [✓](svg/color-dark/baishan.svg) | — | redrawn | [↗](https://uc.portal.baishancloud.com/static/logo_baishan.png) |
@@ -359,8 +359,8 @@ All current entries ship as SVG (zero PNG-only, `upscaled`, or `placeholder` ico
 | ![](png/color/24/zzidc.png) | ZZIDC · 景安网络 | [`zzidc`](svg/color/zzidc.svg) | [✓](svg/color-dark/zzidc.svg) | [≤32](svg/small/color/zzidc.svg) | redrawn | [↗](https://libs.zzidc.com/zzidccom/images/common/logo.png) |
 | ![](png/color/24/xinnet.png) | Xinnet · 新网 | [`xinnet`](svg/color/xinnet.svg) | [✓](svg/color-dark/xinnet.svg) | — | redrawn | [↗](https://imgi.xinnet.com/static/xinnet/images/newIndex/logo.1a7a2e6.png) |
 | ![](png/color/24/vpsor.png) | GYStack · 硅云 | [`vpsor`](svg/color/vpsor.svg) | [✓](svg/color-dark/vpsor.svg) | — | redrawn | [↗](https://cdn.vpsor.cn/2.0/img/home/20210912_seo_logo.jpg) |
-| ![](png/color/24/iij.png) | Internet Initiative Japan · 日本互联网倡议 | [`iij`](svg/color/iij.svg) | [✓](svg/color-dark/iij.svg) | [≤32](svg/small/color/iij.svg) | redrawn | [↗](https://www.iij.ad.jp/favicon.ico) |
-| ![](png/color/24/hicloud.png) | Chunghwa Telecom hicloud · 中华电信 hicloud | [`hicloud`](svg/color/hicloud.svg) | [✓](svg/color-dark/hicloud.svg) | — | vector | [↗](https://www.cht.com.tw/home/eshop/-/media/web/images/logo/cht_logo.svg) |
+| ![](png/color/24/iij.png) | Internet Initiative Japan · 日本互联网倡议 | [`iij`](svg/color/iij.svg) | [✓](svg/color-dark/iij.svg) | [≤24](svg/small/color/iij.svg) | redrawn | [↗](https://www.iij.ad.jp/favicon.ico) |
+| ![](png/color/24/hicloud.png) | Chunghwa Telecom hicloud · 中华电信 hicloud | [`hicloud`](svg/color/hicloud.svg) | [✓](svg/color-dark/hicloud.svg) | [≤24](svg/small/color/hicloud.svg) | vector | [↗](https://www.cht.com.tw/home/eshop/-/media/web/images/logo/cht_logo.svg) |
 | ![](png/color/24/viettel-idc.png) | Viettel IDC · 越南 Viettel IDC | [`viettel-idc`](svg/color/viettel-idc.svg) | — | — | redrawn | [↗](https://portal.viettelidc.com.vn/img/Favicon-IDC.png) |
 | ![](png/color/24/biznet-gio.png) | Biznet Gio · Biznet Gio | [`biznet-gio`](svg/color/biznet-gio.svg) | [✓](svg/color-dark/biznet-gio.svg) | — | redrawn | [↗](https://web-cms.biznetgio.com/uploads/Biznet_GIO_Logo_1_header_78e8b0eceb.webp) |
 

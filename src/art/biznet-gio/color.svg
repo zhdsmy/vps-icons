@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
   <defs>
     <linearGradient id="ribbon" x1="10%" y1="100%" x2="92%" y2="0%">
-      <stop offset="0" stop-color="#a1cf4a"/>
-      <stop offset="0.3" stop-color="#74b93f"/>
+      <stop offset="0" stop-color="#799a34"/>
+      <stop offset="0.3" stop-color="#50902f"/>
       <stop offset="0.54" stop-color="#088438"/>
-      <stop offset="0.72" stop-color="#75bc43"/>
+      <stop offset="0.72" stop-color="#569438"/>
       <stop offset="0.87" stop-color="#007b39"/>
-      <stop offset="1" stop-color="#7bbb3c"/>
+      <stop offset="1" stop-color="#5d9430"/>
     </linearGradient>
   </defs>
   <g transform="matrix(0.98499 0 0 0.98499 0.33806 0.67127)">
