@@ -1,10 +1,18 @@
 {
   "name": "vps-icons",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
-  "description": "Self-contained cloud provider and hosting icons for light and dark interfaces.",
+  "description": "Self-contained cloud, VPS, and hosting provider icons for light and dark interfaces.",
   "type": "module",
   "license": "MIT",
+  "homepage": "https://github.com/zhdsmy/vps-icons#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhdsmy/vps-icons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhdsmy/vps-icons/issues"
+  },
   "scripts": {
     "build": "node scripts/build.mjs",
     "check": "node scripts/check.mjs"

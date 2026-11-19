@@ -1,21 +1,39 @@
-name: 缺失或需要更清晰的图标 / Missing or clearer icon
-description: Request a provider or replace a low-resolution master.
+name: 图标提交或改进 / Icon request or upgrade
+description: 提交新厂商图标、替换官方矢量源，或反馈深色/小图显示问题。Request a provider, supply an official vector source, or report a display issue.
 title: "[Icon] "
 body:
+  - type: markdown
+    attributes:
+      value: |
+        提交前请先在 `README.md` 或 `index.json` 中搜索确认未重复收录。**不收录已停业、已跑路、DigVPS 墓碑厂商或已并入其他品牌且原站下线的服务商。**
+        Please check `README.md` / `index.json` first. **Defunct, shut-down, tombstoned (e.g. DigVPS graveyard), or retired/merged brands are not accepted.**
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 类型 / Request type
+      options:
+        - 新增厂商 / New provider
+        - 提供更清晰的官方源（替换 redrawn / 位图）/ Clearer official vector source
+        - 修正品牌更新、深色对比或小图显示 / Fix rebrand, dark mode, or small size
+    validations:
+      required: true
   - type: input
     id: provider
     attributes:
-      label: 厂商名称和官网 / Provider and website
+      label: 厂商名称和官网 / Provider name and website
+      placeholder: "Example Cloud · https://example.com"
     validations:
       required: true
   - type: input
     id: source
     attributes:
       label: 原始图源链接 / Original artwork URL
-      description: 提供原图或官方品牌页。Link the original file or brand page.
+      description: 请提供可公开访问的 HTTPS 原图或官方品牌资产页。Provide a public HTTPS artwork or brand kit URL.
+      placeholder: "https://example.com/brand/logo.svg"
     validations:
       required: true
   - type: textarea
     id: details
     attributes:
-      label: 尺寸、授权和改进 / Dimensions, license and improvement
+      label: 授权、尺寸与补充说明 / License, dimensions, and notes
+      placeholder: "授权说明（如官方商标 / CC0 / MIT）、别名、深色或小图建议等。"
