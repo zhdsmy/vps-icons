@@ -241,13 +241,23 @@ Use PNG where the SVG variant list is empty. The index gives the original source
 | ![](png/color/24/lightlayer.png) | LightLayer · LightLayer | [`lightlayer`](svg/color/lightlayer.svg) | [✓](svg/color-dark/lightlayer.svg) | redrawn | [↗](https://lightlayer.net/favicon.ico) |
 | ![](png/color/24/isif.png) | ISIF Cloud · ISIF Cloud | [`isif`](svg/color/isif.svg) | [✓](svg/color-dark/isif.svg) | vector | [↗](https://cloud.isif.net/assets/assets-logo-full-Lpb6vKT3.js) |
 | ![](png/color/24/acckcloud.png) | ACCK Cloud · ACCK Cloud | [`acckcloud`](svg/color/acckcloud.svg) | [✓](svg/color-dark/acckcloud.svg) | vector | [↗](https://acck.io/assets/HomeDefault-BGAv2I4p.js) |
-| ![](png/color/24/desivps.png) | DesiVPS · DesiVPS | [`desivps`](svg/color/desivps.svg) | — | redrawn | [↗](https://www.desivps.com/assets/img/logo.png) |
+| ![](png/color/24/desivps.png) | DesiVPS · DesiVPS | [`desivps`](svg/color/desivps.svg) | [✓](svg/color-dark/desivps.svg) | redrawn | [↗](https://www.desivps.com/assets/img/logo.png) |
 | ![](png/color/24/halocloud.png) | HaloCloud · HaloCloud | [`halocloud`](svg/color/halocloud.svg) | [✓](svg/color-dark/halocloud.svg) | redrawn | [↗](https://my.halocloud.net/favicon.ico) |
 | ![](png/color/24/bytevirt.png) | ByteVirt · ByteVirt | [`bytevirt`](svg/color/bytevirt.svg) | [✓](svg/color-dark/bytevirt.svg) | redrawn | [↗](https://bytevirt.com/assets/img/logo.png) |
-| ![](png/color/24/bestvm.png) | BestVM · BestVM（富婆） | [`bestvm`](svg/color/bestvm.svg) | — | redrawn | [↗](https://bestvm.cloud/modules/addons/brand_switcher/assets/bestvm.cloud/logo.png) |
+| ![](png/color/24/bestvm.png) | BestVM · BestVM（富婆） | [`bestvm`](svg/color/bestvm.svg) | [✓](svg/color-dark/bestvm.svg) | redrawn | [↗](https://bestvm.cloud/modules/addons/brand_switcher/assets/bestvm.cloud/logo.png) |
 | ![](png/color/24/rabisu.png) | Rabisu · Rabisu | [`rabisu`](svg/color/rabisu.svg) | [✓](svg/color-dark/rabisu.svg) | redrawn | [↗](https://www.rabisu.com/favicon.ico) |
 | ![](png/color/24/tokyonline.png) | Tokyonline · Tokyonline | [`tokyonline`](svg/color/tokyonline.svg) | [✓](svg/color-dark/tokyonline.svg) | redrawn | [↗](https://www.tokyonline.com/favicon.ico) |
 | ![](png/color/24/yt-net.png) | YT.NET · 云途 | [`yt-net`](svg/color/yt-net.svg) | [✓](svg/color-dark/yt-net.svg) | redrawn | [↗](https://yt.net/logo.png) |
+| ![](png/color/24/rfchost.png) | RFCHost · 花卷 | [`rfchost`](svg/color/rfchost.svg) | [✓](svg/color-dark/rfchost.svg) | redrawn | [↗](https://rfchost.com/) |
+| ![](png/color/24/vmshell.png) | VmShell · VmShell | [`vmshell`](svg/color/vmshell.svg) | — | redrawn | [↗](https://vmshell.com/assets/img/logo.png) |
+| ![](png/color/24/zorocloud.png) | ZoroCloud · 索隆云 | [`zorocloud`](svg/color/zorocloud.svg) | — | redrawn | [↗](https://my.zorocloud.com/templates/lagom2/assets/img/logo/logo_big.156287152.png) |
+| ![](png/color/24/fiberstate.png) | FiberState · FiberState | [`fiberstate`](svg/color/fiberstate.svg) | [✓](svg/color-dark/fiberstate.svg) | redrawn | [↗](https://psp-logos.uptimerobot.com/logos/2703978_1161659_logo2.png) |
+| ![](png/color/24/digitalvirt.png) | DigitalVirt · DigitalVirt | [`digitalvirt`](svg/color/digitalvirt.svg) | — | redrawn | [↗](https://digitalvirt.com/templates/BlueWhite/img/logo.png) |
+| ![](png/color/24/moecloud.png) | MoeCloud · MoeCloud | [`moecloud`](svg/color/moecloud.svg) | — | redrawn | [↗](https://lite.moe/assets/img/logo.png) |
+| ![](png/color/24/zovps.png) | Ciyun Data · 慈云数据 | [`zovps`](svg/color/zovps.svg) | — | redrawn | [↗](https://www.ciyundata.com/favicon.ico) |
+| ![](png/color/24/666clouds.png) | 666Clouds · 六六云 | [`666clouds`](svg/color/666clouds.svg) | — | redrawn | [↗](https://www.666clouds.com/favicon.ico) |
+| ![](png/color/24/v5-server.png) | V5 Server · V5 Server | [`v5-server`](svg/color/v5-server.svg) | — | redrawn | [↗](https://v5.net/favicon.ico) |
+| ![](png/color/24/wap-ac.png) | wap.ac · wap.ac | [`wap-ac`](svg/color/wap-ac.svg) | [✓](svg/color-dark/wap-ac.svg) | redrawn | [↗](https://wap.ac/favicon.ico) |
 
 ## 贡献 / Contributing
 

@@ -4285,7 +4285,7 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Lift the two sloped rounded layers from the brand lockup. Use the leading layer for the standalone monochrome shape."
+      "Extract the two sloped rounded outlines from the official mark. Preserve the red overlap in color and separate the layers with a clear gap for mono."
     ],
     "small": {
       "artwork": "Use the standalone brand mark at 16 px.",
@@ -4410,9 +4410,10 @@
       "Rebuild the narrow upright L and its three warm bands from the provider favicon."
     ],
     "small": {
-      "artwork": "Use the standalone brand mark at 16 px.",
+      "artwork": "Widen the upright L and its three stripes through 32 px.",
       "source": "https://lightlayer.net/favicon.ico"
-    }
+    },
+    "smallMax": 32
   },
   {
     "slug": "isif",
@@ -4435,9 +4436,10 @@
       "Color reference: https://cloud.isif.net/favicon.ico"
     ],
     "small": {
-      "artwork": "Use the standalone brand mark at 16 px.",
+      "artwork": "Emphasize the six spoke outlines through 32 px.",
       "source": "https://cloud.isif.net/assets/assets-logo-full-Lpb6vKT3.js"
-    }
+    },
+    "smallMax": 32
   },
   {
     "slug": "acckcloud",
@@ -4479,14 +4481,15 @@
     "license": "Proprietary brand artwork; no open license identified",
     "quality": "redrawn",
     "format": "svg",
-    "hasDark": false,
+    "hasDark": true,
     "processing": [
       "Isolate the circuit-shaped monogram from the bilingual DesiVPS wordmark. Preserve the two inks and circular terminals."
     ],
     "small": {
-      "artwork": "Use the standalone brand mark at 16 px.",
+      "artwork": "Thicken the circuit lines and use deeper cyan and teal through 32 px.",
       "source": "https://www.desivps.com/assets/img/logo.png"
-    }
+    },
+    "smallMax": 32
   },
   {
     "slug": "halocloud",
@@ -4530,12 +4533,14 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Extract the hexagonal cloud emblem from the left of the official header, opening the white portions for transparent mono."
+      "Extract the hexagonal cloud emblem from the left of the official header, opening the white portions for transparent mono.",
+      "Small artwork reference: official ByteVirt channel https://t.me/bytevirt"
     ],
     "small": {
-      "artwork": "Use the standalone brand mark at 16 px.",
-      "source": "https://bytevirt.com/assets/img/logo.png"
-    }
+      "artwork": "Open the central cloud outline and hexagonal channel through 32 px.",
+      "source": "https://t.me/bytevirt"
+    },
+    "smallMax": 32
   },
   {
     "slug": "bestvm",
@@ -4553,7 +4558,7 @@
     "license": "Proprietary brand artwork; no open license identified",
     "quality": "redrawn",
     "format": "svg",
-    "hasDark": false,
+    "hasDark": true,
     "processing": [
       "Separate the bv tile from the official lockup. Keep both original letter colors and lift the letters for mono."
     ],
@@ -4634,5 +4639,257 @@
       "artwork": "Use the standalone brand mark at 16 px.",
       "source": "https://yt.net/logo.png"
     }
+  },
+  {
+    "slug": "rfchost",
+    "name": "RFCHost",
+    "names": {
+      "zh-CN": "花卷"
+    },
+    "aliases": [
+      "花卷",
+      "rfc host"
+    ],
+    "website": "https://rfchost.com",
+    "brandColor": "#00BC83",
+    "source": "https://rfchost.com/",
+    "license": "Proprietary brand artwork; no open license identified; Lexend glyph outlines under SIL OFL-1.1",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Outline the two-tone text of the homepage header in its declared Lexend face. Enlarge RFC at small sizes.",
+      "Official webfont: https://rfchost.com/_next/static/media/793968fa3513f5d6-s.p.woff2"
+    ],
+    "small": {
+      "artwork": "Use the first three letters of RFCHost through 32 px.",
+      "source": "https://rfchost.com/"
+    },
+    "smallMax": 32
+  },
+  {
+    "slug": "vmshell",
+    "name": "VmShell",
+    "names": {
+      "zh-CN": "VmShell"
+    },
+    "aliases": [
+      "vmshell.com"
+    ],
+    "website": "https://vmshell.com",
+    "brandColor": "#2165CB",
+    "source": "https://vmshell.com/assets/img/logo.png",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Extract the white Vm lettering from the blue header badge and rebuild the rounded tile."
+    ],
+    "small": {
+      "artwork": "Use the standalone brand mark at 16 px.",
+      "source": "https://vmshell.com/assets/img/logo.png"
+    }
+  },
+  {
+    "slug": "zorocloud",
+    "name": "ZoroCloud",
+    "names": {
+      "zh-CN": "索隆云"
+    },
+    "aliases": [
+      "索隆云",
+      "zoro cloud"
+    ],
+    "website": "https://www.zorocloud.com",
+    "brandColor": "#004FAC",
+    "source": "https://my.zorocloud.com/templates/lagom2/assets/img/logo/logo_big.156287152.png",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Keep the outlined script wordmark at large sizes and separate its initial Z at small sizes."
+    ],
+    "small": {
+      "artwork": "Use the opening Z of the script wordmark, with its blue outline, through 32 px.",
+      "source": "https://my.zorocloud.com/templates/lagom2/assets/img/logo/logo_big.156287152.png"
+    },
+    "smallMax": 32
+  },
+  {
+    "slug": "fiberstate",
+    "name": "FiberState",
+    "names": {
+      "zh-CN": "FiberState"
+    },
+    "aliases": [
+      "fiber state",
+      "AS26042"
+    ],
+    "website": "https://fiberstate.com",
+    "brandColor": "#CC0000",
+    "source": "https://psp-logos.uptimerobot.com/logos/2703978_1161659_logo2.png",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Rebuild the nested cube, paired Y rails and three red joints from the official status-page lockup. Thicken the rails for small sizes."
+    ],
+    "small": {
+      "artwork": "Use the standalone brand mark at 16 px.",
+      "source": "https://psp-logos.uptimerobot.com/logos/2703978_1161659_logo2.png"
+    }
+  },
+  {
+    "slug": "digitalvirt",
+    "name": "DigitalVirt",
+    "names": {
+      "zh-CN": "DigitalVirt"
+    },
+    "aliases": [
+      "digitalvirt.com"
+    ],
+    "website": "https://digitalvirt.com",
+    "brandColor": "#008EEB",
+    "source": "https://digitalvirt.com/templates/BlueWhite/img/logo.png",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Isolate the cloud above the DigitalVirt wordmark and redraw its two sweeping color bands over the cyan-blue gradient."
+    ],
+    "small": {
+      "artwork": "Use the standalone brand mark at 16 px.",
+      "source": "https://digitalvirt.com/templates/BlueWhite/img/logo.png"
+    }
+  },
+  {
+    "slug": "moecloud",
+    "name": "MoeCloud",
+    "names": {
+      "zh-CN": "MoeCloud"
+    },
+    "aliases": [
+      "lite.moe"
+    ],
+    "website": "https://lite.moe",
+    "brandColor": "#00BFF5",
+    "source": "https://lite.moe/assets/img/logo.png",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Redraw the central cloud mascot and its squinting face from the MoeCloud header. Remove the flanking clouds and the overlapping lettering."
+    ],
+    "small": {
+      "artwork": "Use a heavier cloud outline and facial features through 32 px.",
+      "source": "https://lite.moe/assets/img/logo.png"
+    },
+    "smallMax": 32
+  },
+  {
+    "slug": "zovps",
+    "name": "Ciyun Data",
+    "names": {
+      "zh-CN": "慈云数据"
+    },
+    "aliases": [
+      "慈云数据",
+      "ciyun data",
+      "ciyundata"
+    ],
+    "website": "https://www.ciyundata.com",
+    "brandColor": "#3163CE",
+    "source": "https://www.ciyundata.com/favicon.ico",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Separate the blue cloud sweep and purple rising arrow of the official favicon. Rebuild each gradient and preserve the negative space."
+    ],
+    "small": {
+      "artwork": "Use the standalone brand mark at 16 px.",
+      "source": "https://www.ciyundata.com/favicon.ico"
+    }
+  },
+  {
+    "slug": "666clouds",
+    "name": "666Clouds",
+    "names": {
+      "zh-CN": "六六云"
+    },
+    "aliases": [
+      "六六云",
+      "666云"
+    ],
+    "website": "https://www.666clouds.com",
+    "brandColor": "#D52E24",
+    "source": "https://www.666clouds.com/favicon.ico",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Redraw the rocket, portholes, exhaust and blue sky from the official portal icon, omitting tiny stars. Separate sky and rocket in mono."
+    ],
+    "small": {
+      "artwork": "Use the standalone brand mark at 16 px.",
+      "source": "https://www.666clouds.com/favicon.ico"
+    }
+  },
+  {
+    "slug": "v5-server",
+    "name": "V5 Server",
+    "names": {
+      "zh-CN": "V5 Server"
+    },
+    "aliases": [
+      "v5.net",
+      "v5"
+    ],
+    "website": "https://v5.net",
+    "brandColor": "#0174F8",
+    "source": "https://v5.net/favicon.ico",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Rebuild the two angular V5 strokes and crown points from the official favicon, checked against the header lockup."
+    ],
+    "small": {
+      "artwork": "Use the standalone brand mark at 16 px.",
+      "source": "https://v5.net/favicon.ico"
+    }
+  },
+  {
+    "slug": "wap-ac",
+    "name": "wap.ac",
+    "names": {
+      "zh-CN": "wap.ac"
+    },
+    "aliases": [
+      "wap.ac"
+    ],
+    "website": "https://wap.ac",
+    "brandColor": "#2D5C7A",
+    "source": "https://wap.ac/favicon.ico",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Rebuild the blue W, charcoal A and purple P of the domain favicon. Use its W for the two smallest marks."
+    ],
+    "small": {
+      "artwork": "Use the blue initial W at 16 and 24 px.",
+      "source": "https://wap.ac/favicon.ico"
+    },
+    "smallMax": 24
   }
 ]
