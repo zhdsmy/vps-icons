@@ -213,6 +213,17 @@ Use PNG where the SVG variant list is empty. The index gives the original source
 | ![](png/color/24/nipa-cloud.png) | NIPA Cloud · NIPA Cloud | [`nipa-cloud`](svg/color/nipa-cloud.svg) | — | vector | [↗](https://nipa.cloud/_next/static/media/base-N-logo.ccc7391f.svg) |
 | ![](png/color/24/unisyscloud.png) | Unicloud · 紫光云 | [`unisyscloud`](svg/color/unisyscloud.svg) | [✓](svg/color-dark/unisyscloud.svg) | redrawn | [↗](https://www.unicloud.com/upload/images/2024/7/1fd82770e622c26c.png) |
 | ![](png/color/24/e2e-networks.png) | E2E Networks · E2E Networks | [`e2e-networks`](svg/color/e2e-networks.svg) | [✓](svg/color-dark/e2e-networks.svg) | redrawn | [↗](https://www.e2enetworks.com/e2e-cloud-logo.png) |
+| ![](png/color/24/baishan.png) | BaishanCloud · 白山云 | [`baishan`](svg/color/baishan.svg) | [✓](svg/color-dark/baishan.svg) | redrawn | [↗](https://uc.portal.baishancloud.com/static/logo_baishan.png) |
+| ![](png/color/24/21vianet.png) | VNET Group · 世纪互联 | [`21vianet`](svg/color/21vianet.svg) | [✓](svg/color-dark/21vianet.svg) | redrawn | [↗](https://www.vnet.com/home/images/logo.png) |
+| ![](png/color/24/capitalonline.png) | Capitalonline · 首都在线 | [`capitalonline`](svg/color/capitalonline.svg) | — | redrawn | [↗](https://www.capitalonline.net/templets/default/images/title-icon.ico) |
+| ![](png/color/24/netease-cloud.png) | NetEase Shufan · 网易数帆 | [`netease-cloud`](svg/color/netease-cloud.svg) | [✓](svg/color-dark/netease-cloud.svg) | redrawn | [↗](https://nos.netease.com/cloud-website-bucket/202602051555382d6deb18-efae-4b5d-bd00-a47e6d622a5e.png) |
+| ![](png/color/24/zzidc.png) | ZZIDC · 景安网络 | [`zzidc`](svg/color/zzidc.svg) | [✓](svg/color-dark/zzidc.svg) | redrawn | [↗](https://libs.zzidc.com/zzidccom/images/common/logo.png) |
+| ![](png/color/24/xinnet.png) | Xinnet · 新网 | [`xinnet`](svg/color/xinnet.svg) | [✓](svg/color-dark/xinnet.svg) | redrawn | [↗](https://imgi.xinnet.com/static/xinnet/images/newIndex/logo.1a7a2e6.png) |
+| ![](png/color/24/vpsor.png) | GYStack · 硅云 | [`vpsor`](svg/color/vpsor.svg) | [✓](svg/color-dark/vpsor.svg) | redrawn | [↗](https://cdn.vpsor.cn/2.0/img/home/20210912_seo_logo.jpg) |
+| ![](png/color/24/iij.png) | Internet Initiative Japan · 日本互联网倡议 | [`iij`](svg/color/iij.svg) | [✓](svg/color-dark/iij.svg) | redrawn | [↗](https://www.iij.ad.jp/favicon.ico) |
+| ![](png/color/24/hicloud.png) | Chunghwa Telecom hicloud · 中华电信 hicloud | [`hicloud`](svg/color/hicloud.svg) | [✓](svg/color-dark/hicloud.svg) | vector | [↗](https://www.cht.com.tw/home/eshop/-/media/web/images/logo/cht_logo.svg) |
+| ![](png/color/24/viettel-idc.png) | Viettel IDC · 越南 Viettel IDC | [`viettel-idc`](svg/color/viettel-idc.svg) | — | redrawn | [↗](https://portal.viettelidc.com.vn/img/Favicon-IDC.png) |
+| ![](png/color/24/biznet-gio.png) | Biznet Gio · Biznet Gio | [`biznet-gio`](svg/color/biznet-gio.svg) | [✓](svg/color-dark/biznet-gio.svg) | redrawn | [↗](https://web-cms.biznetgio.com/uploads/Biznet_GIO_Logo_1_header_78e8b0eceb.webp) |
 
 ## 贡献 / Contributing
 

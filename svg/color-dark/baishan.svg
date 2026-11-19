@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <g transform="matrix(1 0 0 1 0 0)">
+    <path d="M4 60L23.8 4H40.2L60 60H49.4L36 21H28L14.6 60Z" fill="#53acf0"/>
+    <path d="M23.2 60L29.8 42.4H34.3L40.9 60Z" fill="#ff7162"/>
+  </g>
+</svg>
