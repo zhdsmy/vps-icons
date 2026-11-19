@@ -128,10 +128,11 @@ At 16–32 px (sidebars, server tables, badges), wide wordmarks, hairlines, and 
 | `icons[]` | `object[]` | 图标条目数组。 / Array of icon records. |
 | `slug` | `string` | 唯一文件名标识（小写 `kebab-case`）。 / Unique lowercase `kebab-case` identifier used in paths. |
 | `name` / `names["zh-CN"]` | `string` | 英文主名称与简体中文名称。 / Primary English and Simplified Chinese names. |
-| `aliases` | `string[]` | 搜索别名（缩写、拼音、常见别称）。 / Search aliases for matching provider names. |
+| `aliases` | `string[]` | 每个别名仅指向一个条目。比较别名、slug 和英文名时忽略大小写、空白和标点。 / Each alias identifies one entry across aliases, slugs and English names, ignoring case, whitespace and punctuation. |
 | `website` | `string` | 厂商官网 HTTPS 链接（5 个通用图标指向 `preview.html` 锚点）。 / Official HTTPS website (or `preview.html` anchor for generic icons). |
 | `brandColor` | `string` | 十六进制品牌主色（`#RRGGBB`）。 / Primary hex brand color. |
 | `source` / `monoSource?` | `string` | 主图与可选单色图的原始来源 URL（5 个原创图标为仓库内路径）。 / Provenance URL(s) for primary and optional monochrome masters. |
+| `sourcePage?` / `paletteSource?` | `string` | 图源说明页与配色来源的 HTTPS 链接。 / HTTPS links to the source page and color reference. |
 | `license` | `string` | 该图标对应的授权与商标说明。 / Per-icon license and trademark statement. |
 | `quality` | `string` | 五档来源质量之一（`vector` \| `redrawn` \| `raster` \| `upscaled` \| `placeholder`）。 / One of the five quality tiers. |
 | `processing` | `string[]` | 一次性图形整理与小图/深色处理记录。 / One-time artwork preparation notes. |
@@ -404,3 +405,20 @@ npm ci && npm run build && npm run check
   - **Adobe Source Sans Pro**（`soyoustart` 字体轮廓 / outlines）— SIL OFL-1.1（[`src/LICENSE-OFL-1.1.txt`](src/LICENSE-OFL-1.1.txt)）
   - **Wikimedia Commons (`PD-textlogo`)** — 公有领域文本标识，商标权归权利人所有 / Public domain textlogo; trademark rights reserved
   - **品牌官网直采 / Official brand websites** — 未声明开源许可的均标为专有品牌图稿（Proprietary brand artwork），权利归品牌方所有 / Marked proprietary where no open license is identified
+
+| 允许的 `license` 值 / Accepted license statement | 条目数 / Icons |
+|---|---:|
+| `Proprietary brand artwork; no open license identified` | 125 |
+| `Proprietary brand artwork; no open license identified; CC0-1.0 Simple Icons monochrome balloon, brand rights reserved` | 1 |
+| `Proprietary brand artwork; no open license identified; CC0-1.0 Simple Icons monochrome mark, brand rights reserved` | 2 |
+| `Proprietary brand artwork; no open license identified; Source Sans Pro outlines under SIL OFL-1.1` | 1 |
+| `MIT` | 5 |
+| `MIT (LobeHub artwork); brand rights reserved` | 10 |
+| `CC0-1.0 (Simple Icons collection); brand rights reserved` | 26 |
+| `CC0-1.0 (SVG Logos collection); brand rights reserved` | 9 |
+| `CC0-1.0 (SVG Logos collection); brand rights reserved; CC0-1.0 Simple Icons monochrome mark, brand rights reserved` | 1 |
+| `CC0-1.0 (TheSVG collection); brand rights reserved` | 1 |
+| `CC0-1.0 (auth-badges artwork via theSVG); official mascot and trademarks belong to Time4VPS` | 1 |
+| `Apache-2.0 (Scaleway Ultraviolet); brand rights reserved` | 1 |
+| `Public domain (PD-textlogo, Wikimedia Commons); trademark rights reserved` | 1 |
+| `Public domain (Wikimedia Commons, PD-textlogo); trademark rights reserved by KT.` | 1 |

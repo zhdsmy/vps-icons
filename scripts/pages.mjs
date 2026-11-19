@@ -1,4 +1,4 @@
-import { displayPath, pngPath, qualities, read, svgPath } from './catalog.mjs'
+import { displayPath, licenses, pngPath, qualities, read, svgPath } from './catalog.mjs'
 
 const escape = s => s.replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;').replaceAll('"', '&quot;')
 
@@ -75,6 +75,8 @@ export function readme({ icons, sizes }, template) {
   })
   return template
     .replace('<!-- stats -->', statsBlock)
+    .replace('<!-- licenses -->', [...licenses].map(license =>
+      `| \`${license}\` | ${icons.filter(icon => icon.license === license).length} |`).join('\n'))
     .replace('<!-- sizes -->', sizes.join(' · '))
     .replace('<!-- catalog-note -->', catalogNote)
     .replace('<!-- catalog -->', rows.join('\n'))
