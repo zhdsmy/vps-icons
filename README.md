@@ -202,6 +202,32 @@ Use PNG where the SVG variant list is empty. The index gives the original source
 | ![](png/color/24/servarica.png) | ServaRICA · ServaRICA | [`servarica`](svg/color/servarica.svg) | [✓](svg/color-dark/servarica.svg) | redrawn | [↗](https://servarica.com/logo-icon.png) |
 | ![](png/color/24/krypt.png) | Krypt · Krypt | [`krypt`](svg/color/krypt.svg) | [✓](svg/color-dark/krypt.svg) | redrawn | [↗](https://www.linkedin.com/showcase/kryptcom/) |
 | ![](png/color/24/beget.png) | Beget · Beget | [`beget`](svg/color/beget.svg) | — | redrawn | [↗](https://avatars.githubusercontent.com/u/7524527?v=4&s=512) |
+| ![](png/color/24/coreweave.png) | CoreWeave · CoreWeave | [`coreweave`](svg/color/coreweave.svg) | [✓](svg/color-dark/coreweave.svg) | vector | [↗](https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/coreweave-icon.svg) |
+| ![](png/color/24/lambda.png) | Lambda · Lambda | [`lambda`](svg/color/lambda.svg) | [✓](svg/color-dark/lambda.svg) | vector | [↗](https://lambda.com/hubfs/favicon-48x48-1.svg) |
+| ![](png/color/24/runpod.png) | Runpod · Runpod | [`runpod`](svg/color/runpod.svg) | [✓](svg/color-dark/runpod.svg) | vector | [↗](https://cdn.prod.website-files.com/69ce570adca53340abab8376/69cfb722ebc6a6cfe4f48961_runpod-logo-white.svg) |
+| ![](png/color/24/vast-ai.png) | Vast.ai · Vast.ai | [`vast-ai`](svg/color/vast-ai.svg) | [✓](svg/color-dark/vast-ai.svg) | vector | [↗](https://vast.ai/vast_logo.svg) |
+| ![](png/color/24/paperspace.png) | Paperspace · Paperspace | [`paperspace`](svg/color/paperspace.svg) | [✓](svg/color-dark/paperspace.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/paperspace.svg) |
+| ![](png/color/24/nebius.png) | Nebius · Nebius | [`nebius`](svg/color/nebius.svg) | — | vector | [↗](https://nebius.com/favicon/favicon.svg) |
+| ![](png/color/24/crusoe.png) | Crusoe · Crusoe | [`crusoe`](svg/color/crusoe.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/crusoe-color.svg) |
+| ![](png/color/24/hyperstack.png) | Hyperstack · Hyperstack | [`hyperstack`](svg/color/hyperstack.svg) | [✓](svg/color-dark/hyperstack.svg) | vector | [↗](https://www.hyperstack.cloud/hubfs/hyperstack_2023/home/logo.svg) |
+| ![](png/color/24/modal.png) | Modal · Modal | [`modal`](svg/color/modal.svg) | — | vector | [↗](https://modal.com/assets/favicon.svg) |
+| ![](png/color/24/zeabur.png) | Zeabur · Zeabur | [`zeabur`](svg/color/zeabur.svg) | [✓](svg/color-dark/zeabur.svg) | vector | [↗](https://zeabur.com/logo.svg) |
+| ![](png/color/24/tensordock.png) | TensorDock · TensorDock | [`tensordock`](svg/color/tensordock.svg) | — | vector | [↗](https://www.tensordock.com/assets/favicon/safari-pinned-tab.svg) |
+| ![](png/color/24/deno-deploy.png) | Deno Deploy · Deno Deploy | [`deno-deploy`](svg/color/deno-deploy.svg) | [✓](svg/color-dark/deno-deploy.svg) | vector | [↗](https://deno.com/logos/deploy/mark.svg?__frsh_c=2c7be834343e725c25fa21f2d98d4350fa3b3f96) |
+| ![](png/color/24/cdn77.png) | CDN77 · CDN77 | [`cdn77`](svg/color/cdn77.svg) | [✓](svg/color-dark/cdn77.svg) | vector | [↗](https://www.cdn77.com/safari-pinned-tab.svg) |
+| ![](png/color/24/keycdn.png) | KeyCDN · KeyCDN | [`keycdn`](svg/color/keycdn.svg) | [✓](svg/color-dark/keycdn.svg) | vector | [↗](https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/keycdn-icon.svg) |
+| ![](png/color/24/sealos.png) | Sealos · Sealos | [`sealos`](svg/color/sealos.svg) | — | vector | [↗](https://sealos.io) |
+| ![](png/color/24/advin-servers.png) | Advin Servers · Advin Servers | [`advin-servers`](svg/color/advin-servers.svg) | [✓](svg/color-dark/advin-servers.svg) | vector | [↗](https://advinservers.com/eagle_white.svg) |
+| ![](png/color/24/lunanode.png) | LunaNode · LunaNode | [`lunanode`](svg/color/lunanode.svg) | [✓](svg/color-dark/lunanode.svg) | vector | [↗](https://raw.githubusercontent.com/glincker/thesvg/8980fb3d96d7e20a5ada9b85db56110d529d3c55/public/icons/lunanode-badge/default.svg) |
+| ![](png/color/24/dedibox.png) | Dedibox · Dedibox | [`dedibox`](svg/color/dedibox.svg) | [✓](svg/color-dark/dedibox.svg) | vector | [↗](https://raw.githubusercontent.com/scaleway/ultraviolet/4d3aa101bfbc358782b8353650ccd06fd8df40df/packages/icons/src/components/ProductIcon/assets/primary/dedibox.svg) |
+| ![](png/color/24/ramnode.png) | RamNode · RamNode | [`ramnode`](svg/color/ramnode.svg) | — | redrawn | [↗](https://ramnode.com/lovable-uploads/ramnode-favicon.jpeg) |
+| ![](png/color/24/hostodo.png) | Hostodo · Hostodo | [`hostodo`](svg/color/hostodo.svg) | [✓](svg/color-dark/hostodo.svg) | redrawn | [↗](https://hostodo.com/img/favicon.png) |
+| ![](png/color/24/hosteons.png) | HostEONS · HostEONS | [`hosteons`](svg/color/hosteons.svg) | [✓](svg/color-dark/hosteons.svg) | redrawn | [↗](https://www.google.com/s2/favicons?domain=hosteons.com&sz=256) |
+| ![](png/color/24/letbox.png) | LetBox · LetBox | [`letbox`](svg/color/letbox.svg) | — | redrawn | [↗](https://my.letbox.com/assets/img/logo.png) |
+| ![](png/color/24/webhorizon.png) | WebHorizon · WebHorizon | [`webhorizon`](svg/color/webhorizon.svg) | [✓](svg/color-dark/webhorizon.svg) | redrawn | [↗](https://webhorizon.net/images/favicon.png) |
+| ![](png/color/24/nocix.png) | Nocix · Nocix | [`nocix`](svg/color/nocix.svg) | [✓](svg/color-dark/nocix.svg) | redrawn | [↗](https://www.google.com/s2/favicons?domain=nocix.net&sz=256) |
+| ![](png/color/24/kimsufi.png) | Kimsufi · Kimsufi | [`kimsufi`](svg/color/kimsufi.svg) | [✓](svg/color-dark/kimsufi.svg) | vector | [↗](https://www.kimsufi.com/components/kimsufi/header.6c21aa24/logo.svg) |
+| ![](png/color/24/soyoustart.png) | So you Start · So you Start | [`soyoustart`](svg/color/soyoustart.svg) | [✓](svg/color-dark/soyoustart.svg) | vector | [↗](https://www.soyoustart.com/7af16cdb/contrib/ovh_theme_patternlab/images/logos/soYouStart_logo.svg) |
 
 ## 贡献 / Contributing
 
