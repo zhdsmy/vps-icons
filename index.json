@@ -2597,20 +2597,22 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
-        "Hand-fit the two curves and tapered tips to the blue S in the official header. Reinforce the same silhouette at 16 and 24 px."
+        "Normalize the redrawn S-ribbon SVG, add brightened color-dark (#3DA5FF), and strengthen stroke weight on the 16/24 px small variant."
       ],
       "small": {
-        "artwork": "Reinforced S contour at 16 and 24 px.",
+        "artwork": "Use the stroke-reinforced InterServer S-ribbon at 16 and 24 px.",
         "source": "https://www.interserver.net/assets/images/new/logo.svg",
         "maxSize": 24
       },
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -2631,7 +2633,7 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
-        "Reconstruct the perspective of the three blue server faces, their shaded edges, three vents per face and green lamps against the cyan field. Use vent and lamp cutouts for mono."
+        "Remove the pale cyan favicon tile background so color and monochrome match 1:1 as three clean stacked 3D server blades optically sized to ~50 x 50, and add a lifted color-dark variant."
       ],
       "small": {
         "artwork": "Three server faces with distinct vents and lamps.",
@@ -2640,10 +2642,12 @@
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -2697,7 +2701,7 @@
       "license": "CC0-1.0 (auth-badges artwork via theSVG); official mascot and trademarks belong to Time4VPS",
       "quality": "vector",
       "processing": [
-        "Stack the original TIME4 and VPS letter groups from the CC0 auth-badges vector. Hand-draw the mascot head from the official organization avatar for 16–32 px."
+        "Normalize the official red wordmark for 48+ px, keep the red droplet mark at <= 32 px, and add brightened color-dark variants (#FF454E) for dark backgrounds."
       ],
       "small": {
         "artwork": "Hand-drawn mascot head from the linked official organization avatar for 16–32 px.",
@@ -2707,10 +2711,12 @@
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -2904,7 +2910,7 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
-        "Hand-draw the separated rectangular dot and rounded, four-armed lower shape against the official 400 px avatar. Keep the original gold ink."
+        "Deepen light-mode amber-gold (#DE9100) for white-background legibility while preserving vibrant brand yellow (#FCC237) in color-dark."
       ],
       "small": {
         "artwork": "Use the complete two-part asterisk.",
@@ -2913,10 +2919,12 @@
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -4628,11 +4636,10 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
-        "Reconstruct the two separated red speed lines against the official transparent GitHub avatar. Keep their common narrow tip.",
-        "Apply a 1.7× vertical optical adjustment for 16–32 px."
+        "Normalize the two-wedge speed emblem for 48+ px and provide a vertically boosted bold two-wedge small variant at <= 32 px so 16 px lines stay sharp."
       ],
       "small": {
-        "artwork": "Increase the vertical scale of the two red streaks for 16–32 px.",
+        "artwork": "Use the vertically boosted bold two-wedge InMotion mark at 16, 24, and 32 px.",
         "source": "https://avatars.githubusercontent.com/u/7607996?v=4&s=512",
         "maxSize": 32
       },
@@ -4798,16 +4805,17 @@
         "sharktech.net"
       ],
       "website": "https://sharktech.net",
-      "brandColor": "#12263A",
-      "source": "https://sharktech.net/assets/sharktech-logo.png",
+      "brandColor": "#3E5EE6",
+      "source": "https://s3-eu-west-1.amazonaws.com/tpd/logos/59fd07170000ff0005af7aeb/0x0.png",
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
-        "Reconstruct the shark-fin A embedded in the official white wordmark, keeping the open counter and the wave at its base."
+        "Trace the official isolated blue-to-violet shark-fin mark from Sharktech's claimed Trustpilot profile (direct sharktech.net asset fails TLS handshake), add brightened color-dark gradient, and reinforce strokes at 16/24 px."
       ],
       "small": {
-        "artwork": "Use the isolated brand symbol at 16 px.",
-        "source": "https://sharktech.net/assets/sharktech-logo.png"
+        "artwork": "Use the stroke-reinforced shark-fin mark at 16 and 24 px.",
+        "source": "https://s3-eu-west-1.amazonaws.com/tpd/logos/59fd07170000ff0005af7aeb/0x0.png",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -4838,11 +4846,10 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
-        "Draw the six tapered arcs of the current official manifest icon. Keep the open spaces between the interleaved orbits.",
-        "Scale the orbits vertically and reinforce their thin tips in the compact master."
+        "Normalize the redrawn spiral galaxy emblem, brighten dark-mode indigo (#8FA2FF), and reinforce the vertically boosted <= 32 px small variant for 16 px legibility."
       ],
       "small": {
-        "artwork": "Vertically opened and reinforced orbital contours at 16–32 px.",
+        "artwork": "Use the stroke-reinforced vertically boosted Atlantic.Net spiral at 16, 24, and 32 px.",
         "source": "https://www.atlantic.net/wp-content/themes/anet/img/site/icons/icon-512-any.png",
         "maxSize": 32
       },
@@ -4875,11 +4882,12 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
-        "Redraw the three diagonal bands and arrow from the official app mark. Keep the negative-space channels between the horizontal fins."
+        "Normalize the redrawn S-arrow mark for 32+ px, keep lightened blue in color-dark, and simplify to a bold anti-moire 2-band S-arrow at 16 and 24 px."
       ],
       "small": {
-        "artwork": "Use the isolated brand symbol at 16 px.",
-        "source": "https://servarica.com/logo-icon.png"
+        "artwork": "Use the simplified bold Servarica S-arrow at 16 and 24 px.",
+        "source": "https://servarica.com/logo-icon.png",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -4910,7 +4918,7 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
-        "Rebuild the blue Kr tile from the provider’s company profile. Enlarge the periodic-table symbol and omit its tiny index so the letter pair stays readable."
+        "Optically size the Kr rounded-square badge to 50 x 50, deepen light-mode cyan (#0094D4) for white backgrounds, add bright #2AC3FF in color-dark, and punch Kr out of the badge in monochrome."
       ],
       "small": {
         "artwork": "Use the isolated brand symbol at 16 px.",
@@ -4919,10 +4927,12 @@
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]

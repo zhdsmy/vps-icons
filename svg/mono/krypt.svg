@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="currentColor"><g transform="matrix(1.0181818 0 0 1.0181818 -9.236364 -11.272727)"><path d="M13 20H19V39L37 20H45L27 39L46 65H38L23 44L19 48V65H13Z"/><path d="M51 34H57V39Q60 32 68 34V41Q62 39 59 43Q57 47 57 52V65H51Z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="currentColor">
+  <g transform="translate(3.429 3.429) scale(0.89286)">
+    <path transform="matrix(0.7000000 0 0 0.7000000 4.000000 4.000000)" fill="currentColor" fill-rule="evenodd" d="M9 0H71A9 9 0 0 1 80 9V71A9 9 0 0 1 71 80H9A9 9 0 0 1 0 71V9A9 9 0 0 1 9 0Z M13 20H19V39L37 20H45L27 39L46 65H38L23 44L19 48V65H13Z M51 34H57V39Q60 32 68 34V41Q62 39 59 43Q57 47 57 52V65H51Z"/>
+  </g>
+</svg>

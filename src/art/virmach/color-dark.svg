@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <g transform="translate(2.56 2.56) scale(0.92)">
+    <g transform="matrix(0.2886598 0 0 0.2886598 0.536082 -0.618557)">
+      <path fill="#1560BD" d="M34 29L27 43L26 86L33 82Z"/><path fill="#1652D1" d="M33 82L193 85L161 90L26 86Z"/><path fill="#3B9EFF" d="M34 29L193 39V85L33 82Z"/><path fill="#FFFFFF" d="M39 34l6 .2l-.5 42l-6 -.1Z"/><path fill="#FFFFFF" d="M50 34l6 .2l-.5 42l-6 -.1Z"/><path fill="#FFFFFF" d="M61 35l6 .2l-.5 42l-6 -.1Z"/><path fill="#2EFF5E" d="M180 48a4.5 5 0 1 0 9 0a4.5 5 0 1 0 -9 0Z"/><path fill="#1560BD" d="M34 91L27 105L26 145L33 141Z"/><path fill="#1652D1" d="M33 141L193 143L161 148L26 145Z"/><path fill="#3B9EFF" d="M34 91L193 89V143L33 141Z"/><path fill="#FFFFFF" d="M39 96l6 .2l-.5 39l-6 -.1Z"/><path fill="#FFFFFF" d="M50 96l6 .2l-.5 39l-6 -.1Z"/><path fill="#FFFFFF" d="M61 96l6 .2l-.5 39l-6 -.1Z"/><path fill="#2EFF5E" d="M180 98a4.5 5 0 1 0 9 0a4.5 5 0 1 0 -9 0Z"/><path fill="#1560BD" d="M34 151L27 165L26 207L33 203Z"/><path fill="#1652D1" d="M33 203L193 190L161 195L26 207Z"/><path fill="#3B9EFF" d="M34 151L193 148V190L33 203Z"/><path fill="#FFFFFF" d="M39 156l6 .2l-.5 41l-6 -.1Z"/><path fill="#FFFFFF" d="M50 156l6 .2l-.5 41l-6 -.1Z"/><path fill="#FFFFFF" d="M61 156l6 .2l-.5 41l-6 -.1Z"/><path fill="#2EFF5E" d="M180 157a4.5 5 0 1 0 9 0a4.5 5 0 1 0 -9 0Z"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs><linearGradient id="st-grad" gradientUnits="userSpaceOnUse" x1="210" y1="20" x2="360" y2="160"><stop stop-color="#3B6BE8"/><stop offset="1" stop-color="#5F26CA"/></linearGradient></defs>
+  <g transform="translate(1.28 1.28) scale(0.96) matrix(0.3333333 0 0 0.3333333 -62.166667 3.666667)">
+    <path fill="url(#st-grad)" stroke="url(#st-grad)" stroke-width="3.6" stroke-linejoin="round" d="M358 1C343 28 334 65 338 98Q339 117 344 132C335 124 327 93 324 39C287 65 262 91 242 123C270 119 306 149 359 136L360 144C311 169 281 139 253 140Q228 145 205 169C221 102 276 39 358 1Z"/>
+  </g>
+</svg>
