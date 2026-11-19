@@ -2055,7 +2055,7 @@
     ],
     "small": {
       "artwork": "The rs monogram follows the official touch icon and uses the original wordmark letterforms.",
-      "source": "https://www.reliablesite.net/apple-touch-icon.png"
+      "source": "https://web.archive.org/web/20241218043321im_/https://www.reliablesite.net/apple-touch-icon.png"
     }
   },
   {
@@ -2370,14 +2370,15 @@
     "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
     "quality": "redrawn",
     "format": "svg",
-    "hasDark": false,
+    "hasDark": true,
     "processing": [
-      "Reconstruct the arched cap, reflection, shaded base, rising peak and stepped trail of the official mark. Use local gradients in color and the outline of the same pieces in monochrome."
+      "Reconstruct the arched cap, reflection, shaded base, rising peak and stepped trail of the official mark. Use brightened gradients on dark surfaces and vertically boost a simplified silhouette without micro trailing dots through 24 px."
     ],
     "small": {
-      "artwork": "Use the isolated brand symbol at sidebar sizes.",
+      "artwork": "Vertically boost the core cloud-peak mark and omit trailing micro-dots at 16–24 px.",
       "source": "https://www.lcayun.com/themes/web/LcayunM1/assets/img/logo.png"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "lightnode",
@@ -2470,13 +2471,13 @@
     "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
     "quality": "vector",
     "format": "svg",
-    "hasDark": false,
+    "hasDark": true,
     "processing": [
-      "Use the company documentation favicon paths, original rounded tile and horizontal gradient. Remove the redundant full-canvas mask. The compact color master reproduces the gradient over the original navy before omitting the tile."
+      "Use the company documentation favicon paths, original rounded tile optically scaled to 50×50, and horizontal gradient. Knock the seamed three-lobe cloud out of the tile in monochrome, lift the dark tile contrast, and tint the tile-free compact light gradient so the left lobe stays visible on white."
     ],
     "small": {
       "source": "https://docs.nhncloud.com/ko/img/favicons/safari-pinned-tab.svg",
-      "artwork": "Show the three original shapes without the tile through 32 px. Open the overlaps in single ink."
+      "artwork": "Show the three original shapes without the tile through 32 px, tinted on light surfaces and white-highlighted on dark surfaces; open the overlaps in single ink."
     },
     "smallMax": 32
   },
@@ -2521,9 +2522,9 @@
     "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
     "quality": "redrawn",
     "format": "svg",
-    "hasDark": false,
+    "hasDark": true,
     "processing": [
-      "Redraw the rounded italic Z and the slightly slanted circular field of the original site icon. Recreate the blue-to-violet gradient and use the Z alone in monochrome."
+      "Redraw the rounded italic Z and the slightly slanted circular field of the original site icon. Recreate the blue-to-violet gradient with lifted dark-mode stops and punch the Z out of the circular badge in monochrome."
     ],
     "small": {
       "artwork": "Use the isolated brand symbol at sidebar sizes.",
@@ -2547,12 +2548,13 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Reconstruct the cloud outline, the two tapering leaves and the three stepped fragments from the official transparent wordmark. Use the favicon blue on light surfaces and white on dark surfaces."
+      "Reconstruct the cloud outline, the two tapering leaves and the three stepped fragments from the official transparent wordmark. Use brand blue on light surfaces, brightened blue on dark surfaces, and a stroke-reinforced compact master without the three tiny bottom fragments through 24 px."
     ],
     "small": {
-      "artwork": "Use the isolated brand symbol at sidebar sizes.",
+      "artwork": "Reinforce the cloud and leaf stroke weight and omit the three microscopic bottom fragments at 16–24 px.",
       "source": "https://www.yecaoyun.com/Public/Home/img/logo.png"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "kingsoft-cloud",
@@ -2618,18 +2620,19 @@
     ],
     "website": "https://www.cucloud.cn/",
     "brandColor": "#E50027",
-    "source": "https://www.cucloud.cn/templets/1/default/images/about-woyun-logo.png",
+    "source": "https://web.archive.org/web/20261018200308im_/https://www.cucloud.cn/templets/1/default/images/about-woyun-logo.png",
     "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
     "quality": "redrawn",
     "format": "svg",
-    "hasDark": false,
+    "hasDark": true,
     "processing": [
-      "Redraw the open cloud segments and the four symmetrical knot loops from the official lockup. Use compound paths for the crossing and its four open counters."
+      "Redraw the open cloud segments and the four symmetrical knot loops from the official lockup. Use compound paths for the crossing and its four open counters, a brightened red on dark surfaces, and a stroke-reinforced compact master through 24 px."
     ],
     "small": {
-      "artwork": "Use the isolated brand symbol at sidebar sizes.",
-      "source": "https://www.cucloud.cn/templets/1/default/images/about-woyun-logo.png"
-    }
+      "artwork": "Reinforce the cloud arcs and inner knot weight for legibility at 16–24 px.",
+      "source": "https://web.archive.org/web/20261018200308im_/https://www.cucloud.cn/templets/1/default/images/about-woyun-logo.png"
+    },
+    "smallMax": 24
   },
   {
     "slug": "west-cn",
@@ -2697,9 +2700,9 @@
     "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
     "quality": "redrawn",
     "format": "svg",
-    "hasDark": false,
+    "hasDark": true,
     "processing": [
-      "Reconstruct the square field and the two HC letterforms from the 256 px company favicon. Use the lettering alone in single ink."
+      "Reconstruct the square field optically scaled to 50×50 and the two HC letterforms from the 256 px company favicon. Lift the blue tile on dark surfaces and punch HC out of the square badge in monochrome."
     ],
     "small": {
       "artwork": "Use the isolated brand symbol at sidebar sizes.",
@@ -3059,7 +3062,7 @@
     ],
     "website": "https://www.siteground.com",
     "brandColor": "#96CB4C",
-    "source": "https://static-cdn.siteground.com/assets/img/svg/logos/sg_black.svg",
+    "source": "https://web.archive.org/web/20240806201808im_/https://static-cdn.siteground.com/assets/img/svg/logos/sg_black.svg",
     "license": "Proprietary brand artwork; no open license identified",
     "quality": "vector",
     "format": "svg",
@@ -3070,7 +3073,7 @@
     ],
     "small": {
       "artwork": "Use the isolated brand symbol at 16 px.",
-      "source": "https://static-cdn.siteground.com/assets/img/svg/logos/sg_black.svg"
+      "source": "https://web.archive.org/web/20240806201808im_/https://static-cdn.siteground.com/assets/img/svg/logos/sg_black.svg"
     }
   },
   {
