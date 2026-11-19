@@ -1410,12 +1410,13 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Retain the complete outlined badge. Use light lavender ink on dark surfaces."
+      "Normalize the official SVG mark to the 64-unit canvas, add a lightened color-dark variant, and provide a stroke-reinforced 16/24 px small variant."
     ],
     "small": {
-      "artwork": "Use the isolated brand symbol at 16 px.",
+      "artwork": "Use the stroke-reinforced Heroku frame and H mark at 16 and 24 px.",
       "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/heroku-icon.svg"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "netlify",
@@ -1529,9 +1530,9 @@
     "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
     "quality": "vector",
     "format": "svg",
-    "hasDark": false,
+    "hasDark": true,
     "processing": [
-      "Center the Simple Icons symbol with optical padding. Apply the collection brand color."
+      "Normalize the Simple Icons flame SVG to the 64-unit canvas and add a brightened red color-dark variant (#FF545E) for dark backgrounds."
     ],
     "small": {
       "artwork": "Use the isolated brand symbol at 16 px.",
@@ -1553,9 +1554,9 @@
     "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
     "quality": "vector",
     "format": "svg",
-    "hasDark": false,
+    "hasDark": true,
     "processing": [
-      "Center the Simple Icons symbol with optical padding. Apply the collection brand color."
+      "Normalize the Simple Icons mark to the 64-unit canvas, strengthen green contrast on light backgrounds (#00A832), and add vibrant #1CE056 in color-dark."
     ],
     "small": {
       "artwork": "Use the isolated brand symbol at 16 px.",
@@ -1580,12 +1581,13 @@
     "format": "svg",
     "hasDark": false,
     "processing": [
-      "Center the Simple Icons symbol with optical padding. Apply the collection brand color."
+      "Normalize the Simple Icons SVG to the 64-unit canvas and add a stroke-reinforced 16/24 px small variant for sidebar legibility."
     ],
     "small": {
-      "artwork": "Use the isolated brand symbol at 16 px.",
+      "artwork": "Use the stroke-reinforced Yandex Cloud mark at 16 and 24 px.",
       "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/yandexcloud.svg"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "fly-io",
@@ -1605,7 +1607,7 @@
     "format": "svg",
     "hasDark": false,
     "processing": [
-      "Isolate the three illustrated paths and sky gradient from the official lockup. Use the standalone balloon outline in mono and on both surfaces at 16 and 24 px."
+      "Optically size the official rounded-square balloon emblem to 50 x 47 on the 64-unit canvas and use the Simple Icons balloon silhouette for monochrome and <= 24 px sizes."
     ],
     "small": {
       "artwork": "Standalone balloon symbol, using purple ink at 16 and 24 px.",
@@ -1704,12 +1706,13 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Lift the LW letter pair out of its favicon tile and center it at a larger size. Use the original light and dark inks."
+      "Extract the LW monogram from the official favicon SVG onto the 64-unit canvas, invert to white in color-dark, and add a stroke-reinforced 16/24 px small variant."
     ],
     "small": {
-      "artwork": "Use the isolated brand symbol at 16 px.",
+      "artwork": "Use the stroke-reinforced LW monogram at 16 and 24 px.",
       "source": "https://res.cloudinary.com/lwcom/images/f_svg,q_auto/fl_sanitize/v1776858458/prod/favicon/favicon.svg"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "dreamhost",
@@ -1777,12 +1780,13 @@
     "format": "svg",
     "hasDark": false,
     "processing": [
-      "Extract the nine blue grid cells from the native vector. Center the grid as one symbol."
+      "Extract the 3 x 3 square grid from the official Bluehost logo SVG, optically size to 50 x 50 at 24+ px, and provide a pixel-aligned 16 px small grid."
     ],
     "small": {
-      "artwork": "Use the isolated brand symbol at 16 px.",
+      "artwork": "Use the pixel-aligned 3 x 3 square grid at 16 px.",
       "source": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bluehost_logo_2019.svg"
-    }
+    },
+    "smallMax": 16
   },
   {
     "slug": "cherry-servers",
@@ -1824,9 +1828,9 @@
     "license": "Proprietary brand artwork; no open license identified",
     "quality": "vector",
     "format": "svg",
-    "hasDark": false,
+    "hasDark": true,
     "processing": [
-      "Retain the citron favicon tile and black L. Center the standalone L for the monochrome master."
+      "Optically size the official neon-lime rounded-square badge to 50 x 48, add a subtle lime edge for light-background definition, keep pure #E0FE56 in color-dark, and punch the L out of the badge in monochrome."
     ],
     "small": {
       "artwork": "Use the isolated brand symbol at 16 px.",
@@ -1961,7 +1965,7 @@
     "format": "svg",
     "hasDark": false,
     "processing": [
-      "Extract the accented é key from the official four-key wordmark and retain its raised-key shading. Use the é glyph alone for monochrome."
+      "Optically size the official rounded-square badge to 50 x 50, deepen its gray border slightly for light-background clarity, and punch the accented e out of the badge in monochrome."
     ],
     "small": {
       "artwork": "Use the accented é key from the official Aéza wordmark.",
@@ -2009,7 +2013,7 @@
     "format": "svg",
     "hasDark": false,
     "processing": [
-      "Preserve the official colored favicon tile and center its standalone foreground symbol for mono."
+      "Optically size the official red rounded-square S badge to 50 x 50 and punch the S out of the rounded square in monochrome."
     ],
     "small": {
       "artwork": "Use the isolated brand symbol at 16 px.",
@@ -2032,9 +2036,9 @@
     "license": "Proprietary brand artwork; no open license identified",
     "quality": "vector",
     "format": "svg",
-    "hasDark": false,
+    "hasDark": true,
     "processing": [
-      "Preserve the official colored favicon tile and center its standalone foreground symbol for mono."
+      "Optically size the official indigo rounded-square chevron badge to 50 x 50, add a brightened color-dark variant (#6269FF), and punch the chevron out of the badge in monochrome."
     ],
     "small": {
       "artwork": "Use the isolated brand symbol at 16 px.",
