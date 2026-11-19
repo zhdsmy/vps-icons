@@ -3539,5 +3539,251 @@
       "source": "https://avatars.githubusercontent.com/u/7524527?v=4&s=512"
     },
     "smallMax": 32
+  },
+  {
+    "slug": "coreweave",
+    "name": "CoreWeave",
+    "names": {
+      "zh-CN": "CoreWeave"
+    },
+    "aliases": [
+      "core weave"
+    ],
+    "website": "https://www.coreweave.com",
+    "brandColor": "#2741E7",
+    "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/coreweave-icon.svg",
+    "license": "CC0-1.0 (SVG Logos collection); brand rights reserved",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Center the two paths of the CW mark and reverse the black strokes on dark backgrounds."
+    ],
+    "small": {
+      "artwork": "Use the standalone brand mark at 16 px.",
+      "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/coreweave-icon.svg"
+    }
+  },
+  {
+    "slug": "lambda",
+    "name": "Lambda",
+    "names": {
+      "zh-CN": "Lambda"
+    },
+    "aliases": [
+      "lambda cloud",
+      "lambda labs",
+      "lambdalabs"
+    ],
+    "website": "https://lambda.com",
+    "brandColor": "#171717",
+    "source": "https://lambda.com/hubfs/favicon-48x48-1.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Separate the framed lambda from the black favicon tile and reverse the ink on dark backgrounds."
+    ],
+    "small": {
+      "artwork": "Use the standalone brand mark at 16 px.",
+      "source": "https://lambda.com/hubfs/favicon-48x48-1.svg"
+    }
+  },
+  {
+    "slug": "runpod",
+    "name": "Runpod",
+    "names": {
+      "zh-CN": "Runpod"
+    },
+    "aliases": [
+      "runpod.io"
+    ],
+    "website": "https://www.runpod.io",
+    "brandColor": "#6730F0",
+    "source": "https://cdn.prod.website-files.com/69ce570adca53340abab8376/69cfb722ebc6a6cfe4f48961_runpod-logo-white.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Lift the three-dimensional cube from the official navigation wordmark using the purple favicon palette."
+    ],
+    "small": {
+      "artwork": "Use the standalone brand mark at 16 px.",
+      "source": "https://cdn.prod.website-files.com/69ce570adca53340abab8376/69cfb722ebc6a6cfe4f48961_runpod-logo-white.svg"
+    }
+  },
+  {
+    "slug": "vast-ai",
+    "name": "Vast.ai",
+    "names": {
+      "zh-CN": "Vast.ai"
+    },
+    "aliases": [
+      "vast.ai",
+      "vastai"
+    ],
+    "website": "https://vast.ai",
+    "brandColor": "#15191B",
+    "source": "https://vast.ai/vast_logo.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Isolate the outlined V from the company lockup, using the original light ink on dark surfaces."
+    ],
+    "small": {
+      "artwork": "Use the standalone brand mark at 16 px.",
+      "source": "https://vast.ai/vast_logo.svg"
+    }
+  },
+  {
+    "slug": "paperspace",
+    "name": "Paperspace",
+    "names": {
+      "zh-CN": "Paperspace"
+    },
+    "aliases": [
+      "paperspace cloud",
+      "digitalocean paperspace"
+    ],
+    "website": "https://www.paperspace.com",
+    "brandColor": "#151515",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/paperspace.svg",
+    "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Center the native Paperspace P and its two concentric contours. Use white ink on dark surfaces."
+    ],
+    "small": {
+      "artwork": "Use the standalone brand mark at 16 px.",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/paperspace.svg"
+    }
+  },
+  {
+    "slug": "nebius",
+    "name": "Nebius",
+    "names": {
+      "zh-CN": "Nebius"
+    },
+    "aliases": [
+      "nebius ai cloud"
+    ],
+    "website": "https://nebius.com",
+    "brandColor": "#DAFF33",
+    "source": "https://nebius.com/favicon/favicon.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Keep the two brand-colored favicon paths and lift the N out of the tile for mono."
+    ],
+    "small": {
+      "artwork": "Use the standalone brand mark at 16 px.",
+      "source": "https://nebius.com/favicon/favicon.svg"
+    }
+  },
+  {
+    "slug": "crusoe",
+    "name": "Crusoe",
+    "names": {
+      "zh-CN": "Crusoe"
+    },
+    "aliases": [
+      "crusoe cloud"
+    ],
+    "website": "https://www.crusoe.ai",
+    "brandColor": "#C73361",
+    "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/crusoe-color.svg",
+    "license": "MIT (LobeHub artwork); brand rights reserved",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Retain the native warm gradient and use the same leaf contour for mono."
+    ],
+    "small": {
+      "artwork": "Use the standalone brand mark at 16 px.",
+      "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/crusoe-color.svg"
+    }
+  },
+  {
+    "slug": "hyperstack",
+    "name": "Hyperstack",
+    "names": {
+      "zh-CN": "Hyperstack"
+    },
+    "aliases": [
+      "hyperstack cloud",
+      "nexgen cloud"
+    ],
+    "website": "https://www.hyperstack.cloud",
+    "brandColor": "#9D32BC",
+    "source": "https://www.hyperstack.cloud/hubfs/hyperstack_2023/home/logo.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Keep the original ribbon contour and its purple gradient. Center the three segments as one symbol."
+    ],
+    "small": {
+      "artwork": "Use the standalone brand mark at 16 px.",
+      "source": "https://www.hyperstack.cloud/hubfs/hyperstack_2023/home/logo.svg"
+    }
+  },
+  {
+    "slug": "modal",
+    "name": "Modal",
+    "names": {
+      "zh-CN": "Modal"
+    },
+    "aliases": [
+      "modal labs"
+    ],
+    "website": "https://modal.com",
+    "brandColor": "#09AF58",
+    "source": "https://modal.com/assets/favicon.svg",
+    "license": "Proprietary brand artwork; no open license identified; CC0-1.0 Simple Icons monochrome mark, brand rights reserved",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Preserve all green folded facets of the official M. Use the open Simple Icons linework for mono."
+    ],
+    "small": {
+      "artwork": "Use the standalone brand mark at 16 px.",
+      "source": "https://modal.com/assets/favicon.svg"
+    },
+    "monoSource": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/modal.svg"
+  },
+  {
+    "slug": "zeabur",
+    "name": "Zeabur",
+    "names": {
+      "zh-CN": "Zeabur"
+    },
+    "aliases": [
+      "zeabur cloud"
+    ],
+    "website": "https://zeabur.com",
+    "brandColor": "#6300FF",
+    "source": "https://zeabur.com/logo.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Use the three official Z paths. Reverse the charcoal ribbon segment on dark surfaces."
+    ],
+    "small": {
+      "artwork": "Use the standalone brand mark at 16 px.",
+      "source": "https://zeabur.com/logo.svg"
+    }
   }
 ]

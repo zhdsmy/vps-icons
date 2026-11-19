@@ -203,6 +203,16 @@ Use PNG where the SVG variant list is empty. The index gives the original source
 | ![](png/color/24/servarica.png) | ServaRICA · ServaRICA | [`servarica`](svg/color/servarica.svg) | [✓](svg/color-dark/servarica.svg) | redrawn | [↗](https://servarica.com/logo-icon.png) |
 | ![](png/color/24/krypt.png) | Krypt · Krypt | [`krypt`](svg/color/krypt.svg) | — | redrawn | [↗](https://www.linkedin.com/showcase/kryptcom/) |
 | ![](png/color/24/beget.png) | Beget · Beget | [`beget`](svg/color/beget.svg) | — | redrawn | [↗](https://avatars.githubusercontent.com/u/7524527?v=4&s=512) |
+| ![](png/color/24/coreweave.png) | CoreWeave · CoreWeave | [`coreweave`](svg/color/coreweave.svg) | [✓](svg/color-dark/coreweave.svg) | vector | [↗](https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/coreweave-icon.svg) |
+| ![](png/color/24/lambda.png) | Lambda · Lambda | [`lambda`](svg/color/lambda.svg) | [✓](svg/color-dark/lambda.svg) | vector | [↗](https://lambda.com/hubfs/favicon-48x48-1.svg) |
+| ![](png/color/24/runpod.png) | Runpod · Runpod | [`runpod`](svg/color/runpod.svg) | [✓](svg/color-dark/runpod.svg) | vector | [↗](https://cdn.prod.website-files.com/69ce570adca53340abab8376/69cfb722ebc6a6cfe4f48961_runpod-logo-white.svg) |
+| ![](png/color/24/vast-ai.png) | Vast.ai · Vast.ai | [`vast-ai`](svg/color/vast-ai.svg) | [✓](svg/color-dark/vast-ai.svg) | vector | [↗](https://vast.ai/vast_logo.svg) |
+| ![](png/color/24/paperspace.png) | Paperspace · Paperspace | [`paperspace`](svg/color/paperspace.svg) | [✓](svg/color-dark/paperspace.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/paperspace.svg) |
+| ![](png/color/24/nebius.png) | Nebius · Nebius | [`nebius`](svg/color/nebius.svg) | — | vector | [↗](https://nebius.com/favicon/favicon.svg) |
+| ![](png/color/24/crusoe.png) | Crusoe · Crusoe | [`crusoe`](svg/color/crusoe.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/crusoe-color.svg) |
+| ![](png/color/24/hyperstack.png) | Hyperstack · Hyperstack | [`hyperstack`](svg/color/hyperstack.svg) | — | vector | [↗](https://www.hyperstack.cloud/hubfs/hyperstack_2023/home/logo.svg) |
+| ![](png/color/24/modal.png) | Modal · Modal | [`modal`](svg/color/modal.svg) | — | vector | [↗](https://modal.com/assets/favicon.svg) |
+| ![](png/color/24/zeabur.png) | Zeabur · Zeabur | [`zeabur`](svg/color/zeabur.svg) | [✓](svg/color-dark/zeabur.svg) | vector | [↗](https://zeabur.com/logo.svg) |
 
 ## 贡献 / Contributing
 
