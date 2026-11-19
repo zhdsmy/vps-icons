@@ -6002,10 +6002,11 @@
       "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
       "quality": "vector",
       "processing": [
-        "Center the original wordmark in the standard master; isolate the leading letter for sidebar sizes."
+        "Center the original wordmark in the standard master; isolate the leading letter for sidebar sizes.",
+        "Size the compact C badge to 50 units, use a brighter blue on dark, and cut the same C out of the monochrome tile."
       ],
       "small": {
-        "artwork": "Use the native first letter through 32 px, following the official favicon.",
+        "artwork": "Use the rounded C tile through 32 px, with a matching knockout for monochrome.",
         "source": "https://img.cafe24.com/images/common/cafe24.svg",
         "maxSize": 32
       },
@@ -6039,7 +6040,8 @@
       "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
       "quality": "vector",
       "processing": [
-        "Select the four paper-plane paths above the wordmark. Keep an open crease in the monochrome silhouette."
+        "Select the four paper-plane paths above the wordmark. Keep an open crease in the monochrome silhouette.",
+        "Deepen the cyan wings on white so the outer paper-plane edges and blue crease stay visible."
       ],
       "small": {
         "artwork": "Use the isolated brand mark at sidebar sizes.",
@@ -6075,10 +6077,10 @@
       "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
       "quality": "vector",
       "processing": [
-        "Retain the original console favicon tile and white cloud. Use the isolated cloud silhouette in monochrome."
+        "Fit the official blue console tile to 50 units and cut the original cloud out of the same rounded tile for monochrome."
       ],
       "small": {
-        "artwork": "Use the isolated brand mark at sidebar sizes.",
+        "artwork": "Use the 50-unit tile with its cloud in color and as a monochrome knockout.",
         "source": "https://console.idcloudhost.com/app/favicon.svg"
       },
       "variants": {
@@ -6109,7 +6111,8 @@
       "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
       "quality": "vector",
       "processing": [
-        "Extract the three hexagonal e emblem paths to the left of the support logo. Retain the letter counter in monochrome."
+        "Extract the three hexagonal e emblem paths to the left of the support logo. Retain the letter counter in monochrome.",
+        "Lift the blue hexagon on dark backgrounds while keeping its white e and blue counter."
       ],
       "small": {
         "artwork": "Use the isolated brand mark at sidebar sizes.",
@@ -6118,10 +6121,12 @@
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -6143,7 +6148,8 @@
       "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
       "quality": "vector",
       "processing": [
-        "Isolate the brand mark from the official vector and center its visible bounds on a 64-unit canvas."
+        "Isolate the brand mark from the official vector and center its visible bounds on a 64-unit canvas.",
+        "Raise the luminance of the magenta gradient on dark backgrounds so both ribbon ends remain visible."
       ],
       "small": {
         "artwork": "Use the isolated brand mark at sidebar sizes.",
@@ -6152,10 +6158,12 @@
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -6214,11 +6222,12 @@
       "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
       "quality": "redrawn",
       "processing": [
-        "Redraw the cloud outline and the three rectilinear E2E characters from the official cloud header."
+        "Redraw the cloud outline and the three rectilinear E2E characters from the official cloud header.",
+        "Fit the compact documentation badge to 50 units and open the letter counters for the sidebar."
       ],
       "small": {
         "source": "https://docs.e2enetworks.com/favicon.svg",
-        "artwork": "Use the documentation favicon’s blue E2E tile through 32 px. Outline its lettering and knock it out for monochrome.",
+        "artwork": "Use the 50-unit documentation tile through 32 px, with taller E2E lettering and matching monochrome cutouts.",
         "maxSize": 32
       },
       "variants": {
@@ -6325,10 +6334,11 @@
       "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
       "quality": "redrawn",
       "processing": [
-        "Fit curves to the orange CDS lettering in the official favicon. Preserve the horizontal bands; use the striped C for sidebar exports."
+        "Fit curves to the orange CDS lettering in the official favicon. Preserve the horizontal bands; use the striped C for sidebar exports.",
+        "Consolidate the compact striped C into four heavier bands with open horizontal gaps."
       ],
       "small": {
-        "artwork": "Use the enlarged C and its scan lines through 32 px.",
+        "artwork": "Use the striped C with four separated bands through 32 px.",
         "source": "https://www.capitalonline.net/templets/default/images/title-icon.ico",
         "maxSize": 32
       },
@@ -6398,10 +6408,11 @@
       "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
       "quality": "redrawn",
       "processing": [
-        "Reconstruct the three segments of the globe above the GAINET wordmark. Adapt the official white silhouette to charcoal on light backgrounds."
+        "Reconstruct the three segments of the globe above the GAINET wordmark. Adapt the official white silhouette to charcoal on light backgrounds.",
+        "Broaden the three globe strokes and give the arc more height in the compact master."
       ],
       "small": {
-        "artwork": "Increase the depth and separation of the three globe segments through 32 px.",
+        "artwork": "Use a taller three-segment globe with broader strokes through 32 px.",
         "source": "https://libs.zzidc.com/zzidccom/images/common/logo.png",
         "maxSize": 32
       },
@@ -6472,7 +6483,8 @@
       "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
       "quality": "redrawn",
       "processing": [
-        "Rebuild the overlapping cyan and blue cloud lobes and the detached dot using the GYStack header artwork and vpsor.cn favicon."
+        "Rebuild the overlapping cyan and blue cloud lobes and the detached dot using the GYStack header artwork and vpsor.cn favicon.",
+        "Deepen the cyan lobe, detached dot and fold for light backgrounds."
       ],
       "small": {
         "artwork": "Use the isolated brand mark at sidebar sizes.",
@@ -6508,12 +6520,13 @@
       "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
       "quality": "redrawn",
       "processing": [
-        "Reconstruct the two slab-serif I forms, hooked J and red dot from the official browser icon; retain the entire monogram."
+        "Reconstruct the two slab-serif I forms, hooked J and red dot from the official browser icon; retain the entire monogram.",
+        "Use taller stems, four-unit slab serifs, a wider J hook and a distinct red dot in the compact monogram."
       ],
       "small": {
-        "artwork": "Thicken the serifs on the IIJ monogram through 32 px to keep the tops and feet visible.",
+        "artwork": "Use reinforced IIJ lettering, one-pixel slab serifs at 16 px, and a separate dot through 24 px.",
         "source": "https://www.iij.ad.jp/favicon.ico",
-        "maxSize": 32
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -6546,11 +6559,13 @@
       "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
       "quality": "vector",
       "processing": [
-        "Extract the striped round emblem from the operator’s official SVG. The hicloud portal header uses the same mark."
+        "Extract the striped round emblem from the operator’s official SVG. The hicloud portal header uses the same mark.",
+        "Simplify the horizontal globe stripes at sidebar sizes, keeping the central bar and lower-right hook."
       ],
       "small": {
-        "artwork": "Use the isolated brand mark at sidebar sizes.",
-        "source": "https://www.cht.com.tw/home/eshop/-/media/web/images/logo/cht_logo.svg"
+        "artwork": "Use widely separated horizontal bands at 16 and 24 px.",
+        "source": "https://www.cht.com.tw/home/eshop/-/media/web/images/logo/cht_logo.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -6617,7 +6632,8 @@
       "quality": "redrawn",
       "processing": [
         "Redraw the isolated green B ribbon from the official Biznet GioCloud header and use a directional gradient for the folded surface.",
-        "Lift the green stops for dark backgrounds."
+        "Lift the green stops for dark backgrounds.",
+        "Deepen the lightest lime stops on white to keep the thin ribbon sweep continuous."
       ],
       "small": {
         "artwork": "Use the isolated brand mark at sidebar sizes.",

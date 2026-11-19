@@ -234,8 +234,8 @@ Use PNG where the SVG variant list is empty. The index gives the original source
 | ![](png/color/24/cafe24.png) | Cafe24 · Cafe24 | [`cafe24`](svg/color/cafe24.svg) | [✓](svg/color-dark/cafe24.svg) | vector | [↗](https://img.cafe24.com/images/common/cafe24.svg) |
 | ![](png/color/24/bizfly-cloud.png) | BizFly Cloud · BizFly Cloud | [`bizfly-cloud`](svg/color/bizfly-cloud.svg) | [✓](svg/color-dark/bizfly-cloud.svg) | vector | [↗](https://bizflycloud.vn/logo/bizfly-cloud.svg) |
 | ![](png/color/24/idcloudhost.png) | IDCloudHost · IDCloudHost | [`idcloudhost`](svg/color/idcloudhost.svg) | — | vector | [↗](https://console.idcloudhost.com/app/favicon.svg) |
-| ![](png/color/24/exabytes.png) | Exabytes · Exabytes | [`exabytes`](svg/color/exabytes.svg) | — | vector | [↗](https://www.exabytes.com/images/freshdesk/logo-exabytes-grow-ai.svg) |
-| ![](png/color/24/nipa-cloud.png) | NIPA Cloud · NIPA Cloud | [`nipa-cloud`](svg/color/nipa-cloud.svg) | — | vector | [↗](https://nipa.cloud/_next/static/media/base-N-logo.ccc7391f.svg) |
+| ![](png/color/24/exabytes.png) | Exabytes · Exabytes | [`exabytes`](svg/color/exabytes.svg) | [✓](svg/color-dark/exabytes.svg) | vector | [↗](https://www.exabytes.com/images/freshdesk/logo-exabytes-grow-ai.svg) |
+| ![](png/color/24/nipa-cloud.png) | NIPA Cloud · NIPA Cloud | [`nipa-cloud`](svg/color/nipa-cloud.svg) | [✓](svg/color-dark/nipa-cloud.svg) | vector | [↗](https://nipa.cloud/_next/static/media/base-N-logo.ccc7391f.svg) |
 | ![](png/color/24/unisyscloud.png) | Unicloud · 紫光云 | [`unisyscloud`](svg/color/unisyscloud.svg) | [✓](svg/color-dark/unisyscloud.svg) | redrawn | [↗](https://www.unicloud.com/upload/images/2024/7/1fd82770e622c26c.png) |
 | ![](png/color/24/e2e-networks.png) | E2E Networks · E2E Networks | [`e2e-networks`](svg/color/e2e-networks.svg) | [✓](svg/color-dark/e2e-networks.svg) | redrawn | [↗](https://www.e2enetworks.com/e2e-cloud-logo.png) |
 | ![](png/color/24/baishan.png) | BaishanCloud · 白山云 | [`baishan`](svg/color/baishan.svg) | [✓](svg/color-dark/baishan.svg) | redrawn | [↗](https://uc.portal.baishancloud.com/static/logo_baishan.png) |
