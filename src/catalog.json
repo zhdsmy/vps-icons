@@ -4145,5 +4145,544 @@
       "source": "https://www.soyoustart.com/7af16cdb/contrib/ovh_theme_patternlab/images/logos/soYouStart_logo.svg"
     },
     "smallMax": 32
+  },
+  {
+    "slug": "inspur-cloud",
+    "name": "Inspur Cloud",
+    "names": {
+      "zh-CN": "浪潮云"
+    },
+    "aliases": [
+      "inspur",
+      "langchaoyun"
+    ],
+    "website": "https://cloud.inspur.com/",
+    "brandColor": "#0D48CE",
+    "source": "https://cloud.inspur.com/cn/template/images/favicon.svg",
+    "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Isolate the brand mark from the official vector and center its visible bounds on a 64-unit canvas."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand mark at sidebar sizes.",
+      "source": "https://cloud.inspur.com/cn/template/images/favicon.svg"
+    }
+  },
+  {
+    "slug": "webarena",
+    "name": "WebARENA",
+    "names": {
+      "zh-CN": "NTT WebARENA"
+    },
+    "aliases": [
+      "webarena",
+      "NTTPC"
+    ],
+    "website": "https://web.arena.ne.jp/",
+    "brandColor": "#5B4E8B",
+    "source": "https://web.arena.ne.jp/images/ico_logo_default.svg",
+    "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Isolate the brand mark from the official vector and center its visible bounds on a 64-unit canvas."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand mark at sidebar sizes.",
+      "source": "https://web.arena.ne.jp/images/ico_logo_default.svg"
+    }
+  },
+  {
+    "slug": "gabia",
+    "name": "Gabia",
+    "names": {
+      "zh-CN": "Gabia"
+    },
+    "aliases": [
+      "가비아",
+      "gabia"
+    ],
+    "website": "https://www.gabia.com/",
+    "brandColor": "#060708",
+    "source": "https://static.gabia.com/www/common/img/logo.svg",
+    "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Center the original wordmark in the standard master; isolate the leading letter for sidebar sizes."
+    ],
+    "small": {
+      "artwork": "Use the native first letter through 32 px, following the official favicon.",
+      "source": "https://static.gabia.com/www/common/img/logo.svg"
+    },
+    "smallMax": 32
+  },
+  {
+    "slug": "cafe24",
+    "name": "Cafe24",
+    "names": {
+      "zh-CN": "Cafe24"
+    },
+    "aliases": [
+      "카페24",
+      "cafe24"
+    ],
+    "website": "https://hosting.cafe24.com/",
+    "brandColor": "#084FFF",
+    "source": "https://img.cafe24.com/images/common/cafe24.svg",
+    "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Center the original wordmark in the standard master; isolate the leading letter for sidebar sizes."
+    ],
+    "small": {
+      "artwork": "Use the native first letter through 32 px, following the official favicon.",
+      "source": "https://img.cafe24.com/images/common/cafe24.svg"
+    },
+    "smallMax": 32
+  },
+  {
+    "slug": "bizfly-cloud",
+    "name": "BizFly Cloud",
+    "names": {
+      "zh-CN": "BizFly Cloud"
+    },
+    "aliases": [
+      "bizfly",
+      "vccorp"
+    ],
+    "website": "https://bizflycloud.vn/",
+    "brandColor": "#250368",
+    "source": "https://bizflycloud.vn/logo/bizfly-cloud.svg",
+    "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Select the four paper-plane paths above the wordmark. Keep an open crease in the monochrome silhouette."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand mark at sidebar sizes.",
+      "source": "https://bizflycloud.vn/logo/bizfly-cloud.svg"
+    }
+  },
+  {
+    "slug": "idcloudhost",
+    "name": "IDCloudHost",
+    "names": {
+      "zh-CN": "IDCloudHost"
+    },
+    "aliases": [
+      "idch",
+      "idcloudhost"
+    ],
+    "website": "https://idcloudhost.com/",
+    "brandColor": "#2683FF",
+    "source": "https://console.idcloudhost.com/app/favicon.svg",
+    "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Retain the original console favicon tile and white cloud. Use the isolated cloud silhouette in monochrome."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand mark at sidebar sizes.",
+      "source": "https://console.idcloudhost.com/app/favicon.svg"
+    }
+  },
+  {
+    "slug": "exabytes",
+    "name": "Exabytes",
+    "names": {
+      "zh-CN": "Exabytes"
+    },
+    "aliases": [
+      "exabytes malaysia",
+      "exabytes"
+    ],
+    "website": "https://www.exabytes.my/",
+    "brandColor": "#0066CC",
+    "source": "https://www.exabytes.com/images/freshdesk/logo-exabytes-grow-ai.svg",
+    "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Extract the three hexagonal e emblem paths to the left of the support logo. Retain the letter counter in monochrome."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand mark at sidebar sizes.",
+      "source": "https://www.exabytes.com/images/freshdesk/logo-exabytes-grow-ai.svg"
+    }
+  },
+  {
+    "slug": "nipa-cloud",
+    "name": "NIPA Cloud",
+    "names": {
+      "zh-CN": "NIPA Cloud"
+    },
+    "aliases": [
+      "nipa",
+      "nipa cloud"
+    ],
+    "website": "https://nipa.cloud/",
+    "brandColor": "#E91E76",
+    "source": "https://nipa.cloud/_next/static/media/base-N-logo.ccc7391f.svg",
+    "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Isolate the brand mark from the official vector and center its visible bounds on a 64-unit canvas."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand mark at sidebar sizes.",
+      "source": "https://nipa.cloud/_next/static/media/base-N-logo.ccc7391f.svg"
+    }
+  },
+  {
+    "slug": "unisyscloud",
+    "name": "Unicloud",
+    "names": {
+      "zh-CN": "紫光云"
+    },
+    "aliases": [
+      "unicloud",
+      "紫光云",
+      "ziguangyun"
+    ],
+    "website": "https://www.unicloud.com/",
+    "brandColor": "#9F0087",
+    "source": "https://www.unicloud.com/upload/images/2024/7/1fd82770e622c26c.png",
+    "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Reconstruct the two interlocking rounded frames and central diagonal from the official header and favicon."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand mark at sidebar sizes.",
+      "source": "https://www.unicloud.com/upload/images/2024/7/1fd82770e622c26c.png"
+    }
+  },
+  {
+    "slug": "e2e-networks",
+    "name": "E2E Networks",
+    "names": {
+      "zh-CN": "E2E Networks"
+    },
+    "aliases": [
+      "e2e",
+      "e2e networks"
+    ],
+    "website": "https://www.e2enetworks.com/",
+    "brandColor": "#3E9DD6",
+    "source": "https://www.e2enetworks.com/e2e-cloud-logo.png",
+    "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Redraw the cloud outline and the three rectilinear E2E characters from the official cloud header."
+    ],
+    "small": {
+      "source": "https://docs.e2enetworks.com/favicon.svg",
+      "artwork": "Use the documentation favicon’s blue E2E tile through 32 px. Outline its lettering and knock it out for monochrome."
+    },
+    "smallMax": 32
+  },
+  {
+    "slug": "baishan",
+    "name": "BaishanCloud",
+    "names": {
+      "zh-CN": "白山云"
+    },
+    "aliases": [
+      "baishanyun",
+      "baishan"
+    ],
+    "website": "https://www.baishan.com/",
+    "brandColor": "#106FB8",
+    "source": "https://uc.portal.baishancloud.com/static/logo_baishan.png",
+    "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Reconstruct the two angular mountain forms in the official portal icon, cross-checked against the brand’s GitHub avatar."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand mark at sidebar sizes.",
+      "source": "https://uc.portal.baishancloud.com/static/logo_baishan.png"
+    }
+  },
+  {
+    "slug": "21vianet",
+    "name": "VNET Group",
+    "names": {
+      "zh-CN": "世纪互联"
+    },
+    "aliases": [
+      "21vianet",
+      "vnet",
+      "shijihulian"
+    ],
+    "website": "https://www.vnet.com/",
+    "brandColor": "#005BFF",
+    "source": "https://www.vnet.com/home/images/logo.png",
+    "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Reconstruct the Latin VNET lettering and the green dot in its diagonal N from the official bilingual header."
+    ],
+    "small": {
+      "artwork": "Isolate the dotted N of the VNET wordmark through 32 px.",
+      "source": "https://www.vnet.com/home/images/logo.png"
+    },
+    "smallMax": 32
+  },
+  {
+    "slug": "capitalonline",
+    "name": "Capitalonline",
+    "names": {
+      "zh-CN": "首都在线"
+    },
+    "aliases": [
+      "cds",
+      "shouduzaixian"
+    ],
+    "website": "https://www.capitalonline.net/",
+    "brandColor": "#E84225",
+    "source": "https://www.capitalonline.net/templets/default/images/title-icon.ico",
+    "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Fit curves to the orange CDS lettering in the official favicon. Preserve the horizontal bands; use the striped C for sidebar exports."
+    ],
+    "small": {
+      "artwork": "Use the enlarged C and its scan lines through 32 px.",
+      "source": "https://www.capitalonline.net/templets/default/images/title-icon.ico"
+    },
+    "smallMax": 32
+  },
+  {
+    "slug": "netease-cloud",
+    "name": "NetEase Shufan",
+    "names": {
+      "zh-CN": "网易数帆"
+    },
+    "aliases": [
+      "netease shufan",
+      "wangyishufan"
+    ],
+    "website": "https://sf.163.com/",
+    "brandColor": "#C0282D",
+    "source": "https://nos.netease.com/cloud-website-bucket/202602051555382d6deb18-efae-4b5d-bd00-a47e6d622a5e.png",
+    "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Trace the circular signal mark at the left of the official NetEase Shufan header; cross-check the shape against the product favicon."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand mark at sidebar sizes.",
+      "source": "https://nos.netease.com/cloud-website-bucket/202602051555382d6deb18-efae-4b5d-bd00-a47e6d622a5e.png"
+    }
+  },
+  {
+    "slug": "zzidc",
+    "name": "ZZIDC",
+    "names": {
+      "zh-CN": "景安网络"
+    },
+    "aliases": [
+      "jingan",
+      "景安",
+      "gainet",
+      "景安网络"
+    ],
+    "website": "https://www.zzidc.com/",
+    "brandColor": "#333333",
+    "source": "https://libs.zzidc.com/zzidccom/images/common/logo.png",
+    "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Reconstruct the three segments of the globe above the GAINET wordmark. Adapt the official white silhouette to charcoal on light backgrounds."
+    ],
+    "small": {
+      "artwork": "Increase the depth and separation of the three globe segments through 32 px.",
+      "source": "https://libs.zzidc.com/zzidccom/images/common/logo.png"
+    },
+    "smallMax": 32
+  },
+  {
+    "slug": "xinnet",
+    "name": "Xinnet",
+    "names": {
+      "zh-CN": "新网"
+    },
+    "aliases": [
+      "xinnet",
+      "新网数码"
+    ],
+    "website": "https://www.xinnet.com/",
+    "brandColor": "#E60012",
+    "source": "https://imgi.xinnet.com/static/xinnet/images/newIndex/logo.1a7a2e6.png",
+    "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Isolate the red X, orbit and dot from the official header; fit their alpha contours and omit the black lettering."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand mark at sidebar sizes.",
+      "source": "https://imgi.xinnet.com/static/xinnet/images/newIndex/logo.1a7a2e6.png"
+    }
+  },
+  {
+    "slug": "vpsor",
+    "name": "GYStack",
+    "names": {
+      "zh-CN": "硅云"
+    },
+    "aliases": [
+      "vpsor",
+      "guiyun",
+      "硅云"
+    ],
+    "website": "https://www.gystack.com/",
+    "brandColor": "#0049FF",
+    "source": "https://cdn.vpsor.cn/2.0/img/home/20210912_seo_logo.jpg",
+    "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Rebuild the overlapping cyan and blue cloud lobes and the detached dot using the GYStack header artwork and vpsor.cn favicon."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand mark at sidebar sizes.",
+      "source": "https://cdn.vpsor.cn/2.0/img/home/20210912_seo_logo.jpg"
+    }
+  },
+  {
+    "slug": "iij",
+    "name": "Internet Initiative Japan",
+    "names": {
+      "zh-CN": "日本互联网倡议"
+    },
+    "aliases": [
+      "iij",
+      "インターネットイニシアティブ"
+    ],
+    "website": "https://www.iij.ad.jp/",
+    "brandColor": "#595656",
+    "source": "https://www.iij.ad.jp/favicon.ico",
+    "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Reconstruct the two slab-serif I forms, hooked J and red dot from the official browser icon; retain the entire monogram."
+    ],
+    "small": {
+      "artwork": "Thicken the serifs on the IIJ monogram through 32 px to keep the tops and feet visible.",
+      "source": "https://www.iij.ad.jp/favicon.ico"
+    },
+    "smallMax": 32
+  },
+  {
+    "slug": "hicloud",
+    "name": "Chunghwa Telecom hicloud",
+    "names": {
+      "zh-CN": "中华电信 hicloud"
+    },
+    "aliases": [
+      "中華電信",
+      "hicloud",
+      "HiNet"
+    ],
+    "website": "https://cloud.hinet.net/",
+    "brandColor": "#0065AC",
+    "source": "https://www.cht.com.tw/home/eshop/-/media/web/images/logo/cht_logo.svg",
+    "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Extract the striped round emblem from the operator’s official SVG. The hicloud portal header uses the same mark."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand mark at sidebar sizes.",
+      "source": "https://www.cht.com.tw/home/eshop/-/media/web/images/logo/cht_logo.svg"
+    }
+  },
+  {
+    "slug": "viettel-idc",
+    "name": "Viettel IDC",
+    "names": {
+      "zh-CN": "越南 Viettel IDC"
+    },
+    "aliases": [
+      "viettel idc",
+      "viettelidc"
+    ],
+    "website": "https://viettelidc.com.vn/",
+    "brandColor": "#ED1B2F",
+    "source": "https://portal.viettelidc.com.vn/img/Favicon-IDC.png",
+    "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Reconstruct the single curved V from Viettel IDC’s customer portal icon; its rounded fold also appears in the portal header."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand mark at sidebar sizes.",
+      "source": "https://portal.viettelidc.com.vn/img/Favicon-IDC.png"
+    }
+  },
+  {
+    "slug": "biznet-gio",
+    "name": "Biznet Gio",
+    "names": {
+      "zh-CN": "Biznet Gio"
+    },
+    "aliases": [
+      "biznetgio",
+      "biznet gio"
+    ],
+    "website": "https://www.biznetgio.com/",
+    "brandColor": "#158B38",
+    "source": "https://web-cms.biznetgio.com/uploads/Biznet_GIO_Logo_1_header_78e8b0eceb.webp",
+    "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Redraw the isolated green B ribbon from the official Biznet GioCloud header and use a directional gradient for the folded surface.",
+      "Lift the green stops for dark backgrounds."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand mark at sidebar sizes.",
+      "source": "https://web-cms.biznetgio.com/uploads/Biznet_GIO_Logo_1_header_78e8b0eceb.webp"
+    }
   }
 ]
