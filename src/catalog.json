@@ -4702,7 +4702,7 @@
     "license": "Proprietary brand artwork; no open license identified",
     "quality": "vector",
     "format": "svg",
-    "hasDark": false,
+    "hasDark": true,
     "processing": [
       "Keep the official blue favicon tile and white cloud. Use the cloud contour alone for mono."
     ],
@@ -4774,7 +4774,7 @@
     "license": "Proprietary brand artwork; no open license identified",
     "quality": "vector",
     "format": "svg",
-    "hasDark": false,
+    "hasDark": true,
     "processing": [
       "Center the four squares from the live navigation mark, preserving both greens."
     ],
@@ -5003,9 +5003,10 @@
       "Extract the two cloud-and-A paths from the official default homepage component, expand the rounded strokes and use its blue stop."
     ],
     "small": {
-      "artwork": "Use the standalone brand mark at 16 px.",
+      "artwork": "Thicken the cloud-and-A contours through 24 px.",
       "source": "https://acck.io/assets/HomeDefault-BGAv2I4p.js"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "desivps",
@@ -5053,9 +5054,10 @@
       "Header source: https://my.halocloud.net/assets/img/logo.png"
     ],
     "small": {
-      "artwork": "Use the standalone brand mark at 16 px.",
+      "artwork": "Thicken the cloud and orbital arc through 24 px.",
       "source": "https://my.halocloud.net/favicon.ico"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "bytevirt",
@@ -5177,9 +5179,10 @@
       "Trace the continuous YT cloud mark. Preserve the cyan-to-blue sweep of the original."
     ],
     "small": {
-      "artwork": "Use the standalone brand mark at 16 px.",
+      "artwork": "Thicken and slightly heighten the YT cloud mark through 24 px.",
       "source": "https://yt.net/logo.png"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "rfchost",
@@ -5223,7 +5226,7 @@
     "license": "Proprietary brand artwork; no open license identified",
     "quality": "redrawn",
     "format": "svg",
-    "hasDark": false,
+    "hasDark": true,
     "processing": [
       "Extract the white Vm lettering from the blue header badge and rebuild the rounded tile."
     ],
@@ -5248,7 +5251,7 @@
     "license": "Proprietary brand artwork; no open license identified",
     "quality": "redrawn",
     "format": "svg",
-    "hasDark": false,
+    "hasDark": true,
     "processing": [
       "Keep the outlined script wordmark at large sizes and separate its initial Z at small sizes."
     ],
@@ -5322,7 +5325,7 @@
     "license": "Proprietary brand artwork; no open license identified",
     "quality": "redrawn",
     "format": "svg",
-    "hasDark": false,
+    "hasDark": true,
     "processing": [
       "Redraw the central cloud mascot and its squinting face from the MoeCloud header. Remove the flanking clouds and the overlapping lettering."
     ],
@@ -5349,7 +5352,7 @@
     "license": "Proprietary brand artwork; no open license identified",
     "quality": "redrawn",
     "format": "svg",
-    "hasDark": false,
+    "hasDark": true,
     "processing": [
       "Separate the blue cloud sweep and purple rising arrow of the official favicon. Rebuild each gradient and preserve the negative space."
     ],
@@ -5399,7 +5402,7 @@
     "license": "Proprietary brand artwork; no open license identified",
     "quality": "redrawn",
     "format": "svg",
-    "hasDark": false,
+    "hasDark": true,
     "processing": [
       "Rebuild the two angular V5 strokes and crown points from the official favicon, checked against the header lockup."
     ],
