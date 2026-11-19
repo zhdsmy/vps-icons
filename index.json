@@ -2570,22 +2570,20 @@
       "brandColor": "#0089FF",
       "source": "https://www.interserver.net/assets/images/new/logo.svg",
       "license": "Proprietary brand artwork; no open license identified",
-      "quality": "raster",
+      "quality": "redrawn",
       "processing": [
-        "Decode the 1393 × 356 PNG embedded in the official header SVG. Isolate the blue S flourish by its original ink and alpha. Center the same silhouette for both mono inks.",
-        "At 16 and 24 px grow the prepared 512 px alpha by five pixels per side and reframe the symbol."
+        "Hand-fit the two curves and tapered tips to the blue S in the official header. Reinforce the same silhouette at 16 and 24 px."
       ],
       "small": {
-        "artwork": "At 16 and 24 px, reinforce the original blue S flourish before downsampling.",
+        "artwork": "Reinforced S contour at 16 and 24 px.",
         "source": "https://www.interserver.net/assets/images/new/logo.svg",
         "maxSize": 24
       },
-      "nativeSize": [
-        1393,
-        356
-      ],
       "variants": {
-        "svg": [],
+        "svg": [
+          "color",
+          "mono"
+        ],
         "png": [
           "color",
           "mono-black",
@@ -2606,20 +2604,19 @@
       "brandColor": "#1D86FF",
       "source": "https://virmach.com/wp-content/uploads/2022/09/cropped-logo.png",
       "license": "Proprietary brand artwork; no open license identified",
-      "quality": "raster",
+      "quality": "redrawn",
       "processing": [
-        "Keep the complete official cyan favicon and three server faces. Derive the monochrome rack from the darker and more saturated pixels, leaving panel gaps, slots and lamps clear."
+        "Reconstruct the perspective of the three blue server faces, their shaded edges, three vents per face and green lamps against the cyan field. Use vent and lamp cutouts for mono."
       ],
       "small": {
-        "artwork": "Use the official stacked-server illustration.",
+        "artwork": "Three server faces with distinct vents and lamps.",
         "source": "https://virmach.com/wp-content/uploads/2022/09/cropped-logo.png"
       },
-      "nativeSize": [
-        512,
-        512
-      ],
       "variants": {
-        "svg": [],
+        "svg": [
+          "color",
+          "mono"
+        ],
         "png": [
           "color",
           "mono-black",
@@ -2671,23 +2668,22 @@
       ],
       "website": "https://www.time4vps.com",
       "brandColor": "#EA1C24",
-      "source": "https://avatars.githubusercontent.com/u/34536144?v=4&s=512",
-      "license": "Proprietary brand artwork; no open license identified",
-      "quality": "raster",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/8980fb3d96d7e20a5ada9b85db56110d529d3c55/public/icons/time4vps-badge/default.svg",
+      "license": "CC0-1.0 (auth-badges artwork via theSVG); official mascot and trademarks belong to Time4VPS",
+      "quality": "vector",
       "processing": [
-        "Center the transparent mascot from the provider-linked GitHub organization. Preserve the white eyes as cutouts in mono. At 16–32 px use the isolated mascot head, also visible on the official social profile."
+        "Stack the original TIME4 and VPS letter groups from the CC0 auth-badges vector. Hand-draw the mascot head from the official organization avatar for 16–32 px."
       ],
       "small": {
-        "artwork": "Crop the mascot head and preserve its eyes at 16, 24 and 32 px.",
+        "artwork": "Hand-drawn mascot head from the linked official organization avatar for 16–32 px.",
         "source": "https://avatars.githubusercontent.com/u/34536144?v=4&s=512",
         "maxSize": 32
       },
-      "nativeSize": [
-        395,
-        395
-      ],
       "variants": {
-        "svg": [],
+        "svg": [
+          "color",
+          "mono"
+        ],
         "png": [
           "color",
           "mono-black",
@@ -2879,20 +2875,19 @@
       "brandColor": "#FCC237",
       "source": "https://avatars.githubusercontent.com/u/260690308?v=4&s=512",
       "license": "Proprietary brand artwork; no open license identified",
-      "quality": "raster",
+      "quality": "redrawn",
       "processing": [
-        "Remove the uniform white matte from the verified organization avatar using coverage of the gold ink. Preserve both parts of the asterisk, also shown in the provider status-page wordmark."
+        "Hand-draw the separated rectangular dot and rounded, four-armed lower shape against the official 400 px avatar. Keep the original gold ink."
       ],
       "small": {
-        "artwork": "Use the gold asterisk from the official avatar.",
+        "artwork": "Use the complete two-part asterisk.",
         "source": "https://avatars.githubusercontent.com/u/260690308?v=4&s=512"
       },
-      "nativeSize": [
-        400,
-        400
-      ],
       "variants": {
-        "svg": [],
+        "svg": [
+          "color",
+          "mono"
+        ],
         "png": [
           "color",
           "mono-black",
