@@ -1,0 +1,21 @@
+{
+  "name": "vps-icons",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Self-contained cloud provider and hosting icons for light and dark interfaces.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "devDependencies": {
+    "@resvg/resvg-wasm": "2.6.2",
+    "@xmldom/xmldom": "0.9.12",
+    "pica": "10.0.3",
+    "pngjs": "7.0.0"
+  }
+}

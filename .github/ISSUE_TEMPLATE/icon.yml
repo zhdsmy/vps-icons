@@ -1,0 +1,21 @@
+name: 缺失或需要更清晰的图标 / Missing or clearer icon
+description: Request a provider or replace a low-resolution master.
+title: "[Icon] "
+body:
+  - type: input
+    id: provider
+    attributes:
+      label: 厂商名称和官网 / Provider and website
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: 原始图源链接 / Original artwork URL
+      description: 提供原图或官方品牌页。Link the original file or brand page.
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: 尺寸、授权和改进 / Dimensions, license and improvement

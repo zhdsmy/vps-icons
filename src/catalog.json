@@ -1,0 +1,1368 @@
+[
+  {
+    "slug": "aws",
+    "name": "Amazon Web Services",
+    "names": {
+      "zh-CN": "亚马逊云科技"
+    },
+    "aliases": [
+      "aws",
+      "lightsail",
+      "amazon",
+      "yamaxun"
+    ],
+    "website": "https://aws.amazon.com",
+    "brandColor": "#252F3E",
+    "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/aws.svg",
+    "license": "CC0-1.0 (SVG Logos collection); brand rights reserved",
+    "quality": "vector",
+    "smallMax": 24,
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters.",
+      "Use only the orange smile at 16 and 24 px."
+    ],
+    "small": {
+      "artwork": "Smile symbol from the color wordmark.",
+      "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/aws.svg"
+    }
+  },
+  {
+    "slug": "google-cloud",
+    "name": "Google Cloud",
+    "names": {
+      "zh-CN": "谷歌云"
+    },
+    "aliases": [
+      "gcp",
+      "google",
+      "gugeyun"
+    ],
+    "website": "https://cloud.google.com",
+    "brandColor": "#4285F4",
+    "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/googlecloud-color.svg",
+    "license": "MIT (LobeHub artwork); brand rights reserved",
+    "quality": "vector",
+    "monoSource": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/googlecloud.svg",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/googlecloud-color.svg"
+    }
+  },
+  {
+    "slug": "azure",
+    "name": "Microsoft Azure",
+    "names": {
+      "zh-CN": "微软 Azure"
+    },
+    "aliases": [
+      "azure",
+      "weiruan"
+    ],
+    "website": "https://azure.microsoft.com",
+    "brandColor": "#0078D4",
+    "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/azure-color.svg",
+    "license": "MIT (LobeHub artwork); brand rights reserved",
+    "quality": "vector",
+    "monoSource": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/azure.svg",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/azure-color.svg"
+    }
+  },
+  {
+    "slug": "oracle-cloud",
+    "name": "Oracle Cloud Infrastructure",
+    "names": {
+      "zh-CN": "甲骨文云"
+    },
+    "aliases": [
+      "oci",
+      "oracle",
+      "jiaguwen"
+    ],
+    "website": "https://www.oracle.com/cloud/",
+    "brandColor": "#C74634",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/oracle.svg",
+    "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/oracle.svg"
+    }
+  },
+  {
+    "slug": "ibm-cloud",
+    "name": "IBM Cloud",
+    "names": {
+      "zh-CN": "IBM 云"
+    },
+    "aliases": [
+      "ibm",
+      "bluemix"
+    ],
+    "website": "https://www.ibm.com/cloud",
+    "brandColor": "#1261FE",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/ibmcloud.svg",
+    "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/ibmcloud.svg"
+    }
+  },
+  {
+    "slug": "cloudflare",
+    "name": "Cloudflare",
+    "names": {
+      "zh-CN": "Cloudflare"
+    },
+    "aliases": [
+      "cf",
+      "cloudflare workers"
+    ],
+    "website": "https://www.cloudflare.com",
+    "brandColor": "#F38020",
+    "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/cloudflare-color.svg",
+    "license": "MIT (LobeHub artwork); brand rights reserved",
+    "quality": "vector",
+    "monoSource": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/cloudflare.svg",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/cloudflare-color.svg"
+    }
+  },
+  {
+    "slug": "alibaba-cloud",
+    "name": "Alibaba Cloud",
+    "names": {
+      "zh-CN": "阿里云"
+    },
+    "aliases": [
+      "aliyun",
+      "ali",
+      "alibabacloud"
+    ],
+    "website": "https://www.aliyun.com",
+    "brandColor": "#FF6A00",
+    "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/alibabacloud-color.svg",
+    "license": "MIT (LobeHub artwork); brand rights reserved",
+    "quality": "vector",
+    "monoSource": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/alibabacloud.svg",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/alibabacloud-color.svg"
+    }
+  },
+  {
+    "slug": "tencent-cloud",
+    "name": "Tencent Cloud",
+    "names": {
+      "zh-CN": "腾讯云"
+    },
+    "aliases": [
+      "tencent",
+      "tengxunyun",
+      "qcloud"
+    ],
+    "website": "https://cloud.tencent.com",
+    "brandColor": "#006EFF",
+    "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/tencentcloud-color.svg",
+    "license": "MIT (LobeHub artwork); brand rights reserved",
+    "quality": "vector",
+    "monoSource": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/tencentcloud.svg",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/tencentcloud-color.svg"
+    }
+  },
+  {
+    "slug": "huawei-cloud",
+    "name": "Huawei Cloud",
+    "names": {
+      "zh-CN": "华为云"
+    },
+    "aliases": [
+      "huawei",
+      "huaweiyun"
+    ],
+    "website": "https://www.huaweicloud.com",
+    "brandColor": "#C7000B",
+    "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/huaweicloud-color.svg",
+    "license": "MIT (LobeHub artwork); brand rights reserved",
+    "quality": "vector",
+    "monoSource": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/huaweicloud.svg",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/huaweicloud-color.svg"
+    }
+  },
+  {
+    "slug": "jd-cloud",
+    "name": "JD Cloud",
+    "names": {
+      "zh-CN": "京东云"
+    },
+    "aliases": [
+      "jd",
+      "jingdongyun"
+    ],
+    "website": "https://www.jdcloud.com",
+    "brandColor": "#E1251B",
+    "source": "https://img1.jcloudcs.com/portal/header/jdcloud-logo-2021.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Extract the five paths of the graphic mark from the official header SVG."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://img1.jcloudcs.com/portal/header/jdcloud-logo-2021.svg"
+    }
+  },
+  {
+    "slug": "volcengine",
+    "name": "Volcengine",
+    "names": {
+      "zh-CN": "火山引擎"
+    },
+    "aliases": [
+      "volc",
+      "huoshanyinqing"
+    ],
+    "website": "https://www.volcengine.com",
+    "brandColor": "#006EFF",
+    "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/volcengine-color.svg",
+    "license": "MIT (LobeHub artwork); brand rights reserved",
+    "quality": "vector",
+    "monoSource": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/volcengine.svg",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/volcengine-color.svg"
+    }
+  },
+  {
+    "slug": "ucloud",
+    "name": "UCloud",
+    "names": {
+      "zh-CN": "优刻得"
+    },
+    "aliases": [
+      "ucloud",
+      "youkede"
+    ],
+    "website": "https://www.ucloud.cn",
+    "brandColor": "#4584FF",
+    "source": "https://avatars.githubusercontent.com/u/14289247?v=4&s=512",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "raster",
+    "nativeSize": [
+      460,
+      460
+    ],
+    "format": "png",
+    "hasDark": false,
+    "processing": [
+      "Use the GitHub organization avatar confirmed against the official mobile icon. Keep its shaded field. Isolate the light U using R>187, G>190, B>204 for the monochrome master."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://avatars.githubusercontent.com/u/14289247?v=4&s=512"
+    },
+    "sourcePage": "https://github.com/ucloud"
+  },
+  {
+    "slug": "ctyun",
+    "name": "China Telecom Cloud",
+    "names": {
+      "zh-CN": "天翼云"
+    },
+    "aliases": [
+      "ctyun",
+      "tianyiyun",
+      "china telecom"
+    ],
+    "website": "https://www.ctyun.cn",
+    "brandColor": "#DF0428",
+    "source": "https://www.ctyun.cn/s/q04sv38ZSzTBF4mEHo-3dVsyWITNHb2AHhoKmmcfMQvFLURsx3V4aUR26W8PQUqCT8irIp8kNZZFmZcjQa3tK6eXmmMshjNGFvsiB8BbIGaFz_TPP8FfRddLJaCyZHeBXWsC1L62ycvoisuSuYDeDRtmnH44p_kJ",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://www.ctyun.cn/s/q04sv38ZSzTBF4mEHo-3dVsyWITNHb2AHhoKmmcfMQvFLURsx3V4aUR26W8PQUqCT8irIp8kNZZFmZcjQa3tK6eXmmMshjNGFvsiB8BbIGaFz_TPP8FfRddLJaCyZHeBXWsC1L62ycvoisuSuYDeDRtmnH44p_kJ"
+    }
+  },
+  {
+    "slug": "digitalocean",
+    "name": "DigitalOcean",
+    "names": {
+      "zh-CN": "DigitalOcean"
+    },
+    "aliases": [
+      "do",
+      "digital ocean"
+    ],
+    "website": "https://www.digitalocean.com",
+    "brandColor": "#0080FF",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/digitalocean.svg",
+    "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/digitalocean.svg"
+    }
+  },
+  {
+    "slug": "vultr",
+    "name": "Vultr",
+    "names": {
+      "zh-CN": "Vultr"
+    },
+    "aliases": [
+      "vultr",
+      "choopa"
+    ],
+    "website": "https://www.vultr.com",
+    "brandColor": "#007BFC",
+    "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/vultr-icon.svg",
+    "license": "CC0-1.0 (SVG Logos collection); brand rights reserved",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/vultr-icon.svg"
+    }
+  },
+  {
+    "slug": "linode",
+    "name": "Linode",
+    "names": {
+      "zh-CN": "Linode"
+    },
+    "aliases": [
+      "linode",
+      "akamai cloud"
+    ],
+    "website": "https://www.linode.com",
+    "brandColor": "#00A95C",
+    "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/linode.svg",
+    "license": "CC0-1.0 (SVG Logos collection); brand rights reserved",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/linode.svg"
+    }
+  },
+  {
+    "slug": "akamai",
+    "name": "Akamai",
+    "names": {
+      "zh-CN": "阿卡迈"
+    },
+    "aliases": [
+      "akamai",
+      "akamai technologies",
+      "akamaiyun"
+    ],
+    "website": "https://www.akamai.com",
+    "brandColor": "#0096D6",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/akamai.svg",
+    "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/akamai.svg"
+    }
+  },
+  {
+    "slug": "hetzner",
+    "name": "Hetzner",
+    "names": {
+      "zh-CN": "Hetzner"
+    },
+    "aliases": [
+      "hz",
+      "hetzner cloud"
+    ],
+    "website": "https://www.hetzner.com",
+    "brandColor": "#D50C2D",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/hetzner.svg",
+    "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/hetzner.svg"
+    }
+  },
+  {
+    "slug": "ovhcloud",
+    "name": "OVHcloud",
+    "names": {
+      "zh-CN": "OVHcloud"
+    },
+    "aliases": [
+      "ovh",
+      "ovh cloud"
+    ],
+    "website": "https://www.ovhcloud.com",
+    "brandColor": "#123F6D",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/ovh.svg",
+    "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/ovh.svg"
+    }
+  },
+  {
+    "slug": "scaleway",
+    "name": "Scaleway",
+    "names": {
+      "zh-CN": "Scaleway"
+    },
+    "aliases": [
+      "scw",
+      "online.net"
+    ],
+    "website": "https://www.scaleway.com",
+    "brandColor": "#4F0599",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/scaleway.svg",
+    "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/scaleway.svg"
+    }
+  },
+  {
+    "slug": "upcloud",
+    "name": "UpCloud",
+    "names": {
+      "zh-CN": "UpCloud"
+    },
+    "aliases": [
+      "upcloud",
+      "up cloud"
+    ],
+    "website": "https://upcloud.com",
+    "brandColor": "#7B00FF",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/upcloud.svg",
+    "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/upcloud.svg"
+    }
+  },
+  {
+    "slug": "contabo",
+    "name": "Contabo",
+    "names": {
+      "zh-CN": "Contabo"
+    },
+    "aliases": [
+      "contabo"
+    ],
+    "website": "https://contabo.com",
+    "brandColor": "#00AAEB",
+    "source": "https://cdn.contabo.com/contabo-logo-2.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://cdn.contabo.com/contabo-logo-2.svg"
+    }
+  },
+  {
+    "slug": "netcup",
+    "name": "netcup",
+    "names": {
+      "zh-CN": "netcup"
+    },
+    "aliases": [
+      "netcup",
+      "nc"
+    ],
+    "website": "https://www.netcup.com",
+    "brandColor": "#056473",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/netcup.svg",
+    "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/netcup.svg"
+    }
+  },
+  {
+    "slug": "kamatera",
+    "name": "Kamatera",
+    "names": {
+      "zh-CN": "Kamatera"
+    },
+    "aliases": [
+      "kamatera"
+    ],
+    "website": "https://www.kamatera.com",
+    "brandColor": "#173179",
+    "source": "https://www.kamatera.com/wp-content/themes/kamatera/images/Group%20666.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters.",
+      "Header vector with blue sampled from the official site icon."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://www.kamatera.com/wp-content/themes/kamatera/images/Group%20666.svg"
+    },
+    "paletteSource": "https://www.kamatera.com/wp-content/uploads/cropped-cropped-06169472-7db8-4ba3-91f6-3b4e34b5e168-1.png"
+  },
+  {
+    "slug": "ionos",
+    "name": "IONOS",
+    "names": {
+      "zh-CN": "IONOS"
+    },
+    "aliases": [
+      "1and1",
+      "1&1"
+    ],
+    "website": "https://www.ionos.com",
+    "brandColor": "#0B2A63",
+    "source": "https://www.ionos.com/favicon.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://www.ionos.com/favicon.svg"
+    }
+  },
+  {
+    "slug": "hostinger",
+    "name": "Hostinger",
+    "names": {
+      "zh-CN": "Hostinger"
+    },
+    "aliases": [
+      "hostinger"
+    ],
+    "website": "https://www.hostinger.com",
+    "brandColor": "#673DE6",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/hostinger.svg",
+    "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/hostinger.svg"
+    }
+  },
+  {
+    "slug": "buyvm",
+    "name": "BuyVM",
+    "names": {
+      "zh-CN": "BuyVM"
+    },
+    "aliases": [
+      "buyvm",
+      "frantech"
+    ],
+    "website": "https://buyvm.net",
+    "brandColor": "#332B2B",
+    "source": "https://buyvm.net/favicon.ico",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "upscaled",
+    "nativeSize": [
+      16,
+      16
+    ],
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Lanczos to 512 px. Threshold source alpha at 128 (HostDare: orange red-minus-blue >76, omit the rightmost 5%). Trace that mask once, export pure monochrome silhouettes and the brand color."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://buyvm.net/favicon.ico"
+    }
+  },
+  {
+    "slug": "hosthatch",
+    "name": "HostHatch",
+    "names": {
+      "zh-CN": "HostHatch"
+    },
+    "aliases": [
+      "hh",
+      "hosthatch"
+    ],
+    "website": "https://hosthatch.com",
+    "brandColor": "#49515B",
+    "source": "https://hosthatch.com/images/favicon.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://hosthatch.com/images/favicon.svg"
+    }
+  },
+  {
+    "slug": "cloudcone",
+    "name": "CloudCone",
+    "names": {
+      "zh-CN": "CloudCone"
+    },
+    "aliases": [
+      "cc",
+      "cloudcone"
+    ],
+    "website": "https://cloudcone.com",
+    "brandColor": "#4F9748",
+    "source": "https://avatars.githubusercontent.com/u/29018286?v=4&s=512",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "raster",
+    "nativeSize": [
+      256,
+      256
+    ],
+    "format": "png",
+    "hasDark": false,
+    "processing": [
+      "Use the transparent organization avatar linked to cloudcone.com. Preserve its shading and original alpha, then center it on 512 px. Use source alpha for monochrome."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://avatars.githubusercontent.com/u/29018286?v=4&s=512"
+    },
+    "sourcePage": "https://github.com/Cloudcone"
+  },
+  {
+    "slug": "racknerd",
+    "name": "RackNerd",
+    "names": {
+      "zh-CN": "RackNerd"
+    },
+    "aliases": [
+      "rn",
+      "racknerd"
+    ],
+    "website": "https://www.racknerd.com",
+    "brandColor": "#0078BF",
+    "source": "https://www.racknerd.com/favicon.png",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Hand-draw the two rounded bars, lenses and bridge against the 256 × 256 official icon.",
+      "Compare the redraw with the native artwork at 64 px."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://www.racknerd.com/favicon.png"
+    }
+  },
+  {
+    "slug": "greencloud",
+    "name": "GreenCloud",
+    "names": {
+      "zh-CN": "绿云"
+    },
+    "aliases": [
+      "greencloudvps",
+      "lvyun"
+    ],
+    "website": "https://greencloudvps.com",
+    "brandColor": "#87C400",
+    "source": "https://greencloudvps.com/img/site/favicon.png",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Hand-draw the cloud and server slots against the 100 × 100 official icon.",
+      "Compare the redraw with the native artwork at 64 px."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://greencloudvps.com/img/site/favicon.png"
+    }
+  },
+  {
+    "slug": "hostdare",
+    "name": "HostDare",
+    "names": {
+      "zh-CN": "HostDare"
+    },
+    "aliases": [
+      "hd",
+      "hostdare"
+    ],
+    "website": "https://hostdare.com",
+    "brandColor": "#F88101",
+    "source": "https://www.google.com/s2/favicons?domain=hostdare.com&sz=256",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "upscaled",
+    "nativeSize": [
+      32,
+      32
+    ],
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Lanczos to 512 px. Threshold source alpha at 128 (HostDare: orange red-minus-blue >76, omit the rightmost 5%). Trace that mask once, export pure monochrome silhouettes and the brand color."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://www.google.com/s2/favicons?domain=hostdare.com&sz=256"
+    }
+  },
+  {
+    "slug": "v-ps",
+    "name": "V.PS",
+    "names": {
+      "zh-CN": "小秘书"
+    },
+    "aliases": [
+      "v.ps",
+      "xiaomishu",
+      "xtom"
+    ],
+    "website": "https://v.ps",
+    "brandColor": "#0D0D0D",
+    "source": "https://v.ps/favicon.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://v.ps/favicon.svg"
+    }
+  },
+  {
+    "slug": "akile",
+    "name": "AkileCloud",
+    "names": {
+      "zh-CN": "AkileCloud"
+    },
+    "aliases": [
+      "ak",
+      "akile",
+      "akilecloud"
+    ],
+    "website": "https://akile.ai",
+    "brandColor": "#2979FF",
+    "source": "https://akile.ai/",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters.",
+      "Header loader vector; blue palette sampled from the official Apple touch icon."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://akile.ai/"
+    },
+    "paletteSource": "https://akile.ai/logo-apple-512x512.png"
+  },
+  {
+    "slug": "bagevm",
+    "name": "BageVM",
+    "names": {
+      "zh-CN": "BageVM"
+    },
+    "aliases": [
+      "bage",
+      "bagevm"
+    ],
+    "website": "https://www.bagevm.com",
+    "brandColor": "#4946EF",
+    "source": "https://www.bagevm.com/templates/bagevm/assets/media/logos/logo-dark.png",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "raster",
+    "nativeSize": [
+      2720,
+      2000
+    ],
+    "format": "png",
+    "hasDark": true,
+    "processing": [
+      "Crop the official transparent wordmark at x=252, y=705, w=637, h=590. Trim alpha, center on transparent 512 px, preserve the original gradient. Use alpha for monochrome and the white dark variant."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://www.bagevm.com/templates/bagevm/assets/media/logos/logo-dark.png"
+    }
+  },
+  {
+    "slug": "dmit",
+    "name": "DMIT",
+    "names": {
+      "zh-CN": "DMIT"
+    },
+    "aliases": [
+      "dmit",
+      "dama",
+      "大妈"
+    ],
+    "website": "https://www.dmit.io",
+    "brandColor": "#0068FF",
+    "source": "https://www.dmit.io/templates/dmit_theme_2020/dmit/assets/images/dmit_logo.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://www.dmit.io/templates/dmit_theme_2020/dmit/assets/images/dmit_logo.svg"
+    }
+  },
+  {
+    "slug": "bandwagonhost",
+    "name": "BandwagonHost",
+    "names": {
+      "zh-CN": "搬瓦工"
+    },
+    "aliases": [
+      "bwh",
+      "bandwagon",
+      "banwagong"
+    ],
+    "website": "https://bandwagonhost.com",
+    "brandColor": "#F0A500",
+    "source": "https://bandwagonhost.com/templates/organicbandwagon/images/logo4.png",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "raster",
+    "nativeSize": [
+      814,
+      100
+    ],
+    "smallMax": 48,
+    "format": "png",
+    "hasDark": false,
+    "processing": [
+      "Keep the transparent beveled wordmark as PNG. Trim and center. Crop the leading B at 67x99+0+0 for the small master. Use alpha for monochrome."
+    ],
+    "small": {
+      "artwork": "Leading B cropped from the official wordmark.",
+      "source": "https://bandwagonhost.com/templates/organicbandwagon/images/logo4.png"
+    }
+  },
+  {
+    "slug": "dogyun",
+    "name": "DogYun",
+    "names": {
+      "zh-CN": "狗云"
+    },
+    "aliases": [
+      "dog yun",
+      "gouyun"
+    ],
+    "website": "https://www.dogyun.com",
+    "brandColor": "#0E6EB8",
+    "source": "https://t.me/dogyun",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "raster",
+    "nativeSize": [
+      320,
+      320
+    ],
+    "format": "png",
+    "hasDark": false,
+    "processing": [
+      "Crop the 320 px channel avatar to 320x230+0+0. Trim to the bounds of RGB min<170. ImageMagick: -fuzz 7% -transparent white; restore white inside the protected silhouette on a white base. CopyOpacity using the alpha of the matching transparent official logo (128x96+0+0, trim, Lanczos to crop size) to remove the exterior white field without losing the white fur. Use R<145 and alpha>50 for monochrome."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://t.me/dogyun"
+    },
+    "maskSource": "https://assets.dogyun.com/home/img/logo-128px.png"
+  },
+  {
+    "slug": "misaka",
+    "name": "Misaka Network",
+    "names": {
+      "zh-CN": "Misaka Network"
+    },
+    "aliases": [
+      "misaka",
+      "misaka.io"
+    ],
+    "website": "https://www.misaka.io",
+    "brandColor": "#151515",
+    "source": "https://www.misaka.io/",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "smallMax": 48,
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Keep the native header lockup for large sizes. Isolate its leading m for 16–48 px."
+    ],
+    "small": {
+      "artwork": "Leading m from the header wordmark.",
+      "source": "https://www.misaka.io/"
+    }
+  },
+  {
+    "slug": "zenlayer",
+    "name": "Zenlayer",
+    "names": {
+      "zh-CN": "Zenlayer"
+    },
+    "aliases": [
+      "zenlayer cloud"
+    ],
+    "website": "https://www.zenlayer.com",
+    "brandColor": "#1EA0F3",
+    "source": "https://www.zenlayer.com/wp-content/uploads/2024/03/Icon-Blue.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://www.zenlayer.com/wp-content/uploads/2024/03/Icon-Blue.svg"
+    }
+  },
+  {
+    "slug": "colocrossing",
+    "name": "ColoCrossing",
+    "names": {
+      "zh-CN": "ColoCrossing"
+    },
+    "aliases": [
+      "ccs",
+      "colocrossing"
+    ],
+    "website": "https://www.colocrossing.com",
+    "brandColor": "#006895",
+    "source": "https://www.colocrossing.com/wp-content/uploads/2026/10/ColoCrossing_website_logo-1.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://www.colocrossing.com/wp-content/uploads/2026/10/ColoCrossing_website_logo-1.svg"
+    }
+  },
+  {
+    "slug": "evoxt",
+    "name": "Evoxt",
+    "names": {
+      "zh-CN": "益沃斯"
+    },
+    "aliases": [
+      "evoxt",
+      "yiwosi"
+    ],
+    "website": "https://evoxt.com",
+    "brandColor": "#5FB5FE",
+    "source": "https://evoxt.com/img/evoxtblack-icon.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://evoxt.com/img/evoxtblack-icon.svg"
+    }
+  },
+  {
+    "slug": "spartan-host",
+    "name": "Spartan Host",
+    "names": {
+      "zh-CN": "斯巴达"
+    },
+    "aliases": [
+      "spartan",
+      "sibada"
+    ],
+    "website": "https://spartanhost.org",
+    "brandColor": "#1D80C0",
+    "source": "https://spartanhost.org/images/favicon.png",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "upscaled",
+    "nativeSize": [
+      16,
+      16
+    ],
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Lanczos to 512 px. Threshold blue-minus-red >42 and alpha >127. Trace the mask once. Preserve the white eye details in color."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://spartanhost.org/images/favicon.png"
+    }
+  },
+  {
+    "slug": "baidu-cloud",
+    "name": "Baidu AI Cloud",
+    "names": {
+      "zh-CN": "百度智能云"
+    },
+    "aliases": [
+      "baiduyun",
+      "bce",
+      "baidu cloud"
+    ],
+    "website": "https://cloud.baidu.com",
+    "brandColor": "#2464F5",
+    "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/baiducloud-color.svg",
+    "license": "MIT (LobeHub artwork); brand rights reserved",
+    "quality": "vector",
+    "monoSource": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/baiducloud.svg",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/baiducloud-color.svg"
+    }
+  },
+  {
+    "slug": "civo",
+    "name": "Civo",
+    "names": {
+      "zh-CN": "Civo"
+    },
+    "aliases": [
+      "civo cloud"
+    ],
+    "website": "https://www.civo.com",
+    "brandColor": "#00FF6F",
+    "source": "https://www.civo.com/assets-rebrand/favicons/favicon.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://www.civo.com/assets-rebrand/favicons/favicon.svg"
+    }
+  },
+  {
+    "slug": "exoscale",
+    "name": "Exoscale",
+    "names": {
+      "zh-CN": "Exoscale"
+    },
+    "aliases": [
+      "exo",
+      "exoscale"
+    ],
+    "website": "https://www.exoscale.com",
+    "brandColor": "#DA291C",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/exoscale.svg",
+    "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/exoscale.svg"
+    }
+  },
+  {
+    "slug": "vercel",
+    "name": "Vercel",
+    "names": {
+      "zh-CN": "Vercel"
+    },
+    "aliases": [
+      "vercel",
+      "zeit"
+    ],
+    "website": "https://vercel.com",
+    "brandColor": "#000000",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/vercel.svg",
+    "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/vercel.svg"
+    }
+  },
+  {
+    "slug": "home",
+    "name": "Home",
+    "names": {
+      "zh-CN": "家宽"
+    },
+    "aliases": [
+      "home",
+      "jiakuan",
+      "家庭宽带"
+    ],
+    "website": "preview.html#light-home",
+    "brandColor": "#18795B",
+    "source": "src/art/home/mono.svg",
+    "license": "MIT",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Original filled geometric pictogram drawn on the common canvas."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "src/art/home/mono.svg"
+    }
+  },
+  {
+    "slug": "nas",
+    "name": "NAS",
+    "names": {
+      "zh-CN": "网络存储"
+    },
+    "aliases": [
+      "nas",
+      "wangluocunchu",
+      "storage"
+    ],
+    "website": "preview.html#light-nas",
+    "brandColor": "#3467A3",
+    "source": "src/art/nas/mono.svg",
+    "license": "MIT",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Original filled geometric pictogram drawn on the common canvas."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "src/art/nas/mono.svg"
+    }
+  },
+  {
+    "slug": "relay",
+    "name": "Relay",
+    "names": {
+      "zh-CN": "中转"
+    },
+    "aliases": [
+      "relay",
+      "zhongzhuan",
+      "forward"
+    ],
+    "website": "preview.html#light-relay",
+    "brandColor": "#8854AD",
+    "source": "src/art/relay/mono.svg",
+    "license": "MIT",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Original filled geometric pictogram drawn on the common canvas."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "src/art/relay/mono.svg"
+    }
+  },
+  {
+    "slug": "other",
+    "name": "Other",
+    "names": {
+      "zh-CN": "其他"
+    },
+    "aliases": [
+      "other",
+      "qita",
+      "misc"
+    ],
+    "website": "preview.html#light-other",
+    "brandColor": "#576579",
+    "source": "src/art/other/mono.svg",
+    "license": "MIT",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Original filled geometric pictogram drawn on the common canvas."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "src/art/other/mono.svg"
+    }
+  },
+  {
+    "slug": "unknown",
+    "name": "Unknown",
+    "names": {
+      "zh-CN": "未知厂商"
+    },
+    "aliases": [
+      "unknown",
+      "weizhi",
+      "placeholder"
+    ],
+    "website": "preview.html#light-unknown",
+    "brandColor": "#64748B",
+    "source": "src/art/unknown/mono.svg",
+    "license": "MIT",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Original filled geometric pictogram drawn on the common canvas."
+    ],
+    "small": {
+      "artwork": "Use the primary graphic mark at 16 px.",
+      "source": "src/art/unknown/mono.svg"
+    }
+  }
+]
