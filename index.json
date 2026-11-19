@@ -5181,7 +5181,8 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Keep the original ribbon contour and its purple gradient. Center the three segments as one symbol."
+        "Keep the original ribbon contour and its purple gradient. Center the three segments as one symbol.",
+        "Lighten the ribbon gradient for dark surfaces."
       ],
       "small": {
         "artwork": "Use the standalone brand mark at 16 px.",
@@ -5190,10 +5191,12 @@
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -5608,6 +5611,226 @@
         "artwork": "Use the enclosure with three spaced rules at 16 and 24 px.",
         "source": "https://hostodo.com/img/favicon.png",
         "maxSize": 24
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "hosteons",
+      "name": "HostEONS",
+      "names": {
+        "zh-CN": "HostEONS"
+      },
+      "aliases": [
+        "host eons"
+      ],
+      "website": "https://hosteons.com",
+      "brandColor": "#195C82",
+      "source": "https://www.google.com/s2/favicons?domain=hosteons.com&sz=256",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "redrawn",
+      "processing": [
+        "Redraw the grey h and two-tone blue E from the domain favicon. The HostEONS status-page lockup confirms the lettering and colors.",
+        "Wordmark reference: https://psp-logos.uptimerobot.com/logos/653791-1541925718.jpg"
+      ],
+      "small": {
+        "artwork": "Use the standalone brand mark at 16 px.",
+        "source": "https://www.google.com/s2/favicons?domain=hosteons.com&sz=256"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "letbox",
+      "name": "LetBox",
+      "names": {
+        "zh-CN": "LetBox"
+      },
+      "aliases": [
+        "let box"
+      ],
+      "website": "https://my.letbox.com/",
+      "brandColor": "#009EE2",
+      "source": "https://my.letbox.com/assets/img/logo.png",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "redrawn",
+      "processing": [
+        "Crop the cloud-and-server roundel from the official client-area lockup and reconstruct its inner contours as self-contained paths."
+      ],
+      "small": {
+        "artwork": "Use a bolder cloud outline and two broad server slots at 16, 24 and 32 px.",
+        "source": "https://my.letbox.com/assets/img/logo.png",
+        "maxSize": 32
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "webhorizon",
+      "name": "WebHorizon",
+      "names": {
+        "zh-CN": "WebHorizon"
+      },
+      "aliases": [
+        "web horizon"
+      ],
+      "website": "https://webhorizon.net",
+      "brandColor": "#323652",
+      "source": "https://webhorizon.net/images/favicon.png",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "redrawn",
+      "processing": [
+        "Redraw the cloud and the two colored letters from the official favicon. At small sizes, isolate the WH and adjust the ink for each surface."
+      ],
+      "small": {
+        "artwork": "Use the two enlarged WH letters without the surrounding cloud through 32 px.",
+        "source": "https://webhorizon.net/images/favicon.png",
+        "maxSize": 32
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "nocix",
+      "name": "Nocix",
+      "names": {
+        "zh-CN": "Nocix"
+      },
+      "aliases": [
+        "nocix.net"
+      ],
+      "website": "https://www.nocix.net",
+      "brandColor": "#002C8A",
+      "source": "https://www.google.com/s2/favicons?domain=nocix.net&sz=256",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "redrawn",
+      "processing": [
+        "Redraw the opposing blue chevrons and slotted chassis from the domain favicon. Use a lighter navy on dark surfaces."
+      ],
+      "small": {
+        "artwork": "Use the standalone brand mark at 16 px.",
+        "source": "https://www.google.com/s2/favicons?domain=nocix.net&sz=256"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "kimsufi",
+      "name": "Kimsufi",
+      "names": {
+        "zh-CN": "Kimsufi"
+      },
+      "aliases": [
+        "ovhcloud",
+        "ovh",
+        "ovh kimsufi",
+        "ks"
+      ],
+      "website": "https://www.kimsufi.com",
+      "brandColor": "#000E9C",
+      "source": "https://www.kimsufi.com/components/kimsufi/header.6c21aa24/logo.svg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Isolate the Kimsufi wordmark above the OVHcloud endorsement. Use its original K outline at small sizes."
+      ],
+      "small": {
+        "artwork": "Use the initial K cut directly from the product wordmark through 32 px.",
+        "source": "https://www.kimsufi.com/components/kimsufi/header.6c21aa24/logo.svg",
+        "maxSize": 32
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "soyoustart",
+      "name": "So you Start",
+      "names": {
+        "zh-CN": "So you Start"
+      },
+      "aliases": [
+        "ovhcloud",
+        "ovh",
+        "so you start",
+        "sys"
+      ],
+      "website": "https://eco.ovhcloud.com/en/soyoustart/",
+      "brandColor": "#130F9C",
+      "source": "https://www.soyoustart.com/7af16cdb/contrib/ovh_theme_patternlab/images/logos/soYouStart_logo.svg",
+      "license": "Proprietary brand artwork; no open license identified; Source Sans Pro outlines under SIL OFL-1.1",
+      "quality": "vector",
+      "processing": [
+        "Outline the product SVG text using its declared Source Sans Pro Bold face and letter spacing. Use the opening So for the small mark.",
+        "Font source: https://fonts.gstatic.com/s/sourcesanspro/v24/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vAkA.ttf"
+      ],
+      "small": {
+        "artwork": "Use the first two original letterforms (So) through 32 px.",
+        "source": "https://www.soyoustart.com/7af16cdb/contrib/ovh_theme_patternlab/images/logos/soYouStart_logo.svg",
+        "maxSize": 32
       },
       "variants": {
         "svg": [

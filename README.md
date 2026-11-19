@@ -210,7 +210,7 @@ Use PNG where the SVG variant list is empty. The index gives the original source
 | ![](png/color/24/paperspace.png) | Paperspace · Paperspace | [`paperspace`](svg/color/paperspace.svg) | [✓](svg/color-dark/paperspace.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/paperspace.svg) |
 | ![](png/color/24/nebius.png) | Nebius · Nebius | [`nebius`](svg/color/nebius.svg) | — | vector | [↗](https://nebius.com/favicon/favicon.svg) |
 | ![](png/color/24/crusoe.png) | Crusoe · Crusoe | [`crusoe`](svg/color/crusoe.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/crusoe-color.svg) |
-| ![](png/color/24/hyperstack.png) | Hyperstack · Hyperstack | [`hyperstack`](svg/color/hyperstack.svg) | — | vector | [↗](https://www.hyperstack.cloud/hubfs/hyperstack_2023/home/logo.svg) |
+| ![](png/color/24/hyperstack.png) | Hyperstack · Hyperstack | [`hyperstack`](svg/color/hyperstack.svg) | [✓](svg/color-dark/hyperstack.svg) | vector | [↗](https://www.hyperstack.cloud/hubfs/hyperstack_2023/home/logo.svg) |
 | ![](png/color/24/modal.png) | Modal · Modal | [`modal`](svg/color/modal.svg) | — | vector | [↗](https://modal.com/assets/favicon.svg) |
 | ![](png/color/24/zeabur.png) | Zeabur · Zeabur | [`zeabur`](svg/color/zeabur.svg) | [✓](svg/color-dark/zeabur.svg) | vector | [↗](https://zeabur.com/logo.svg) |
 | ![](png/color/24/tensordock.png) | TensorDock · TensorDock | [`tensordock`](svg/color/tensordock.svg) | — | vector | [↗](https://www.tensordock.com/assets/favicon/safari-pinned-tab.svg) |
@@ -223,6 +223,12 @@ Use PNG where the SVG variant list is empty. The index gives the original source
 | ![](png/color/24/dedibox.png) | Dedibox · Dedibox | [`dedibox`](svg/color/dedibox.svg) | [✓](svg/color-dark/dedibox.svg) | vector | [↗](https://raw.githubusercontent.com/scaleway/ultraviolet/4d3aa101bfbc358782b8353650ccd06fd8df40df/packages/icons/src/components/ProductIcon/assets/primary/dedibox.svg) |
 | ![](png/color/24/ramnode.png) | RamNode · RamNode | [`ramnode`](svg/color/ramnode.svg) | — | redrawn | [↗](https://ramnode.com/lovable-uploads/ramnode-favicon.jpeg) |
 | ![](png/color/24/hostodo.png) | Hostodo · Hostodo | [`hostodo`](svg/color/hostodo.svg) | [✓](svg/color-dark/hostodo.svg) | redrawn | [↗](https://hostodo.com/img/favicon.png) |
+| ![](png/color/24/hosteons.png) | HostEONS · HostEONS | [`hosteons`](svg/color/hosteons.svg) | [✓](svg/color-dark/hosteons.svg) | redrawn | [↗](https://www.google.com/s2/favicons?domain=hosteons.com&sz=256) |
+| ![](png/color/24/letbox.png) | LetBox · LetBox | [`letbox`](svg/color/letbox.svg) | — | redrawn | [↗](https://my.letbox.com/assets/img/logo.png) |
+| ![](png/color/24/webhorizon.png) | WebHorizon · WebHorizon | [`webhorizon`](svg/color/webhorizon.svg) | [✓](svg/color-dark/webhorizon.svg) | redrawn | [↗](https://webhorizon.net/images/favicon.png) |
+| ![](png/color/24/nocix.png) | Nocix · Nocix | [`nocix`](svg/color/nocix.svg) | [✓](svg/color-dark/nocix.svg) | redrawn | [↗](https://www.google.com/s2/favicons?domain=nocix.net&sz=256) |
+| ![](png/color/24/kimsufi.png) | Kimsufi · Kimsufi | [`kimsufi`](svg/color/kimsufi.svg) | [✓](svg/color-dark/kimsufi.svg) | vector | [↗](https://www.kimsufi.com/components/kimsufi/header.6c21aa24/logo.svg) |
+| ![](png/color/24/soyoustart.png) | So you Start · So you Start | [`soyoustart`](svg/color/soyoustart.svg) | [✓](svg/color-dark/soyoustart.svg) | vector | [↗](https://www.soyoustart.com/7af16cdb/contrib/ovh_theme_patternlab/images/logos/soYouStart_logo.svg) |
 
 ## 贡献 / Contributing
 
