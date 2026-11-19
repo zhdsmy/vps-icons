@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <g fill="#22D3D8">
+    <path d="M8 4H20V20H4V8Z"/>
+    <path d="M24 4H40V16L36 20H28L24 16Z"/>
+    <path d="M44 4H60V20H48L44 16Z"/>
+    <path d="M4 24H20V36L16 40H4Z"/>
+    <path d="M48 24H60V40H48L44 36V28Z"/>
+    <path d="M4 44H16L20 48V56L16 60H4Z"/>
+    <path d="M28 44H36L40 48V60H24V48Z"/>
+    <path d="M44 44H56L60 48V60H44Z"/>
+    <rect x="29" y="29" width="6" height="6" rx="3"/>
+  </g>
+</svg>

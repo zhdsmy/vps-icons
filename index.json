@@ -3997,7 +3997,7 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Isolate the italic r from the official wordmark, matching the current square favicon."
+        "Normalize the official italic r SVG to the 64-unit canvas and add a brightened red color-dark variant (#FF424E) for dark backgrounds."
       ],
       "small": {
         "artwork": "Use the isolated brand symbol at 16 px.",
@@ -4006,10 +4006,12 @@
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -4065,7 +4067,7 @@
       "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
       "quality": "vector",
       "processing": [
-        "Center the native standalone mark and apply its brand ink."
+        "Normalize the Simple Icons rounded-square k badge and optically size to 50 x 50 on the 64-unit canvas."
       ],
       "small": {
         "artwork": "Use the isolated brand symbol at 16 px.",
@@ -4098,11 +4100,12 @@
       "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
       "quality": "vector",
       "processing": [
-        "Center the native standalone mark and apply its brand ink. Use a lighter ink on dark surfaces."
+        "Optically size the Simple Icons mark to 50 x 50 at 32+ px, keep bright teal in color-dark, and provide a wider-gap pixel-aligned 16/24 px small grid so monochrome stays crisp."
       ],
       "small": {
-        "artwork": "Use the isolated brand symbol at 16 px.",
-        "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/wpengine.svg"
+        "artwork": "Use the wider-gap pixel-aligned WP Engine pinwheel grid at 16 and 24 px.",
+        "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/wpengine.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -4203,7 +4206,7 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Keep the current two-color favicon and use its green spiral glyph for monochrome."
+        "Optically size the official Gandi dark-square g badge to 50 x 50, add a subtly bordered slate card in color-dark so it separates on dark surfaces, and punch the g out of the badge in monochrome."
       ],
       "small": {
         "artwork": "Use the isolated brand symbol at 16 px.",
@@ -4212,10 +4215,12 @@
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -4269,7 +4274,7 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Preserve the red circular badge. Center the interlocking white server traces from its face for mono."
+        "Normalize the official red circle S badge to the 64-unit canvas and punch the geometric S out of the circle in monochrome."
       ],
       "small": {
         "artwork": "Use the isolated brand symbol at 16 px.",
@@ -4302,11 +4307,12 @@
       "license": "CC0-1.0 (SVG Logos collection); brand rights reserved",
       "quality": "vector",
       "processing": [
-        "Center the full native mascot and preserve its blue, yellow and orange fills. Cut out belly and eye details in the mono silhouette."
+        "Normalize the official Snappy mascot SVG for 32+ px sizes and provide a simplified bold gator head small variant at 16 and 24 px."
       ],
       "small": {
-        "artwork": "Use the isolated brand symbol at 16 px.",
-        "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/hostgator-icon.svg"
+        "artwork": "Use the simplified bold Snappy gator head mark at 16 and 24 px.",
+        "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/hostgator-icon.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -4479,11 +4485,12 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Center the original cloud-and-RU mark. Use brighter cyan on dark surfaces."
+        "Normalize the official RU cloud outline SVG, keep lightened cyan in color-dark, and add a stroke-reinforced 16/24 px small variant."
       ],
       "small": {
-        "artwork": "Use the isolated brand symbol at 16 px.",
-        "source": "https://ruvds.com/img/ruvds-logo-w.svg?v=1"
+        "artwork": "Use the stroke-reinforced RUVDS cloud and RU mark at 16 and 24 px.",
+        "source": "https://ruvds.com/img/ruvds-logo-w.svg?v=1",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -4514,19 +4521,22 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Extract the green numbered hexagon and its superscript from the current inline header SVG."
+        "Deepen light-mode green (#6B9A1B) for white-background contrast, add bright #9DD038 in color-dark, and isolate the bold 1-shield without tiny superscript st at 16 and 24 px."
       ],
       "small": {
-        "artwork": "Use the isolated brand symbol at 16 px.",
-        "source": "https://firstvds.ru/"
+        "artwork": "Use the isolated bold FirstVDS 1-hexagon shield at 16 and 24 px.",
+        "source": "https://firstvds.ru/",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
