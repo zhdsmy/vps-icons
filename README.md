@@ -4,9 +4,9 @@
 
 Self-contained cloud, VPS, hosting, and generic infrastructure icons for monitoring dashboards, status pages, directories, and documentation. Load directly via jsDelivr CDN or self-host offline.
 
-当前共收录 **185** 个图标（`vector` 130 · `redrawn` 55；全部提供 SVG 与 8 档 PNG；**135** 个含深色变体，**59** 个含小尺寸专版）。
+当前共收录 **215** 个图标（`vector` 138 · `redrawn` 77；全部提供 SVG 与 8 档 PNG；**154** 个含深色变体，**67** 个含小尺寸专版）。
 
-Currently **185** icons (130 `vector`, 55 `redrawn`; all with SVG + 8 PNG sizes; **135** dark variants, **59** compact small masters).
+Currently **215** icons (138 `vector`, 77 `redrawn`; all with SVG + 8 PNG sizes; **154** dark variants, **67** compact small masters).
 
 [在线/本地对照预览 · Preview](preview.html) · [完整元数据索引 · index.json](index.json)
 
@@ -363,6 +363,36 @@ All current entries ship as SVG (zero PNG-only, `upscaled`, or `placeholder` ico
 | ![](png/color/24/hicloud.png) | Chunghwa Telecom hicloud · 中华电信 hicloud | [`hicloud`](svg/color/hicloud.svg) | [✓](svg/color-dark/hicloud.svg) | [≤24](svg/small/color/hicloud.svg) | vector | [↗](https://www.cht.com.tw/home/eshop/-/media/web/images/logo/cht_logo.svg) |
 | ![](png/color/24/viettel-idc.png) | Viettel IDC · 越南 Viettel IDC | [`viettel-idc`](svg/color/viettel-idc.svg) | — | — | redrawn | [↗](https://portal.viettelidc.com.vn/img/Favicon-IDC.png) |
 | ![](png/color/24/biznet-gio.png) | Biznet Gio · Biznet Gio | [`biznet-gio`](svg/color/biznet-gio.svg) | [✓](svg/color-dark/biznet-gio.svg) | — | redrawn | [↗](https://web-cms.biznetgio.com/uploads/Biznet_GIO_Logo_1_header_78e8b0eceb.webp) |
+| ![](png/color/24/100tb.png) | 100TB · 100TB | [`100tb`](svg/color/100tb.svg) | — | — | vector | [↗](https://100tb.io/favicons/sakura.svg) |
+| ![](png/color/24/vollcloud.png) | VollCloud · VollCloud | [`vollcloud`](svg/color/vollcloud.svg) | [✓](svg/color-dark/vollcloud.svg) | — | vector | [↗](https://vollcloud.com/templates/voll/includes/ws/images/logo.svg) |
+| ![](png/color/24/terabix.png) | Terabix · Terabix | [`terabix`](svg/color/terabix.svg) | [✓](svg/color-dark/terabix.svg) | — | vector | [↗](https://terabix.net/wp-content/uploads/2023/09/Asset-2.svg) |
+| ![](png/color/24/ipraft.png) | iPRaft · iPRaft | [`ipraft`](svg/color/ipraft.svg) | — | — | vector | [↗](https://ipraft.com/) |
+| ![](png/color/24/cubecloud.png) | CubeCloud · 魔方云 | [`cubecloud`](svg/color/cubecloud.svg) | [✓](svg/color-dark/cubecloud.svg) | — | vector | [↗](https://www.cubecloud.net/) |
+| ![](png/color/24/onidel.png) | Onidel · Onidel | [`onidel`](svg/color/onidel.svg) | [✓](svg/color-dark/onidel.svg) | — | vector | [↗](https://onidel.com/onidel-logo-dark.svg) |
+| ![](png/color/24/raksmart.png) | RAKsmart · RAKsmart | [`raksmart`](svg/color/raksmart.svg) | — | — | redrawn | [↗](https://cn.raksmart.com/static/images/logo3.png) |
+| ![](png/color/24/orangevps.png) | OrangeVPS · OrangeVPS | [`orangevps`](svg/color/orangevps.svg) | — | — | redrawn | [↗](https://orangevps.com/wp-content/uploads/2026/06/cropped-IMG_3369-180x180.png) |
+| ![](png/color/24/tnahosting.png) | TNAHosting · TNAHosting | [`tnahosting`](svg/color/tnahosting.svg) | [✓](svg/color-dark/tnahosting.svg) | — | redrawn | [↗](https://tnahosting.net/wp-content/uploads/2025/10/cropped-favicon-192x192.png) |
+| ![](png/color/24/ethernet-servers.png) | Ethernet Servers · Ethernet Servers | [`ethernet-servers`](svg/color/ethernet-servers.svg) | [✓](svg/color-dark/ethernet-servers.svg) | — | redrawn | [↗](https://www.ethernetservers.com/templates/lagom2/assets/img/favicons/favicon-192.png) |
+| ![](png/color/24/lightlayer.png) | LightLayer · LightLayer | [`lightlayer`](svg/color/lightlayer.svg) | [✓](svg/color-dark/lightlayer.svg) | [≤32](svg/small/color/lightlayer.svg) | redrawn | [↗](https://lightlayer.net/favicon.ico) |
+| ![](png/color/24/isif.png) | ISIF Cloud · ISIF Cloud | [`isif`](svg/color/isif.svg) | [✓](svg/color-dark/isif.svg) | [≤32](svg/small/color/isif.svg) | vector | [↗](https://cloud.isif.net/assets/assets-logo-full-Lpb6vKT3.js) |
+| ![](png/color/24/acckcloud.png) | ACCK Cloud · ACCK Cloud | [`acckcloud`](svg/color/acckcloud.svg) | [✓](svg/color-dark/acckcloud.svg) | — | vector | [↗](https://acck.io/assets/HomeDefault-BGAv2I4p.js) |
+| ![](png/color/24/desivps.png) | DesiVPS · DesiVPS | [`desivps`](svg/color/desivps.svg) | [✓](svg/color-dark/desivps.svg) | [≤32](svg/small/color/desivps.svg) | redrawn | [↗](https://www.desivps.com/assets/img/logo.png) |
+| ![](png/color/24/halocloud.png) | HaloCloud · HaloCloud | [`halocloud`](svg/color/halocloud.svg) | [✓](svg/color-dark/halocloud.svg) | — | redrawn | [↗](https://my.halocloud.net/favicon.ico) |
+| ![](png/color/24/bytevirt.png) | ByteVirt · ByteVirt | [`bytevirt`](svg/color/bytevirt.svg) | [✓](svg/color-dark/bytevirt.svg) | [≤32](svg/small/color/bytevirt.svg) | redrawn | [↗](https://bytevirt.com/assets/img/logo.png) |
+| ![](png/color/24/bestvm.png) | BestVM · BestVM（富婆） | [`bestvm`](svg/color/bestvm.svg) | [✓](svg/color-dark/bestvm.svg) | — | redrawn | [↗](https://bestvm.cloud/modules/addons/brand_switcher/assets/bestvm.cloud/logo.png) |
+| ![](png/color/24/rabisu.png) | Rabisu · Rabisu | [`rabisu`](svg/color/rabisu.svg) | [✓](svg/color-dark/rabisu.svg) | — | redrawn | [↗](https://www.rabisu.com/favicon.ico) |
+| ![](png/color/24/tokyonline.png) | Tokyonline · Tokyonline | [`tokyonline`](svg/color/tokyonline.svg) | [✓](svg/color-dark/tokyonline.svg) | — | redrawn | [↗](https://www.tokyonline.com/favicon.ico) |
+| ![](png/color/24/yt-net.png) | YT.NET · 云途 | [`yt-net`](svg/color/yt-net.svg) | [✓](svg/color-dark/yt-net.svg) | — | redrawn | [↗](https://yt.net/logo.png) |
+| ![](png/color/24/rfchost.png) | RFCHost · 花卷 | [`rfchost`](svg/color/rfchost.svg) | [✓](svg/color-dark/rfchost.svg) | [≤32](svg/small/color/rfchost.svg) | redrawn | [↗](https://rfchost.com/) |
+| ![](png/color/24/vmshell.png) | VmShell · VmShell | [`vmshell`](svg/color/vmshell.svg) | — | — | redrawn | [↗](https://vmshell.com/assets/img/logo.png) |
+| ![](png/color/24/zorocloud.png) | ZoroCloud · 索隆云 | [`zorocloud`](svg/color/zorocloud.svg) | — | [≤32](svg/small/color/zorocloud.svg) | redrawn | [↗](https://my.zorocloud.com/templates/lagom2/assets/img/logo/logo_big.156287152.png) |
+| ![](png/color/24/fiberstate.png) | FiberState · FiberState | [`fiberstate`](svg/color/fiberstate.svg) | [✓](svg/color-dark/fiberstate.svg) | — | redrawn | [↗](https://psp-logos.uptimerobot.com/logos/2703978_1161659_logo2.png) |
+| ![](png/color/24/digitalvirt.png) | DigitalVirt · DigitalVirt | [`digitalvirt`](svg/color/digitalvirt.svg) | — | — | redrawn | [↗](https://digitalvirt.com/templates/BlueWhite/img/logo.png) |
+| ![](png/color/24/moecloud.png) | MoeCloud · MoeCloud | [`moecloud`](svg/color/moecloud.svg) | — | [≤32](svg/small/color/moecloud.svg) | redrawn | [↗](https://lite.moe/assets/img/logo.png) |
+| ![](png/color/24/zovps.png) | Ciyun Data · 慈云数据 | [`zovps`](svg/color/zovps.svg) | — | — | redrawn | [↗](https://www.ciyundata.com/favicon.ico) |
+| ![](png/color/24/666clouds.png) | 666Clouds · 六六云 | [`666clouds`](svg/color/666clouds.svg) | — | — | redrawn | [↗](https://www.666clouds.com/favicon.ico) |
+| ![](png/color/24/v5-server.png) | V5 Server · V5 Server | [`v5-server`](svg/color/v5-server.svg) | — | — | redrawn | [↗](https://v5.net/favicon.ico) |
+| ![](png/color/24/wap-ac.png) | wap.ac · wap.ac | [`wap-ac`](svg/color/wap-ac.svg) | [✓](svg/color-dark/wap-ac.svg) | [≤24](svg/small/color/wap-ac.svg) | redrawn | [↗](https://wap.ac/favicon.ico) |
 
 ---
 
