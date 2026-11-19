@@ -4388,5 +4388,251 @@
       "artwork": "Use the standalone brand mark at 16 px.",
       "source": "https://www.ethernetservers.com/templates/lagom2/assets/img/favicons/favicon-192.png"
     }
+  },
+  {
+    "slug": "lightlayer",
+    "name": "LightLayer",
+    "names": {
+      "zh-CN": "LightLayer"
+    },
+    "aliases": [
+      "light layer",
+      "megalayer"
+    ],
+    "website": "https://lightlayer.net",
+    "brandColor": "#1A1A1A",
+    "source": "https://lightlayer.net/favicon.ico",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Rebuild the narrow upright L and its three warm bands from the provider favicon."
+    ],
+    "small": {
+      "artwork": "Use the standalone brand mark at 16 px.",
+      "source": "https://lightlayer.net/favicon.ico"
+    }
+  },
+  {
+    "slug": "isif",
+    "name": "ISIF Cloud",
+    "names": {
+      "zh-CN": "ISIF Cloud"
+    },
+    "aliases": [
+      "isif cloud"
+    ],
+    "website": "https://cloud.isif.net",
+    "brandColor": "#415A9B",
+    "source": "https://cloud.isif.net/assets/assets-logo-full-Lpb6vKT3.js",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Separate the six-spoke ISIF emblem from the wordmark in the official console SVG component. Use the blue of the console icon.",
+      "Color reference: https://cloud.isif.net/favicon.ico"
+    ],
+    "small": {
+      "artwork": "Use the standalone brand mark at 16 px.",
+      "source": "https://cloud.isif.net/assets/assets-logo-full-Lpb6vKT3.js"
+    }
+  },
+  {
+    "slug": "acckcloud",
+    "name": "ACCK Cloud",
+    "names": {
+      "zh-CN": "ACCK Cloud"
+    },
+    "aliases": [
+      "acck",
+      "acck.io"
+    ],
+    "website": "https://acck.io",
+    "brandColor": "#0A84FF",
+    "source": "https://acck.io/assets/HomeDefault-BGAv2I4p.js",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Extract the two cloud-and-A paths from the official default homepage component, expand the rounded strokes and use its blue stop."
+    ],
+    "small": {
+      "artwork": "Use the standalone brand mark at 16 px.",
+      "source": "https://acck.io/assets/HomeDefault-BGAv2I4p.js"
+    }
+  },
+  {
+    "slug": "desivps",
+    "name": "DesiVPS",
+    "names": {
+      "zh-CN": "DesiVPS"
+    },
+    "aliases": [
+      "desivps.com"
+    ],
+    "website": "https://www.desivps.com",
+    "brandColor": "#13A89E",
+    "source": "https://www.desivps.com/assets/img/logo.png",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Isolate the circuit-shaped monogram from the bilingual DesiVPS wordmark. Preserve the two inks and circular terminals."
+    ],
+    "small": {
+      "artwork": "Use the standalone brand mark at 16 px.",
+      "source": "https://www.desivps.com/assets/img/logo.png"
+    }
+  },
+  {
+    "slug": "halocloud",
+    "name": "HaloCloud",
+    "names": {
+      "zh-CN": "HaloCloud"
+    },
+    "aliases": [
+      "halocloud.net"
+    ],
+    "website": "https://my.halocloud.net/",
+    "brandColor": "#3D4343",
+    "source": "https://my.halocloud.net/favicon.ico",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Trace the dark cloud and blue orbital arc from the client-area icon, checked against its header logo.",
+      "Header source: https://my.halocloud.net/assets/img/logo.png"
+    ],
+    "small": {
+      "artwork": "Use the standalone brand mark at 16 px.",
+      "source": "https://my.halocloud.net/favicon.ico"
+    }
+  },
+  {
+    "slug": "bytevirt",
+    "name": "ByteVirt",
+    "names": {
+      "zh-CN": "ByteVirt"
+    },
+    "aliases": [
+      "bytevirt.com"
+    ],
+    "website": "https://bytevirt.com",
+    "brandColor": "#3850E6",
+    "source": "https://bytevirt.com/assets/img/logo.png",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Extract the hexagonal cloud emblem from the left of the official header, opening the white portions for transparent mono."
+    ],
+    "small": {
+      "artwork": "Use the standalone brand mark at 16 px.",
+      "source": "https://bytevirt.com/assets/img/logo.png"
+    }
+  },
+  {
+    "slug": "bestvm",
+    "name": "BestVM",
+    "names": {
+      "zh-CN": "BestVM（富婆）"
+    },
+    "aliases": [
+      "富婆",
+      "bestvm.cloud"
+    ],
+    "website": "https://bestvm.cloud",
+    "brandColor": "#192335",
+    "source": "https://bestvm.cloud/modules/addons/brand_switcher/assets/bestvm.cloud/logo.png",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Separate the bv tile from the official lockup. Keep both original letter colors and lift the letters for mono."
+    ],
+    "small": {
+      "artwork": "Use the standalone brand mark at 16 px.",
+      "source": "https://bestvm.cloud/modules/addons/brand_switcher/assets/bestvm.cloud/logo.png"
+    }
+  },
+  {
+    "slug": "rabisu",
+    "name": "Rabisu",
+    "names": {
+      "zh-CN": "Rabisu"
+    },
+    "aliases": [
+      "rabisu.com"
+    ],
+    "website": "https://www.rabisu.com",
+    "brandColor": "#282828",
+    "source": "https://www.rabisu.com/favicon.ico",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Rebuild the winged R symbol of the site favicon. Use the lime of the header wordmark on dark surfaces."
+    ],
+    "small": {
+      "artwork": "Use the standalone brand mark at 16 px.",
+      "source": "https://www.rabisu.com/favicon.ico"
+    }
+  },
+  {
+    "slug": "tokyonline",
+    "name": "Tokyonline",
+    "names": {
+      "zh-CN": "Tokyonline"
+    },
+    "aliases": [
+      "tokyonline.com"
+    ],
+    "website": "https://www.tokyonline.com",
+    "brandColor": "#DD2E44",
+    "source": "https://www.tokyonline.com/favicon.ico",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Redraw the tower and red observation decks from the official icon, retaining the arch and crossbeams."
+    ],
+    "small": {
+      "artwork": "Use the standalone brand mark at 16 px.",
+      "source": "https://www.tokyonline.com/favicon.ico"
+    }
+  },
+  {
+    "slug": "yt-net",
+    "name": "YT.NET",
+    "names": {
+      "zh-CN": "云途"
+    },
+    "aliases": [
+      "yt.net",
+      "云途"
+    ],
+    "website": "https://yt.net",
+    "brandColor": "#136AAC",
+    "source": "https://yt.net/logo.png",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Trace the continuous YT cloud mark. Preserve the cyan-to-blue sweep of the original."
+    ],
+    "small": {
+      "artwork": "Use the standalone brand mark at 16 px.",
+      "source": "https://yt.net/logo.png"
+    }
   }
 ]

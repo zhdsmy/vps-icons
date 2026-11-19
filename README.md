@@ -238,6 +238,16 @@ Use PNG where the SVG variant list is empty. The index gives the original source
 | ![](png/color/24/orangevps.png) | OrangeVPS · OrangeVPS | [`orangevps`](svg/color/orangevps.svg) | — | redrawn | [↗](https://orangevps.com/wp-content/uploads/2026/06/cropped-IMG_3369-180x180.png) |
 | ![](png/color/24/tnahosting.png) | TNAHosting · TNAHosting | [`tnahosting`](svg/color/tnahosting.svg) | [✓](svg/color-dark/tnahosting.svg) | redrawn | [↗](https://tnahosting.net/wp-content/uploads/2025/10/cropped-favicon-192x192.png) |
 | ![](png/color/24/ethernet-servers.png) | Ethernet Servers · Ethernet Servers | [`ethernet-servers`](svg/color/ethernet-servers.svg) | [✓](svg/color-dark/ethernet-servers.svg) | redrawn | [↗](https://www.ethernetservers.com/templates/lagom2/assets/img/favicons/favicon-192.png) |
+| ![](png/color/24/lightlayer.png) | LightLayer · LightLayer | [`lightlayer`](svg/color/lightlayer.svg) | [✓](svg/color-dark/lightlayer.svg) | redrawn | [↗](https://lightlayer.net/favicon.ico) |
+| ![](png/color/24/isif.png) | ISIF Cloud · ISIF Cloud | [`isif`](svg/color/isif.svg) | [✓](svg/color-dark/isif.svg) | vector | [↗](https://cloud.isif.net/assets/assets-logo-full-Lpb6vKT3.js) |
+| ![](png/color/24/acckcloud.png) | ACCK Cloud · ACCK Cloud | [`acckcloud`](svg/color/acckcloud.svg) | [✓](svg/color-dark/acckcloud.svg) | vector | [↗](https://acck.io/assets/HomeDefault-BGAv2I4p.js) |
+| ![](png/color/24/desivps.png) | DesiVPS · DesiVPS | [`desivps`](svg/color/desivps.svg) | — | redrawn | [↗](https://www.desivps.com/assets/img/logo.png) |
+| ![](png/color/24/halocloud.png) | HaloCloud · HaloCloud | [`halocloud`](svg/color/halocloud.svg) | [✓](svg/color-dark/halocloud.svg) | redrawn | [↗](https://my.halocloud.net/favicon.ico) |
+| ![](png/color/24/bytevirt.png) | ByteVirt · ByteVirt | [`bytevirt`](svg/color/bytevirt.svg) | [✓](svg/color-dark/bytevirt.svg) | redrawn | [↗](https://bytevirt.com/assets/img/logo.png) |
+| ![](png/color/24/bestvm.png) | BestVM · BestVM（富婆） | [`bestvm`](svg/color/bestvm.svg) | — | redrawn | [↗](https://bestvm.cloud/modules/addons/brand_switcher/assets/bestvm.cloud/logo.png) |
+| ![](png/color/24/rabisu.png) | Rabisu · Rabisu | [`rabisu`](svg/color/rabisu.svg) | [✓](svg/color-dark/rabisu.svg) | redrawn | [↗](https://www.rabisu.com/favicon.ico) |
+| ![](png/color/24/tokyonline.png) | Tokyonline · Tokyonline | [`tokyonline`](svg/color/tokyonline.svg) | [✓](svg/color-dark/tokyonline.svg) | redrawn | [↗](https://www.tokyonline.com/favicon.ico) |
+| ![](png/color/24/yt-net.png) | YT.NET · 云途 | [`yt-net`](svg/color/yt-net.svg) | [✓](svg/color-dark/yt-net.svg) | redrawn | [↗](https://yt.net/logo.png) |
 
 ## 贡献 / Contributing
 
