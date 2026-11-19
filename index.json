@@ -3585,6 +3585,285 @@
           "mono-white"
         ]
       }
+    },
+    {
+      "slug": "liteserver",
+      "name": "LiteServer",
+      "names": {
+        "zh-CN": "LiteServer"
+      },
+      "aliases": [
+        "liteserver.nl"
+      ],
+      "website": "https://liteserver.nl",
+      "brandColor": "#91C62D",
+      "source": "https://liteserver.nl/inhoud/uploads/2020/10/favicon.png",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "redrawn",
+      "processing": [
+        "Rebuild the four overlapping ribbon segments, following the curves and sampled inks of the official square icon."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://liteserver.nl/inhoud/uploads/2020/10/favicon.png"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "alphavps",
+      "name": "AlphaVPS",
+      "names": {
+        "zh-CN": "AlphaVPS"
+      },
+      "aliases": [
+        "alpha vps"
+      ],
+      "website": "https://alphavps.com",
+      "brandColor": "#2779BD",
+      "source": "https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/152862/logo2.png",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "redrawn",
+      "processing": [
+        "Isolate and reconstruct the three angled pieces of the A in the official status-page logo."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/152862/logo2.png"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "host-europe",
+      "name": "Host Europe",
+      "names": {
+        "zh-CN": "Host Europe"
+      },
+      "aliases": [
+        "hosteurope"
+      ],
+      "website": "https://www.hosteurope.de",
+      "brandColor": "#237D84",
+      "source": "https://www.hosteurope.de/blog/wp-content/themes/he-blog/_icons/apple-touch-icon.png",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "redrawn",
+      "processing": [
+        "Rebuild the H monogram from the official blog touch icon: two uprights, two short crossbars and its teal-to-green ink."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://www.hosteurope.de/blog/wp-content/themes/he-blog/_icons/apple-touch-icon.png"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "sharktech",
+      "name": "Sharktech",
+      "names": {
+        "zh-CN": "Sharktech"
+      },
+      "aliases": [
+        "sharktech.net"
+      ],
+      "website": "https://sharktech.net",
+      "brandColor": "#12263A",
+      "source": "https://sharktech.net/assets/sharktech-logo.png",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "redrawn",
+      "processing": [
+        "Reconstruct the shark-fin A embedded in the official white wordmark, keeping the open counter and the wave at its base."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://sharktech.net/assets/sharktech-logo.png"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "atlantic-net",
+      "name": "Atlantic.Net",
+      "names": {
+        "zh-CN": "Atlantic.Net"
+      },
+      "aliases": [
+        "atlantic.net"
+      ],
+      "website": "https://www.atlantic.net",
+      "brandColor": "#1B38DB",
+      "source": "https://www.atlantic.net/wp-content/themes/anet/img/site/icons/icon-512-any.png",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "redrawn",
+      "processing": [
+        "Draw the six tapered arcs of the current official manifest icon. Keep the open spaces between the interleaved orbits.",
+        "Scale the orbits vertically and reinforce their thin tips in the compact master."
+      ],
+      "small": {
+        "artwork": "Vertically opened and reinforced orbital contours at 16–32 px.",
+        "source": "https://www.atlantic.net/wp-content/themes/anet/img/site/icons/icon-512-any.png",
+        "maxSize": 32
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "servarica",
+      "name": "ServaRICA",
+      "names": {
+        "zh-CN": "ServaRICA"
+      },
+      "aliases": [
+        "serva rica"
+      ],
+      "website": "https://servarica.com",
+      "brandColor": "#0674FF",
+      "source": "https://servarica.com/logo-icon.png",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "redrawn",
+      "processing": [
+        "Redraw the three diagonal bands and arrow from the official app mark. Keep the negative-space channels between the horizontal fins."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://servarica.com/logo-icon.png"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "krypt",
+      "name": "Krypt",
+      "names": {
+        "zh-CN": "Krypt"
+      },
+      "aliases": [
+        "krypt.com"
+      ],
+      "website": "https://www.krypt.com",
+      "brandColor": "#20A7DF",
+      "source": "https://www.linkedin.com/showcase/kryptcom/",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "redrawn",
+      "processing": [
+        "Rebuild the blue Kr tile from the provider’s company profile. Enlarge the periodic-table symbol and omit its tiny index so the letter pair stays readable."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://www.linkedin.com/showcase/kryptcom/"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "beget",
+      "name": "Beget",
+      "names": {
+        "zh-CN": "Beget"
+      },
+      "aliases": [
+        "бегет"
+      ],
+      "website": "https://beget.com",
+      "brandColor": "#4DB9E8",
+      "source": "https://avatars.githubusercontent.com/u/7524527?v=4&s=512",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "redrawn",
+      "processing": [
+        "Hand-draw the blue head, expression and curling blue-green arms from the mascot in the provider-linked organization avatar. Use just the face at 16–32 px."
+      ],
+      "small": {
+        "artwork": "Use the isolated mascot head and eye cutouts at 16–32 px.",
+        "source": "https://avatars.githubusercontent.com/u/7524527?v=4&s=512",
+        "maxSize": 32
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
     }
   ]
 }

@@ -165,6 +165,14 @@ Use PNG where the SVG variant list is empty. The index gives the original source
 | ![](png/color/24/reg-ru.png) | REG.RU · REG.RU | [`reg-ru`](svg/color/reg-ru.svg) | [✓](svg/color-dark/reg-ru.svg) | vector | [↗](https://help.reg.ru/) |
 | ![](png/color/24/inmotion-hosting.png) | InMotion Hosting · InMotion Hosting | [`inmotion-hosting`](svg/color/inmotion-hosting.svg) | [✓](svg/color-dark/inmotion-hosting.svg) | redrawn | [↗](https://avatars.githubusercontent.com/u/7607996?v=4&s=512) |
 | ![](png/color/24/cloudsigma.png) | CloudSigma · CloudSigma | [`cloudsigma`](svg/color/cloudsigma.svg) | — | redrawn | [↗](https://avatars.githubusercontent.com/u/2410618?v=4&s=512) |
+| ![](png/color/24/liteserver.png) | LiteServer · LiteServer | [`liteserver`](svg/color/liteserver.svg) | [✓](svg/color-dark/liteserver.svg) | redrawn | [↗](https://liteserver.nl/inhoud/uploads/2020/10/favicon.png) |
+| ![](png/color/24/alphavps.png) | AlphaVPS · AlphaVPS | [`alphavps`](svg/color/alphavps.svg) | [✓](svg/color-dark/alphavps.svg) | redrawn | [↗](https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/152862/logo2.png) |
+| ![](png/color/24/host-europe.png) | Host Europe · Host Europe | [`host-europe`](svg/color/host-europe.svg) | [✓](svg/color-dark/host-europe.svg) | redrawn | [↗](https://www.hosteurope.de/blog/wp-content/themes/he-blog/_icons/apple-touch-icon.png) |
+| ![](png/color/24/sharktech.png) | Sharktech · Sharktech | [`sharktech`](svg/color/sharktech.svg) | [✓](svg/color-dark/sharktech.svg) | redrawn | [↗](https://sharktech.net/assets/sharktech-logo.png) |
+| ![](png/color/24/atlantic-net.png) | Atlantic.Net · Atlantic.Net | [`atlantic-net`](svg/color/atlantic-net.svg) | [✓](svg/color-dark/atlantic-net.svg) | redrawn | [↗](https://www.atlantic.net/wp-content/themes/anet/img/site/icons/icon-512-any.png) |
+| ![](png/color/24/servarica.png) | ServaRICA · ServaRICA | [`servarica`](svg/color/servarica.svg) | [✓](svg/color-dark/servarica.svg) | redrawn | [↗](https://servarica.com/logo-icon.png) |
+| ![](png/color/24/krypt.png) | Krypt · Krypt | [`krypt`](svg/color/krypt.svg) | — | redrawn | [↗](https://www.linkedin.com/showcase/kryptcom/) |
+| ![](png/color/24/beget.png) | Beget · Beget | [`beget`](svg/color/beget.svg) | — | redrawn | [↗](https://avatars.githubusercontent.com/u/7524527?v=4&s=512) |
 
 ## 贡献 / Contributing
 
