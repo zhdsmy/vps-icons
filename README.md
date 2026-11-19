@@ -156,20 +156,20 @@ Use PNG where the SVG variant list is empty. The index gives the original source
 | ![](png/color/24/vmrack.png) | VMRack · VMRack | [`vmrack`](svg/color/vmrack.svg) | — | vector | [↗](https://www.vmrack.net/favicon.svg) |
 | ![](png/color/24/neburst.png) | Neburst Networks · 奶爸云 | [`neburst`](svg/color/neburst.svg) | [✓](svg/color-dark/neburst.svg) | vector | [↗](https://neburst.com/favicon.svg) |
 | ![](png/color/24/rainyun.png) | RainYun · 雨云 | [`rainyun`](svg/color/rainyun.svg) | [✓](svg/color-dark/rainyun.svg) | redrawn | [↗](https://www.rainyun.com/img/logo.d193755d.png) |
-| ![](png/color/24/lcayun.png) | Lcayun · 莱卡云 | [`lcayun`](svg/color/lcayun.svg) | — | redrawn | [↗](https://www.lcayun.com/themes/web/LcayunM1/assets/img/logo.png) |
+| ![](png/color/24/lcayun.png) | Lcayun · 莱卡云 | [`lcayun`](svg/color/lcayun.svg) | [✓](svg/color-dark/lcayun.svg) | redrawn | [↗](https://www.lcayun.com/themes/web/LcayunM1/assets/img/logo.png) |
 | ![](png/color/24/lightnode.png) | LightNode · LightNode | [`lightnode`](svg/color/lightnode.svg) | [✓](svg/color-dark/lightnode.svg) | redrawn | [↗](https://www.lightnode.com/static/images/header-logo.png) |
 | ![](png/color/24/conoha.png) | ConoHa · ConoHa | [`conoha`](svg/color/conoha.svg) | — | vector | [↗](https://support.conoha.jp) |
 | ![](png/color/24/naver-cloud.png) | NAVER Cloud Platform · NAVER 云 | [`naver-cloud`](svg/color/naver-cloud.svg) | — | vector | [↗](https://www.ncloud.com/img/ncp-logo-shd.svg) |
-| ![](png/color/24/nhn-cloud.png) | NHN Cloud · NHN 云 | [`nhn-cloud`](svg/color/nhn-cloud.svg) | — | vector | [↗](https://docs.nhncloud.com/ko/img/favicons/safari-pinned-tab.svg) |
+| ![](png/color/24/nhn-cloud.png) | NHN Cloud · NHN 云 | [`nhn-cloud`](svg/color/nhn-cloud.svg) | [✓](svg/color-dark/nhn-cloud.svg) | vector | [↗](https://docs.nhncloud.com/ko/img/favicons/safari-pinned-tab.svg) |
 | ![](png/color/24/lisahost.png) | LisaHost · 丽萨主机 | [`lisahost`](svg/color/lisahost.svg) | [✓](svg/color-dark/lisahost.svg) | redrawn | [↗](https://lisahost.com/favicon.ico) |
-| ![](png/color/24/zgocloud.png) | ZgoCloud · ZgoCloud | [`zgocloud`](svg/color/zgocloud.svg) | — | redrawn | [↗](https://zgovps.com/wp-content/uploads/2023/10/cropped-icon.png) |
+| ![](png/color/24/zgocloud.png) | ZgoCloud · ZgoCloud | [`zgocloud`](svg/color/zgocloud.svg) | [✓](svg/color-dark/zgocloud.svg) | redrawn | [↗](https://zgovps.com/wp-content/uploads/2023/10/cropped-icon.png) |
 | ![](png/color/24/yecaoyun.png) | YecaoYun · 野草云 | [`yecaoyun`](svg/color/yecaoyun.svg) | [✓](svg/color-dark/yecaoyun.svg) | redrawn | [↗](https://www.yecaoyun.com/Public/Home/img/logo.png) |
 | ![](png/color/24/kingsoft-cloud.png) | Kingsoft Cloud · 金山云 | [`kingsoft-cloud`](svg/color/kingsoft-cloud.svg) | [✓](svg/color-dark/kingsoft-cloud.svg) | redrawn | [↗](https://resource.ksyun.com/project/cms/8b2b5c8f8a322a7b8c66bcc5f1f08302) |
 | ![](png/color/24/ecloud.png) | China Mobile Cloud · 移动云 | [`ecloud`](svg/color/ecloud.svg) | [✓](svg/color-dark/ecloud.svg) | redrawn | [↗](https://ecloud.eos-guangzhou-1.cmecloud.cn/fe/favicon.ico) |
-| ![](png/color/24/unicom-cloud.png) | China Unicom Cloud · 联通云 | [`unicom-cloud`](svg/color/unicom-cloud.svg) | — | redrawn | [↗](https://www.cucloud.cn/templets/1/default/images/about-woyun-logo.png) |
+| ![](png/color/24/unicom-cloud.png) | China Unicom Cloud · 联通云 | [`unicom-cloud`](svg/color/unicom-cloud.svg) | [✓](svg/color-dark/unicom-cloud.svg) | redrawn | [↗](https://web.archive.org/web/20261018200308im_/https://www.cucloud.cn/templets/1/default/images/about-woyun-logo.png) |
 | ![](png/color/24/west-cn.png) | West.cn · 西部数码 | [`west-cn`](svg/color/west-cn.svg) | [✓](svg/color-dark/west-cn.svg) | redrawn | [↗](https://www.west.cn/favicon.ico) |
 | ![](png/color/24/hncloud.png) | HNCloud · 华纳云 | [`hncloud`](svg/color/hncloud.svg) | [✓](svg/color-dark/hncloud.svg) | redrawn | [↗](https://www.hncloud.com/static/images/home/company-logo.jpg) |
-| ![](png/color/24/henghost.png) | Henghost · 恒创科技 | [`henghost`](svg/color/henghost.svg) | — | redrawn | [↗](https://www.henghost.com/favicon.ico) |
+| ![](png/color/24/henghost.png) | Henghost · 恒创科技 | [`henghost`](svg/color/henghost.svg) | [✓](svg/color-dark/henghost.svg) | redrawn | [↗](https://www.henghost.com/favicon.ico) |
 | ![](png/color/24/wangsu.png) | Wangsu · 网宿科技 | [`wangsu`](svg/color/wangsu.svg) | [✓](svg/color-dark/wangsu.svg) | redrawn | [↗](https://wangsu.com/favicon.ico) |
 | ![](png/color/24/kt-cloud.png) | kt cloud · KT 云 | [`kt-cloud`](svg/color/kt-cloud.svg) | [✓](svg/color-dark/kt-cloud.svg) | vector | [↗](https://upload.wikimedia.org/wikipedia/commons/2/22/KT_Corp_2D_logo.svg) |
 | ![](png/color/24/akkocloud.png) | AkkoCloud · AkkoCloud | [`akkocloud`](svg/color/akkocloud.svg) | [✓](svg/color-dark/akkocloud.svg) | redrawn | [↗](https://www.akkocloud.com/templates/akko/assets/img/logo-1.png) |
@@ -184,7 +184,7 @@ Use PNG where the SVG variant list is empty. The index gives the original source
 | ![](png/color/24/strato.png) | STRATO · STRATO | [`strato`](svg/color/strato.svg) | — | vector | [↗](https://www.strato.de/_assets/img/svg/logo_strato_white_mobile.svg) |
 | ![](png/color/24/servers-com.png) | Servers.com · Servers.com | [`servers-com`](svg/color/servers-com.svg) | — | vector | [↗](https://www.servers.com/global/generated/assets/favicon.svg) |
 | ![](png/color/24/hostgator.png) | HostGator · HostGator | [`hostgator`](svg/color/hostgator.svg) | — | vector | [↗](https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/hostgator-icon.svg) |
-| ![](png/color/24/siteground.png) | SiteGround · SiteGround | [`siteground`](svg/color/siteground.svg) | [✓](svg/color-dark/siteground.svg) | vector | [↗](https://static-cdn.siteground.com/assets/img/svg/logos/sg_black.svg) |
+| ![](png/color/24/siteground.png) | SiteGround · SiteGround | [`siteground`](svg/color/siteground.svg) | [✓](svg/color-dark/siteground.svg) | vector | [↗](https://web.archive.org/web/20240806201808im_/https://static-cdn.siteground.com/assets/img/svg/logos/sg_black.svg) |
 | ![](png/color/24/hosting-com.png) | hosting.com · hosting.com | [`hosting-com`](svg/color/hosting-com.svg) | [✓](svg/color-dark/hosting-com.svg) | vector | [↗](https://hosting.com/assets/brand/hosting-logo-on-dark.svg) |
 | ![](png/color/24/hostus.png) | HostUS · HostUS | [`hostus`](svg/color/hostus.svg) | [✓](svg/color-dark/hostus.svg) | vector | [↗](https://hostus.us/img/logo.svg) |
 | ![](png/color/24/webdock.png) | Webdock · Webdock | [`webdock`](svg/color/webdock.svg) | [✓](svg/color-dark/webdock.svg) | vector | [↗](https://webdock.io/__l5e/assets-v1/b754cb92-e545-492b-8c5f-a17bb9978f16/webdock-favicon.svg) |
