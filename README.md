@@ -125,6 +125,16 @@ Use PNG where the SVG variant list is empty. The index gives the original source
 | ![](png/color/24/backblaze.png) | Backblaze · Backblaze | [`backblaze`](svg/color/backblaze.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/backblaze.svg) |
 | ![](png/color/24/wasabi.png) | Wasabi · Wasabi | [`wasabi`](svg/color/wasabi.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/wasabi.svg) |
 | ![](png/color/24/yandex-cloud.png) | Yandex Cloud · Yandex 云 | [`yandex-cloud`](svg/color/yandex-cloud.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/yandexcloud.svg) |
+| ![](png/color/24/fly-io.png) | Fly.io · Fly.io | [`fly-io`](svg/color/fly-io.svg) | — | vector | [↗](https://fly.io/phx/images/icons/fly_logo-71111ce5a640c41c308406fd688222e1.svg?vsn=d) |
+| ![](png/color/24/bunny.png) | bunny.net · bunny.net | [`bunny`](svg/color/bunny.svg) | — | vector | [↗](https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/bunny-net-icon.svg) |
+| ![](png/color/24/leaseweb.png) | Leaseweb · Leaseweb | [`leaseweb`](svg/color/leaseweb.svg) | [✓](svg/color-dark/leaseweb.svg) | vector | [↗](https://developer.leaseweb.com/images/leaseweb_logo.svg) |
+| ![](png/color/24/hostwinds.png) | Hostwinds · Hostwinds | [`hostwinds`](svg/color/hostwinds.svg) | — | vector | [↗](https://www.hostwinds.com/_next/static/images/19d6352287968d1da54645336c4ec7aa.svg) |
+| ![](png/color/24/liquid-web.png) | Liquid Web · Liquid Web | [`liquid-web`](svg/color/liquid-web.svg) | [✓](svg/color-dark/liquid-web.svg) | vector | [↗](https://res.cloudinary.com/lwcom/images/f_svg,q_auto/fl_sanitize/v1776858458/prod/favicon/favicon.svg) |
+| ![](png/color/24/dreamhost.png) | DreamHost · DreamHost | [`dreamhost`](svg/color/dreamhost.svg) | [✓](svg/color-dark/dreamhost.svg) | vector | [↗](https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/dreamhost.svg) |
+| ![](png/color/24/namecheap.png) | Namecheap · Namecheap | [`namecheap`](svg/color/namecheap.svg) | — | vector | [↗](https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/namecheap.svg) |
+| ![](png/color/24/bluehost.png) | Bluehost · Bluehost | [`bluehost`](svg/color/bluehost.svg) | — | vector | [↗](https://upload.wikimedia.org/wikipedia/commons/9/9a/Bluehost_logo_2019.svg) |
+| ![](png/color/24/cherry-servers.png) | Cherry Servers · Cherry Servers | [`cherry-servers`](svg/color/cherry-servers.svg) | — | vector | [↗](https://www.cherryservers.com/) |
+| ![](png/color/24/latitude-sh.png) | Latitude.sh · Latitude.sh | [`latitude-sh`](svg/color/latitude-sh.svg) | — | vector | [↗](https://www.latitude.sh/favicon.svg) |
 
 ## 贡献 / Contributing
 

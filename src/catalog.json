@@ -1606,5 +1606,251 @@
       "artwork": "Use the isolated brand symbol at 16 px.",
       "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/yandexcloud.svg"
     }
+  },
+  {
+    "slug": "fly-io",
+    "name": "Fly.io",
+    "names": {
+      "zh-CN": "Fly.io"
+    },
+    "aliases": [
+      "fly.io",
+      "flyio"
+    ],
+    "website": "https://fly.io",
+    "brandColor": "#5046E4",
+    "source": "https://fly.io/phx/images/icons/fly_logo-71111ce5a640c41c308406fd688222e1.svg?vsn=d",
+    "license": "Proprietary brand artwork; no open license identified; CC0-1.0 Simple Icons monochrome balloon, brand rights reserved",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Isolate the three illustrated paths and sky gradient from the official lockup. Use the standalone balloon outline in mono and on both surfaces at 16 and 24 px."
+    ],
+    "small": {
+      "artwork": "Standalone balloon symbol, using purple ink at 16 and 24 px.",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/flydotio.svg"
+    },
+    "monoSource": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/flydotio.svg",
+    "smallMax": 24
+  },
+  {
+    "slug": "bunny",
+    "name": "bunny.net",
+    "names": {
+      "zh-CN": "bunny.net"
+    },
+    "aliases": [
+      "bunny.net",
+      "bunnycdn"
+    ],
+    "website": "https://bunny.net",
+    "brandColor": "#F58220",
+    "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/bunny-net-icon.svg",
+    "license": "CC0-1.0 (SVG Logos collection); brand rights reserved",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Retain the jumping rabbit and its native gradients. Use the silhouette of its paths for mono."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand symbol at 16 px.",
+      "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/bunny-net-icon.svg"
+    }
+  },
+  {
+    "slug": "leaseweb",
+    "name": "Leaseweb",
+    "names": {
+      "zh-CN": "Leaseweb"
+    },
+    "aliases": [
+      "lease web"
+    ],
+    "website": "https://www.leaseweb.com",
+    "brandColor": "#F18800",
+    "source": "https://developer.leaseweb.com/images/leaseweb_logo.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Isolate the six segments of the two-color symbol from the developer portal lockup. Lighten the blue segments on dark surfaces."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand symbol at 16 px.",
+      "source": "https://developer.leaseweb.com/images/leaseweb_logo.svg"
+    }
+  },
+  {
+    "slug": "hostwinds",
+    "name": "Hostwinds",
+    "names": {
+      "zh-CN": "Hostwinds"
+    },
+    "aliases": [
+      "hostwinds cloud"
+    ],
+    "website": "https://www.hostwinds.com",
+    "brandColor": "#2199FF",
+    "source": "https://www.hostwinds.com/_next/static/images/19d6352287968d1da54645336c4ec7aa.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Isolate the blue wave paths from the official header. Keep the native radial gradients and use the same wave outlines in mono."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand symbol at 16 px.",
+      "source": "https://www.hostwinds.com/_next/static/images/19d6352287968d1da54645336c4ec7aa.svg"
+    }
+  },
+  {
+    "slug": "liquid-web",
+    "name": "Liquid Web",
+    "names": {
+      "zh-CN": "Liquid Web"
+    },
+    "aliases": [
+      "liquidweb"
+    ],
+    "website": "https://www.liquidweb.com",
+    "brandColor": "#1F1F1F",
+    "source": "https://res.cloudinary.com/lwcom/images/f_svg,q_auto/fl_sanitize/v1776858458/prod/favicon/favicon.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Lift the LW letter pair out of its favicon tile and center it at a larger size. Use the original light and dark inks."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand symbol at 16 px.",
+      "source": "https://res.cloudinary.com/lwcom/images/f_svg,q_auto/fl_sanitize/v1776858458/prod/favicon/favicon.svg"
+    }
+  },
+  {
+    "slug": "dreamhost",
+    "name": "DreamHost",
+    "names": {
+      "zh-CN": "DreamHost"
+    },
+    "aliases": [
+      "dream host"
+    ],
+    "website": "https://www.dreamhost.com",
+    "brandColor": "#3E95BE",
+    "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/dreamhost.svg",
+    "license": "CC0-1.0 (SVG Logos collection); brand rights reserved",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Keep the two crescent-and-disc paths and lighten the outer crescent on dark surfaces."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand symbol at 16 px.",
+      "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/dreamhost.svg"
+    }
+  },
+  {
+    "slug": "namecheap",
+    "name": "Namecheap",
+    "names": {
+      "zh-CN": "Namecheap"
+    },
+    "aliases": [
+      "name cheap"
+    ],
+    "website": "https://www.namecheap.com",
+    "brandColor": "#FF5000",
+    "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/namecheap.svg",
+    "license": "CC0-1.0 (SVG Logos collection); brand rights reserved; CC0-1.0 Simple Icons monochrome mark, brand rights reserved",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Retain the orange folded mark and its gradients. Use the standalone Simple Icons paths for the monochrome ribbon."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand symbol at 16 px.",
+      "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/namecheap.svg"
+    },
+    "monoSource": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/namecheap.svg"
+  },
+  {
+    "slug": "bluehost",
+    "name": "Bluehost",
+    "names": {
+      "zh-CN": "Bluehost"
+    },
+    "aliases": [
+      "blue host"
+    ],
+    "website": "https://www.bluehost.com",
+    "brandColor": "#0076FF",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bluehost_logo_2019.svg",
+    "license": "Public domain (PD-textlogo, Wikimedia Commons); trademark rights reserved",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Extract the nine blue grid cells from the native vector. Center the grid as one symbol."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand symbol at 16 px.",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bluehost_logo_2019.svg"
+    }
+  },
+  {
+    "slug": "cherry-servers",
+    "name": "Cherry Servers",
+    "names": {
+      "zh-CN": "Cherry Servers"
+    },
+    "aliases": [
+      "cherryservers"
+    ],
+    "website": "https://www.cherryservers.com",
+    "brandColor": "#FF0000",
+    "source": "https://www.cherryservers.com/",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Isolate the red symbol from the inline Cherry Servers header SVG and center it without the wordmark."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand symbol at 16 px.",
+      "source": "https://www.cherryservers.com/"
+    }
+  },
+  {
+    "slug": "latitude-sh",
+    "name": "Latitude.sh",
+    "names": {
+      "zh-CN": "Latitude.sh"
+    },
+    "aliases": [
+      "latitude.sh",
+      "maxihost"
+    ],
+    "website": "https://www.latitude.sh",
+    "brandColor": "#E0FE56",
+    "source": "https://www.latitude.sh/favicon.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Retain the citron favicon tile and black L. Center the standalone L for the monochrome master."
+    ],
+    "small": {
+      "artwork": "Use the isolated brand symbol at 16 px.",
+      "source": "https://www.latitude.sh/favicon.svg"
+    }
   }
 ]
