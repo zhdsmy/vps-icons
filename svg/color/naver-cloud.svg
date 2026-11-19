@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs><linearGradient id="disc" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00d96a"/><stop offset="1" stop-color="#24c8db"/></linearGradient></defs>
+  <defs><linearGradient id="square" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0ab5a5"/><stop offset="1" stop-color="#00df55"/></linearGradient></defs>
+  <g transform="matrix(1.0181 0 0 1.0181 3.865 17.756)">
+    <path fill="url(#disc)" d="M55.1367 14.0363C55.1619 6.45199 49.0269 0.283323 41.4337 0.258172C33.8406 0.233022 27.6648 6.36091 27.6396 13.9452C27.6144 21.5295 33.7494 27.6981 41.3426 27.7233C48.9357 27.7484 55.1115 21.6205 55.1367 14.0363Z"/>
+    <path fill="url(#square)" d="M25.1615 1.47314H0.132568V26.4888H25.1615V1.47314Z"/>
+  </g>
+</svg>
