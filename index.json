@@ -1881,6 +1881,346 @@
           "mono-white"
         ]
       }
+    },
+    {
+      "slug": "qiniu",
+      "name": "Qiniu Cloud",
+      "names": {
+        "zh-CN": "七牛云"
+      },
+      "aliases": [
+        "qiniuyun"
+      ],
+      "website": "https://www.qiniu.com/",
+      "brandColor": "#06AEEF",
+      "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/qiniu-color.svg",
+      "license": "MIT (LobeHub artwork); brand rights reserved",
+      "quality": "vector",
+      "processing": [
+        "Isolate the original graphic mark and center its visible bounds on the 64-unit canvas."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at sidebar sizes.",
+        "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/qiniu-color.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "upyun",
+      "name": "Upyun",
+      "names": {
+        "zh-CN": "又拍云"
+      },
+      "aliases": [
+        "youpaiyun"
+      ],
+      "website": "https://www.upyun.com/",
+      "brandColor": "#00A0FF",
+      "source": "https://www.upyun.com/static/img/黑logo.42ad028.svg",
+      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "quality": "vector",
+      "processing": [
+        "Isolate the original graphic mark and center its visible bounds on the 64-unit canvas."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at sidebar sizes.",
+        "source": "https://www.upyun.com/static/img/黑logo.42ad028.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "qingcloud",
+      "name": "QingCloud",
+      "names": {
+        "zh-CN": "青云"
+      },
+      "aliases": [
+        "qingyun"
+      ],
+      "website": "https://qingcloud.com/",
+      "brandColor": "#0FA06D",
+      "source": "https://qc-website.sh1a.qingstor.com/files/2023/06/qingcloud.svg",
+      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "quality": "vector",
+      "processing": [
+        "Isolate the original graphic mark and center its visible bounds on the 64-unit canvas."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at sidebar sizes.",
+        "source": "https://qc-website.sh1a.qingstor.com/files/2023/06/qingcloud.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "byteplus",
+      "name": "BytePlus",
+      "names": {
+        "zh-CN": "BytePlus"
+      },
+      "aliases": [
+        "byteplus"
+      ],
+      "website": "https://www.byteplus.com/en",
+      "brandColor": "#006AFF",
+      "source": "https://sf-bpcms.bytepluscdn.com/obj/byteplus-assets/images/bp-logo-colored.svg",
+      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "quality": "vector",
+      "processing": [
+        "Isolate the original graphic mark and center its visible bounds on the 64-unit canvas."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at sidebar sizes.",
+        "source": "https://sf-bpcms.bytepluscdn.com/obj/byteplus-assets/images/bp-logo-colored.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "sakura-internet",
+      "name": "SAKURA internet",
+      "names": {
+        "zh-CN": "樱花互联网"
+      },
+      "aliases": [
+        "さくらインターネット",
+        "sakura cloud"
+      ],
+      "website": "https://www.sakura.ad.jp/",
+      "brandColor": "#FF5577",
+      "source": "https://www.sakura.ad.jp/assets/images/logo.svg",
+      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "quality": "vector",
+      "processing": [
+        "Isolate the original graphic mark and center its visible bounds on the 64-unit canvas.",
+        "Use the gray of the official favicon on light surfaces and the light-gray SVG fill on dark surfaces."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at sidebar sizes.",
+        "source": "https://www.sakura.ad.jp/assets/images/logo.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "xserver",
+      "name": "XServer",
+      "names": {
+        "zh-CN": "XServer"
+      },
+      "aliases": [
+        "エックスサーバー"
+      ],
+      "website": "https://www.xserver.ne.jp/",
+      "brandColor": "#1B5FA6",
+      "source": "https://www.xserver.ne.jp/img/common/icon.svg?date=241219",
+      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "quality": "vector",
+      "processing": [
+        "Isolate the original graphic mark and center its visible bounds on the 64-unit canvas."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at sidebar sizes.",
+        "source": "https://www.xserver.ne.jp/img/common/icon.svg?date=241219"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "kagoya",
+      "name": "KAGOYA Japan",
+      "names": {
+        "zh-CN": "KAGOYA Japan"
+      },
+      "aliases": [
+        "カゴヤ・ジャパン"
+      ],
+      "website": "https://www.kagoya.jp/",
+      "brandColor": "#00418F",
+      "source": "https://www.kagoya.jp/app/themes/kagoya/assets/img/common/logo/mark.svg",
+      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "quality": "vector",
+      "processing": [
+        "Isolate the original graphic mark and center its visible bounds on the 64-unit canvas."
+      ],
+      "small": {
+        "artwork": "Retain seven original ribbons and reinforce the six fine lines for the 16 and 24 px PNGs.",
+        "source": "https://www.kagoya.jp/app/themes/kagoya/assets/img/common/logo/mark.svg",
+        "maxSize": 24
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "vmiss",
+      "name": "VMISS",
+      "names": {
+        "zh-CN": "VMISS"
+      },
+      "aliases": [
+        "vmiss"
+      ],
+      "website": "https://www.vmiss.com/",
+      "brandColor": "#727CF5",
+      "source": "https://www.vmiss.com/wp-content/uploads/2023/11/logo.svg",
+      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "quality": "vector",
+      "processing": [
+        "Isolate the original graphic mark and center its visible bounds on the 64-unit canvas."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at sidebar sizes.",
+        "source": "https://www.vmiss.com/wp-content/uploads/2023/11/logo.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "vmrack",
+      "name": "VMRack",
+      "names": {
+        "zh-CN": "VMRack"
+      },
+      "aliases": [
+        "vmrack"
+      ],
+      "website": "https://www.vmrack.net/",
+      "brandColor": "#165DFF",
+      "source": "https://www.vmrack.net/favicon.svg",
+      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "quality": "vector",
+      "processing": [
+        "Isolate the original graphic mark and center its visible bounds on the 64-unit canvas."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at sidebar sizes.",
+        "source": "https://www.vmrack.net/favicon.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "neburst",
+      "name": "Neburst Networks",
+      "names": {
+        "zh-CN": "奶爸云"
+      },
+      "aliases": [
+        "neburst networks",
+        "奶爸"
+      ],
+      "website": "https://neburst.com/",
+      "brandColor": "#078DEE",
+      "source": "https://neburst.com/favicon.svg",
+      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "quality": "vector",
+      "processing": [
+        "Isolate the original graphic mark and center its visible bounds on the 64-unit canvas."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at sidebar sizes.",
+        "source": "https://neburst.com/favicon.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
     }
   ]
 }

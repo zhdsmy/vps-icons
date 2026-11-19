@@ -115,6 +115,16 @@ Use PNG where the SVG variant list is empty. The index gives the original source
 | ![](png/color/24/relay.png) | Relay · 中转 | [`relay`](svg/color/relay.svg) | [✓](svg/color-dark/relay.svg) | vector | [↗](src/art/relay/mono.svg) |
 | ![](png/color/24/other.png) | Other · 其他 | [`other`](svg/color/other.svg) | [✓](svg/color-dark/other.svg) | vector | [↗](src/art/other/mono.svg) |
 | ![](png/color/24/unknown.png) | Unknown · 未知厂商 | [`unknown`](svg/color/unknown.svg) | [✓](svg/color-dark/unknown.svg) | vector | [↗](src/art/unknown/mono.svg) |
+| ![](png/color/24/qiniu.png) | Qiniu Cloud · 七牛云 | [`qiniu`](svg/color/qiniu.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/qiniu-color.svg) |
+| ![](png/color/24/upyun.png) | Upyun · 又拍云 | [`upyun`](svg/color/upyun.svg) | — | vector | [↗](https://www.upyun.com/static/img/黑logo.42ad028.svg) |
+| ![](png/color/24/qingcloud.png) | QingCloud · 青云 | [`qingcloud`](svg/color/qingcloud.svg) | — | vector | [↗](https://qc-website.sh1a.qingstor.com/files/2023/06/qingcloud.svg) |
+| ![](png/color/24/byteplus.png) | BytePlus · BytePlus | [`byteplus`](svg/color/byteplus.svg) | — | vector | [↗](https://sf-bpcms.bytepluscdn.com/obj/byteplus-assets/images/bp-logo-colored.svg) |
+| ![](png/color/24/sakura-internet.png) | SAKURA internet · 樱花互联网 | [`sakura-internet`](svg/color/sakura-internet.svg) | [✓](svg/color-dark/sakura-internet.svg) | vector | [↗](https://www.sakura.ad.jp/assets/images/logo.svg) |
+| ![](png/color/24/xserver.png) | XServer · XServer | [`xserver`](svg/color/xserver.svg) | [✓](svg/color-dark/xserver.svg) | vector | [↗](https://www.xserver.ne.jp/img/common/icon.svg?date=241219) |
+| ![](png/color/24/kagoya.png) | KAGOYA Japan · KAGOYA Japan | [`kagoya`](svg/color/kagoya.svg) | [✓](svg/color-dark/kagoya.svg) | vector | [↗](https://www.kagoya.jp/app/themes/kagoya/assets/img/common/logo/mark.svg) |
+| ![](png/color/24/vmiss.png) | VMISS · VMISS | [`vmiss`](svg/color/vmiss.svg) | — | vector | [↗](https://www.vmiss.com/wp-content/uploads/2023/11/logo.svg) |
+| ![](png/color/24/vmrack.png) | VMRack · VMRack | [`vmrack`](svg/color/vmrack.svg) | — | vector | [↗](https://www.vmrack.net/favicon.svg) |
+| ![](png/color/24/neburst.png) | Neburst Networks · 奶爸云 | [`neburst`](svg/color/neburst.svg) | — | vector | [↗](https://neburst.com/favicon.svg) |
 
 ## 贡献 / Contributing
 
