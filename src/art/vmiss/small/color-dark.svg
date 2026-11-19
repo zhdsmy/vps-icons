@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <g transform="translate(1.28 1.28) scale(0.96)">
+    <g transform="matrix(0.9875 0 0 0.9875 4 16.3664)">
+    <path stroke="#B2B9FF" stroke-width="1.8" stroke-linejoin="round" fill="#B2B9FF" fill-rule="evenodd" d="M56.4506 27.5642 54.2526 27.1681C54.7477 24.5385 54.4031 22.4751 53.223 21.0336C51.318 18.7009 47.7815 18.6217 47.7458 18.6217H46.3478L46.6726 17.2594C48.1894 10.9973 44.3427 4.6913 38.0806 3.1745C31.8186 1.6576 25.5125 5.5044 23.9957 11.7664L21.8214 11.2436C23.4067 3.851 30.6112 -0.9178 38.0357 0.511C45.4601 1.9399 50.38 9.0421 49.1082 16.495C50.6567 16.7406 53.2269 17.4653 54.9615 19.5841C56.5694 21.5603 57.0764 24.2454 56.4506 27.5642Z"/>
+    <path stroke="#929BFF" stroke-width="0.6" stroke-linejoin="round" fill="#B2B9FF" fill-rule="evenodd" d="M22.8076 8.4952 26.364 15.1287 16.7918 31.4057H9.1325L22.8076 8.4952Z"/>
+    <path stroke="#929BFF" stroke-width="0.6" stroke-linejoin="round" fill="#929BFF" fill-rule="evenodd" d="M27.6748 28.8117 36.6093 13.7466 33.053 7.109 24.1501 22.0237 27.6748 28.8117Z"/>
+    <path stroke="#929BFF" stroke-width="0.6" stroke-linejoin="round" fill="#929BFF" fill-rule="evenodd" d="M37.6866 15.1248 33.948 21.4851 38.8984 29.8137H46.5617L37.6866 15.1248Z"/>
+    <path stroke="#929BFF" stroke-width="0.6" stroke-linejoin="round" fill="#929BFF" fill-rule="evenodd" d="M11.7028 23.889 6.8316 11.1248 0 11.3506 7.6751 30.7721 11.7028 23.889Z"/>
+  </g>
+  </g>
+</svg>

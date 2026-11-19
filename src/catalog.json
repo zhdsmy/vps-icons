@@ -2115,14 +2115,15 @@
     "license": "MIT (LobeHub artwork); brand rights reserved",
     "quality": "vector",
     "format": "svg",
-    "hasDark": false,
+    "hasDark": true,
     "processing": [
-      "Isolate the original graphic mark and center its visible bounds on the 64-unit canvas."
+      "Normalize the official SVG mark to the 64-unit canvas, strengthen light-mode cyan contrast (#009CE0) with #1CC4FF in color-dark, and add a stroke-reinforced 16/24 px small variant."
     ],
     "small": {
-      "artwork": "Use the isolated brand symbol at sidebar sizes.",
+      "artwork": "Use the stroke-reinforced Qiniu mark at 16 and 24 px.",
       "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/qiniu-color.svg"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "upyun",
@@ -2263,11 +2264,11 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Isolate the original graphic mark and center its visible bounds on the 64-unit canvas."
+      "Normalize the official blue wave emblem to the 64-unit canvas, lighten dark-mode blue (#7FBCFF), and provide a bolder, vertically boosted 5-arc small variant at <= 32 px."
     ],
     "small": {
       "source": "https://www.kagoya.jp/app/themes/kagoya/assets/img/common/logo/mark.svg",
-      "artwork": "Retain five native ribbons, reinforce the two flanks on each side and expand the height for 16, 24 and 32 px."
+      "artwork": "Use the bolder, vertically boosted 5-arc Kagoya wave mark at 16, 24, and 32 px."
     },
     "smallMax": 32
   },
@@ -2286,14 +2287,15 @@
     "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
     "quality": "vector",
     "format": "svg",
-    "hasDark": false,
+    "hasDark": true,
     "processing": [
-      "Isolate the original graphic mark and center its visible bounds on the 64-unit canvas."
+      "Normalize the official VMISS cloud-and-V mark to the 64-unit canvas, add a brightened color-dark variant, and reinforce the cloud outline at 16 and 24 px."
     ],
     "small": {
-      "artwork": "Use the isolated brand symbol at sidebar sizes.",
+      "artwork": "Use the cloud-outline-reinforced VMISS mark at 16 and 24 px.",
       "source": "https://www.vmiss.com/wp-content/uploads/2023/11/logo.svg"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "vmrack",
@@ -2335,14 +2337,15 @@
     "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
     "quality": "vector",
     "format": "svg",
-    "hasDark": false,
+    "hasDark": true,
     "processing": [
-      "Isolate the original graphic mark and center its visible bounds on the 64-unit canvas."
+      "Normalize the official Neburst ring-and-rays mark to the 64-unit canvas, add a brightened color-dark variant (#34A8FF), and simplify to a bolder 4-ray small variant at 16 and 24 px."
     ],
     "small": {
-      "artwork": "Use the isolated brand symbol at sidebar sizes.",
+      "artwork": "Use the bolder 4-ray simplified Neburst mark at 16 and 24 px.",
       "source": "https://neburst.com/favicon.svg"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "rainyun",
@@ -2417,9 +2420,9 @@
     "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
     "quality": "redrawn",
     "format": "svg",
-    "hasDark": false,
+    "hasDark": true,
     "processing": [
-      "Redraw the blue triangle, cyan arch and darker overlap from the official header. Separate the two forms with negative space in monochrome."
+      "Optically size the geometric LightNode emblem to 50 x 45 on the 64-unit canvas, deepen light-mode cyan (#0CC2F2) for white backgrounds, and add a brightened color-dark variant."
     ],
     "small": {
       "artwork": "Use the isolated brand symbol at sidebar sizes.",
@@ -2630,14 +2633,15 @@
     "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
     "quality": "redrawn",
     "format": "svg",
-    "hasDark": false,
+    "hasDark": true,
     "processing": [
-      "Reconstruct the circular favicon and its white cloud loops. Cross-check the crossing against the company GitHub avatar."
+      "Normalize the red circle cloud badge to the 64-unit canvas, add a brightened color-dark variant (#FF3355), punch the cloud out of the circle in monochrome, and thicken the cloud cutout for 16 and 24 px."
     ],
     "small": {
-      "artwork": "Use the isolated brand symbol at sidebar sizes.",
+      "artwork": "Use the thickened cloud cutout inside the Kingsoft Cloud circle badge at 16 and 24 px.",
       "source": "https://resource.ksyun.com/project/cms/8b2b5c8f8a322a7b8c66bcc5f1f08302"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "ecloud",
@@ -2655,14 +2659,15 @@
     "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
     "quality": "redrawn",
     "format": "svg",
-    "hasDark": false,
+    "hasDark": true,
     "processing": [
-      "Redraw the two open cloud contours and green link from the official favicon; use its unbroken outline for the single-ink version."
+      "Normalize the redrawn China Mobile eCloud mark to the 64-unit canvas, add a brightened color-dark variant, and provide a stroke-reinforced 16/24 px small variant."
     ],
     "small": {
-      "artwork": "Use the isolated brand symbol at sidebar sizes.",
+      "artwork": "Use the stroke-reinforced eCloud mark at 16 and 24 px.",
       "source": "https://ecloud.eos-guangzhou-1.cmecloud.cn/fe/favicon.ico"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "unicom-cloud",
@@ -2711,12 +2716,13 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Reconstruct the W cutout and three horizontal base stripes from the official favicon, checking the proportions against the site wordmark."
+      "Normalize the redrawn West.cn emblem to the 64-unit canvas, keep the lightened color-dark blue (#5FB9FF), and simplify the bottom stripes to two bolder bars with a wider W gap at 16 and 24 px."
     ],
     "small": {
-      "artwork": "Use the isolated brand symbol at sidebar sizes.",
+      "artwork": "Use the simplified two-bar bottom and wider W-gap West.cn mark at 16 and 24 px.",
       "source": "https://www.west.cn/favicon.ico"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "hncloud",
@@ -2733,14 +2739,15 @@
     "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
     "quality": "redrawn",
     "format": "svg",
-    "hasDark": false,
+    "hasDark": true,
     "processing": [
-      "Reconstruct the official cloud and lightning strokes with rounded ends; interpolate the green and blue sampled from the company lockup."
+      "Deepen the mint-to-blue gradient (#00B584 to #0082D6) for white-background legibility, keep the bright neon gradient in color-dark, and add a stroke-reinforced 16/24 px small variant."
     ],
     "small": {
-      "artwork": "Use the isolated brand symbol at sidebar sizes.",
+      "artwork": "Use the stroke-reinforced HNCloud cloud-line mark at 16 and 24 px.",
       "source": "https://www.hncloud.com/static/images/home/company-logo.jpg"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "henghost",
@@ -2788,12 +2795,11 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Redraw the tapered blue swirl and three counters from the public favicon, using the larger wordmark on the company encyclopedia page as a contour reference.",
-      "Additional color or contour reference: https://upload.wikimedia.org/wikipedia/en/7/72/Wangsu_Science_%26_Technology_logo.png"
+      "Normalize the redrawn Wangsu wave mark to the 64-unit canvas, keep lightened #75BFFF in color-dark, and use a bolder, taller single-counter wave silhouette for <= 32 px legibility."
     ],
     "small": {
       "source": "https://wangsu.com/favicon.ico",
-      "artwork": "Expand the swirl vertically to keep its openings and tail visible at 16, 24 and 32 px."
+      "artwork": "Use the bolder, taller simplified Wangsu wave silhouette at 16, 24, and 32 px."
     },
     "smallMax": 32
   },
