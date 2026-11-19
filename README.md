@@ -74,7 +74,7 @@ Use PNG where the SVG variant list is empty. The index gives the original source
 | ![](png/color/24/huawei-cloud.png) | Huawei Cloud · 华为云 | [`huawei-cloud`](svg/color/huawei-cloud.svg) | [✓](svg/color-dark/huawei-cloud.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/huaweicloud-color.svg) |
 | ![](png/color/24/jd-cloud.png) | JD Cloud · 京东云 | [`jd-cloud`](svg/color/jd-cloud.svg) | — | vector | [↗](https://img1.jcloudcs.com/portal/header/jdcloud-logo-2021.svg) |
 | ![](png/color/24/volcengine.png) | Volcengine · 火山引擎 | [`volcengine`](svg/color/volcengine.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/volcengine-color.svg) |
-| ![](png/color/24/ucloud.png) | UCloud · 优刻得 | [`ucloud`](png/color/128/ucloud.png) | — | raster · PNG only · 欢迎贡献 / better source wanted | [↗](https://avatars.githubusercontent.com/u/14289247?v=4&s=512) |
+| ![](png/color/24/ucloud.png) | UCloud · 优刻得 | [`ucloud`](svg/color/ucloud.svg) | — | redrawn | [↗](https://avatars.githubusercontent.com/u/14289247?v=4&s=512) |
 | ![](png/color/24/ctyun.png) | China Telecom Cloud · 天翼云 | [`ctyun`](svg/color/ctyun.svg) | [✓](svg/color-dark/ctyun.svg) | vector | [↗](https://www.ctyun.cn/s/q04sv38ZSzTBF4mEHo-3dVsyWITNHb2AHhoKmmcfMQvFLURsx3V4aUR26W8PQUqCT8irIp8kNZZFmZcjQa3tK6eXmmMshjNGFvsiB8BbIGaFz_TPP8FfRddLJaCyZHeBXWsC1L62ycvoisuSuYDeDRtmnH44p_kJ) |
 | ![](png/color/24/digitalocean.png) | DigitalOcean · DigitalOcean | [`digitalocean`](svg/color/digitalocean.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/digitalocean.svg) |
 | ![](png/color/24/vultr.png) | Vultr · Vultr | [`vultr`](svg/color/vultr.svg) | — | vector | [↗](https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/vultr-icon.svg) |
@@ -89,23 +89,23 @@ Use PNG where the SVG variant list is empty. The index gives the original source
 | ![](png/color/24/kamatera.png) | Kamatera · Kamatera | [`kamatera`](svg/color/kamatera.svg) | [✓](svg/color-dark/kamatera.svg) | vector | [↗](https://www.kamatera.com/wp-content/themes/kamatera/images/Group%20666.svg) |
 | ![](png/color/24/ionos.png) | IONOS · IONOS | [`ionos`](svg/color/ionos.svg) | [✓](svg/color-dark/ionos.svg) | vector | [↗](https://www.ionos.com/favicon.svg) |
 | ![](png/color/24/hostinger.png) | Hostinger · Hostinger | [`hostinger`](svg/color/hostinger.svg) | [✓](svg/color-dark/hostinger.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/hostinger.svg) |
-| ![](png/color/24/buyvm.png) | BuyVM · BuyVM | [`buyvm`](svg/color/buyvm.svg) | [✓](svg/color-dark/buyvm.svg) | upscaled · 欢迎贡献 / better source wanted | [↗](https://buyvm.net/favicon.ico) |
+| ![](png/color/24/buyvm.png) | BuyVM · BuyVM | [`buyvm`](svg/color/buyvm.svg) | [✓](svg/color-dark/buyvm.svg) | redrawn | [↗](https://manage.buyvm.net/assets/img/login/logo.png) |
 | ![](png/color/24/hosthatch.png) | HostHatch · HostHatch | [`hosthatch`](svg/color/hosthatch.svg) | [✓](svg/color-dark/hosthatch.svg) | vector | [↗](https://hosthatch.com/images/favicon.svg) |
-| ![](png/color/24/cloudcone.png) | CloudCone · CloudCone | [`cloudcone`](png/color/128/cloudcone.png) | — | raster · PNG only · 欢迎贡献 / better source wanted | [↗](https://avatars.githubusercontent.com/u/29018286?v=4&s=512) |
+| ![](png/color/24/cloudcone.png) | CloudCone · CloudCone | [`cloudcone`](svg/color/cloudcone.svg) | — | redrawn | [↗](https://cloudcone.com/wp-content/uploads/2017/05/cloudcone-logo-full.png) |
 | ![](png/color/24/racknerd.png) | RackNerd · RackNerd | [`racknerd`](svg/color/racknerd.svg) | [✓](svg/color-dark/racknerd.svg) | redrawn | [↗](https://www.racknerd.com/favicon.png) |
-| ![](png/color/24/greencloud.png) | GreenCloud · 绿云 | [`greencloud`](svg/color/greencloud.svg) | — | redrawn | [↗](https://greencloudvps.com/img/site/favicon.png) |
-| ![](png/color/24/hostdare.png) | HostDare · HostDare | [`hostdare`](svg/color/hostdare.svg) | — | upscaled · 欢迎贡献 / better source wanted | [↗](https://www.google.com/s2/favicons?domain=hostdare.com&sz=256) |
+| ![](png/color/24/greencloud.png) | GreenCloud · 绿云 | [`greencloud`](svg/color/greencloud.svg) | — | redrawn | [↗](https://greencloudvps.com/img/site/logo.png) |
+| ![](png/color/24/hostdare.png) | HostDare · HostDare | [`hostdare`](svg/color/hostdare.svg) | — | redrawn | [↗](https://www.hostdare.com/img/logo.jpg) |
 | ![](png/color/24/v-ps.png) | V.PS · 小秘书 | [`v-ps`](svg/color/v-ps.svg) | [✓](svg/color-dark/v-ps.svg) | vector | [↗](https://v.ps/favicon.svg) |
 | ![](png/color/24/akile.png) | AkileCloud · AkileCloud | [`akile`](svg/color/akile.svg) | — | vector | [↗](https://akile.ai/) |
-| ![](png/color/24/bagevm.png) | BageVM · BageVM | [`bagevm`](png/color/128/bagevm.png) | [✓](png/color-dark/128/bagevm.png) | raster · PNG only · 欢迎贡献 / better source wanted | [↗](https://www.bagevm.com/templates/bagevm/assets/media/logos/logo-dark.png) |
+| ![](png/color/24/bagevm.png) | BageVM · BageVM | [`bagevm`](svg/color/bagevm.svg) | [✓](svg/color-dark/bagevm.svg) | redrawn | [↗](https://www.bagevm.com/templates/bagevm/assets/media/logos/logo-dark.png) |
 | ![](png/color/24/dmit.png) | DMIT · DMIT | [`dmit`](svg/color/dmit.svg) | — | vector | [↗](https://www.dmit.io/templates/dmit_theme_2020/dmit/assets/images/dmit_logo.svg) |
-| ![](png/color/24/bandwagonhost.png) | BandwagonHost · 搬瓦工 | [`bandwagonhost`](png/color/128/bandwagonhost.png) | — | raster · PNG only · 欢迎贡献 / better source wanted | [↗](https://bandwagonhost.com/templates/organicbandwagon/images/logo4.png) |
-| ![](png/color/24/dogyun.png) | DogYun · 狗云 | [`dogyun`](png/color/128/dogyun.png) | — | raster · PNG only · 欢迎贡献 / better source wanted | [↗](https://t.me/dogyun) |
+| ![](png/color/24/bandwagonhost.png) | BandwagonHost · 搬瓦工 | [`bandwagonhost`](svg/color/bandwagonhost.svg) | — | redrawn | [↗](https://bandwagonhost.com/templates/organicbandwagon/images/logo4.png) |
+| ![](png/color/24/dogyun.png) | DogYun · 狗云 | [`dogyun`](svg/color/dogyun.svg) | [✓](svg/color-dark/dogyun.svg) | redrawn | [↗](https://t.me/dogyun) |
 | ![](png/color/24/misaka.png) | Misaka Network · Misaka Network | [`misaka`](svg/color/misaka.svg) | [✓](svg/color-dark/misaka.svg) | vector | [↗](https://www.misaka.io/) |
 | ![](png/color/24/zenlayer.png) | Zenlayer · Zenlayer | [`zenlayer`](svg/color/zenlayer.svg) | — | vector | [↗](https://www.zenlayer.com/wp-content/uploads/2024/03/Icon-Blue.svg) |
 | ![](png/color/24/colocrossing.png) | ColoCrossing · ColoCrossing | [`colocrossing`](svg/color/colocrossing.svg) | — | vector | [↗](https://www.colocrossing.com/wp-content/uploads/2026/10/ColoCrossing_website_logo-1.svg) |
 | ![](png/color/24/evoxt.png) | Evoxt · 益沃斯 | [`evoxt`](svg/color/evoxt.svg) | — | vector | [↗](https://evoxt.com/img/evoxtblack-icon.svg) |
-| ![](png/color/24/spartan-host.png) | Spartan Host · 斯巴达 | [`spartan-host`](svg/color/spartan-host.svg) | — | upscaled · 欢迎贡献 / better source wanted | [↗](https://spartanhost.org/images/favicon.png) |
+| ![](png/color/24/spartan-host.png) | Spartan Host · 斯巴达 | [`spartan-host`](svg/color/spartan-host.svg) | — | redrawn | [↗](https://spartanhost.org/images/logo.png) |
 | ![](png/color/24/baidu-cloud.png) | Baidu AI Cloud · 百度智能云 | [`baidu-cloud`](svg/color/baidu-cloud.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/baiducloud-color.svg) |
 | ![](png/color/24/civo.png) | Civo · Civo | [`civo`](svg/color/civo.svg) | — | vector | [↗](https://www.civo.com/assets-rebrand/favicons/favicon.svg) |
 | ![](png/color/24/exoscale.png) | Exoscale · Exoscale | [`exoscale`](svg/color/exoscale.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/exoscale.svg) |

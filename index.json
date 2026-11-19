@@ -418,24 +418,24 @@
         "youkede"
       ],
       "website": "https://www.ucloud.cn",
-      "brandColor": "#4584FF",
+      "brandColor": "#365EEF",
       "source": "https://avatars.githubusercontent.com/u/14289247?v=4&s=512",
       "license": "Proprietary brand artwork; no open license identified",
-      "quality": "raster",
-      "nativeSize": [
-        460,
-        460
-      ],
+      "quality": "redrawn",
       "processing": [
-        "Use the GitHub organization avatar confirmed against the official mobile icon. Keep its shaded field. Isolate the light U using R>187, G>190, B>204 for the monochrome master."
+        "Hand-draw the rounded blue gradient tile, diagonal sheen, and white U with its 4x4 top-left pixel cluster as clean geometric SVG against the 460 x 460 official GitHub organization avatar.",
+        "Export the isolated geometric U and pixel cluster scaled to fill the 64 x 64 canvas for monochrome."
       ],
       "small": {
-        "artwork": "Use the primary graphic mark at 16 px.",
+        "artwork": "Use the primary UCloud mark at 16 px.",
         "source": "https://avatars.githubusercontent.com/u/14289247?v=4&s=512"
       },
       "sourcePage": "https://github.com/ucloud",
       "variants": {
-        "svg": [],
+        "svg": [
+          "color",
+          "mono"
+        ],
         "png": [
           "color",
           "mono-black",
@@ -953,20 +953,17 @@
         "frantech"
       ],
       "website": "https://buyvm.net",
-      "brandColor": "#332B2B",
-      "source": "https://buyvm.net/favicon.ico",
+      "brandColor": "#3E3E3E",
+      "source": "https://manage.buyvm.net/assets/img/login/logo.png",
       "license": "Proprietary brand artwork; no open license identified",
-      "quality": "upscaled",
-      "nativeSize": [
-        16,
-        16
-      ],
+      "quality": "redrawn",
       "processing": [
-        "Lanczos to 512 px. Threshold source alpha at 128 (HostDare: orange red-minus-blue >76, omit the rightmost 5%). Trace that mask once, export pure monochrome silhouettes and the brand color."
+        "Hand-draw the Stallion horse head mark as clean SVG against the 259 x 79 official BuyVM Stallion control panel login logo.",
+        "Provide a white dark-surface variant and monochrome silhouette, compared at 64 px and checked at 16, 24, 32 px."
       ],
       "small": {
-        "artwork": "Use the primary graphic mark at 16 px.",
-        "source": "https://buyvm.net/favicon.ico"
+        "artwork": "Use the primary Stallion horse head mark at 16 px.",
+        "source": "https://manage.buyvm.net/assets/img/login/logo.png"
       },
       "variants": {
         "svg": [
@@ -1030,23 +1027,22 @@
       ],
       "website": "https://cloudcone.com",
       "brandColor": "#4F9748",
-      "source": "https://avatars.githubusercontent.com/u/29018286?v=4&s=512",
+      "source": "https://cloudcone.com/wp-content/uploads/2017/05/cloudcone-logo-full.png",
       "license": "Proprietary brand artwork; no open license identified",
-      "quality": "raster",
-      "nativeSize": [
-        256,
-        256
-      ],
+      "quality": "redrawn",
       "processing": [
-        "Use the transparent organization avatar linked to cloudcone.com. Preserve its shading and original alpha, then center it on 512 px. Use source alpha for monochrome."
+        "Hand-draw the metallic grey circular ring, diagonal green orbital swoosh, and top-right spear tip as clean geometric SVG against the 1120 x 1032 official full logo (cross-checked with the 256 x 256 GitHub avatar).",
+        "Separate the ribbon and ring with a crisp cutout channel so color and monochrome variants remain clean on light and dark backgrounds."
       ],
       "small": {
-        "artwork": "Use the primary graphic mark at 16 px.",
-        "source": "https://avatars.githubusercontent.com/u/29018286?v=4&s=512"
+        "artwork": "Use the primary CloudCone emblem at 16 px.",
+        "source": "https://cloudcone.com/wp-content/uploads/2017/05/cloudcone-logo-full.png"
       },
-      "sourcePage": "https://github.com/Cloudcone",
       "variants": {
-        "svg": [],
+        "svg": [
+          "color",
+          "mono"
+        ],
         "png": [
           "color",
           "mono-black",
@@ -1070,8 +1066,8 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
-        "Hand-draw the two rounded bars, lenses and bridge against the 256 × 256 official icon.",
-        "Compare the redraw with the native artwork at 64 px."
+        "Hand-draw the two rounded horizontal bars and nerd glasses on a transparent background against the 256 x 256 official favicon.",
+        "Match the official dark-surface palette (bright cyan-blue bars and white glasses) from https://www.racknerd.com/images/logo-light.png in color-dark."
       ],
       "small": {
         "artwork": "Use the primary graphic mark at 16 px.",
@@ -1102,17 +1098,17 @@
         "lvyun"
       ],
       "website": "https://greencloudvps.com",
-      "brandColor": "#87C400",
-      "source": "https://greencloudvps.com/img/site/favicon.png",
+      "brandColor": "#76B900",
+      "source": "https://greencloudvps.com/img/site/logo.png",
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
-        "Hand-draw the cloud and server slots against the 100 × 100 official icon.",
-        "Compare the redraw with the native artwork at 64 px."
+        "Hand-draw the three-puff cloud and three horizontal server rack slots with pill status LEDs against the 906 x 96 official header logo (cross-checked with https://greencloudvps.com/img/site/favicon.png).",
+        "Tune slot spacing and LED pill proportions for clear recognition at 16, 24, and 32 px."
       ],
       "small": {
         "artwork": "Use the primary graphic mark at 16 px.",
-        "source": "https://greencloudvps.com/img/site/favicon.png"
+        "source": "https://greencloudvps.com/img/site/logo.png"
       },
       "variants": {
         "svg": [
@@ -1138,19 +1134,16 @@
       ],
       "website": "https://hostdare.com",
       "brandColor": "#F88101",
-      "source": "https://www.google.com/s2/favicons?domain=hostdare.com&sz=256",
+      "source": "https://www.hostdare.com/img/logo.jpg",
       "license": "Proprietary brand artwork; no open license identified",
-      "quality": "upscaled",
-      "nativeSize": [
-        32,
-        32
-      ],
+      "quality": "redrawn",
       "processing": [
-        "Lanczos to 512 px. Threshold source alpha at 128 (HostDare: orange red-minus-blue >76, omit the rightmost 5%). Trace that mask once, export pure monochrome silhouettes and the brand color."
+        "Hand-draw the flaming lion head mark as clean SVG against the 381 x 115 official website header logo.",
+        "Use an evenodd negative-space cutout for the lion face so color and monochrome variants render cleanly on light and dark backgrounds."
       ],
       "small": {
-        "artwork": "Use the primary graphic mark at 16 px.",
-        "source": "https://www.google.com/s2/favicons?domain=hostdare.com&sz=256"
+        "artwork": "Use the primary flaming lion mark at 16 px.",
+        "source": "https://www.hostdare.com/img/logo.jpg"
       },
       "variants": {
         "svg": [
@@ -1252,20 +1245,21 @@
       "brandColor": "#4946EF",
       "source": "https://www.bagevm.com/templates/bagevm/assets/media/logos/logo-dark.png",
       "license": "Proprietary brand artwork; no open license identified",
-      "quality": "raster",
-      "nativeSize": [
-        2720,
-        2000
-      ],
+      "quality": "redrawn",
       "processing": [
-        "Crop the official transparent wordmark at x=252, y=705, w=637, h=590. Trim alpha, center on transparent 512 px, preserve the original gradient. Use alpha for monochrome and the white dark variant."
+        "Hand-draw the swirling B emblem as clean SVG against the 637 x 590 mark cropped from the 2720 x 2000 official logo-dark.png, omitting the faint background polygon shadow.",
+        "Preserve the official blue-to-purple linear gradient in color, match the official white logo-light.png for color-dark, and export a clean monochrome silhouette."
       ],
       "small": {
-        "artwork": "Use the primary graphic mark at 16 px.",
+        "artwork": "Use the primary swirling B emblem at 16 px.",
         "source": "https://www.bagevm.com/templates/bagevm/assets/media/logos/logo-dark.png"
       },
       "variants": {
-        "svg": [],
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
         "png": [
           "color",
           "color-dark",
@@ -1324,21 +1318,20 @@
       "brandColor": "#F0A500",
       "source": "https://bandwagonhost.com/templates/organicbandwagon/images/logo4.png",
       "license": "Proprietary brand artwork; no open license identified",
-      "quality": "raster",
-      "nativeSize": [
-        814,
-        100
-      ],
+      "quality": "redrawn",
       "processing": [
-        "Keep the transparent beveled wordmark as PNG. Trim and center. Crop the leading B at 67x99+0+0 for the small master. Use alpha for monochrome."
+        "Hand-draw the bold leading B lettermark as clean SVG against the 814 x 100 official wordmark so the icon stays legible in square 16 to 512 px slots.",
+        "Apply a warm gold linear gradient matching the official B and export a solid monochrome silhouette."
       ],
       "small": {
-        "artwork": "Leading B cropped from the official wordmark.",
-        "source": "https://bandwagonhost.com/templates/organicbandwagon/images/logo4.png",
-        "maxSize": 48
+        "artwork": "Use the primary bold B lettermark at 16 px.",
+        "source": "https://bandwagonhost.com/templates/organicbandwagon/images/logo4.png"
       },
       "variants": {
-        "svg": [],
+        "svg": [
+          "color",
+          "mono"
+        ],
         "png": [
           "color",
           "mono-black",
@@ -1360,23 +1353,24 @@
       "brandColor": "#0E6EB8",
       "source": "https://t.me/dogyun",
       "license": "Proprietary brand artwork; no open license identified",
-      "quality": "raster",
-      "nativeSize": [
-        320,
-        320
-      ],
+      "quality": "redrawn",
       "processing": [
-        "Crop the 320 px channel avatar to 320x230+0+0. Trim to the bounds of RGB min<170. ImageMagick: -fuzz 7% -transparent white; restore white inside the protected silhouette on a white base. CopyOpacity using the alpha of the matching transparent official logo (128x96+0+0, trim, Lanczos to crop size) to remove the exterior white field without losing the white fur. Use R<145 and alpha>50 for monochrome."
+        "Hand-draw the blue cloud and white cartoon dog head as clean SVG against the 320 x 320 official Telegram channel avatar and 128 x 128 transparent official logo (https://assets.dogyun.com/home/img/logo-128px.png).",
+        "Add a subtle white outer contour around the dark snout and ears in color-dark for dark surfaces, and punch out the dog face via evenodd for monochrome."
       ],
       "small": {
-        "artwork": "Use the primary graphic mark at 16 px.",
+        "artwork": "Use the primary DogYun mascot mark at 16 px.",
         "source": "https://t.me/dogyun"
       },
-      "maskSource": "https://assets.dogyun.com/home/img/logo-128px.png",
       "variants": {
-        "svg": [],
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -1532,19 +1526,16 @@
       ],
       "website": "https://spartanhost.org",
       "brandColor": "#1D80C0",
-      "source": "https://spartanhost.org/images/favicon.png",
+      "source": "https://spartanhost.org/images/logo.png",
       "license": "Proprietary brand artwork; no open license identified",
-      "quality": "upscaled",
-      "nativeSize": [
-        16,
-        16
-      ],
+      "quality": "redrawn",
       "processing": [
-        "Lanczos to 512 px. Threshold blue-minus-red >42 and alpha >127. Trace the mask once. Preserve the white eye details in color."
+        "Hand-draw the symmetrical Spartan helmet mark as clean SVG against the 218 x 66 official header logo and 16 x 16 full-mask favicon (https://spartanhost.org/images/favicon.png).",
+        "Keep white slanted eyes in color and punch them out via evenodd in monochrome."
       ],
       "small": {
-        "artwork": "Use the primary graphic mark at 16 px.",
-        "source": "https://spartanhost.org/images/favicon.png"
+        "artwork": "Use the primary Spartan helmet mark at 16 px.",
+        "source": "https://spartanhost.org/images/logo.png"
       },
       "variants": {
         "svg": [
