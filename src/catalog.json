@@ -3905,7 +3905,8 @@
       "zh-CN": "Dedibox"
     },
     "aliases": [
-      "scaleway dedibox"
+      "scaleway dedibox",
+      "online.net dedibox"
     ],
     "website": "https://www.scaleway.com/en/dedibox/",
     "brandColor": "#521094",
@@ -4063,18 +4064,18 @@
     ],
     "website": "https://www.nocix.net",
     "brandColor": "#002C8A",
-    "source": "https://www.google.com/s2/favicons?domain=nocix.net&sz=256",
+    "source": "https://www.nocix.net/favicon.ico",
     "license": "Proprietary brand artwork; no open license identified",
     "quality": "redrawn",
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Redraw the opposing blue chevrons and slotted chassis from the domain favicon. Use a lighter navy on dark surfaces.",
+      "Redraw the opposing blue chevrons and slotted chassis from the official NOCIX favicon, also verified against the larger cached favicon. Use a lighter navy on dark surfaces.",
       "Darken the two outer cyan facets on white to preserve the split diagonal silhouette."
     ],
     "small": {
       "artwork": "Use the standalone brand mark at 16 px.",
-      "source": "https://www.google.com/s2/favicons?domain=nocix.net&sz=256"
+      "source": "https://www.nocix.net/favicon.ico"
     }
   },
   {
@@ -4111,6 +4112,7 @@
     },
     "aliases": [
       "so you start",
+      "ovh soyoustart",
       "sys"
     ],
     "website": "https://eco.ovhcloud.com/en/soyoustart/",
