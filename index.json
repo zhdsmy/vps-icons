@@ -2221,6 +2221,353 @@
           "mono-white"
         ]
       }
+    },
+    {
+      "slug": "rainyun",
+      "name": "RainYun",
+      "names": {
+        "zh-CN": "雨云"
+      },
+      "aliases": [
+        "rainyun",
+        "yuyun"
+      ],
+      "website": "https://www.rainyun.com/",
+      "brandColor": "#FFD54F",
+      "source": "https://www.rainyun.com/img/logo.d193755d.png",
+      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "quality": "raster",
+      "processing": [
+        "Isolate the sun, cloud and rain from the transparent header. Separate the sun and cloud contours in the monochrome mask."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at sidebar sizes.",
+        "source": "https://www.rainyun.com/img/logo.d193755d.png"
+      },
+      "nativeSize": [
+        1120,
+        390
+      ],
+      "variants": {
+        "svg": [],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "lcayun",
+      "name": "Lcayun",
+      "names": {
+        "zh-CN": "莱卡云"
+      },
+      "aliases": [
+        "laikayun"
+      ],
+      "website": "https://www.lcayun.com/",
+      "brandColor": "#00AEEF",
+      "source": "https://www.lcayun.com/themes/web/LcayunM1/assets/img/logo.png",
+      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "quality": "raster",
+      "processing": [
+        "Crop the left mountain-and-cloud emblem from the transparent header, retaining its color bands and pixel trail."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at sidebar sizes.",
+        "source": "https://www.lcayun.com/themes/web/LcayunM1/assets/img/logo.png"
+      },
+      "nativeSize": [
+        776,
+        186
+      ],
+      "variants": {
+        "svg": [],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "lightnode",
+      "name": "LightNode",
+      "names": {
+        "zh-CN": "LightNode"
+      },
+      "aliases": [
+        "lightnode"
+      ],
+      "website": "https://www.lightnode.com/",
+      "brandColor": "#33D6FF",
+      "source": "https://www.lightnode.com/static/images/header-logo.png",
+      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "quality": "redrawn",
+      "processing": [
+        "Redraw the blue triangle, cyan arch and darker overlap from the official header. Separate the two forms with negative space in monochrome."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at sidebar sizes.",
+        "source": "https://www.lightnode.com/static/images/header-logo.png"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "conoha",
+      "name": "ConoHa",
+      "names": {
+        "zh-CN": "ConoHa"
+      },
+      "aliases": [
+        "このは",
+        "gmo conoha"
+      ],
+      "website": "https://www.conoha.jp/",
+      "brandColor": "#21B8D7",
+      "source": "https://support.conoha.jp",
+      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "quality": "vector",
+      "processing": [
+        "Take the first C contour from the support header wordmark and use the cyan from its linked square favicon."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at sidebar sizes.",
+        "source": "https://support.conoha.jp"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "naver-cloud",
+      "name": "NAVER Cloud Platform",
+      "names": {
+        "zh-CN": "NAVER 云"
+      },
+      "aliases": [
+        "ncp",
+        "네이버 클라우드"
+      ],
+      "website": "https://www.ncloud.com/",
+      "brandColor": "#03C75A",
+      "source": "https://www.ncloud.com/img/ncp-logo-shd.svg",
+      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "quality": "vector",
+      "processing": [
+        "Extract the two left-hand paths from the official black navigation logo and restore the green-to-turquoise treatment from the site favicon."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at sidebar sizes.",
+        "source": "https://www.ncloud.com/img/ncp-logo-shd.svg"
+      },
+      "colorSource": "https://www.ncloud.com/img/favicon.png",
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "nhn-cloud",
+      "name": "NHN Cloud",
+      "names": {
+        "zh-CN": "NHN 云"
+      },
+      "aliases": [
+        "엔에이치엔 클라우드"
+      ],
+      "website": "https://www.nhncloud.com/kr",
+      "brandColor": "#125DE6",
+      "source": "https://www.nhncloud.com/favicons/android-chrome-256x256.png",
+      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "quality": "raster",
+      "processing": [
+        "Preserve the official Android icon, including its navy tile. Extract the inner three-lobed cloud against the tile for the monochrome silhouette."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at sidebar sizes.",
+        "source": "https://www.nhncloud.com/favicons/android-chrome-256x256.png"
+      },
+      "nativeSize": [
+        256,
+        256
+      ],
+      "variants": {
+        "svg": [],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "clawcloud",
+      "name": "ClawCloud",
+      "names": {
+        "zh-CN": "爪云"
+      },
+      "aliases": [
+        "claw cloud",
+        "爪云"
+      ],
+      "website": "https://claw.cloud/",
+      "brandColor": "#111111",
+      "source": "https://raw.githubusercontent.com/ClawCloud/Run-Template/main/Run-on-ClawCloud.svg",
+      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "quality": "vector",
+      "processing": [
+        "Extract the five paw paths from the official deployment badge. Use dark ink as in the company avatar, and white on dark backgrounds."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at sidebar sizes.",
+        "source": "https://raw.githubusercontent.com/ClawCloud/Run-Template/main/Run-on-ClawCloud.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "lisahost",
+      "name": "LisaHost",
+      "names": {
+        "zh-CN": "丽萨主机"
+      },
+      "aliases": [
+        "lisha",
+        "lisa host"
+      ],
+      "website": "https://lisahost.com/",
+      "brandColor": "#3C59BA",
+      "source": "https://lisahost.com/favicon.ico",
+      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "quality": "redrawn",
+      "processing": [
+        "Reconstruct both angular parts of the L from the official favicon, checking the silhouette against the white header logo."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at sidebar sizes.",
+        "source": "https://lisahost.com/favicon.ico"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "zgocloud",
+      "name": "ZgoCloud",
+      "names": {
+        "zh-CN": "ZgoCloud"
+      },
+      "aliases": [
+        "zgovps",
+        "zgo cloud"
+      ],
+      "website": "https://zgovps.com/",
+      "brandColor": "#775FEF",
+      "source": "https://zgovps.com/wp-content/uploads/2023/10/cropped-icon.png",
+      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "quality": "raster",
+      "processing": [
+        "Keep the transparent circular WordPress site icon and its original gradient. Use its white Z as the single-ink mark."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at sidebar sizes.",
+        "source": "https://zgovps.com/wp-content/uploads/2023/10/cropped-icon.png"
+      },
+      "nativeSize": [
+        512,
+        512
+      ],
+      "variants": {
+        "svg": [],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "yecaoyun",
+      "name": "YecaoYun",
+      "names": {
+        "zh-CN": "野草云"
+      },
+      "aliases": [
+        "yecao"
+      ],
+      "website": "https://www.yecaoyun.com/",
+      "brandColor": "#034DFF",
+      "source": "https://www.yecaoyun.com/Public/Home/img/logo.png",
+      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
+      "quality": "raster",
+      "processing": [
+        "Isolate the cloud from the white footer lockup and use the blue of the official favicon on light backgrounds."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at sidebar sizes.",
+        "source": "https://www.yecaoyun.com/Public/Home/img/logo.png"
+      },
+      "nativeSize": [
+        1202,
+        310
+      ],
+      "variants": {
+        "svg": [],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
     }
   ]
 }

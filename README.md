@@ -125,6 +125,16 @@ Use PNG where the SVG variant list is empty. The index gives the original source
 | ![](png/color/24/vmiss.png) | VMISS · VMISS | [`vmiss`](svg/color/vmiss.svg) | — | vector | [↗](https://www.vmiss.com/wp-content/uploads/2023/11/logo.svg) |
 | ![](png/color/24/vmrack.png) | VMRack · VMRack | [`vmrack`](svg/color/vmrack.svg) | — | vector | [↗](https://www.vmrack.net/favicon.svg) |
 | ![](png/color/24/neburst.png) | Neburst Networks · 奶爸云 | [`neburst`](svg/color/neburst.svg) | — | vector | [↗](https://neburst.com/favicon.svg) |
+| ![](png/color/24/rainyun.png) | RainYun · 雨云 | [`rainyun`](png/color/128/rainyun.png) | — | raster · PNG only · 欢迎贡献 / better source wanted | [↗](https://www.rainyun.com/img/logo.d193755d.png) |
+| ![](png/color/24/lcayun.png) | Lcayun · 莱卡云 | [`lcayun`](png/color/128/lcayun.png) | — | raster · PNG only · 欢迎贡献 / better source wanted | [↗](https://www.lcayun.com/themes/web/LcayunM1/assets/img/logo.png) |
+| ![](png/color/24/lightnode.png) | LightNode · LightNode | [`lightnode`](svg/color/lightnode.svg) | — | redrawn | [↗](https://www.lightnode.com/static/images/header-logo.png) |
+| ![](png/color/24/conoha.png) | ConoHa · ConoHa | [`conoha`](svg/color/conoha.svg) | — | vector | [↗](https://support.conoha.jp) |
+| ![](png/color/24/naver-cloud.png) | NAVER Cloud Platform · NAVER 云 | [`naver-cloud`](svg/color/naver-cloud.svg) | — | vector | [↗](https://www.ncloud.com/img/ncp-logo-shd.svg) |
+| ![](png/color/24/nhn-cloud.png) | NHN Cloud · NHN 云 | [`nhn-cloud`](png/color/128/nhn-cloud.png) | — | raster · PNG only · 欢迎贡献 / better source wanted | [↗](https://www.nhncloud.com/favicons/android-chrome-256x256.png) |
+| ![](png/color/24/clawcloud.png) | ClawCloud · 爪云 | [`clawcloud`](svg/color/clawcloud.svg) | [✓](svg/color-dark/clawcloud.svg) | vector | [↗](https://raw.githubusercontent.com/ClawCloud/Run-Template/main/Run-on-ClawCloud.svg) |
+| ![](png/color/24/lisahost.png) | LisaHost · 丽萨主机 | [`lisahost`](svg/color/lisahost.svg) | [✓](svg/color-dark/lisahost.svg) | redrawn | [↗](https://lisahost.com/favicon.ico) |
+| ![](png/color/24/zgocloud.png) | ZgoCloud · ZgoCloud | [`zgocloud`](png/color/128/zgocloud.png) | — | raster · PNG only · 欢迎贡献 / better source wanted | [↗](https://zgovps.com/wp-content/uploads/2023/10/cropped-icon.png) |
+| ![](png/color/24/yecaoyun.png) | YecaoYun · 野草云 | [`yecaoyun`](png/color/128/yecaoyun.png) | [✓](png/color-dark/128/yecaoyun.png) | raster · PNG only · 欢迎贡献 / better source wanted | [↗](https://www.yecaoyun.com/Public/Home/img/logo.png) |
 
 ## 贡献 / Contributing
 
