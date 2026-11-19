@@ -72,7 +72,7 @@ Use PNG where the SVG variant list is empty. The index gives the original source
 | ![](png/color/24/alibaba-cloud.png) | Alibaba Cloud · 阿里云 | [`alibaba-cloud`](svg/color/alibaba-cloud.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/alibabacloud-color.svg) |
 | ![](png/color/24/tencent-cloud.png) | Tencent Cloud · 腾讯云 | [`tencent-cloud`](svg/color/tencent-cloud.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/tencentcloud-color.svg) |
 | ![](png/color/24/huawei-cloud.png) | Huawei Cloud · 华为云 | [`huawei-cloud`](svg/color/huawei-cloud.svg) | [✓](svg/color-dark/huawei-cloud.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/huaweicloud-color.svg) |
-| ![](png/color/24/jd-cloud.png) | JD Cloud · 京东云 | [`jd-cloud`](svg/color/jd-cloud.svg) | — | vector | [↗](https://img1.jcloudcs.com/portal/header/jdcloud-logo-2021.svg) |
+| ![](png/color/24/jd-cloud.png) | JD Cloud · 京东云 | [`jd-cloud`](svg/color/jd-cloud.svg) | [✓](svg/color-dark/jd-cloud.svg) | vector | [↗](https://img1.jcloudcs.com/portal/header/jdcloud-logo-2021.svg) |
 | ![](png/color/24/volcengine.png) | Volcengine · 火山引擎 | [`volcengine`](svg/color/volcengine.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/volcengine-color.svg) |
 | ![](png/color/24/ucloud.png) | UCloud · 优刻得 | [`ucloud`](svg/color/ucloud.svg) | — | redrawn | [↗](https://avatars.githubusercontent.com/u/14289247?v=4&s=512) |
 | ![](png/color/24/ctyun.png) | China Telecom Cloud · 天翼云 | [`ctyun`](svg/color/ctyun.svg) | [✓](svg/color-dark/ctyun.svg) | vector | [↗](https://www.ctyun.cn/s/q04sv38ZSzTBF4mEHo-3dVsyWITNHb2AHhoKmmcfMQvFLURsx3V4aUR26W8PQUqCT8irIp8kNZZFmZcjQa3tK6eXmmMshjNGFvsiB8BbIGaFz_TPP8FfRddLJaCyZHeBXWsC1L62ycvoisuSuYDeDRtmnH44p_kJ) |
@@ -103,12 +103,12 @@ Use PNG where the SVG variant list is empty. The index gives the original source
 | ![](png/color/24/dogyun.png) | DogYun · 狗云 | [`dogyun`](svg/color/dogyun.svg) | [✓](svg/color-dark/dogyun.svg) | redrawn | [↗](https://t.me/dogyun) |
 | ![](png/color/24/misaka.png) | Misaka Network · Misaka Network | [`misaka`](svg/color/misaka.svg) | [✓](svg/color-dark/misaka.svg) | vector | [↗](https://www.misaka.io/) |
 | ![](png/color/24/zenlayer.png) | Zenlayer · Zenlayer | [`zenlayer`](svg/color/zenlayer.svg) | — | vector | [↗](https://www.zenlayer.com/wp-content/uploads/2024/03/Icon-Blue.svg) |
-| ![](png/color/24/colocrossing.png) | ColoCrossing · ColoCrossing | [`colocrossing`](svg/color/colocrossing.svg) | — | vector | [↗](https://www.colocrossing.com/wp-content/uploads/2026/10/ColoCrossing_website_logo-1.svg) |
-| ![](png/color/24/evoxt.png) | Evoxt · 益沃斯 | [`evoxt`](svg/color/evoxt.svg) | — | vector | [↗](https://evoxt.com/img/evoxtblack-icon.svg) |
+| ![](png/color/24/colocrossing.png) | ColoCrossing · ColoCrossing | [`colocrossing`](svg/color/colocrossing.svg) | [✓](svg/color-dark/colocrossing.svg) | vector | [↗](https://www.colocrossing.com/wp-content/uploads/2026/10/ColoCrossing_website_logo-1.svg) |
+| ![](png/color/24/evoxt.png) | Evoxt · 益沃斯 | [`evoxt`](svg/color/evoxt.svg) | [✓](svg/color-dark/evoxt.svg) | vector | [↗](https://evoxt.com/img/evoxtblack-icon.svg) |
 | ![](png/color/24/spartan-host.png) | Spartan Host · 斯巴达 | [`spartan-host`](svg/color/spartan-host.svg) | — | redrawn | [↗](https://spartanhost.org/images/logo.png) |
 | ![](png/color/24/baidu-cloud.png) | Baidu AI Cloud · 百度智能云 | [`baidu-cloud`](svg/color/baidu-cloud.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/baiducloud-color.svg) |
 | ![](png/color/24/civo.png) | Civo · Civo | [`civo`](svg/color/civo.svg) | — | vector | [↗](https://www.civo.com/assets-rebrand/favicons/favicon.svg) |
-| ![](png/color/24/exoscale.png) | Exoscale · Exoscale | [`exoscale`](svg/color/exoscale.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/exoscale.svg) |
+| ![](png/color/24/exoscale.png) | Exoscale · Exoscale | [`exoscale`](svg/color/exoscale.svg) | [✓](svg/color-dark/exoscale.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/exoscale.svg) |
 | ![](png/color/24/vercel.png) | Vercel · Vercel | [`vercel`](svg/color/vercel.svg) | [✓](svg/color-dark/vercel.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/vercel.svg) |
 | ![](png/color/24/home.png) | Home · 家宽 | [`home`](svg/color/home.svg) | [✓](svg/color-dark/home.svg) | vector | [↗](src/art/home/mono.svg) |
 | ![](png/color/24/nas.png) | NAS · 网络存储 | [`nas`](svg/color/nas.svg) | [✓](svg/color-dark/nas.svg) | vector | [↗](src/art/nas/mono.svg) |
