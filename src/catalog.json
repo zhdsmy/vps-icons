@@ -2786,30 +2786,6 @@
     "smallMax": 32
   },
   {
-    "slug": "megalayer",
-    "name": "Megalayer",
-    "names": {
-      "zh-CN": "美络云"
-    },
-    "aliases": [
-      "megalayer"
-    ],
-    "website": "https://www.megalayer.net/",
-    "brandColor": "#D65738",
-    "source": "https://web.archive.org/web/20251212055501im_/https://www.megalayer.net/en/uploadfile/upload/2019091114172699.png",
-    "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
-    "quality": "redrawn",
-    "format": "svg",
-    "hasDark": false,
-    "processing": [
-      "Redraw the orange-red angular emblem from the archived official masthead. The archived page labels it “Megalayer - Global ISP”."
-    ],
-    "small": {
-      "artwork": "Use the isolated brand symbol at sidebar sizes.",
-      "source": "https://web.archive.org/web/20251212055501im_/https://www.megalayer.net/en/uploadfile/upload/2019091114172699.png"
-    }
-  },
-  {
     "slug": "rackspace",
     "name": "Rackspace Technology",
     "names": {
