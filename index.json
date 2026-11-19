@@ -6653,10 +6653,12 @@
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -6756,10 +6758,12 @@
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -7067,8 +7071,9 @@
         "Extract the two cloud-and-A paths from the official default homepage component, expand the rounded strokes and use its blue stop."
       ],
       "small": {
-        "artwork": "Use the standalone brand mark at 16 px.",
-        "source": "https://acck.io/assets/HomeDefault-BGAv2I4p.js"
+        "artwork": "Thicken the cloud-and-A contours through 24 px.",
+        "source": "https://acck.io/assets/HomeDefault-BGAv2I4p.js",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -7139,8 +7144,9 @@
         "Header source: https://my.halocloud.net/assets/img/logo.png"
       ],
       "small": {
-        "artwork": "Use the standalone brand mark at 16 px.",
-        "source": "https://my.halocloud.net/favicon.ico"
+        "artwork": "Thicken the cloud and orbital arc through 24 px.",
+        "source": "https://my.halocloud.net/favicon.ico",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -7318,8 +7324,9 @@
         "Trace the continuous YT cloud mark. Preserve the cyan-to-blue sweep of the original."
       ],
       "small": {
-        "artwork": "Use the standalone brand mark at 16 px.",
-        "source": "https://yt.net/logo.png"
+        "artwork": "Thicken and slightly heighten the YT cloud mark through 24 px.",
+        "source": "https://yt.net/logo.png",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -7397,10 +7404,12 @@
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -7432,10 +7441,12 @@
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -7535,10 +7546,12 @@
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -7570,10 +7583,12 @@
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -7638,10 +7653,12 @@
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
