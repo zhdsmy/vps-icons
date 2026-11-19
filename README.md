@@ -161,7 +161,6 @@ Use PNG where the SVG variant list is empty. The index gives the original source
 | ![](png/color/24/conoha.png) | ConoHa · ConoHa | [`conoha`](svg/color/conoha.svg) | — | vector | [↗](https://support.conoha.jp) |
 | ![](png/color/24/naver-cloud.png) | NAVER Cloud Platform · NAVER 云 | [`naver-cloud`](svg/color/naver-cloud.svg) | — | vector | [↗](https://www.ncloud.com/img/ncp-logo-shd.svg) |
 | ![](png/color/24/nhn-cloud.png) | NHN Cloud · NHN 云 | [`nhn-cloud`](svg/color/nhn-cloud.svg) | — | vector | [↗](https://docs.nhncloud.com/ko/img/favicons/safari-pinned-tab.svg) |
-| ![](png/color/24/clawcloud.png) | ClawCloud · 爪云 | [`clawcloud`](svg/color/clawcloud.svg) | [✓](svg/color-dark/clawcloud.svg) | vector | [↗](https://raw.githubusercontent.com/ClawCloud/Run-Template/main/Run-on-ClawCloud.svg) |
 | ![](png/color/24/lisahost.png) | LisaHost · 丽萨主机 | [`lisahost`](svg/color/lisahost.svg) | [✓](svg/color-dark/lisahost.svg) | redrawn | [↗](https://lisahost.com/favicon.ico) |
 | ![](png/color/24/zgocloud.png) | ZgoCloud · ZgoCloud | [`zgocloud`](svg/color/zgocloud.svg) | — | redrawn | [↗](https://zgovps.com/wp-content/uploads/2023/10/cropped-icon.png) |
 | ![](png/color/24/yecaoyun.png) | YecaoYun · 野草云 | [`yecaoyun`](svg/color/yecaoyun.svg) | [✓](svg/color-dark/yecaoyun.svg) | redrawn | [↗](https://www.yecaoyun.com/Public/Home/img/logo.png) |

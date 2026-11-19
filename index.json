@@ -3480,42 +3480,6 @@
       }
     },
     {
-      "slug": "clawcloud",
-      "name": "ClawCloud",
-      "names": {
-        "zh-CN": "爪云"
-      },
-      "aliases": [
-        "claw cloud",
-        "爪云"
-      ],
-      "website": "https://claw.cloud/",
-      "brandColor": "#111111",
-      "source": "https://raw.githubusercontent.com/ClawCloud/Run-Template/main/Run-on-ClawCloud.svg",
-      "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
-      "quality": "vector",
-      "processing": [
-        "Extract the five paw paths from the official deployment badge. Use dark ink as in the company avatar, and white on dark backgrounds."
-      ],
-      "small": {
-        "artwork": "Use the isolated brand symbol at sidebar sizes.",
-        "source": "https://raw.githubusercontent.com/ClawCloud/Run-Template/main/Run-on-ClawCloud.svg"
-      },
-      "variants": {
-        "svg": [
-          "color",
-          "color-dark",
-          "mono"
-        ],
-        "png": [
-          "color",
-          "color-dark",
-          "mono-black",
-          "mono-white"
-        ]
-      }
-    },
-    {
       "slug": "lisahost",
       "name": "LisaHost",
       "names": {
