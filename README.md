@@ -213,6 +213,16 @@ Use PNG where the SVG variant list is empty. The index gives the original source
 | ![](png/color/24/hyperstack.png) | Hyperstack · Hyperstack | [`hyperstack`](svg/color/hyperstack.svg) | — | vector | [↗](https://www.hyperstack.cloud/hubfs/hyperstack_2023/home/logo.svg) |
 | ![](png/color/24/modal.png) | Modal · Modal | [`modal`](svg/color/modal.svg) | — | vector | [↗](https://modal.com/assets/favicon.svg) |
 | ![](png/color/24/zeabur.png) | Zeabur · Zeabur | [`zeabur`](svg/color/zeabur.svg) | [✓](svg/color-dark/zeabur.svg) | vector | [↗](https://zeabur.com/logo.svg) |
+| ![](png/color/24/tensordock.png) | TensorDock · TensorDock | [`tensordock`](svg/color/tensordock.svg) | — | vector | [↗](https://www.tensordock.com/assets/favicon/safari-pinned-tab.svg) |
+| ![](png/color/24/deno-deploy.png) | Deno Deploy · Deno Deploy | [`deno-deploy`](svg/color/deno-deploy.svg) | [✓](svg/color-dark/deno-deploy.svg) | vector | [↗](https://deno.com/logos/deploy/mark.svg?__frsh_c=2c7be834343e725c25fa21f2d98d4350fa3b3f96) |
+| ![](png/color/24/cdn77.png) | CDN77 · CDN77 | [`cdn77`](svg/color/cdn77.svg) | [✓](svg/color-dark/cdn77.svg) | vector | [↗](https://www.cdn77.com/safari-pinned-tab.svg) |
+| ![](png/color/24/keycdn.png) | KeyCDN · KeyCDN | [`keycdn`](svg/color/keycdn.svg) | [✓](svg/color-dark/keycdn.svg) | vector | [↗](https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/keycdn-icon.svg) |
+| ![](png/color/24/sealos.png) | Sealos · Sealos | [`sealos`](svg/color/sealos.svg) | — | vector | [↗](https://sealos.io) |
+| ![](png/color/24/advin-servers.png) | Advin Servers · Advin Servers | [`advin-servers`](svg/color/advin-servers.svg) | [✓](svg/color-dark/advin-servers.svg) | vector | [↗](https://advinservers.com/eagle_white.svg) |
+| ![](png/color/24/lunanode.png) | LunaNode · LunaNode | [`lunanode`](svg/color/lunanode.svg) | [✓](svg/color-dark/lunanode.svg) | vector | [↗](https://raw.githubusercontent.com/glincker/thesvg/8980fb3d96d7e20a5ada9b85db56110d529d3c55/public/icons/lunanode-badge/default.svg) |
+| ![](png/color/24/dedibox.png) | Dedibox · Dedibox | [`dedibox`](svg/color/dedibox.svg) | [✓](svg/color-dark/dedibox.svg) | vector | [↗](https://raw.githubusercontent.com/scaleway/ultraviolet/4d3aa101bfbc358782b8353650ccd06fd8df40df/packages/icons/src/components/ProductIcon/assets/primary/dedibox.svg) |
+| ![](png/color/24/ramnode.png) | RamNode · RamNode | [`ramnode`](svg/color/ramnode.svg) | — | redrawn | [↗](https://ramnode.com/lovable-uploads/ramnode-favicon.jpeg) |
+| ![](png/color/24/hostodo.png) | Hostodo · Hostodo | [`hostodo`](svg/color/hostodo.svg) | [✓](svg/color-dark/hostodo.svg) | redrawn | [↗](https://hostodo.com/img/favicon.png) |
 
 ## 贡献 / Contributing
 

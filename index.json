@@ -5267,6 +5267,361 @@
           "mono-white"
         ]
       }
+    },
+    {
+      "slug": "tensordock",
+      "name": "TensorDock",
+      "names": {
+        "zh-CN": "TensorDock"
+      },
+      "aliases": [
+        "tensor dock"
+      ],
+      "website": "https://tensordock.com",
+      "brandColor": "#339966",
+      "source": "https://www.tensordock.com/assets/favicon/safari-pinned-tab.svg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Use the pinned-tab T silhouette and the green gradient from the official touch icon.",
+        "Color reference: https://www.tensordock.com/assets/favicon/apple-touch-icon.png"
+      ],
+      "small": {
+        "artwork": "Use the standalone brand mark at 16 px.",
+        "source": "https://www.tensordock.com/assets/favicon/safari-pinned-tab.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "deno-deploy",
+      "name": "Deno Deploy",
+      "names": {
+        "zh-CN": "Deno Deploy"
+      },
+      "aliases": [
+        "deno deploy",
+        "deno land"
+      ],
+      "website": "https://deno.com/deploy",
+      "brandColor": "#002633",
+      "source": "https://deno.com/logos/deploy/mark.svg?__frsh_c=2c7be834343e725c25fa21f2d98d4350fa3b3f96",
+      "license": "Proprietary brand artwork; no open license identified; CC0-1.0 Simple Icons monochrome mark, brand rights reserved",
+      "quality": "vector",
+      "processing": [
+        "Flatten the official transforms and retain the shell, belly and eyes. Use the Simple Icons cutout for monochrome.",
+        "Reverse the egg silhouette and facial contrast on dark surfaces."
+      ],
+      "small": {
+        "artwork": "Use the standalone brand mark at 16 px.",
+        "source": "https://deno.com/logos/deploy/mark.svg?__frsh_c=2c7be834343e725c25fa21f2d98d4350fa3b3f96"
+      },
+      "monoSource": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/denodeploy.svg",
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "cdn77",
+      "name": "CDN77",
+      "names": {
+        "zh-CN": "CDN77"
+      },
+      "aliases": [
+        "cdn77.com"
+      ],
+      "website": "https://www.cdn77.com",
+      "brandColor": "#FFE115",
+      "source": "https://www.cdn77.com/safari-pinned-tab.svg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Retain the two native pin contours, fill the ring yellow using the official touch icon, and reverse the palette on dark surfaces.",
+        "Color reference: https://www.cdn77.com/apple-touch-icon.png"
+      ],
+      "small": {
+        "artwork": "Use the standalone brand mark at 16 px.",
+        "source": "https://www.cdn77.com/safari-pinned-tab.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "keycdn",
+      "name": "KeyCDN",
+      "names": {
+        "zh-CN": "KeyCDN"
+      },
+      "aliases": [
+        "key cdn"
+      ],
+      "website": "https://www.keycdn.com",
+      "brandColor": "#047AED",
+      "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/keycdn-icon.svg",
+      "license": "CC0-1.0 (SVG Logos collection); brand rights reserved",
+      "quality": "vector",
+      "processing": [
+        "Use the standalone keyhole and network spokes. Lighten the graphite and blue on dark surfaces."
+      ],
+      "small": {
+        "artwork": "Use the standalone brand mark at 16 px.",
+        "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/keycdn-icon.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "sealos",
+      "name": "Sealos",
+      "names": {
+        "zh-CN": "Sealos"
+      },
+      "aliases": [
+        "sealos cloud"
+      ],
+      "website": "https://sealos.io",
+      "brandColor": "#0AA3F9",
+      "source": "https://sealos.io",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Extract the two working gradients and native paths from the Sealos header. Flatten the translation of the second lobe."
+      ],
+      "small": {
+        "artwork": "Use the standalone brand mark at 16 px.",
+        "source": "https://sealos.io"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "advin-servers",
+      "name": "Advin Servers",
+      "names": {
+        "zh-CN": "Advin Servers"
+      },
+      "aliases": [
+        "advinservers"
+      ],
+      "website": "https://advinservers.com",
+      "brandColor": "#182238",
+      "source": "https://advinservers.com/eagle_white.svg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Lift the eagle silhouette from the provider artwork. Use dark ink on light surfaces and the source white on dark surfaces."
+      ],
+      "small": {
+        "artwork": "Use the standalone brand mark at 16 px.",
+        "source": "https://advinservers.com/eagle_white.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "lunanode",
+      "name": "LunaNode",
+      "names": {
+        "zh-CN": "LunaNode"
+      },
+      "aliases": [
+        "luna node"
+      ],
+      "website": "https://www.lunanode.com",
+      "brandColor": "#004581",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/8980fb3d96d7e20a5ada9b85db56110d529d3c55/public/icons/lunanode-badge/default.svg",
+      "license": "CC0-1.0 (TheSVG collection); brand rights reserved",
+      "quality": "vector",
+      "processing": [
+        "Isolate the interlocking LunaNode mark from its circular badge and use the blue from the badge as the foreground."
+      ],
+      "small": {
+        "artwork": "Use the standalone brand mark at 16 px.",
+        "source": "https://raw.githubusercontent.com/glincker/thesvg/8980fb3d96d7e20a5ada9b85db56110d529d3c55/public/icons/lunanode-badge/default.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "dedibox",
+      "name": "Dedibox",
+      "names": {
+        "zh-CN": "Dedibox"
+      },
+      "aliases": [
+        "scaleway",
+        "scaleway dedibox",
+        "online.net"
+      ],
+      "website": "https://www.scaleway.com/en/dedibox/",
+      "brandColor": "#521094",
+      "source": "https://raw.githubusercontent.com/scaleway/ultraviolet/4d3aa101bfbc358782b8353650ccd06fd8df40df/packages/icons/src/components/ProductIcon/assets/primary/dedibox.svg",
+      "license": "Apache-2.0 (Scaleway Ultraviolet); brand rights reserved",
+      "quality": "vector",
+      "processing": [
+        "Use the Scaleway Ultraviolet Dedibox product artwork and its two purple layers. Remove the tile for monochrome.",
+        "Simplify the four-node product diagram for small sizes."
+      ],
+      "small": {
+        "artwork": "Use four solid nodes over a single chassis with an open drive slot at 16, 24 and 32 px.",
+        "source": "https://raw.githubusercontent.com/scaleway/ultraviolet/4d3aa101bfbc358782b8353650ccd06fd8df40df/packages/icons/src/components/ProductIcon/assets/primary/dedibox.svg",
+        "maxSize": 32
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "ramnode",
+      "name": "RamNode",
+      "names": {
+        "zh-CN": "RamNode"
+      },
+      "aliases": [
+        "ram node"
+      ],
+      "website": "https://ramnode.com",
+      "brandColor": "#F79414",
+      "source": "https://ramnode.com/lovable-uploads/ramnode-favicon.jpeg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "redrawn",
+      "processing": [
+        "Redraw the four rounded nodes and central spark from the favicon, retaining the warm tile gradient. Remove the tile for mono."
+      ],
+      "small": {
+        "artwork": "Use the standalone brand mark at 16 px.",
+        "source": "https://ramnode.com/lovable-uploads/ramnode-favicon.jpeg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "hostodo",
+      "name": "Hostodo",
+      "names": {
+        "zh-CN": "Hostodo"
+      },
+      "aliases": [
+        "hostodo.com"
+      ],
+      "website": "https://hostodo.com",
+      "brandColor": "#3384C2",
+      "source": "https://hostodo.com/img/favicon.png",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "redrawn",
+      "processing": [
+        "Redraw the tilted blue enclosure and five horizontal rules from the official favicon. Space the rules more widely at 16 and 24 px.",
+        "Lighten the blue gradient on dark backgrounds."
+      ],
+      "small": {
+        "artwork": "Use the enclosure with three spaced rules at 16 and 24 px.",
+        "source": "https://hostodo.com/img/favicon.png",
+        "maxSize": 24
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
     }
   ]
 }
