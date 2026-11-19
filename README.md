@@ -135,6 +135,16 @@ Use PNG where the SVG variant list is empty. The index gives the original source
 | ![](png/color/24/bluehost.png) | Bluehost · Bluehost | [`bluehost`](svg/color/bluehost.svg) | — | vector | [↗](https://upload.wikimedia.org/wikipedia/commons/9/9a/Bluehost_logo_2019.svg) |
 | ![](png/color/24/cherry-servers.png) | Cherry Servers · Cherry Servers | [`cherry-servers`](svg/color/cherry-servers.svg) | — | vector | [↗](https://www.cherryservers.com/) |
 | ![](png/color/24/latitude-sh.png) | Latitude.sh · Latitude.sh | [`latitude-sh`](svg/color/latitude-sh.svg) | — | vector | [↗](https://www.latitude.sh/favicon.svg) |
+| ![](png/color/24/interserver.png) | InterServer · InterServer | [`interserver`](png/color/128/interserver.png) | — | raster · PNG only · 欢迎贡献 / better source wanted | [↗](https://www.interserver.net/assets/images/new/logo.svg) |
+| ![](png/color/24/virmach.png) | VirMach · VirMach | [`virmach`](png/color/128/virmach.png) | — | raster · PNG only · 欢迎贡献 / better source wanted | [↗](https://virmach.com/wp-content/uploads/2022/09/cropped-logo.png) |
+| ![](png/color/24/psychz.png) | Psychz Networks · Psychz Networks | [`psychz`](svg/color/psychz.svg) | — | vector | [↗](https://www.psychz.net/assets/images/header/logo.svg) |
+| ![](png/color/24/time4vps.png) | Time4VPS · Time4VPS | [`time4vps`](png/color/128/time4vps.png) | — | raster · PNG only · 欢迎贡献 / better source wanted | [↗](https://avatars.githubusercontent.com/u/34536144?v=4&s=512) |
+| ![](png/color/24/aeza.png) | Aeza · Aeza | [`aeza`](svg/color/aeza.svg) | — | vector | [↗](https://aeza.net/_next/static/media/logo.25e02724.svg) |
+| ![](png/color/24/hostkey.png) | HOSTKEY · HOSTKEY | [`hostkey`](svg/color/hostkey.svg) | — | vector | [↗](https://hostkey.com/hk/images/logo.svg) |
+| ![](png/color/24/selectel.png) | Selectel · Selectel | [`selectel`](svg/color/selectel.svg) | — | vector | [↗](https://selectel.ru/favicon.svg) |
+| ![](png/color/24/timeweb.png) | Timeweb Cloud · Timeweb Cloud | [`timeweb`](svg/color/timeweb.svg) | — | vector | [↗](https://timeweb.cloud/favicon.svg) |
+| ![](png/color/24/reliablesite.png) | ReliableSite · ReliableSite | [`reliablesite`](svg/color/reliablesite.svg) | [✓](svg/color-dark/reliablesite.svg) | vector | [↗](https://www.reliablesite.net/static/img/minified-svg/logo.svg) |
+| ![](png/color/24/ishosting.png) | is*hosting · is*hosting | [`ishosting`](png/color/128/ishosting.png) | — | raster · PNG only · 欢迎贡献 / better source wanted | [↗](https://avatars.githubusercontent.com/u/260690308?v=4&s=512) |
 
 ## 贡献 / Contributing
 

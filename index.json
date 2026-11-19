@@ -2565,6 +2565,349 @@
           "mono-white"
         ]
       }
+    },
+    {
+      "slug": "interserver",
+      "name": "InterServer",
+      "names": {
+        "zh-CN": "InterServer"
+      },
+      "aliases": [
+        "interserver.net"
+      ],
+      "website": "https://www.interserver.net",
+      "brandColor": "#0089FF",
+      "source": "https://www.interserver.net/assets/images/new/logo.svg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "raster",
+      "processing": [
+        "Decode the 1393 × 356 PNG embedded in the official header SVG. Isolate the blue S flourish by its original ink and alpha. Center the same silhouette for both mono inks.",
+        "At 16 and 24 px grow the prepared 512 px alpha by five pixels per side and reframe the symbol."
+      ],
+      "small": {
+        "artwork": "At 16 and 24 px, reinforce the original blue S flourish before downsampling.",
+        "source": "https://www.interserver.net/assets/images/new/logo.svg",
+        "maxSize": 24
+      },
+      "nativeSize": [
+        1393,
+        356
+      ],
+      "variants": {
+        "svg": [],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "virmach",
+      "name": "VirMach",
+      "names": {
+        "zh-CN": "VirMach"
+      },
+      "aliases": [
+        "virtual machine solutions"
+      ],
+      "website": "https://virmach.com",
+      "brandColor": "#1D86FF",
+      "source": "https://virmach.com/wp-content/uploads/2022/09/cropped-logo.png",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "raster",
+      "processing": [
+        "Keep the complete official cyan favicon and three server faces. Derive the monochrome rack from the darker and more saturated pixels, leaving panel gaps, slots and lamps clear."
+      ],
+      "small": {
+        "artwork": "Use the official stacked-server illustration.",
+        "source": "https://virmach.com/wp-content/uploads/2022/09/cropped-logo.png"
+      },
+      "nativeSize": [
+        512,
+        512
+      ],
+      "variants": {
+        "svg": [],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "psychz",
+      "name": "Psychz Networks",
+      "names": {
+        "zh-CN": "Psychz Networks"
+      },
+      "aliases": [
+        "psychz networks"
+      ],
+      "website": "https://www.psychz.net",
+      "brandColor": "#299BD0",
+      "source": "https://www.psychz.net/assets/images/header/logo.svg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Apply the six native cyan and blue gradients directly to their original clipping outlines. Keep the three-lobed swirl as the mono silhouette."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://www.psychz.net/assets/images/header/logo.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "time4vps",
+      "name": "Time4VPS",
+      "names": {
+        "zh-CN": "Time4VPS"
+      },
+      "aliases": [
+        "time 4 vps"
+      ],
+      "website": "https://www.time4vps.com",
+      "brandColor": "#EA1C24",
+      "source": "https://avatars.githubusercontent.com/u/34536144?v=4&s=512",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "raster",
+      "processing": [
+        "Center the transparent mascot from the provider-linked GitHub organization. Preserve the white eyes as cutouts in mono. At 16–32 px use the isolated mascot head, also visible on the official social profile."
+      ],
+      "small": {
+        "artwork": "Crop the mascot head and preserve its eyes at 16, 24 and 32 px.",
+        "source": "https://avatars.githubusercontent.com/u/34536144?v=4&s=512",
+        "maxSize": 32
+      },
+      "nativeSize": [
+        395,
+        395
+      ],
+      "variants": {
+        "svg": [],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "aeza",
+      "name": "Aeza",
+      "names": {
+        "zh-CN": "Aeza"
+      },
+      "aliases": [
+        "aéza"
+      ],
+      "website": "https://aeza.net",
+      "brandColor": "#000000",
+      "source": "https://aeza.net/_next/static/media/logo.25e02724.svg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Extract the accented é key from the official four-key wordmark and retain its raised-key shading. Use the é glyph alone for monochrome."
+      ],
+      "small": {
+        "artwork": "Use the accented é key from the official Aéza wordmark.",
+        "source": "https://aeza.net/_next/static/media/logo.25e02724.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "hostkey",
+      "name": "HOSTKEY",
+      "names": {
+        "zh-CN": "HOSTKEY"
+      },
+      "aliases": [
+        "hostkey cloud"
+      ],
+      "website": "https://hostkey.com",
+      "brandColor": "#F36E3D",
+      "source": "https://hostkey.com/hk/images/logo.svg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Isolate the three stacked orange and purple stripes from the official header logo."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://hostkey.com/hk/images/logo.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "selectel",
+      "name": "Selectel",
+      "names": {
+        "zh-CN": "Selectel"
+      },
+      "aliases": [
+        "селектел"
+      ],
+      "website": "https://selectel.ru",
+      "brandColor": "#EB4247",
+      "source": "https://selectel.ru/favicon.svg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Preserve the official colored favicon tile and center its standalone foreground symbol for mono."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://selectel.ru/favicon.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "timeweb",
+      "name": "Timeweb Cloud",
+      "names": {
+        "zh-CN": "Timeweb Cloud"
+      },
+      "aliases": [
+        "timeweb cloud",
+        "таймвэб"
+      ],
+      "website": "https://timeweb.cloud",
+      "brandColor": "#454CEE",
+      "source": "https://timeweb.cloud/favicon.svg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Preserve the official colored favicon tile and center its standalone foreground symbol for mono."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://timeweb.cloud/favicon.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "reliablesite",
+      "name": "ReliableSite",
+      "names": {
+        "zh-CN": "ReliableSite"
+      },
+      "aliases": [
+        "reliable site",
+        "reliablesite.net"
+      ],
+      "website": "https://www.reliablesite.net",
+      "brandColor": "#FFAE00",
+      "source": "https://www.reliablesite.net/static/img/minified-svg/logo.svg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Extract the first r and s contours from the native wordmark. Pair them in the arrangement used by the official apple-touch icon. Use charcoal for s on light surfaces.",
+        "Compact composition reference: https://www.reliablesite.net/apple-touch-icon.png"
+      ],
+      "small": {
+        "artwork": "The rs monogram follows the official touch icon and uses the original wordmark letterforms.",
+        "source": "https://www.reliablesite.net/apple-touch-icon.png"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "ishosting",
+      "name": "is*hosting",
+      "names": {
+        "zh-CN": "is*hosting"
+      },
+      "aliases": [
+        "is*hosting",
+        "is hosting"
+      ],
+      "website": "https://ishosting.com",
+      "brandColor": "#FCC237",
+      "source": "https://avatars.githubusercontent.com/u/260690308?v=4&s=512",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "raster",
+      "processing": [
+        "Remove the uniform white matte from the verified organization avatar using coverage of the gold ink. Preserve both parts of the asterisk, also shown in the provider status-page wordmark."
+      ],
+      "small": {
+        "artwork": "Use the gold asterisk from the official avatar.",
+        "source": "https://avatars.githubusercontent.com/u/260690308?v=4&s=512"
+      },
+      "nativeSize": [
+        400,
+        400
+      ],
+      "variants": {
+        "svg": [],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
     }
   ]
 }
