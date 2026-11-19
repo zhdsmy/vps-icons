@@ -207,16 +207,16 @@ Use PNG where the SVG variant list is empty. The index gives the original source
 | ![](png/color/24/runpod.png) | Runpod · Runpod | [`runpod`](svg/color/runpod.svg) | [✓](svg/color-dark/runpod.svg) | vector | [↗](https://cdn.prod.website-files.com/69ce570adca53340abab8376/69cfb722ebc6a6cfe4f48961_runpod-logo-white.svg) |
 | ![](png/color/24/vast-ai.png) | Vast.ai · Vast.ai | [`vast-ai`](svg/color/vast-ai.svg) | [✓](svg/color-dark/vast-ai.svg) | vector | [↗](https://vast.ai/vast_logo.svg) |
 | ![](png/color/24/paperspace.png) | Paperspace · Paperspace | [`paperspace`](svg/color/paperspace.svg) | [✓](svg/color-dark/paperspace.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/paperspace.svg) |
-| ![](png/color/24/nebius.png) | Nebius · Nebius | [`nebius`](svg/color/nebius.svg) | — | vector | [↗](https://nebius.com/favicon/favicon.svg) |
-| ![](png/color/24/crusoe.png) | Crusoe · Crusoe | [`crusoe`](svg/color/crusoe.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/crusoe-color.svg) |
+| ![](png/color/24/nebius.png) | Nebius · Nebius | [`nebius`](svg/color/nebius.svg) | [✓](svg/color-dark/nebius.svg) | vector | [↗](https://nebius.com/favicon/favicon.svg) |
+| ![](png/color/24/crusoe.png) | Crusoe · Crusoe | [`crusoe`](svg/color/crusoe.svg) | [✓](svg/color-dark/crusoe.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/crusoe-color.svg) |
 | ![](png/color/24/hyperstack.png) | Hyperstack · Hyperstack | [`hyperstack`](svg/color/hyperstack.svg) | [✓](svg/color-dark/hyperstack.svg) | vector | [↗](https://www.hyperstack.cloud/hubfs/hyperstack_2023/home/logo.svg) |
-| ![](png/color/24/modal.png) | Modal · Modal | [`modal`](svg/color/modal.svg) | — | vector | [↗](https://modal.com/assets/favicon.svg) |
+| ![](png/color/24/modal.png) | Modal · Modal | [`modal`](svg/color/modal.svg) | [✓](svg/color-dark/modal.svg) | vector | [↗](https://modal.com/assets/favicon.svg) |
 | ![](png/color/24/zeabur.png) | Zeabur · Zeabur | [`zeabur`](svg/color/zeabur.svg) | [✓](svg/color-dark/zeabur.svg) | vector | [↗](https://zeabur.com/logo.svg) |
-| ![](png/color/24/tensordock.png) | TensorDock · TensorDock | [`tensordock`](svg/color/tensordock.svg) | — | vector | [↗](https://www.tensordock.com/assets/favicon/safari-pinned-tab.svg) |
+| ![](png/color/24/tensordock.png) | TensorDock · TensorDock | [`tensordock`](svg/color/tensordock.svg) | [✓](svg/color-dark/tensordock.svg) | vector | [↗](https://www.tensordock.com/assets/favicon/safari-pinned-tab.svg) |
 | ![](png/color/24/deno-deploy.png) | Deno Deploy · Deno Deploy | [`deno-deploy`](svg/color/deno-deploy.svg) | [✓](svg/color-dark/deno-deploy.svg) | vector | [↗](https://deno.com/logos/deploy/mark.svg?__frsh_c=2c7be834343e725c25fa21f2d98d4350fa3b3f96) |
 | ![](png/color/24/cdn77.png) | CDN77 · CDN77 | [`cdn77`](svg/color/cdn77.svg) | [✓](svg/color-dark/cdn77.svg) | vector | [↗](https://www.cdn77.com/safari-pinned-tab.svg) |
 | ![](png/color/24/keycdn.png) | KeyCDN · KeyCDN | [`keycdn`](svg/color/keycdn.svg) | [✓](svg/color-dark/keycdn.svg) | vector | [↗](https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/keycdn-icon.svg) |
-| ![](png/color/24/sealos.png) | Sealos · Sealos | [`sealos`](svg/color/sealos.svg) | — | vector | [↗](https://sealos.io) |
+| ![](png/color/24/sealos.png) | Sealos · Sealos | [`sealos`](svg/color/sealos.svg) | [✓](svg/color-dark/sealos.svg) | vector | [↗](https://sealos.io) |
 | ![](png/color/24/advin-servers.png) | Advin Servers · Advin Servers | [`advin-servers`](svg/color/advin-servers.svg) | [✓](svg/color-dark/advin-servers.svg) | vector | [↗](https://advinservers.com/eagle_white.svg) |
 | ![](png/color/24/lunanode.png) | LunaNode · LunaNode | [`lunanode`](svg/color/lunanode.svg) | [✓](svg/color-dark/lunanode.svg) | vector | [↗](https://raw.githubusercontent.com/glincker/thesvg/8980fb3d96d7e20a5ada9b85db56110d529d3c55/public/icons/lunanode-badge/default.svg) |
 | ![](png/color/24/dedibox.png) | Dedibox · Dedibox | [`dedibox`](svg/color/dedibox.svg) | [✓](svg/color-dark/dedibox.svg) | vector | [↗](https://raw.githubusercontent.com/scaleway/ultraviolet/4d3aa101bfbc358782b8353650ccd06fd8df40df/packages/icons/src/components/ProductIcon/assets/primary/dedibox.svg) |

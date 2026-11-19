@@ -5053,11 +5053,13 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Isolate the outlined V from the company lockup, using the original light ink on dark surfaces."
+        "Isolate the outlined V from the company lockup, using the original light ink on dark surfaces.",
+        "Reinforce the two rails in the outlined V for sidebar sizes."
       ],
       "small": {
-        "artwork": "Use the standalone brand mark at 16 px.",
-        "source": "https://vast.ai/vast_logo.svg"
+        "artwork": "Reinforce both V rails with a rounded stroke at 16 and 24 px.",
+        "source": "https://vast.ai/vast_logo.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -5124,7 +5126,7 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Keep the two brand-colored favicon paths and lift the N out of the tile for mono."
+        "Fit the chartreuse favicon tile to 50 units. Use an inset olive edge on white, the native tile on dark, and cut the N out of the matching monochrome square."
       ],
       "small": {
         "artwork": "Use the standalone brand mark at 16 px.",
@@ -5133,10 +5135,12 @@
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -5157,7 +5161,8 @@
       "license": "MIT (LobeHub artwork); brand rights reserved",
       "quality": "vector",
       "processing": [
-        "Retain the native warm gradient and use the same leaf contour for mono."
+        "Retain the native warm gradient and use the same leaf contour for mono.",
+        "Use darker gold and orange stops on white and lift the burgundy tip on dark."
       ],
       "small": {
         "artwork": "Use the standalone brand mark at 16 px.",
@@ -5166,10 +5171,12 @@
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -5227,20 +5234,24 @@
       "license": "Proprietary brand artwork; no open license identified; CC0-1.0 Simple Icons monochrome mark, brand rights reserved",
       "quality": "vector",
       "processing": [
-        "Preserve all green folded facets of the official M. Use the open Simple Icons linework for mono."
+        "Preserve all green folded facets of the official M. Use the open Simple Icons linework for mono.",
+        "Deepen the green facets on white and retain the native green gradient on dark. For sidebar monochrome, use broad ribbon faces with two open fold seams."
       ],
       "small": {
-        "artwork": "Use the standalone brand mark at 16 px.",
-        "source": "https://modal.com/assets/favicon.svg"
+        "artwork": "Keep the colored facets and use a thicker two-seam monochrome ribbon at 16 and 24 px.",
+        "source": "https://modal.com/assets/favicon.svg",
+        "maxSize": 24
       },
       "monoSource": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/modal.svg",
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -5297,7 +5308,8 @@
       "quality": "vector",
       "processing": [
         "Use the pinned-tab T silhouette and the green gradient from the official touch icon.",
-        "Color reference: https://www.tensordock.com/assets/favicon/apple-touch-icon.png"
+        "Color reference: https://www.tensordock.com/assets/favicon/apple-touch-icon.png",
+        "Deepen the green gradient on white and retain the native sage gradient on dark."
       ],
       "small": {
         "artwork": "Use the standalone brand mark at 16 px.",
@@ -5306,10 +5318,12 @@
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -5439,7 +5453,8 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Extract the two working gradients and native paths from the Sealos header. Flatten the translation of the second lobe."
+        "Extract the two working gradients and native paths from the Sealos header. Flatten the translation of the second lobe.",
+        "Deepen the cyan and lavender gradient on white. Retain the original gradient on dark."
       ],
       "small": {
         "artwork": "Use the standalone brand mark at 16 px.",
@@ -5448,10 +5463,12 @@
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -5581,7 +5598,7 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
-        "Redraw the four rounded nodes and central spark from the favicon, retaining the warm tile gradient. Remove the tile for mono."
+        "Fit the rounded badge to 50 units and deepen the amber-to-orange gradient for the white nodes. Cut the four nodes and central spark out of the monochrome badge."
       ],
       "small": {
         "artwork": "Use the standalone brand mark at 16 px.",
@@ -5615,10 +5632,11 @@
       "quality": "redrawn",
       "processing": [
         "Redraw the tilted blue enclosure and five horizontal rules from the official favicon. Space the rules more widely at 16 and 24 px.",
-        "Lighten the blue gradient on dark backgrounds."
+        "Lighten the blue gradient on dark backgrounds.",
+        "Strengthen the compact enclosure and reduce the stack to two separated horizontal rules."
       ],
       "small": {
-        "artwork": "Use the enclosure with three spaced rules at 16 and 24 px.",
+        "artwork": "Use the reinforced enclosure and two distinct rules at 16 and 24 px.",
         "source": "https://hostodo.com/img/favicon.png",
         "maxSize": 24
       },
@@ -5652,7 +5670,8 @@
       "quality": "redrawn",
       "processing": [
         "Redraw the grey h and two-tone blue E from the domain favicon. The HostEONS status-page lockup confirms the lettering and colors.",
-        "Wordmark reference: https://psp-logos.uptimerobot.com/logos/653791-1541925718.jpg"
+        "Wordmark reference: https://psp-logos.uptimerobot.com/logos/653791-1541925718.jpg",
+        "Deepen the lower blue bars of the E on white so both halves of the letter stay visible."
       ],
       "small": {
         "artwork": "Use the standalone brand mark at 16 px.",
@@ -5687,7 +5706,8 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
-        "Crop the cloud-and-server roundel from the official client-area lockup and reconstruct its inner contours as self-contained paths."
+        "Crop the cloud-and-server roundel from the official client-area lockup and reconstruct its inner contours as self-contained paths.",
+        "Size the blue roundel to 52 units, deepen the blue for the white cloud, and use the same disc with a cloud-and-server knockout in monochrome."
       ],
       "small": {
         "artwork": "Use a bolder cloud outline and two broad server slots at 16, 24 and 32 px.",
@@ -5757,7 +5777,8 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
-        "Redraw the opposing blue chevrons and slotted chassis from the domain favicon. Use a lighter navy on dark surfaces."
+        "Redraw the opposing blue chevrons and slotted chassis from the domain favicon. Use a lighter navy on dark surfaces.",
+        "Darken the two outer cyan facets on white to preserve the split diagonal silhouette."
       ],
       "small": {
         "artwork": "Use the standalone brand mark at 16 px.",
