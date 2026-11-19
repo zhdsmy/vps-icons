@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <g transform="translate(3.429 3.429) scale(0.89286)">
+    <g transform="matrix(0.9333 0 0 0.9333 4 6.8)">
+    <path fill="#6AA8FF" d="M0 0 45 54H0Z"/>
+    <path fill="#47DCFF" d="M22 54V19a19 19 0 0 1 38 0v35Z"/>
+    <path fill="#2E8DFF" d="M22 54V26L45 54Z"/>
+  </g>
+  </g>
+</svg>

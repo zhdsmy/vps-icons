@@ -1973,11 +1973,12 @@
       "license": "CC0-1.0 (SVG Logos collection); brand rights reserved",
       "quality": "vector",
       "processing": [
-        "Retain the complete outlined badge. Use light lavender ink on dark surfaces."
+        "Normalize the official SVG mark to the 64-unit canvas, add a lightened color-dark variant, and provide a stroke-reinforced 16/24 px small variant."
       ],
       "small": {
-        "artwork": "Use the isolated brand symbol at 16 px.",
-        "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/heroku-icon.svg"
+        "artwork": "Use the stroke-reinforced Heroku frame and H mark at 16 and 24 px.",
+        "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/heroku-icon.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -2145,7 +2146,7 @@
       "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
       "quality": "vector",
       "processing": [
-        "Center the Simple Icons symbol with optical padding. Apply the collection brand color."
+        "Normalize the Simple Icons flame SVG to the 64-unit canvas and add a brightened red color-dark variant (#FF545E) for dark backgrounds."
       ],
       "small": {
         "artwork": "Use the isolated brand symbol at 16 px.",
@@ -2154,10 +2155,12 @@
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -2178,7 +2181,7 @@
       "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
       "quality": "vector",
       "processing": [
-        "Center the Simple Icons symbol with optical padding. Apply the collection brand color."
+        "Normalize the Simple Icons mark to the 64-unit canvas, strengthen green contrast on light backgrounds (#00A832), and add vibrant #1CE056 in color-dark."
       ],
       "small": {
         "artwork": "Use the isolated brand symbol at 16 px.",
@@ -2187,10 +2190,12 @@
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -2212,11 +2217,12 @@
       "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
       "quality": "vector",
       "processing": [
-        "Center the Simple Icons symbol with optical padding. Apply the collection brand color."
+        "Normalize the Simple Icons SVG to the 64-unit canvas and add a stroke-reinforced 16/24 px small variant for sidebar legibility."
       ],
       "small": {
-        "artwork": "Use the isolated brand symbol at 16 px.",
-        "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/yandexcloud.svg"
+        "artwork": "Use the stroke-reinforced Yandex Cloud mark at 16 and 24 px.",
+        "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/yandexcloud.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -2246,7 +2252,7 @@
       "license": "Proprietary brand artwork; no open license identified; CC0-1.0 Simple Icons monochrome balloon, brand rights reserved",
       "quality": "vector",
       "processing": [
-        "Isolate the three illustrated paths and sky gradient from the official lockup. Use the standalone balloon outline in mono and on both surfaces at 16 and 24 px."
+        "Optically size the official rounded-square balloon emblem to 50 x 47 on the 64-unit canvas and use the Simple Icons balloon silhouette for monochrome and <= 24 px sizes."
       ],
       "small": {
         "artwork": "Standalone balloon symbol, using purple ink at 16 and 24 px.",
@@ -2383,11 +2389,12 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Lift the LW letter pair out of its favicon tile and center it at a larger size. Use the original light and dark inks."
+        "Extract the LW monogram from the official favicon SVG onto the 64-unit canvas, invert to white in color-dark, and add a stroke-reinforced 16/24 px small variant."
       ],
       "small": {
-        "artwork": "Use the isolated brand symbol at 16 px.",
-        "source": "https://res.cloudinary.com/lwcom/images/f_svg,q_auto/fl_sanitize/v1776858458/prod/favicon/favicon.svg"
+        "artwork": "Use the stroke-reinforced LW monogram at 16 and 24 px.",
+        "source": "https://res.cloudinary.com/lwcom/images/f_svg,q_auto/fl_sanitize/v1776858458/prod/favicon/favicon.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -2487,11 +2494,12 @@
       "license": "Public domain (PD-textlogo, Wikimedia Commons); trademark rights reserved",
       "quality": "vector",
       "processing": [
-        "Extract the nine blue grid cells from the native vector. Center the grid as one symbol."
+        "Extract the 3 x 3 square grid from the official Bluehost logo SVG, optically size to 50 x 50 at 24+ px, and provide a pixel-aligned 16 px small grid."
       ],
       "small": {
-        "artwork": "Use the isolated brand symbol at 16 px.",
-        "source": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bluehost_logo_2019.svg"
+        "artwork": "Use the pixel-aligned 3 x 3 square grid at 16 px.",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bluehost_logo_2019.svg",
+        "maxSize": 16
       },
       "variants": {
         "svg": [
@@ -2554,7 +2562,7 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Retain the citron favicon tile and black L. Center the standalone L for the monochrome master."
+        "Optically size the official neon-lime rounded-square badge to 50 x 48, add a subtle lime edge for light-background definition, keep pure #E0FE56 in color-dark, and punch the L out of the badge in monochrome."
       ],
       "small": {
         "artwork": "Use the isolated brand symbol at 16 px.",
@@ -2563,10 +2571,12 @@
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -2721,7 +2731,7 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Extract the accented é key from the official four-key wordmark and retain its raised-key shading. Use the é glyph alone for monochrome."
+        "Optically size the official rounded-square badge to 50 x 50, deepen its gray border slightly for light-background clarity, and punch the accented e out of the badge in monochrome."
       ],
       "small": {
         "artwork": "Use the accented é key from the official Aéza wordmark.",
@@ -2787,7 +2797,7 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Preserve the official colored favicon tile and center its standalone foreground symbol for mono."
+        "Optically size the official red rounded-square S badge to 50 x 50 and punch the S out of the rounded square in monochrome."
       ],
       "small": {
         "artwork": "Use the isolated brand symbol at 16 px.",
@@ -2821,7 +2831,7 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Preserve the official colored favicon tile and center its standalone foreground symbol for mono."
+        "Optically size the official indigo rounded-square chevron badge to 50 x 50, add a brightened color-dark variant (#6269FF), and punch the chevron out of the badge in monochrome."
       ],
       "small": {
         "artwork": "Use the isolated brand symbol at 16 px.",
@@ -2830,10 +2840,12 @@
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -2925,19 +2937,22 @@
       "license": "MIT (LobeHub artwork); brand rights reserved",
       "quality": "vector",
       "processing": [
-        "Isolate the original graphic mark and center its visible bounds on the 64-unit canvas."
+        "Normalize the official SVG mark to the 64-unit canvas, strengthen light-mode cyan contrast (#009CE0) with #1CC4FF in color-dark, and add a stroke-reinforced 16/24 px small variant."
       ],
       "small": {
-        "artwork": "Use the isolated brand symbol at sidebar sizes.",
-        "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/qiniu-color.svg"
+        "artwork": "Use the stroke-reinforced Qiniu mark at 16 and 24 px.",
+        "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/qiniu-color.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -3129,11 +3144,11 @@
       "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
       "quality": "vector",
       "processing": [
-        "Isolate the original graphic mark and center its visible bounds on the 64-unit canvas."
+        "Normalize the official blue wave emblem to the 64-unit canvas, lighten dark-mode blue (#7FBCFF), and provide a bolder, vertically boosted 5-arc small variant at <= 32 px."
       ],
       "small": {
         "source": "https://www.kagoya.jp/app/themes/kagoya/assets/img/common/logo/mark.svg",
-        "artwork": "Retain five native ribbons, reinforce the two flanks on each side and expand the height for 16, 24 and 32 px.",
+        "artwork": "Use the bolder, vertically boosted 5-arc Kagoya wave mark at 16, 24, and 32 px.",
         "maxSize": 32
       },
       "variants": {
@@ -3165,19 +3180,22 @@
       "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
       "quality": "vector",
       "processing": [
-        "Isolate the original graphic mark and center its visible bounds on the 64-unit canvas."
+        "Normalize the official VMISS cloud-and-V mark to the 64-unit canvas, add a brightened color-dark variant, and reinforce the cloud outline at 16 and 24 px."
       ],
       "small": {
-        "artwork": "Use the isolated brand symbol at sidebar sizes.",
-        "source": "https://www.vmiss.com/wp-content/uploads/2023/11/logo.svg"
+        "artwork": "Use the cloud-outline-reinforced VMISS mark at 16 and 24 px.",
+        "source": "https://www.vmiss.com/wp-content/uploads/2023/11/logo.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -3232,19 +3250,22 @@
       "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
       "quality": "vector",
       "processing": [
-        "Isolate the original graphic mark and center its visible bounds on the 64-unit canvas."
+        "Normalize the official Neburst ring-and-rays mark to the 64-unit canvas, add a brightened color-dark variant (#34A8FF), and simplify to a bolder 4-ray small variant at 16 and 24 px."
       ],
       "small": {
-        "artwork": "Use the isolated brand symbol at sidebar sizes.",
-        "source": "https://neburst.com/favicon.svg"
+        "artwork": "Use the bolder 4-ray simplified Neburst mark at 16 and 24 px.",
+        "source": "https://neburst.com/favicon.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -3336,7 +3357,7 @@
       "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
       "quality": "redrawn",
       "processing": [
-        "Redraw the blue triangle, cyan arch and darker overlap from the official header. Separate the two forms with negative space in monochrome."
+        "Optically size the geometric LightNode emblem to 50 x 45 on the 64-unit canvas, deepen light-mode cyan (#0CC2F2) for white backgrounds, and add a brightened color-dark variant."
       ],
       "small": {
         "artwork": "Use the isolated brand symbol at sidebar sizes.",
@@ -3345,10 +3366,12 @@
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -3617,19 +3640,22 @@
       "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
       "quality": "redrawn",
       "processing": [
-        "Reconstruct the circular favicon and its white cloud loops. Cross-check the crossing against the company GitHub avatar."
+        "Normalize the red circle cloud badge to the 64-unit canvas, add a brightened color-dark variant (#FF3355), punch the cloud out of the circle in monochrome, and thicken the cloud cutout for 16 and 24 px."
       ],
       "small": {
-        "artwork": "Use the isolated brand symbol at sidebar sizes.",
-        "source": "https://resource.ksyun.com/project/cms/8b2b5c8f8a322a7b8c66bcc5f1f08302"
+        "artwork": "Use the thickened cloud cutout inside the Kingsoft Cloud circle badge at 16 and 24 px.",
+        "source": "https://resource.ksyun.com/project/cms/8b2b5c8f8a322a7b8c66bcc5f1f08302",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -3651,19 +3677,22 @@
       "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
       "quality": "redrawn",
       "processing": [
-        "Redraw the two open cloud contours and green link from the official favicon; use its unbroken outline for the single-ink version."
+        "Normalize the redrawn China Mobile eCloud mark to the 64-unit canvas, add a brightened color-dark variant, and provide a stroke-reinforced 16/24 px small variant."
       ],
       "small": {
-        "artwork": "Use the isolated brand symbol at sidebar sizes.",
-        "source": "https://ecloud.eos-guangzhou-1.cmecloud.cn/fe/favicon.ico"
+        "artwork": "Use the stroke-reinforced eCloud mark at 16 and 24 px.",
+        "source": "https://ecloud.eos-guangzhou-1.cmecloud.cn/fe/favicon.ico",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -3720,11 +3749,12 @@
       "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
       "quality": "redrawn",
       "processing": [
-        "Reconstruct the W cutout and three horizontal base stripes from the official favicon, checking the proportions against the site wordmark."
+        "Normalize the redrawn West.cn emblem to the 64-unit canvas, keep the lightened color-dark blue (#5FB9FF), and simplify the bottom stripes to two bolder bars with a wider W gap at 16 and 24 px."
       ],
       "small": {
-        "artwork": "Use the isolated brand symbol at sidebar sizes.",
-        "source": "https://www.west.cn/favicon.ico"
+        "artwork": "Use the simplified two-bar bottom and wider W-gap West.cn mark at 16 and 24 px.",
+        "source": "https://www.west.cn/favicon.ico",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -3755,19 +3785,22 @@
       "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
       "quality": "redrawn",
       "processing": [
-        "Reconstruct the official cloud and lightning strokes with rounded ends; interpolate the green and blue sampled from the company lockup."
+        "Deepen the mint-to-blue gradient (#00B584 to #0082D6) for white-background legibility, keep the bright neon gradient in color-dark, and add a stroke-reinforced 16/24 px small variant."
       ],
       "small": {
-        "artwork": "Use the isolated brand symbol at sidebar sizes.",
-        "source": "https://www.hncloud.com/static/images/home/company-logo.jpg"
+        "artwork": "Use the stroke-reinforced HNCloud cloud-line mark at 16 and 24 px.",
+        "source": "https://www.hncloud.com/static/images/home/company-logo.jpg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -3823,12 +3856,11 @@
       "license": "Proprietary brand artwork; trademark rights reserved by the brand owner.",
       "quality": "redrawn",
       "processing": [
-        "Redraw the tapered blue swirl and three counters from the public favicon, using the larger wordmark on the company encyclopedia page as a contour reference.",
-        "Additional color or contour reference: https://upload.wikimedia.org/wikipedia/en/7/72/Wangsu_Science_%26_Technology_logo.png"
+        "Normalize the redrawn Wangsu wave mark to the 64-unit canvas, keep lightened #75BFFF in color-dark, and use a bolder, taller single-counter wave silhouette for <= 32 px legibility."
       ],
       "small": {
         "source": "https://wangsu.com/favicon.ico",
-        "artwork": "Expand the swirl vertically to keep its openings and tail visible at 16, 24 and 32 px.",
+        "artwork": "Use the bolder, taller simplified Wangsu wave silhouette at 16, 24, and 32 px.",
         "maxSize": 32
       },
       "variants": {
