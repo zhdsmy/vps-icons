@@ -145,6 +145,16 @@ Use PNG where the SVG variant list is empty. The index gives the original source
 | ![](png/color/24/timeweb.png) | Timeweb Cloud · Timeweb Cloud | [`timeweb`](svg/color/timeweb.svg) | — | vector | [↗](https://timeweb.cloud/favicon.svg) |
 | ![](png/color/24/reliablesite.png) | ReliableSite · ReliableSite | [`reliablesite`](svg/color/reliablesite.svg) | [✓](svg/color-dark/reliablesite.svg) | vector | [↗](https://www.reliablesite.net/static/img/minified-svg/logo.svg) |
 | ![](png/color/24/ishosting.png) | is*hosting · is*hosting | [`ishosting`](svg/color/ishosting.svg) | — | redrawn | [↗](https://avatars.githubusercontent.com/u/260690308?v=4&s=512) |
+| ![](png/color/24/rackspace.png) | Rackspace Technology · Rackspace Technology | [`rackspace`](svg/color/rackspace.svg) | — | vector | [↗](https://www.rackspace.com/wp-content/uploads/2026/10/Rackspace_Logo_Black.svg) |
+| ![](png/color/24/cloudways.png) | Cloudways · Cloudways | [`cloudways`](svg/color/cloudways.svg) | [✓](svg/color-dark/cloudways.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/cloudways.svg) |
+| ![](png/color/24/infomaniak.png) | Infomaniak · Infomaniak | [`infomaniak`](svg/color/infomaniak.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/infomaniak.svg) |
+| ![](png/color/24/wp-engine.png) | WP Engine · WP Engine | [`wp-engine`](svg/color/wp-engine.svg) | [✓](svg/color-dark/wp-engine.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/wpengine.svg) |
+| ![](png/color/24/koyeb.png) | Koyeb · Koyeb | [`koyeb`](svg/color/koyeb.svg) | [✓](svg/color-dark/koyeb.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/koyeb.svg) |
+| ![](png/color/24/kinsta.png) | Kinsta · Kinsta | [`kinsta`](svg/color/kinsta.svg) | [✓](svg/color-dark/kinsta.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/kinsta.svg) |
+| ![](png/color/24/gandi.png) | Gandi · Gandi | [`gandi`](svg/color/gandi.svg) | — | vector | [↗](https://www.gandi.net/static/images/favicon.e848261f33f9.svg) |
+| ![](png/color/24/strato.png) | STRATO · STRATO | [`strato`](svg/color/strato.svg) | — | vector | [↗](https://www.strato.de/_assets/img/svg/logo_strato_white_mobile.svg) |
+| ![](png/color/24/servers-com.png) | Servers.com · Servers.com | [`servers-com`](svg/color/servers-com.svg) | — | vector | [↗](https://www.servers.com/global/generated/assets/favicon.svg) |
+| ![](png/color/24/hostgator.png) | HostGator · HostGator | [`hostgator`](svg/color/hostgator.svg) | — | vector | [↗](https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/hostgator-icon.svg) |
 
 ## 贡献 / Contributing
 

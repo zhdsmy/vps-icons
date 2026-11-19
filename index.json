@@ -2894,6 +2894,344 @@
           "mono-white"
         ]
       }
+    },
+    {
+      "slug": "rackspace",
+      "name": "Rackspace Technology",
+      "names": {
+        "zh-CN": "Rackspace Technology"
+      },
+      "aliases": [
+        "rackspace technology"
+      ],
+      "website": "https://www.rackspace.com",
+      "brandColor": "#E00000",
+      "source": "https://www.rackspace.com/wp-content/uploads/2026/10/Rackspace_Logo_Black.svg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Isolate the italic r from the official wordmark, matching the current square favicon."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://www.rackspace.com/wp-content/uploads/2026/10/Rackspace_Logo_Black.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "cloudways",
+      "name": "Cloudways",
+      "names": {
+        "zh-CN": "Cloudways"
+      },
+      "aliases": [
+        "cloudways hosting"
+      ],
+      "website": "https://www.cloudways.com",
+      "brandColor": "#2C39BD",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/cloudways.svg",
+      "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+      "quality": "vector",
+      "processing": [
+        "Center the native standalone mark and apply its brand ink. Use a lighter ink on dark surfaces."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/cloudways.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "infomaniak",
+      "name": "Infomaniak",
+      "names": {
+        "zh-CN": "Infomaniak"
+      },
+      "aliases": [
+        "infomaniak cloud"
+      ],
+      "website": "https://www.infomaniak.com",
+      "brandColor": "#0098FF",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/infomaniak.svg",
+      "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+      "quality": "vector",
+      "processing": [
+        "Center the native standalone mark and apply its brand ink."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/infomaniak.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "wp-engine",
+      "name": "WP Engine",
+      "names": {
+        "zh-CN": "WP Engine"
+      },
+      "aliases": [
+        "wpengine"
+      ],
+      "website": "https://wpengine.com",
+      "brandColor": "#0A8F93",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/wpengine.svg",
+      "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+      "quality": "vector",
+      "processing": [
+        "Center the native standalone mark and apply its brand ink. Use a lighter ink on dark surfaces."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/wpengine.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "koyeb",
+      "name": "Koyeb",
+      "names": {
+        "zh-CN": "Koyeb"
+      },
+      "aliases": [
+        "koyeb cloud"
+      ],
+      "website": "https://www.koyeb.com",
+      "brandColor": "#121212",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/koyeb.svg",
+      "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+      "quality": "vector",
+      "processing": [
+        "Center the native standalone mark and apply its brand ink. Use a lighter ink on dark surfaces."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/koyeb.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "kinsta",
+      "name": "Kinsta",
+      "names": {
+        "zh-CN": "Kinsta"
+      },
+      "aliases": [
+        "kinsta hosting"
+      ],
+      "website": "https://kinsta.com",
+      "brandColor": "#101010",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/kinsta.svg",
+      "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+      "quality": "vector",
+      "processing": [
+        "Extract the initial K from the native Kinsta wordmark for the square composition. Reverse its ink on dark surfaces."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/kinsta.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "gandi",
+      "name": "Gandi",
+      "names": {
+        "zh-CN": "Gandi"
+      },
+      "aliases": [
+        "gandi.net"
+      ],
+      "website": "https://www.gandi.net",
+      "brandColor": "#00F598",
+      "source": "https://www.gandi.net/static/images/favicon.e848261f33f9.svg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Keep the current two-color favicon and use its green spiral glyph for monochrome."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://www.gandi.net/static/images/favicon.e848261f33f9.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "strato",
+      "name": "STRATO",
+      "names": {
+        "zh-CN": "STRATO"
+      },
+      "aliases": [
+        "strato hosting"
+      ],
+      "website": "https://www.strato.de",
+      "brandColor": "#E96702",
+      "source": "https://www.strato.de/_assets/img/svg/logo_strato_white_mobile.svg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Isolate the two rounded forms from the mobile wordmark, applying the original y-axis flip and the STRATO orange."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://www.strato.de/_assets/img/svg/logo_strato_white_mobile.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "servers-com",
+      "name": "Servers.com",
+      "names": {
+        "zh-CN": "Servers.com"
+      },
+      "aliases": [
+        "servers.com"
+      ],
+      "website": "https://www.servers.com",
+      "brandColor": "#EF3340",
+      "source": "https://www.servers.com/global/generated/assets/favicon.svg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Preserve the red circular badge. Center the interlocking white server traces from its face for mono."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://www.servers.com/global/generated/assets/favicon.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "hostgator",
+      "name": "HostGator",
+      "names": {
+        "zh-CN": "HostGator"
+      },
+      "aliases": [
+        "host gator"
+      ],
+      "website": "https://www.hostgator.com",
+      "brandColor": "#2E93EE",
+      "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/hostgator-icon.svg",
+      "license": "CC0-1.0 (SVG Logos collection); brand rights reserved",
+      "quality": "vector",
+      "processing": [
+        "Center the full native mascot and preserve its blue, yellow and orange fills. Cut out belly and eye details in the mono silhouette."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/hostgator-icon.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
     }
   ]
 }
