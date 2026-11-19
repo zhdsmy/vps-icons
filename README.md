@@ -115,6 +115,36 @@ Use PNG where the SVG variant list is empty. The index gives the original source
 | ![](png/color/24/relay.png) | Relay · 中转 | [`relay`](svg/color/relay.svg) | [✓](svg/color-dark/relay.svg) | vector | [↗](src/art/relay/mono.svg) |
 | ![](png/color/24/other.png) | Other · 其他 | [`other`](svg/color/other.svg) | [✓](svg/color-dark/other.svg) | vector | [↗](src/art/other/mono.svg) |
 | ![](png/color/24/unknown.png) | Unknown · 未知厂商 | [`unknown`](svg/color/unknown.svg) | [✓](svg/color-dark/unknown.svg) | vector | [↗](src/art/unknown/mono.svg) |
+| ![](png/color/24/render.png) | Render · Render | [`render`](svg/color/render.svg) | [✓](svg/color-dark/render.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/render.svg) |
+| ![](png/color/24/railway.png) | Railway · Railway | [`railway`](svg/color/railway.svg) | [✓](svg/color-dark/railway.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/railway.svg) |
+| ![](png/color/24/heroku.png) | Heroku · Heroku | [`heroku`](svg/color/heroku.svg) | [✓](svg/color-dark/heroku.svg) | vector | [↗](https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/heroku-icon.svg) |
+| ![](png/color/24/netlify.png) | Netlify · Netlify | [`netlify`](svg/color/netlify.svg) | [✓](svg/color-dark/netlify.svg) | vector | [↗](https://www.netlify.com/favicon/v2/icon.svg) |
+| ![](png/color/24/fastly.png) | Fastly · Fastly | [`fastly`](svg/color/fastly.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/fastly.svg) |
+| ![](png/color/24/gcore.png) | Gcore · Gcore | [`gcore`](svg/color/gcore.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/gcore.svg) |
+| ![](png/color/24/godaddy.png) | GoDaddy · GoDaddy | [`godaddy`](svg/color/godaddy.svg) | [✓](svg/color-dark/godaddy.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/godaddy.svg) |
+| ![](png/color/24/backblaze.png) | Backblaze · Backblaze | [`backblaze`](svg/color/backblaze.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/backblaze.svg) |
+| ![](png/color/24/wasabi.png) | Wasabi · Wasabi | [`wasabi`](svg/color/wasabi.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/wasabi.svg) |
+| ![](png/color/24/yandex-cloud.png) | Yandex Cloud · Yandex 云 | [`yandex-cloud`](svg/color/yandex-cloud.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/yandexcloud.svg) |
+| ![](png/color/24/fly-io.png) | Fly.io · Fly.io | [`fly-io`](svg/color/fly-io.svg) | — | vector | [↗](https://fly.io/phx/images/icons/fly_logo-71111ce5a640c41c308406fd688222e1.svg?vsn=d) |
+| ![](png/color/24/bunny.png) | bunny.net · bunny.net | [`bunny`](svg/color/bunny.svg) | — | vector | [↗](https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/bunny-net-icon.svg) |
+| ![](png/color/24/leaseweb.png) | Leaseweb · Leaseweb | [`leaseweb`](svg/color/leaseweb.svg) | [✓](svg/color-dark/leaseweb.svg) | vector | [↗](https://developer.leaseweb.com/images/leaseweb_logo.svg) |
+| ![](png/color/24/hostwinds.png) | Hostwinds · Hostwinds | [`hostwinds`](svg/color/hostwinds.svg) | — | vector | [↗](https://www.hostwinds.com/_next/static/images/19d6352287968d1da54645336c4ec7aa.svg) |
+| ![](png/color/24/liquid-web.png) | Liquid Web · Liquid Web | [`liquid-web`](svg/color/liquid-web.svg) | [✓](svg/color-dark/liquid-web.svg) | vector | [↗](https://res.cloudinary.com/lwcom/images/f_svg,q_auto/fl_sanitize/v1776858458/prod/favicon/favicon.svg) |
+| ![](png/color/24/dreamhost.png) | DreamHost · DreamHost | [`dreamhost`](svg/color/dreamhost.svg) | [✓](svg/color-dark/dreamhost.svg) | vector | [↗](https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/dreamhost.svg) |
+| ![](png/color/24/namecheap.png) | Namecheap · Namecheap | [`namecheap`](svg/color/namecheap.svg) | — | vector | [↗](https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/namecheap.svg) |
+| ![](png/color/24/bluehost.png) | Bluehost · Bluehost | [`bluehost`](svg/color/bluehost.svg) | — | vector | [↗](https://upload.wikimedia.org/wikipedia/commons/9/9a/Bluehost_logo_2019.svg) |
+| ![](png/color/24/cherry-servers.png) | Cherry Servers · Cherry Servers | [`cherry-servers`](svg/color/cherry-servers.svg) | — | vector | [↗](https://www.cherryservers.com/) |
+| ![](png/color/24/latitude-sh.png) | Latitude.sh · Latitude.sh | [`latitude-sh`](svg/color/latitude-sh.svg) | — | vector | [↗](https://www.latitude.sh/favicon.svg) |
+| ![](png/color/24/interserver.png) | InterServer · InterServer | [`interserver`](png/color/128/interserver.png) | — | raster · PNG only · 欢迎贡献 / better source wanted | [↗](https://www.interserver.net/assets/images/new/logo.svg) |
+| ![](png/color/24/virmach.png) | VirMach · VirMach | [`virmach`](png/color/128/virmach.png) | — | raster · PNG only · 欢迎贡献 / better source wanted | [↗](https://virmach.com/wp-content/uploads/2022/09/cropped-logo.png) |
+| ![](png/color/24/psychz.png) | Psychz Networks · Psychz Networks | [`psychz`](svg/color/psychz.svg) | — | vector | [↗](https://www.psychz.net/assets/images/header/logo.svg) |
+| ![](png/color/24/time4vps.png) | Time4VPS · Time4VPS | [`time4vps`](png/color/128/time4vps.png) | — | raster · PNG only · 欢迎贡献 / better source wanted | [↗](https://avatars.githubusercontent.com/u/34536144?v=4&s=512) |
+| ![](png/color/24/aeza.png) | Aeza · Aeza | [`aeza`](svg/color/aeza.svg) | — | vector | [↗](https://aeza.net/_next/static/media/logo.25e02724.svg) |
+| ![](png/color/24/hostkey.png) | HOSTKEY · HOSTKEY | [`hostkey`](svg/color/hostkey.svg) | — | vector | [↗](https://hostkey.com/hk/images/logo.svg) |
+| ![](png/color/24/selectel.png) | Selectel · Selectel | [`selectel`](svg/color/selectel.svg) | — | vector | [↗](https://selectel.ru/favicon.svg) |
+| ![](png/color/24/timeweb.png) | Timeweb Cloud · Timeweb Cloud | [`timeweb`](svg/color/timeweb.svg) | — | vector | [↗](https://timeweb.cloud/favicon.svg) |
+| ![](png/color/24/reliablesite.png) | ReliableSite · ReliableSite | [`reliablesite`](svg/color/reliablesite.svg) | [✓](svg/color-dark/reliablesite.svg) | vector | [↗](https://www.reliablesite.net/static/img/minified-svg/logo.svg) |
+| ![](png/color/24/ishosting.png) | is*hosting · is*hosting | [`ishosting`](png/color/128/ishosting.png) | — | raster · PNG only · 欢迎贡献 / better source wanted | [↗](https://avatars.githubusercontent.com/u/260690308?v=4&s=512) |
 
 ## 贡献 / Contributing
 

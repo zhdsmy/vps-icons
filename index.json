@@ -1872,6 +1872,1033 @@
           "mono-white"
         ]
       }
+    },
+    {
+      "slug": "render",
+      "name": "Render",
+      "names": {
+        "zh-CN": "Render"
+      },
+      "aliases": [
+        "render.com"
+      ],
+      "website": "https://render.com",
+      "brandColor": "#000000",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/render.svg",
+      "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+      "quality": "vector",
+      "processing": [
+        "Center the Simple Icons symbol with optical padding. Use different inks on light and dark surfaces."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/render.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "railway",
+      "name": "Railway",
+      "names": {
+        "zh-CN": "Railway"
+      },
+      "aliases": [
+        "railway.app"
+      ],
+      "website": "https://railway.com",
+      "brandColor": "#0B0D0E",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/railway.svg",
+      "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+      "quality": "vector",
+      "processing": [
+        "Center the Simple Icons symbol with optical padding. Use different inks on light and dark surfaces."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/railway.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "heroku",
+      "name": "Heroku",
+      "names": {
+        "zh-CN": "Heroku"
+      },
+      "aliases": [
+        "heroku cloud"
+      ],
+      "website": "https://www.heroku.com",
+      "brandColor": "#430098",
+      "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/heroku-icon.svg",
+      "license": "CC0-1.0 (SVG Logos collection); brand rights reserved",
+      "quality": "vector",
+      "processing": [
+        "Retain the complete outlined badge. Use light lavender ink on dark surfaces."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/heroku-icon.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "netlify",
+      "name": "Netlify",
+      "names": {
+        "zh-CN": "Netlify"
+      },
+      "aliases": [
+        "netlify hosting"
+      ],
+      "website": "https://www.netlify.com",
+      "brandColor": "#131619",
+      "source": "https://www.netlify.com/favicon/v2/icon.svg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Separate the official adaptive favicon into its light and dark inks, drop the common translation and center the four paths."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://www.netlify.com/favicon/v2/icon.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "fastly",
+      "name": "Fastly",
+      "names": {
+        "zh-CN": "Fastly"
+      },
+      "aliases": [
+        "fastly cdn"
+      ],
+      "website": "https://www.fastly.com",
+      "brandColor": "#FF282D",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/fastly.svg",
+      "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+      "quality": "vector",
+      "processing": [
+        "Center the Simple Icons symbol with optical padding. Apply the collection brand color."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/fastly.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "gcore",
+      "name": "Gcore",
+      "names": {
+        "zh-CN": "Gcore"
+      },
+      "aliases": [
+        "g-core labs",
+        "gcore cloud"
+      ],
+      "website": "https://gcore.com",
+      "brandColor": "#FF4C00",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/gcore.svg",
+      "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+      "quality": "vector",
+      "processing": [
+        "Center the Simple Icons symbol with optical padding. Apply the collection brand color."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/gcore.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "godaddy",
+      "name": "GoDaddy",
+      "names": {
+        "zh-CN": "GoDaddy"
+      },
+      "aliases": [
+        "go daddy"
+      ],
+      "website": "https://www.godaddy.com",
+      "brandColor": "#1BDBDB",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/godaddy.svg",
+      "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+      "quality": "vector",
+      "processing": [
+        "Center the Simple Icons symbol with optical padding. Use different inks on light and dark surfaces."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/godaddy.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "backblaze",
+      "name": "Backblaze",
+      "names": {
+        "zh-CN": "Backblaze"
+      },
+      "aliases": [
+        "backblaze b2"
+      ],
+      "website": "https://www.backblaze.com",
+      "brandColor": "#E21E29",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/backblaze.svg",
+      "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+      "quality": "vector",
+      "processing": [
+        "Center the Simple Icons symbol with optical padding. Apply the collection brand color."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/backblaze.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "wasabi",
+      "name": "Wasabi",
+      "names": {
+        "zh-CN": "Wasabi"
+      },
+      "aliases": [
+        "wasabi cloud storage"
+      ],
+      "website": "https://wasabi.com",
+      "brandColor": "#01CD3E",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/wasabi.svg",
+      "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+      "quality": "vector",
+      "processing": [
+        "Center the Simple Icons symbol with optical padding. Apply the collection brand color."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/wasabi.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "yandex-cloud",
+      "name": "Yandex Cloud",
+      "names": {
+        "zh-CN": "Yandex 云"
+      },
+      "aliases": [
+        "yandexcloud",
+        "yandex cloud"
+      ],
+      "website": "https://yandex.cloud",
+      "brandColor": "#5282FF",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/yandexcloud.svg",
+      "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+      "quality": "vector",
+      "processing": [
+        "Center the Simple Icons symbol with optical padding. Apply the collection brand color."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/yandexcloud.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "fly-io",
+      "name": "Fly.io",
+      "names": {
+        "zh-CN": "Fly.io"
+      },
+      "aliases": [
+        "fly.io",
+        "flyio"
+      ],
+      "website": "https://fly.io",
+      "brandColor": "#5046E4",
+      "source": "https://fly.io/phx/images/icons/fly_logo-71111ce5a640c41c308406fd688222e1.svg?vsn=d",
+      "license": "Proprietary brand artwork; no open license identified; CC0-1.0 Simple Icons monochrome balloon, brand rights reserved",
+      "quality": "vector",
+      "processing": [
+        "Isolate the three illustrated paths and sky gradient from the official lockup. Use the standalone balloon outline in mono and on both surfaces at 16 and 24 px."
+      ],
+      "small": {
+        "artwork": "Standalone balloon symbol, using purple ink at 16 and 24 px.",
+        "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/flydotio.svg",
+        "maxSize": 24
+      },
+      "monoSource": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/flydotio.svg",
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "bunny",
+      "name": "bunny.net",
+      "names": {
+        "zh-CN": "bunny.net"
+      },
+      "aliases": [
+        "bunny.net",
+        "bunnycdn"
+      ],
+      "website": "https://bunny.net",
+      "brandColor": "#F58220",
+      "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/bunny-net-icon.svg",
+      "license": "CC0-1.0 (SVG Logos collection); brand rights reserved",
+      "quality": "vector",
+      "processing": [
+        "Retain the jumping rabbit and its native gradients. Use the silhouette of its paths for mono."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/bunny-net-icon.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "leaseweb",
+      "name": "Leaseweb",
+      "names": {
+        "zh-CN": "Leaseweb"
+      },
+      "aliases": [
+        "lease web"
+      ],
+      "website": "https://www.leaseweb.com",
+      "brandColor": "#F18800",
+      "source": "https://developer.leaseweb.com/images/leaseweb_logo.svg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Isolate the six segments of the two-color symbol from the developer portal lockup. Lighten the blue segments on dark surfaces."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://developer.leaseweb.com/images/leaseweb_logo.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "hostwinds",
+      "name": "Hostwinds",
+      "names": {
+        "zh-CN": "Hostwinds"
+      },
+      "aliases": [
+        "hostwinds cloud"
+      ],
+      "website": "https://www.hostwinds.com",
+      "brandColor": "#2199FF",
+      "source": "https://www.hostwinds.com/_next/static/images/19d6352287968d1da54645336c4ec7aa.svg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Isolate the blue wave paths from the official header. Keep the native radial gradients and use the same wave outlines in mono."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://www.hostwinds.com/_next/static/images/19d6352287968d1da54645336c4ec7aa.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "liquid-web",
+      "name": "Liquid Web",
+      "names": {
+        "zh-CN": "Liquid Web"
+      },
+      "aliases": [
+        "liquidweb"
+      ],
+      "website": "https://www.liquidweb.com",
+      "brandColor": "#1F1F1F",
+      "source": "https://res.cloudinary.com/lwcom/images/f_svg,q_auto/fl_sanitize/v1776858458/prod/favicon/favicon.svg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Lift the LW letter pair out of its favicon tile and center it at a larger size. Use the original light and dark inks."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://res.cloudinary.com/lwcom/images/f_svg,q_auto/fl_sanitize/v1776858458/prod/favicon/favicon.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "dreamhost",
+      "name": "DreamHost",
+      "names": {
+        "zh-CN": "DreamHost"
+      },
+      "aliases": [
+        "dream host"
+      ],
+      "website": "https://www.dreamhost.com",
+      "brandColor": "#3E95BE",
+      "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/dreamhost.svg",
+      "license": "CC0-1.0 (SVG Logos collection); brand rights reserved",
+      "quality": "vector",
+      "processing": [
+        "Keep the two crescent-and-disc paths and lighten the outer crescent on dark surfaces."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/dreamhost.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "namecheap",
+      "name": "Namecheap",
+      "names": {
+        "zh-CN": "Namecheap"
+      },
+      "aliases": [
+        "name cheap"
+      ],
+      "website": "https://www.namecheap.com",
+      "brandColor": "#FF5000",
+      "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/namecheap.svg",
+      "license": "CC0-1.0 (SVG Logos collection); brand rights reserved; CC0-1.0 Simple Icons monochrome mark, brand rights reserved",
+      "quality": "vector",
+      "processing": [
+        "Retain the orange folded mark and its gradients. Use the standalone Simple Icons paths for the monochrome ribbon."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/namecheap.svg"
+      },
+      "monoSource": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/namecheap.svg",
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "bluehost",
+      "name": "Bluehost",
+      "names": {
+        "zh-CN": "Bluehost"
+      },
+      "aliases": [
+        "blue host"
+      ],
+      "website": "https://www.bluehost.com",
+      "brandColor": "#0076FF",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bluehost_logo_2019.svg",
+      "license": "Public domain (PD-textlogo, Wikimedia Commons); trademark rights reserved",
+      "quality": "vector",
+      "processing": [
+        "Extract the nine blue grid cells from the native vector. Center the grid as one symbol."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bluehost_logo_2019.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "cherry-servers",
+      "name": "Cherry Servers",
+      "names": {
+        "zh-CN": "Cherry Servers"
+      },
+      "aliases": [
+        "cherryservers"
+      ],
+      "website": "https://www.cherryservers.com",
+      "brandColor": "#FF0000",
+      "source": "https://www.cherryservers.com/",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Isolate the red symbol from the inline Cherry Servers header SVG and center it without the wordmark."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://www.cherryservers.com/"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "latitude-sh",
+      "name": "Latitude.sh",
+      "names": {
+        "zh-CN": "Latitude.sh"
+      },
+      "aliases": [
+        "latitude.sh",
+        "maxihost"
+      ],
+      "website": "https://www.latitude.sh",
+      "brandColor": "#E0FE56",
+      "source": "https://www.latitude.sh/favicon.svg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Retain the citron favicon tile and black L. Center the standalone L for the monochrome master."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://www.latitude.sh/favicon.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "interserver",
+      "name": "InterServer",
+      "names": {
+        "zh-CN": "InterServer"
+      },
+      "aliases": [
+        "interserver.net"
+      ],
+      "website": "https://www.interserver.net",
+      "brandColor": "#0089FF",
+      "source": "https://www.interserver.net/assets/images/new/logo.svg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "raster",
+      "processing": [
+        "Decode the 1393 × 356 PNG embedded in the official header SVG. Isolate the blue S flourish by its original ink and alpha. Center the same silhouette for both mono inks.",
+        "At 16 and 24 px grow the prepared 512 px alpha by five pixels per side and reframe the symbol."
+      ],
+      "small": {
+        "artwork": "At 16 and 24 px, reinforce the original blue S flourish before downsampling.",
+        "source": "https://www.interserver.net/assets/images/new/logo.svg",
+        "maxSize": 24
+      },
+      "nativeSize": [
+        1393,
+        356
+      ],
+      "variants": {
+        "svg": [],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "virmach",
+      "name": "VirMach",
+      "names": {
+        "zh-CN": "VirMach"
+      },
+      "aliases": [
+        "virtual machine solutions"
+      ],
+      "website": "https://virmach.com",
+      "brandColor": "#1D86FF",
+      "source": "https://virmach.com/wp-content/uploads/2022/09/cropped-logo.png",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "raster",
+      "processing": [
+        "Keep the complete official cyan favicon and three server faces. Derive the monochrome rack from the darker and more saturated pixels, leaving panel gaps, slots and lamps clear."
+      ],
+      "small": {
+        "artwork": "Use the official stacked-server illustration.",
+        "source": "https://virmach.com/wp-content/uploads/2022/09/cropped-logo.png"
+      },
+      "nativeSize": [
+        512,
+        512
+      ],
+      "variants": {
+        "svg": [],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "psychz",
+      "name": "Psychz Networks",
+      "names": {
+        "zh-CN": "Psychz Networks"
+      },
+      "aliases": [
+        "psychz networks"
+      ],
+      "website": "https://www.psychz.net",
+      "brandColor": "#299BD0",
+      "source": "https://www.psychz.net/assets/images/header/logo.svg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Apply the six native cyan and blue gradients directly to their original clipping outlines. Keep the three-lobed swirl as the mono silhouette."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://www.psychz.net/assets/images/header/logo.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "time4vps",
+      "name": "Time4VPS",
+      "names": {
+        "zh-CN": "Time4VPS"
+      },
+      "aliases": [
+        "time 4 vps"
+      ],
+      "website": "https://www.time4vps.com",
+      "brandColor": "#EA1C24",
+      "source": "https://avatars.githubusercontent.com/u/34536144?v=4&s=512",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "raster",
+      "processing": [
+        "Center the transparent mascot from the provider-linked GitHub organization. Preserve the white eyes as cutouts in mono. At 16–32 px use the isolated mascot head, also visible on the official social profile."
+      ],
+      "small": {
+        "artwork": "Crop the mascot head and preserve its eyes at 16, 24 and 32 px.",
+        "source": "https://avatars.githubusercontent.com/u/34536144?v=4&s=512",
+        "maxSize": 32
+      },
+      "nativeSize": [
+        395,
+        395
+      ],
+      "variants": {
+        "svg": [],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "aeza",
+      "name": "Aeza",
+      "names": {
+        "zh-CN": "Aeza"
+      },
+      "aliases": [
+        "aéza"
+      ],
+      "website": "https://aeza.net",
+      "brandColor": "#000000",
+      "source": "https://aeza.net/_next/static/media/logo.25e02724.svg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Extract the accented é key from the official four-key wordmark and retain its raised-key shading. Use the é glyph alone for monochrome."
+      ],
+      "small": {
+        "artwork": "Use the accented é key from the official Aéza wordmark.",
+        "source": "https://aeza.net/_next/static/media/logo.25e02724.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "hostkey",
+      "name": "HOSTKEY",
+      "names": {
+        "zh-CN": "HOSTKEY"
+      },
+      "aliases": [
+        "hostkey cloud"
+      ],
+      "website": "https://hostkey.com",
+      "brandColor": "#F36E3D",
+      "source": "https://hostkey.com/hk/images/logo.svg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Isolate the three stacked orange and purple stripes from the official header logo."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://hostkey.com/hk/images/logo.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "selectel",
+      "name": "Selectel",
+      "names": {
+        "zh-CN": "Selectel"
+      },
+      "aliases": [
+        "селектел"
+      ],
+      "website": "https://selectel.ru",
+      "brandColor": "#EB4247",
+      "source": "https://selectel.ru/favicon.svg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Preserve the official colored favicon tile and center its standalone foreground symbol for mono."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://selectel.ru/favicon.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "timeweb",
+      "name": "Timeweb Cloud",
+      "names": {
+        "zh-CN": "Timeweb Cloud"
+      },
+      "aliases": [
+        "timeweb cloud",
+        "таймвэб"
+      ],
+      "website": "https://timeweb.cloud",
+      "brandColor": "#454CEE",
+      "source": "https://timeweb.cloud/favicon.svg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Preserve the official colored favicon tile and center its standalone foreground symbol for mono."
+      ],
+      "small": {
+        "artwork": "Use the isolated brand symbol at 16 px.",
+        "source": "https://timeweb.cloud/favicon.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "reliablesite",
+      "name": "ReliableSite",
+      "names": {
+        "zh-CN": "ReliableSite"
+      },
+      "aliases": [
+        "reliable site",
+        "reliablesite.net"
+      ],
+      "website": "https://www.reliablesite.net",
+      "brandColor": "#FFAE00",
+      "source": "https://www.reliablesite.net/static/img/minified-svg/logo.svg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Extract the first r and s contours from the native wordmark. Pair them in the arrangement used by the official apple-touch icon. Use charcoal for s on light surfaces.",
+        "Compact composition reference: https://www.reliablesite.net/apple-touch-icon.png"
+      ],
+      "small": {
+        "artwork": "The rs monogram follows the official touch icon and uses the original wordmark letterforms.",
+        "source": "https://www.reliablesite.net/apple-touch-icon.png"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "ishosting",
+      "name": "is*hosting",
+      "names": {
+        "zh-CN": "is*hosting"
+      },
+      "aliases": [
+        "is*hosting",
+        "is hosting"
+      ],
+      "website": "https://ishosting.com",
+      "brandColor": "#FCC237",
+      "source": "https://avatars.githubusercontent.com/u/260690308?v=4&s=512",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "raster",
+      "processing": [
+        "Remove the uniform white matte from the verified organization avatar using coverage of the gold ink. Preserve both parts of the asterisk, also shown in the provider status-page wordmark."
+      ],
+      "small": {
+        "artwork": "Use the gold asterisk from the official avatar.",
+        "source": "https://avatars.githubusercontent.com/u/260690308?v=4&s=512"
+      },
+      "nativeSize": [
+        400,
+        400
+      ],
+      "variants": {
+        "svg": [],
+        "png": [
+          "color",
+          "mono-black",
+          "mono-white"
+        ]
+      }
     }
   ]
 }
