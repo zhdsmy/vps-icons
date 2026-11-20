@@ -4,9 +4,9 @@
 
 Self-contained cloud, VPS, hosting, and generic infrastructure icons for monitoring dashboards, status pages, directories, and documentation. Load directly via jsDelivr CDN or self-host offline.
 
-当前共收录 **225** 个图标（`vector` 144 · `redrawn` 81；全部提供 SVG 与 8 档 PNG；**171** 个含深色变体，**75** 个含小尺寸专版）。
+当前共收录 **227** 个图标（`vector` 146 · `redrawn` 81；全部提供 SVG 与 8 档 PNG；**173** 个含深色变体，**77** 个含小尺寸专版）。
 
-Currently **225** icons (144 `vector`, 81 `redrawn`; all with SVG + 8 PNG sizes; **171** dark variants, **75** compact small masters).
+Currently **227** icons (146 `vector`, 81 `redrawn`; all with SVG + 8 PNG sizes; **173** dark variants, **77** compact small masters).
 
 [在线/本地对照预览 · Preview](preview.html) · [完整元数据索引 · index.json](index.json)
 
@@ -404,6 +404,8 @@ All current entries ship as SVG (zero PNG-only, `upscaled`, or `placeholder` ico
 | ![](png/color/24/proxmox.png) | Proxmox VE · Proxmox 虚拟环境 | [`proxmox`](svg/color/proxmox.svg) | [✓](svg/color-dark/proxmox.svg) | — | vector | [↗](https://www.proxmox.com/favicon.svg) |
 | ![](png/color/24/openwrt.png) | OpenWrt · OpenWrt | [`openwrt`](svg/color/openwrt.svg) | [✓](svg/color-dark/openwrt.svg) | [≤24](svg/small/color/openwrt.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/openwrt.svg) |
 | ![](png/color/24/istoreos.png) | iStoreOS · iStoreOS 酷友社软路由 | [`istoreos`](svg/color/istoreos.svg) | [✓](svg/color-dark/istoreos.svg) | [≤24](svg/small/color/istoreos.svg) | redrawn | [↗](https://site.istoreos.com/favicon.ico) |
+| ![](png/color/24/raspberry-pi.png) | Raspberry Pi · 树莓派 | [`raspberry-pi`](svg/color/raspberry-pi.svg) | [✓](svg/color-dark/raspberry-pi.svg) | [≤24](svg/small/color/raspberry-pi.svg) | vector | [↗](https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/raspberry-pi.svg) |
+| ![](png/color/24/esxi.png) | VMware ESXi · VMware ESXi | [`esxi`](svg/color/esxi.svg) | [✓](svg/color-dark/esxi.svg) | [≤24](svg/small/color/esxi.svg) | vector | [↗](https://raw.githubusercontent.com/homarr-labs/dashboard-icons/d4b500dc40a8e1043b1581cabb7208892cf35472/svg/vmware-esxi.svg) |
 
 ---
 
@@ -456,10 +458,11 @@ npm ci && npm run build && npm run check
 | `MIT` | 5 |
 | `MIT (LobeHub artwork); brand rights reserved` | 10 |
 | `CC0-1.0 (Simple Icons collection); brand rights reserved` | 28 |
-| `CC0-1.0 (SVG Logos collection); brand rights reserved` | 9 |
+| `CC0-1.0 (SVG Logos collection); brand rights reserved` | 10 |
 | `CC0-1.0 (SVG Logos collection); brand rights reserved; CC0-1.0 Simple Icons monochrome mark, brand rights reserved` | 1 |
 | `CC0-1.0 (TheSVG collection); brand rights reserved` | 1 |
 | `CC0-1.0 (auth-badges artwork via theSVG); official mascot and trademarks belong to Time4VPS` | 1 |
 | `Apache-2.0 (Scaleway Ultraviolet); brand rights reserved` | 1 |
+| `Apache-2.0 (Dashboard Icons collection); brand rights reserved` | 1 |
 | `Public domain (PD-textlogo, Wikimedia Commons); trademark rights reserved` | 1 |
 | `Public domain (Wikimedia Commons, PD-textlogo); trademark rights reserved by KT.` | 1 |

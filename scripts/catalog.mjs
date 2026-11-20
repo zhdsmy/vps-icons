@@ -18,6 +18,7 @@ export const licenses = new Set([
   'CC0-1.0 (TheSVG collection); brand rights reserved',
   'CC0-1.0 (auth-badges artwork via theSVG); official mascot and trademarks belong to Time4VPS',
   'Apache-2.0 (Scaleway Ultraviolet); brand rights reserved',
+  'Apache-2.0 (Dashboard Icons collection); brand rights reserved',
   'Public domain (PD-textlogo, Wikimedia Commons); trademark rights reserved',
   'Public domain (Wikimedia Commons, PD-textlogo); trademark rights reserved by KT.',
 ])

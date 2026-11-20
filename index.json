@@ -8089,6 +8089,84 @@
           "mono-white"
         ]
       }
+    },
+    {
+      "slug": "raspberry-pi",
+      "name": "Raspberry Pi",
+      "names": {
+        "zh-CN": "树莓派"
+      },
+      "aliases": [
+        "树莓派",
+        "樹莓派",
+        "shumeipai",
+        "RPi",
+        "Raspberry Pi OS"
+      ],
+      "website": "https://www.raspberrypi.com/",
+      "brandColor": "#BC1142",
+      "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/raspberry-pi.svg",
+      "license": "CC0-1.0 (SVG Logos collection); brand rights reserved",
+      "quality": "vector",
+      "processing": [
+        "Retain the berry and leaf layers of the pinned SVG Logos mark. Cut the colored cells out for monochrome and outline the dark variant."
+      ],
+      "small": {
+        "artwork": "Use two leaves and seven enlarged drupelets at 16 and 24 px.",
+        "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/raspberry-pi.svg",
+        "maxSize": 24
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "esxi",
+      "name": "VMware ESXi",
+      "names": {
+        "zh-CN": "VMware ESXi"
+      },
+      "aliases": [
+        "vmware",
+        "VMware vSphere Hypervisor",
+        "ESX Server"
+      ],
+      "website": "https://www.vmware.com/products/cloud-infrastructure/vsphere",
+      "brandColor": "#007FBB",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/d4b500dc40a8e1043b1581cabb7208892cf35472/svg/vmware-esxi.svg",
+      "license": "Apache-2.0 (Dashboard Icons collection); brand rights reserved",
+      "quality": "vector",
+      "processing": [
+        "Use the ESXi product asset from a pinned Dashboard Icons revision. Darken the bright frame edges on white and lift the navy machine cells on dark backgrounds."
+      ],
+      "small": {
+        "artwork": "Use a single intermediate frame and four enlarged machine cells at 16 and 24 px.",
+        "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/d4b500dc40a8e1043b1581cabb7208892cf35472/svg/vmware-esxi.svg",
+        "maxSize": 24
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
     }
   ]
 }
