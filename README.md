@@ -4,9 +4,9 @@
 
 Self-contained cloud, VPS, hosting, and generic infrastructure icons for monitoring dashboards, status pages, directories, and documentation. Load directly via jsDelivr CDN or self-host offline.
 
-当前共收录 **241** 个图标（`vector` 156 · `redrawn` 85；全部提供 SVG 与 8 档 PNG；**187** 个含深色变体，**94** 个含小尺寸专版）。
+当前共收录 **241** 个图标（`vector` 156 · `redrawn` 85；全部提供 SVG 与 8 档 PNG；**188** 个含深色变体，**94** 个含小尺寸专版）。
 
-Currently **241** icons (156 `vector`, 85 `redrawn`; all with SVG + 8 PNG sizes; **187** dark variants, **94** compact small masters).
+Currently **241** icons (156 `vector`, 85 `redrawn`; all with SVG + 8 PNG sizes; **188** dark variants, **94** compact small masters).
 
 [![全部图标预览（上：浅色背景，下：深色背景） / All icons on light and dark backgrounds](preview.png)](https://zhdsmy.github.io/vps-icons/preview.html)
 
@@ -386,7 +386,7 @@ English and Chinese names appear together when they differ. The next column list
 | ![](png/color/24/acckcloud.png) | ACCK Cloud | — | [`acckcloud`](svg/color/acckcloud.svg) | [✓](svg/color-dark/acckcloud.svg) | [≤24](svg/small/color/acckcloud.svg) | vector | [↗](https://acck.io/assets/HomeDefault-BGAv2I4p.js) |
 | ![](png/color/24/desivps.png) | DesiVPS | — | [`desivps`](svg/color/desivps.svg) | [✓](svg/color-dark/desivps.svg) | [≤32](svg/small/color/desivps.svg) | redrawn | [↗](https://www.desivps.com/assets/img/logo.png) |
 | ![](png/color/24/halocloud.png) | HaloCloud | — | [`halocloud`](svg/color/halocloud.svg) | [✓](svg/color-dark/halocloud.svg) | [≤24](svg/small/color/halocloud.svg) | redrawn | [↗](https://my.halocloud.net/favicon.ico) |
-| ![](png/color/24/bytevirt.png) | ByteVirt | — | [`bytevirt`](svg/color/bytevirt.svg) | [✓](svg/color-dark/bytevirt.svg) | [≤32](svg/small/color/bytevirt.svg) | redrawn | [↗](https://bytevirt.com/assets/img/logo.png) |
+| ![](png/color/24/bytevirt.png) | ByteVirt | — | [`bytevirt`](svg/color/bytevirt.svg) | [✓](svg/color-dark/bytevirt.svg) | — | redrawn | [↗](https://t.me/bytevirt) |
 | ![](png/color/24/bestvm.png) | BestVM | 富婆 | [`bestvm`](svg/color/bestvm.svg) | [✓](svg/color-dark/bestvm.svg) | — | redrawn | [↗](https://bestvm.cloud/modules/addons/brand_switcher/assets/bestvm.cloud/logo.png) |
 | ![](png/color/24/rabisu.png) | Rabisu | — | [`rabisu`](svg/color/rabisu.svg) | [✓](svg/color-dark/rabisu.svg) | — | redrawn | [↗](https://www.rabisu.com/favicon.ico) |
 | ![](png/color/24/tokyonline.png) | Tokyonline | — | [`tokyonline`](svg/color/tokyonline.svg) | [✓](svg/color-dark/tokyonline.svg) | — | redrawn | [↗](https://www.tokyonline.com/favicon.ico) |
@@ -395,7 +395,7 @@ English and Chinese names appear together when they differ. The next column list
 | ![](png/color/24/vmshell.png) | VmShell | — | [`vmshell`](svg/color/vmshell.svg) | [✓](svg/color-dark/vmshell.svg) | — | redrawn | [↗](https://vmshell.com/assets/img/logo.png) |
 | ![](png/color/24/zorocloud.png) | ZoroCloud · 索隆云 | — | [`zorocloud`](svg/color/zorocloud.svg) | [✓](svg/color-dark/zorocloud.svg) | [≤32](svg/small/color/zorocloud.svg) | redrawn | [↗](https://my.zorocloud.com/templates/lagom2/assets/img/logo/logo_big.156287152.png) |
 | ![](png/color/24/fiberstate.png) | FiberState | FS | [`fiberstate`](svg/color/fiberstate.svg) | [✓](svg/color-dark/fiberstate.svg) | — | redrawn | [↗](https://psp-logos.uptimerobot.com/logos/2703978_1161659_logo2.png) |
-| ![](png/color/24/digitalvirt.png) | DigitalVirt | — | [`digitalvirt`](svg/color/digitalvirt.svg) | — | — | redrawn | [↗](https://digitalvirt.com/templates/BlueWhite/img/logo.png) |
+| ![](png/color/24/digitalvirt.png) | DigitalVirt | — | [`digitalvirt`](svg/color/digitalvirt.svg) | [✓](svg/color-dark/digitalvirt.svg) | — | redrawn | [↗](https://digitalvirt.com/templates/BlueWhite/img/logo.png) |
 | ![](png/color/24/moecloud.png) | MoeCloud | — | [`moecloud`](svg/color/moecloud.svg) | [✓](svg/color-dark/moecloud.svg) | [≤32](svg/small/color/moecloud.svg) | redrawn | [↗](https://lite.moe/assets/img/logo.png) |
 | ![](png/color/24/zovps.png) | Ciyun Data · 慈云数据 | — | [`zovps`](svg/color/zovps.svg) | [✓](svg/color-dark/zovps.svg) | — | redrawn | [↗](https://www.ciyundata.com/favicon.ico) |
 | ![](png/color/24/666clouds.png) | 666Clouds · 六六云 | — | [`666clouds`](svg/color/666clouds.svg) | — | — | redrawn | [↗](https://www.666clouds.com/favicon.ico) |
@@ -419,7 +419,7 @@ English and Chinese names appear together when they differ. The next column list
 | ![](png/color/24/qnap.png) | QNAP · 威联通 | — | [`qnap`](svg/color/qnap.svg) | [✓](svg/color-dark/qnap.svg) | [≤32](svg/small/color/qnap.svg) | vector | [↗](https://www.qnap.com/assets/img/header/2025/qnap-logo.svg) |
 | ![](png/color/24/ugreen-nas.png) | UGREEN NAS · 绿联 | — | [`ugreen-nas`](svg/color/ugreen-nas.svg) | [✓](svg/color-dark/ugreen-nas.svg) | — | redrawn | [↗](https://ai.ugreen.com/cdn/shop/files/favicon_green.png?crop=center&height=32&v=1776422247&width=32) |
 | ![](png/color/24/zspace.png) | ZSpace NAS · 极空间 | — | [`zspace`](svg/color/zspace.svg) | [✓](svg/color-dark/zspace.svg) | — | redrawn | [↗](https://img.zconnect.cn/home/pc_zs_logo.png) |
-| ![](png/color/24/fnos.png) | fnOS · 飞牛 | — | [`fnos`](svg/color/fnos.svg) | [✓](svg/color-dark/fnos.svg) | — | redrawn | [↗](https://static2.fnnas.com/official/fnos-logo.png) |
+| ![](png/color/24/fnos.png) | fnOS · 飞牛 | — | [`fnos`](svg/color/fnos.svg) | [✓](svg/color-dark/fnos.svg) | [≤24](svg/small/color/fnos.svg) | redrawn | [↗](https://static2.fnnas.com/official/fnos-logo.png) |
 | ![](png/color/24/unraid.png) | Unraid | — | [`unraid`](svg/color/unraid.svg) | [✓](svg/color-dark/unraid.svg) | [≤32](svg/small/color/unraid.svg) | vector | [↗](https://cdn.craft.cloud/481d40bf-939a-4dc1-918d-b4d4b48b7c04/builds/a3439d20-ed75-4651-906c-888c8ed3e763/artifacts/static/favicon/safari-pinned-tab.svg) |
 | ![](png/color/24/truenas.png) | TrueNAS | — | [`truenas`](svg/color/truenas.svg) | [✓](svg/color-dark/truenas.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/truenas.svg) |
 | ![](png/color/24/proxmox.png) | Proxmox VE | PVE | [`proxmox`](svg/color/proxmox.svg) | [✓](svg/color-dark/proxmox.svg) | — | vector | [↗](https://www.proxmox.com/favicon.svg) |
