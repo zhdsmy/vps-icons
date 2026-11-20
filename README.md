@@ -16,31 +16,31 @@ Currently **263** icons (171 `vector`, 92 `redrawn`; all with SVG + 8 PNG sizes;
 
 ## CDN 用法 / CDN Usage
 
-本库通过 GitHub tag + [jsDelivr](https://www.jsdelivr.com/) 分发（不发布 npm 包）。生产环境请固定版本 tag，如 `@v1.3.0`：
+本库通过 GitHub tag + [jsDelivr](https://www.jsdelivr.com/) 分发（不发布 npm 包）。生产环境请固定版本 tag，如 `@v1.4.0`：
 
-Distributed via GitHub tags and jsDelivr (not published to npm). Pin an immutable release tag such as `@v1.3.0` in production:
+Distributed via GitHub tags and jsDelivr (not published to npm). Pin an immutable release tag such as `@v1.4.0` in production:
 
 ```text
-https://cdn.jsdelivr.net/gh/zhdsmy/vps-icons@v1.3.0
+https://cdn.jsdelivr.net/gh/zhdsmy/vps-icons@v1.4.0
 ```
 
 ### 1. 彩色图标（`<img>` 与浅/深自适应 `<picture>`） / Color Icons
 
 ```html
 <!-- 标准尺寸彩色 SVG / Standard color SVG -->
-<img src="https://cdn.jsdelivr.net/gh/zhdsmy/vps-icons@v1.3.0/svg/color/cloudflare.svg"
+<img src="https://cdn.jsdelivr.net/gh/zhdsmy/vps-icons@v1.4.0/svg/color/cloudflare.svg"
      width="32" height="32" alt="Cloudflare">
 
 <!-- 浅/深背景自适应 + 小尺寸专版（≤ 24 px）/ Theme-aware compact SVG (<= 24 px) -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://cdn.jsdelivr.net/gh/zhdsmy/vps-icons@v1.3.0/svg/small/color-dark/aws.svg">
-  <img src="https://cdn.jsdelivr.net/gh/zhdsmy/vps-icons@v1.3.0/svg/small/color/aws.svg"
+          srcset="https://cdn.jsdelivr.net/gh/zhdsmy/vps-icons@v1.4.0/svg/small/color-dark/aws.svg">
+  <img src="https://cdn.jsdelivr.net/gh/zhdsmy/vps-icons@v1.4.0/svg/small/color/aws.svg"
        width="24" height="24" alt="AWS">
 </picture>
 
 <!-- 固定尺寸 PNG（自动按 small.maxSize 选用小图）/ Fixed-size PNG (auto-selects small master) -->
-<img src="https://cdn.jsdelivr.net/gh/zhdsmy/vps-icons@v1.3.0/png/color/32/cloudflare.png"
+<img src="https://cdn.jsdelivr.net/gh/zhdsmy/vps-icons@v1.4.0/png/color/32/cloudflare.png"
      width="32" height="32" alt="Cloudflare">
 ```
 
@@ -61,8 +61,8 @@ Apply an external monochrome SVG as a CSS mask so the icon inherits `currentColo
   width: 1em;
   height: 1em;
   background-color: currentColor;
-  -webkit-mask: url("https://cdn.jsdelivr.net/gh/zhdsmy/vps-icons@v1.3.0/svg/mono/tencent-cloud.svg") center / contain no-repeat;
-  mask: url("https://cdn.jsdelivr.net/gh/zhdsmy/vps-icons@v1.3.0/svg/mono/tencent-cloud.svg") center / contain no-repeat;
+  -webkit-mask: url("https://cdn.jsdelivr.net/gh/zhdsmy/vps-icons@v1.4.0/svg/mono/tencent-cloud.svg") center / contain no-repeat;
+  mask: url("https://cdn.jsdelivr.net/gh/zhdsmy/vps-icons@v1.4.0/svg/mono/tencent-cloud.svg") center / contain no-repeat;
 }
 </style>
 ```
