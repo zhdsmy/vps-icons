@@ -4,9 +4,9 @@
 
 Self-contained cloud, VPS, hosting, and generic infrastructure icons for monitoring dashboards, status pages, directories, and documentation. Load directly via jsDelivr CDN or self-host offline.
 
-当前共收录 **241** 个图标（`vector` 156 · `redrawn` 85；全部提供 SVG 与 8 档 PNG；**191** 个含深色变体，**112** 个含小尺寸专版）。
+当前共收录 **241** 个图标（`vector` 156 · `redrawn` 85；全部提供 SVG 与 8 档 PNG；**194** 个含深色变体，**115** 个含小尺寸专版）。
 
-Currently **241** icons (156 `vector`, 85 `redrawn`; all with SVG + 8 PNG sizes; **191** dark variants, **112** compact small masters).
+Currently **241** icons (156 `vector`, 85 `redrawn`; all with SVG + 8 PNG sizes; **194** dark variants, **115** compact small masters).
 
 [![全部图标预览（上：浅色背景，下：深色背景） / All icons on light and dark backgrounds](preview.png)](https://zhdsmy.github.io/vps-icons/preview.html)
 
@@ -248,7 +248,7 @@ English and Chinese names appear together when they differ. The next column list
 | ![](png/color/24/backblaze.png) | Backblaze | — | [`backblaze`](svg/color/backblaze.svg) | [✓](svg/color-dark/backblaze.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/backblaze.svg) |
 | ![](png/color/24/wasabi.png) | Wasabi | — | [`wasabi`](svg/color/wasabi.svg) | [✓](svg/color-dark/wasabi.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/wasabi.svg) |
 | ![](png/color/24/yandex-cloud.png) | Yandex Cloud · Yandex 云 | — | [`yandex-cloud`](svg/color/yandex-cloud.svg) | — | [≤24](svg/small/color/yandex-cloud.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/yandexcloud.svg) |
-| ![](png/color/24/fly-io.png) | Fly.io | — | [`fly-io`](svg/color/fly-io.svg) | — | [≤24](svg/small/color/fly-io.svg) | vector | [↗](https://fly.io/phx/images/icons/fly_logo-71111ce5a640c41c308406fd688222e1.svg?vsn=d) |
+| ![](png/color/24/fly-io.png) | Fly.io | — | [`fly-io`](svg/color/fly-io.svg) | [✓](svg/color-dark/fly-io.svg) | [≤24](svg/small/color/fly-io.svg) | vector | [↗](https://fly.io/phx/images/icons/fly_logo-71111ce5a640c41c308406fd688222e1.svg?vsn=d) |
 | ![](png/color/24/bunny.png) | bunny.net | — | [`bunny`](svg/color/bunny.svg) | — | — | vector | [↗](https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/bunny-net-icon.svg) |
 | ![](png/color/24/leaseweb.png) | Leaseweb | — | [`leaseweb`](svg/color/leaseweb.svg) | [✓](svg/color-dark/leaseweb.svg) | — | vector | [↗](https://developer.leaseweb.com/images/leaseweb_logo.svg) |
 | ![](png/color/24/hostwinds.png) | Hostwinds | — | [`hostwinds`](svg/color/hostwinds.svg) | — | — | vector | [↗](https://www.hostwinds.com/_next/static/images/19d6352287968d1da54645336c4ec7aa.svg) |
@@ -259,10 +259,10 @@ English and Chinese names appear together when they differ. The next column list
 | ![](png/color/24/cherry-servers.png) | Cherry Servers | — | [`cherry-servers`](svg/color/cherry-servers.svg) | — | — | vector | [↗](https://www.cherryservers.com/) |
 | ![](png/color/24/latitude-sh.png) | Latitude.sh | — | [`latitude-sh`](svg/color/latitude-sh.svg) | [✓](svg/color-dark/latitude-sh.svg) | — | vector | [↗](https://www.latitude.sh/favicon.svg) |
 | ![](png/color/24/interserver.png) | InterServer | — | [`interserver`](svg/color/interserver.svg) | [✓](svg/color-dark/interserver.svg) | [≤24](svg/small/color/interserver.svg) | redrawn | [↗](https://www.interserver.net/assets/images/new/logo.svg) |
-| ![](png/color/24/virmach.png) | VirMach | — | [`virmach`](svg/color/virmach.svg) | [✓](svg/color-dark/virmach.svg) | — | redrawn | [↗](https://virmach.com/wp-content/uploads/2022/09/cropped-logo.png) |
+| ![](png/color/24/virmach.png) | VirMach | — | [`virmach`](svg/color/virmach.svg) | [✓](svg/color-dark/virmach.svg) | [≤24](svg/small/color/virmach.svg) | redrawn | [↗](https://virmach.com/wp-content/uploads/2022/09/cropped-logo.png) |
 | ![](png/color/24/psychz.png) | Psychz Networks | — | [`psychz`](svg/color/psychz.svg) | — | — | vector | [↗](https://www.psychz.net/assets/images/header/logo.svg) |
 | ![](png/color/24/time4vps.png) | Time4VPS | — | [`time4vps`](svg/color/time4vps.svg) | [✓](svg/color-dark/time4vps.svg) | [≤32](svg/small/color/time4vps.svg) | vector | [↗](https://raw.githubusercontent.com/glincker/thesvg/8980fb3d96d7e20a5ada9b85db56110d529d3c55/public/icons/time4vps-badge/default.svg) |
-| ![](png/color/24/aeza.png) | Aeza | — | [`aeza`](svg/color/aeza.svg) | — | — | vector | [↗](https://aeza.net/_next/static/media/logo.25e02724.svg) |
+| ![](png/color/24/aeza.png) | Aeza | — | [`aeza`](svg/color/aeza.svg) | [✓](svg/color-dark/aeza.svg) | [≤24](svg/small/color/aeza.svg) | vector | [↗](https://aeza.net/_next/static/media/logo.25e02724.svg) |
 | ![](png/color/24/hostkey.png) | HOSTKEY | — | [`hostkey`](svg/color/hostkey.svg) | — | — | vector | [↗](https://hostkey.com/hk/images/logo.svg) |
 | ![](png/color/24/selectel.png) | Selectel | — | [`selectel`](svg/color/selectel.svg) | — | — | vector | [↗](https://selectel.ru/favicon.svg) |
 | ![](png/color/24/timeweb.png) | Timeweb Cloud | — | [`timeweb`](svg/color/timeweb.svg) | [✓](svg/color-dark/timeweb.svg) | — | vector | [↗](https://timeweb.cloud/favicon.svg) |
@@ -271,14 +271,14 @@ English and Chinese names appear together when they differ. The next column list
 | ![](png/color/24/qiniu.png) | Qiniu Cloud · 七牛云 | — | [`qiniu`](svg/color/qiniu.svg) | [✓](svg/color-dark/qiniu.svg) | [≤24](svg/small/color/qiniu.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/qiniu-color.svg) |
 | ![](png/color/24/upyun.png) | Upyun · 又拍云 | — | [`upyun`](svg/color/upyun.svg) | — | — | vector | [↗](https://www.upyun.com/static/img/黑logo.42ad028.svg) |
 | ![](png/color/24/qingcloud.png) | QingCloud · 青云 | — | [`qingcloud`](svg/color/qingcloud.svg) | — | — | vector | [↗](https://qc-website.sh1a.qingstor.com/files/2023/06/qingcloud.svg) |
-| ![](png/color/24/byteplus.png) | BytePlus | — | [`byteplus`](svg/color/byteplus.svg) | — | — | vector | [↗](https://sf-bpcms.bytepluscdn.com/obj/byteplus-assets/images/bp-logo-colored.svg) |
+| ![](png/color/24/byteplus.png) | BytePlus | — | [`byteplus`](svg/color/byteplus.svg) | [✓](svg/color-dark/byteplus.svg) | — | vector | [↗](https://sf-bpcms.bytepluscdn.com/obj/byteplus-assets/images/bp-logo-colored.svg) |
 | ![](png/color/24/sakura-internet.png) | SAKURA internet | — | [`sakura-internet`](svg/color/sakura-internet.svg) | [✓](svg/color-dark/sakura-internet.svg) | — | vector | [↗](https://www.sakura.ad.jp/assets/images/logo.svg) |
 | ![](png/color/24/xserver.png) | XServer | — | [`xserver`](svg/color/xserver.svg) | [✓](svg/color-dark/xserver.svg) | — | vector | [↗](https://www.xserver.ne.jp/img/common/icon.svg?date=241219) |
 | ![](png/color/24/kagoya.png) | KAGOYA Japan | — | [`kagoya`](svg/color/kagoya.svg) | [✓](svg/color-dark/kagoya.svg) | [≤32](svg/small/color/kagoya.svg) | vector | [↗](https://www.kagoya.jp/app/themes/kagoya/assets/img/common/logo/mark.svg) |
 | ![](png/color/24/vmiss.png) | VMISS | — | [`vmiss`](svg/color/vmiss.svg) | [✓](svg/color-dark/vmiss.svg) | [≤24](svg/small/color/vmiss.svg) | vector | [↗](https://www.vmiss.com/wp-content/uploads/2023/11/logo.svg) |
 | ![](png/color/24/vmrack.png) | VMRack | — | [`vmrack`](svg/color/vmrack.svg) | — | — | vector | [↗](https://www.vmrack.net/favicon.svg) |
 | ![](png/color/24/neburst.png) | Neburst Networks | 奶爸 | [`neburst`](svg/color/neburst.svg) | [✓](svg/color-dark/neburst.svg) | [≤24](svg/small/color/neburst.svg) | vector | [↗](https://neburst.com/favicon.svg) |
-| ![](png/color/24/rainyun.png) | RainYun · 雨云 | — | [`rainyun`](svg/color/rainyun.svg) | [✓](svg/color-dark/rainyun.svg) | — | redrawn | [↗](https://www.rainyun.com/img/logo.d193755d.png) |
+| ![](png/color/24/rainyun.png) | RainYun · 雨云 | — | [`rainyun`](svg/color/rainyun.svg) | [✓](svg/color-dark/rainyun.svg) | [≤24](svg/small/color/rainyun.svg) | redrawn | [↗](https://www.rainyun.com/img/logo.d193755d.png) |
 | ![](png/color/24/lcayun.png) | Lcayun · 莱卡云 | — | [`lcayun`](svg/color/lcayun.svg) | [✓](svg/color-dark/lcayun.svg) | [≤24](svg/small/color/lcayun.svg) | redrawn | [↗](https://www.lcayun.com/themes/web/LcayunM1/assets/img/logo.png) |
 | ![](png/color/24/lightnode.png) | LightNode | — | [`lightnode`](svg/color/lightnode.svg) | [✓](svg/color-dark/lightnode.svg) | — | redrawn | [↗](https://www.lightnode.com/static/images/header-logo.png) |
 | ![](png/color/24/conoha.png) | ConoHa | — | [`conoha`](svg/color/conoha.svg) | — | — | vector | [↗](https://support.conoha.jp) |

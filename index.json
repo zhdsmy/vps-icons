@@ -2327,10 +2327,10 @@
       "license": "Proprietary brand artwork; no open license identified; CC0-1.0 Simple Icons monochrome balloon, brand rights reserved",
       "quality": "vector",
       "processing": [
-        "Optically size the official rounded-square balloon emblem to 50 x 47 on the 64-unit canvas and use the Simple Icons balloon silhouette for monochrome and <= 24 px sizes."
+        "Optically size the official rounded-square balloon emblem to 50 x 47 on the 64-unit canvas, lift its purple palette in color-dark, and use the Simple Icons balloon silhouette for monochrome and <= 24 px sizes (#7C3AED light, #B794F6 dark)."
       ],
       "small": {
-        "artwork": "Standalone balloon symbol, using purple ink at 16 and 24 px.",
+        "artwork": "Standalone balloon symbol, using #7C3AED on light and #B794F6 on dark at 16 and 24 px.",
         "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/flydotio.svg",
         "maxSize": 24
       },
@@ -2338,10 +2338,12 @@
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -2672,7 +2674,7 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
-        "Normalize the redrawn S-ribbon SVG, add brightened color-dark (#3DA5FF), and strengthen stroke weight on the 16/24 px small variant."
+        "Redraw the S-ribbon matching the fuller calligraphic weight of the official InterServer logo, add brightened color-dark (#3DA5FF), and strengthen stroke weight on the 16/24 px small variant."
       ],
       "small": {
         "artwork": "Use the stroke-reinforced InterServer S-ribbon at 16 and 24 px.",
@@ -2708,11 +2710,12 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
-        "Remove the pale cyan favicon tile background so color and monochrome match 1:1 as three clean stacked 3D server blades optically sized to ~50 x 50, and add a lifted color-dark variant."
+        "Remove the pale cyan favicon tile background so color and monochrome match 1:1 as three clean stacked 3D server blades optically centered at ~49 x 52, add a lifted color-dark variant, and provide a wider-gap 2-vent small variant at <= 24 px."
       ],
       "small": {
-        "artwork": "Three server faces with distinct vents and lamps.",
-        "source": "https://virmach.com/wp-content/uploads/2022/09/cropped-logo.png"
+        "artwork": "Three wider-spaced server blades with bold twin vents and status lamps at 16 and 24 px.",
+        "source": "https://virmach.com/wp-content/uploads/2022/09/cropped-logo.png",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -2776,10 +2779,10 @@
       "license": "CC0-1.0 (auth-badges artwork via theSVG); official mascot and trademarks belong to Time4VPS",
       "quality": "vector",
       "processing": [
-        "Normalize the official red wordmark for 48+ px, keep the red droplet mark at <= 32 px, and add brightened color-dark variants (#FF454E) for dark backgrounds."
+        "Normalize the official red wordmark for 48+ px, refine the red mascot head and bolden its eyes for <= 32 px legibility, and add brightened color-dark variants (#FF454E) for dark backgrounds."
       ],
       "small": {
-        "artwork": "Hand-drawn mascot head from the linked official organization avatar for 16–32 px.",
+        "artwork": "Hand-drawn mascot head with bold eyes from the linked official organization avatar for 16–32 px.",
         "source": "https://avatars.githubusercontent.com/u/34536144?v=4&s=512",
         "maxSize": 32
       },
@@ -2812,19 +2815,22 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Optically size the official rounded-square badge to 50 x 50, deepen its gray border slightly for light-background clarity, and punch the accented e out of the badge in monochrome."
+        "Optically size the official rounded-square badge to 50 x 50, strengthen the keycap frame border on light backgrounds while keeping the crisp white keycap in color-dark, separate the acute accent at <= 24 px, and punch the accented e out of the badge in monochrome."
       ],
       "small": {
-        "artwork": "Use the accented é key from the official Aéza wordmark.",
-        "source": "https://aeza.net/_next/static/media/logo.25e02724.svg"
+        "artwork": "Use the stronger-bordered accented é key with lifted acute accent at 16 and 24 px.",
+        "source": "https://aeza.net/_next/static/media/logo.25e02724.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -3125,7 +3131,7 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Isolate the original graphic mark and center its visible bounds on the 64-unit canvas."
+        "Isolate the original graphic mark, center its visible bounds on the 64-unit canvas, and add a lifted color-dark blue (#3B8BFF) for dark surfaces."
       ],
       "small": {
         "artwork": "Use the isolated brand symbol at sidebar sizes.",
@@ -3134,10 +3140,12 @@
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -3230,11 +3238,11 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Normalize the official blue wave emblem to the 64-unit canvas, lighten dark-mode blue (#7FBCFF), and provide a bolder, vertically boosted 5-arc small variant at <= 32 px."
+        "Normalize the official blue wave emblem to the 64-unit canvas, lighten dark-mode blue (#7FBCFF), and provide a bolder, vertically boosted 3-band wave small variant at <= 32 px."
       ],
       "small": {
         "source": "https://www.kagoya.jp/app/themes/kagoya/assets/img/common/logo/mark.svg",
-        "artwork": "Use the bolder, vertically boosted 5-arc Kagoya wave mark at 16, 24, and 32 px.",
+        "artwork": "Use the bolder, vertically boosted 3-band Kagoya wave mark at 16, 24, and 32 px.",
         "maxSize": 32
       },
       "variants": {
@@ -3266,10 +3274,10 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Normalize the official VMISS cloud-and-V mark to the 64-unit canvas, add a brightened color-dark variant, and reinforce the cloud outline at 16 and 24 px."
+        "Normalize the official VMISS cloud-and-V mark to the 64-unit canvas, deepen light-mode indigo contrast (#5661E6 / #6F78F2), add a brightened color-dark variant, and vertically boost and stroke-reinforce the 16 and 24 px small variant."
       ],
       "small": {
-        "artwork": "Use the cloud-outline-reinforced VMISS mark at 16 and 24 px.",
+        "artwork": "Use the vertically boosted, stroke-reinforced VMISS mark at 16 and 24 px.",
         "source": "https://www.vmiss.com/wp-content/uploads/2023/11/logo.svg",
         "maxSize": 24
       },
@@ -3339,10 +3347,10 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Normalize the official Neburst ring-and-rays mark to the 64-unit canvas, add a brightened color-dark variant (#34A8FF), and simplify to a bolder 4-ray small variant at 16 and 24 px."
+        "Normalize the official Neburst ring-and-rays mark to the 64-unit canvas, add a brightened color-dark variant (#34A8FF), and simplify to a bolder 4-ray small variant with reinforced ray strokes at 16 and 24 px."
       ],
       "small": {
-        "artwork": "Use the bolder 4-ray simplified Neburst mark at 16 and 24 px.",
+        "artwork": "Use the bolder 4-ray simplified Neburst mark with reinforced rays at 16 and 24 px.",
         "source": "https://neburst.com/favicon.svg",
         "maxSize": 24
       },
@@ -3376,11 +3384,12 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
-        "Redraw the sun rays, exposed center, three cloud lobes and four rounded rain strokes from the official header. Preserve the two interface palettes and keep the open space between the sun and cloud in monochrome."
+        "Redraw the sun rays, exposed center, three cloud lobes and four rounded rain strokes from the official header. Deepen light-mode contrast on white while preserving bright color-dark tones, keep the open space between sun and cloud in monochrome, and simplify to three bold rain strokes at <= 24 px."
       ],
       "small": {
-        "artwork": "Use the isolated brand symbol at sidebar sizes.",
-        "source": "https://www.rainyun.com/img/logo.d193755d.png"
+        "artwork": "Use the simplified sun, cloud, and three bold raindrop strokes at 16 and 24 px.",
+        "source": "https://www.rainyun.com/img/logo.d193755d.png",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -3411,10 +3420,10 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
-        "Reconstruct the arched cap, reflection, shaded base, rising peak and stepped trail of the official mark. Use brightened gradients on dark surfaces and vertically boost a simplified silhouette without micro trailing dots through 24 px."
+        "Reconstruct the arched cap, reflection, shaded base, rising peak and stepped trail of the official mark. Use brightened gradients on dark surfaces and vertically boost a cleaner silhouette without jagged trail steps through 24 px."
       ],
       "small": {
-        "artwork": "Vertically boost the core cloud-peak mark and omit trailing micro-dots at 16–24 px.",
+        "artwork": "Vertically boost the core cloud-peak mark with a clean wing edge and omit trailing micro-dots at 16–24 px.",
         "source": "https://www.lcayun.com/themes/web/LcayunM1/assets/img/logo.png",
         "maxSize": 24
       },

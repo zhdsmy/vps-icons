@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <path fill="#004995" d="M10 6L7 10V19.5L10 18.5Z"/><path fill="#2186FF" d="M10 6L57 8.5V19.5L10 18.5Z"/><rect x="13" y="8.4" width="3.8" height="8" fill="#FFFFFF"/><rect x="20" y="8.7" width="3.8" height="8" fill="#FFFFFF"/><ellipse cx="50.5" cy="13.5" rx="2.4" ry="2.4" fill="#00FF00"/>
+  <path fill="#004995" d="M10 24.5L7 28.5V38L10 37Z"/><path fill="#2186FF" d="M10 24.5L57 24.2V38L10 37Z"/><rect x="13" y="27" width="3.8" height="7.8" fill="#FFFFFF"/><rect x="20" y="27" width="3.8" height="7.8" fill="#FFFFFF"/><ellipse cx="50.5" cy="31" rx="2.4" ry="2.4" fill="#00FF00"/>
+  <path fill="#004995" d="M10 43.5L7 47.5V58L10 57Z"/><path fill="#2186FF" d="M10 43.5L57 42.5V54.5L10 57Z"/><rect x="13" y="46" width="3.8" height="8" fill="#FFFFFF"/><rect x="20" y="45.8" width="3.8" height="8" fill="#FFFFFF"/><ellipse cx="50.5" cy="48.5" rx="2.4" ry="2.4" fill="#00FF00"/>
+</svg>
