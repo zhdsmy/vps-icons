@@ -4,9 +4,9 @@
 
 Self-contained cloud, VPS, hosting, and generic infrastructure icons for monitoring dashboards, status pages, directories, and documentation. Load directly via jsDelivr CDN or self-host offline.
 
-当前共收录 **241** 个图标（`vector` 156 · `redrawn` 85；全部提供 SVG 与 8 档 PNG；**187** 个含深色变体，**97** 个含小尺寸专版）。
+当前共收录 **241** 个图标（`vector` 156 · `redrawn` 85；全部提供 SVG 与 8 档 PNG；**189** 个含深色变体，**103** 个含小尺寸专版）。
 
-Currently **241** icons (156 `vector`, 85 `redrawn`; all with SVG + 8 PNG sizes; **187** dark variants, **97** compact small masters).
+Currently **241** icons (156 `vector`, 85 `redrawn`; all with SVG + 8 PNG sizes; **189** dark variants, **103** compact small masters).
 
 [![全部图标预览（上：浅色背景，下：深色背景） / All icons on light and dark backgrounds](preview.png)](https://zhdsmy.github.io/vps-icons/preview.html)
 
@@ -214,20 +214,20 @@ English and Chinese names appear together when they differ. The next column list
 | ![](png/color/24/hostinger.png) | Hostinger | — | [`hostinger`](svg/color/hostinger.svg) | [✓](svg/color-dark/hostinger.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/hostinger.svg) |
 | ![](png/color/24/buyvm.png) | BuyVM | — | [`buyvm`](svg/color/buyvm.svg) | [✓](svg/color-dark/buyvm.svg) | — | redrawn | [↗](https://manage.buyvm.net/assets/img/login/logo.png) |
 | ![](png/color/24/hosthatch.png) | HostHatch | — | [`hosthatch`](svg/color/hosthatch.svg) | [✓](svg/color-dark/hosthatch.svg) | [≤24](svg/small/color/hosthatch.svg) | vector | [↗](https://hosthatch.com/images/favicon.svg) |
-| ![](png/color/24/cloudcone.png) | CloudCone | CC | [`cloudcone`](svg/color/cloudcone.svg) | — | — | redrawn | [↗](https://cloudcone.com/wp-content/uploads/2017/05/cloudcone-logo-full.png) |
+| ![](png/color/24/cloudcone.png) | CloudCone | CC | [`cloudcone`](svg/color/cloudcone.svg) | [✓](svg/color-dark/cloudcone.svg) | [≤24](svg/small/color/cloudcone.svg) | redrawn | [↗](https://cloudcone.com/wp-content/uploads/2017/05/cloudcone-logo-full.png) |
 | ![](png/color/24/racknerd.png) | RackNerd | RN | [`racknerd`](svg/color/racknerd.svg) | [✓](svg/color-dark/racknerd.svg) | — | redrawn | [↗](https://www.racknerd.com/favicon.png) |
 | ![](png/color/24/greencloud.png) | GreenCloud | 绿云 | [`greencloud`](svg/color/greencloud.svg) | — | [≤24](svg/small/color/greencloud.svg) | redrawn | [↗](https://greencloudvps.com/img/site/logo.png) |
 | ![](png/color/24/hostdare.png) | HostDare | — | [`hostdare`](svg/color/hostdare.svg) | — | — | redrawn | [↗](https://www.hostdare.com/img/logo.jpg) |
 | ![](png/color/24/v-ps.png) | V.PS | 小秘书 | [`v-ps`](svg/color/v-ps.svg) | [✓](svg/color-dark/v-ps.svg) | [≤24](svg/small/color/v-ps.svg) | vector | [↗](https://v.ps/favicon.svg) |
-| ![](png/color/24/akile.png) | AkileCloud | AK | [`akile`](svg/color/akile.svg) | — | — | vector | [↗](https://akile.ai/) |
-| ![](png/color/24/bagevm.png) | BageVM | — | [`bagevm`](svg/color/bagevm.svg) | [✓](svg/color-dark/bagevm.svg) | — | redrawn | [↗](https://www.bagevm.com/templates/bagevm/assets/media/logos/logo-dark.png) |
+| ![](png/color/24/akile.png) | AkileCloud | AK | [`akile`](svg/color/akile.svg) | [✓](svg/color-dark/akile.svg) | [≤24](svg/small/color/akile.svg) | vector | [↗](https://akile.ai/) |
+| ![](png/color/24/bagevm.png) | BageVM | — | [`bagevm`](svg/color/bagevm.svg) | [✓](svg/color-dark/bagevm.svg) | [≤24](svg/small/color/bagevm.svg) | redrawn | [↗](https://www.bagevm.com/templates/bagevm/assets/media/logos/logo-dark.png) |
 | ![](png/color/24/dmit.png) | DMIT | 大妈 | [`dmit`](svg/color/dmit.svg) | — | [≤24](svg/small/color/dmit.svg) | vector | [↗](https://www.dmit.io/templates/dmit_theme_2020/dmit/assets/images/dmit_logo.svg) |
 | ![](png/color/24/bandwagonhost.png) | BandwagonHost | 搬瓦工、瓦工 | [`bandwagonhost`](svg/color/bandwagonhost.svg) | — | — | redrawn | [↗](https://bandwagonhost.com/templates/organicbandwagon/images/logo4.png) |
-| ![](png/color/24/dogyun.png) | DogYun · 狗云 | 狗云 | [`dogyun`](svg/color/dogyun.svg) | [✓](svg/color-dark/dogyun.svg) | — | redrawn | [↗](https://t.me/dogyun) |
+| ![](png/color/24/dogyun.png) | DogYun · 狗云 | 狗云 | [`dogyun`](svg/color/dogyun.svg) | [✓](svg/color-dark/dogyun.svg) | [≤24](svg/small/color/dogyun.svg) | redrawn | [↗](https://t.me/dogyun) |
 | ![](png/color/24/misaka.png) | Misaka Network | — | [`misaka`](svg/color/misaka.svg) | [✓](svg/color-dark/misaka.svg) | [≤48](svg/small/color/misaka.svg) | vector | [↗](https://www.misaka.io/) |
 | ![](png/color/24/zenlayer.png) | Zenlayer | — | [`zenlayer`](svg/color/zenlayer.svg) | — | — | vector | [↗](https://www.zenlayer.com/wp-content/uploads/2024/03/Icon-Blue.svg) |
-| ![](png/color/24/colocrossing.png) | ColoCrossing | CCS | [`colocrossing`](svg/color/colocrossing.svg) | [✓](svg/color-dark/colocrossing.svg) | — | vector | [↗](https://www.colocrossing.com/wp-content/uploads/2026/10/ColoCrossing_website_logo-1.svg) |
-| ![](png/color/24/evoxt.png) | Evoxt · 益沃斯 | — | [`evoxt`](svg/color/evoxt.svg) | [✓](svg/color-dark/evoxt.svg) | — | vector | [↗](https://evoxt.com/img/evoxtblack-icon.svg) |
+| ![](png/color/24/colocrossing.png) | ColoCrossing | CCS | [`colocrossing`](svg/color/colocrossing.svg) | [✓](svg/color-dark/colocrossing.svg) | [≤24](svg/small/color/colocrossing.svg) | vector | [↗](https://www.colocrossing.com/wp-content/uploads/2026/10/ColoCrossing_website_logo-1.svg) |
+| ![](png/color/24/evoxt.png) | Evoxt · 益沃斯 | — | [`evoxt`](svg/color/evoxt.svg) | [✓](svg/color-dark/evoxt.svg) | [≤24](svg/small/color/evoxt.svg) | vector | [↗](https://evoxt.com/img/evoxtblack-icon.svg) |
 | ![](png/color/24/spartan-host.png) | Spartan Host | 斯巴达 | [`spartan-host`](svg/color/spartan-host.svg) | — | — | redrawn | [↗](https://spartanhost.org/images/logo.png) |
 | ![](png/color/24/baidu-cloud.png) | Baidu AI Cloud · 百度智能云 | — | [`baidu-cloud`](svg/color/baidu-cloud.svg) | — | — | vector | [↗](https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/baiducloud-color.svg) |
 | ![](png/color/24/civo.png) | Civo | — | [`civo`](svg/color/civo.svg) | — | — | vector | [↗](https://www.civo.com/assets-rebrand/favicons/favicon.svg) |
