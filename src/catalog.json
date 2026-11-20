@@ -1282,19 +1282,20 @@
       "家庭宽带"
     ],
     "website": "preview.html#light-home",
-    "brandColor": "#18795B",
-    "source": "src/art/home/mono.svg",
-    "license": "MIT",
+    "brandColor": "#F97316",
+    "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Home/SVG/ic_fluent_home_48_color.svg",
+    "license": "MIT (Microsoft Fluent UI System Icons); modified",
     "quality": "vector",
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Original filled geometric pictogram drawn on the common canvas."
+      "Adapt the Microsoft Fluent UI System Icons Home color house and add emerald-to-cyan Wi-Fi broadband signal arcs at top right to distinguish home broadband from home cloud."
     ],
     "small": {
-      "artwork": "Use the primary graphic mark at 16 px.",
-      "source": "src/art/home/mono.svg"
-    }
+      "artwork": "Widen the Wi-Fi arcs and omit the small attic window through 24 px.",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Home/SVG/ic_fluent_home_48_color.svg"
+    },
+    "smallMax": 24
   },
   {
     "slug": "nas",
@@ -1308,19 +1309,20 @@
       "storage"
     ],
     "website": "preview.html#light-nas",
-    "brandColor": "#3467A3",
-    "source": "src/art/nas/mono.svg",
-    "license": "MIT",
+    "brandColor": "#2563EB",
+    "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Hard%20Drive/SVG/ic_fluent_hard_drive_20_filled.svg",
+    "license": "MIT (Microsoft Fluent UI System Icons); modified",
     "quality": "vector",
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Original filled geometric pictogram optically balanced to 50 x 48 on the common canvas with subtle rounded bays and crisp LED cutouts."
+      "Build a two-bay desktop NAS enclosure in the Microsoft Fluent UI System Icons color gradient palette, pairing a metallic titanium shell with twin cyan-cobalt vertical drive bays and status LEDs."
     ],
     "small": {
-      "artwork": "Use the primary graphic mark at 16 px.",
-      "source": "src/art/nas/mono.svg"
-    }
+      "artwork": "Simplify bay details to bold twin drive bays, enlarged green LEDs and a clean lower bar through 24 px.",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Hard%20Drive/SVG/ic_fluent_hard_drive_20_filled.svg"
+    },
+    "smallMax": 24
   },
   {
     "slug": "relay",
@@ -1334,19 +1336,20 @@
       "forward"
     ],
     "website": "preview.html#light-relay",
-    "brandColor": "#8854AD",
-    "source": "src/art/relay/mono.svg",
-    "license": "MIT",
+    "brandColor": "#06B6D4",
+    "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Arrow%20Swap/SVG/ic_fluent_arrow_swap_24_filled.svg",
+    "license": "MIT (Microsoft Fluent UI System Icons); modified",
     "quality": "vector",
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Original filled geometric pictogram drawn on the common canvas."
+      "Adapt the opposing horizontal arrows of Microsoft Fluent UI System Icons Arrow Swap into a dual-tone Fluent color gradient pair (cyan-blue outbound and amber-coral-rose return) for traffic relay."
     ],
     "small": {
-      "artwork": "Use the primary graphic mark at 16 px.",
-      "source": "src/art/relay/mono.svg"
-    }
+      "artwork": "Slightly thicken the opposing arrow shafts and heads through 24 px.",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Arrow%20Swap/SVG/ic_fluent_arrow_swap_24_filled.svg"
+    },
+    "smallMax": 24
   },
   {
     "slug": "other",
@@ -1360,18 +1363,18 @@
       "misc"
     ],
     "website": "preview.html#light-other",
-    "brandColor": "#576579",
-    "source": "src/art/other/mono.svg",
-    "license": "MIT",
+    "brandColor": "#6366F1",
+    "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Apps/SVG/ic_fluent_apps_48_color.svg",
+    "license": "MIT (Microsoft Fluent UI System Icons); modified",
     "quality": "vector",
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Original filled geometric pictogram drawn on the common canvas."
+      "Adapt the four-tile grid with rotated top-right diamond from Microsoft Fluent UI System Icons Apps into four harmonious jewel-tone gradients (azure, violet, emerald and amber-orange) sized to a 50x50 optical footprint."
     ],
     "small": {
-      "artwork": "Use the primary graphic mark at 16 px.",
-      "source": "src/art/other/mono.svg"
+      "artwork": "Use the crisp four-tile grid directly at 16 px.",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Apps/SVG/ic_fluent_apps_48_color.svg"
     }
   },
   {
@@ -1386,19 +1389,20 @@
       "placeholder"
     ],
     "website": "preview.html#light-unknown",
-    "brandColor": "#64748B",
-    "source": "src/art/unknown/mono.svg",
-    "license": "MIT",
+    "brandColor": "#6366F1",
+    "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Question%20Circle/SVG/ic_fluent_question_circle_48_color.svg",
+    "license": "MIT (Microsoft Fluent UI System Icons); modified",
     "quality": "vector",
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Original filled geometric pictogram drawn on the common canvas."
+      "Adapt Microsoft Fluent UI System Icons Question Circle with a luminous sky-indigo-violet gradient orb, soft specular highlight and bold white question mark."
     ],
     "small": {
-      "artwork": "Use the primary graphic mark at 16 px.",
-      "source": "src/art/unknown/mono.svg"
-    }
+      "artwork": "Thicken the question mark stroke and enlarge its dot through 24 px.",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Question%20Circle/SVG/ic_fluent_question_circle_48_color.svg"
+    },
+    "smallMax": 24
   },
   {
     "slug": "render",
@@ -5662,18 +5666,18 @@
       "jialiyun"
     ],
     "website": "preview.html#light-home-cloud",
-    "brandColor": "#116E8A",
-    "source": "src/art/home-cloud/mono.svg",
-    "license": "MIT",
+    "brandColor": "#0EA5E9",
+    "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Cloud/SVG/ic_fluent_cloud_48_color.svg",
+    "license": "MIT (Microsoft Fluent UI System Icons); modified",
     "quality": "vector",
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Original cloud above a gabled house, separated by an open roofline. A server bay is cut into the front wall."
+      "Compose the Microsoft Fluent UI System Icons Cloud color geometry with the warm roofed House from ic_fluent_home_48_color.svg (same pinned commit) and add a dark-slate homelab server bay with glowing status LEDs. Tune gradients for dark backgrounds and build an evenodd mono silhouette."
     ],
     "small": {
-      "artwork": "Omit the status lamp and square off the server slot through 24 px.",
-      "source": "src/art/home-cloud/mono.svg"
+      "artwork": "Simplify the indoor server bay into a single bold slot with enlarged status LED through 24 px.",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Cloud/SVG/ic_fluent_cloud_48_color.svg"
     },
     "smallMax": 24
   },
@@ -5691,18 +5695,18 @@
       "luyouqi"
     ],
     "website": "preview.html#light-router",
-    "brandColor": "#9E5124",
-    "source": "src/art/router/mono.svg",
-    "license": "MIT",
+    "brandColor": "#F59E0B",
+    "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Router/SVG/ic_fluent_router_24_filled.svg",
+    "license": "MIT (Microsoft Fluent UI System Icons); modified",
     "quality": "vector",
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Original twin-antenna router with a low chassis, short feet and front-panel indicators."
+      "Reconstruct the dual-antenna wireless router from Fluent Router geometry in the Fluent color gradient system, adding amber-orange signal arcs, an azure top deck and multi-color front status LEDs."
     ],
     "small": {
-      "artwork": "Combine the indicators into two clear panel slots through 24 px.",
-      "source": "src/art/router/mono.svg"
+      "artwork": "Thicken the twin antennas and signal waves and enlarge the three front LEDs through 24 px.",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Router/SVG/ic_fluent_router_24_filled.svg"
     },
     "smallMax": 24
   },
@@ -5719,18 +5723,18 @@
       "dedicated machine"
     ],
     "website": "preview.html#light-server",
-    "brandColor": "#3F5A79",
-    "source": "src/art/server/mono.svg",
-    "license": "MIT",
+    "brandColor": "#4F46E5",
+    "source": "https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/database.svg",
+    "license": "MIT (Icons8 Flat Color Icons); modified",
     "quality": "vector",
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Original three-unit rack with a tall frame, bay handles and activity lamps."
+      "Adapt the stacked three-tier rack silhouette from Icons8 Flat Color Icons database into the unified Fluent color gradient palette with indigo-violet blades, color-coded status LEDs and silver drive vents."
     ],
     "small": {
-      "artwork": "Widen the gaps between units and retain one handle per bay through 24 px.",
-      "source": "src/art/server/mono.svg"
+      "artwork": "Enlarge each blade status LED and simplify vent bars through 24 px.",
+      "source": "https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/database.svg"
     },
     "smallMax": 24
   },
@@ -5747,19 +5751,20 @@
       "小方盒主机"
     ],
     "website": "preview.html#light-mini-pc",
-    "brandColor": "#28776A",
-    "source": "src/art/mini-pc/mono.svg",
-    "license": "MIT",
+    "brandColor": "#0D9488",
+    "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Hard%20Drive/SVG/ic_fluent_hard_drive_20_filled.svg",
+    "license": "MIT (Microsoft Fluent UI System Icons); modified",
     "quality": "vector",
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Original low enclosure in three-quarter view with a USB socket and power button on the front face."
+      "Build a compact 2.5D aluminum Mini-PC chassis in the unified Fluent color gradient palette, pairing a teal-mint top deck with a dark front fascia, glowing power LED and amber/cyan front ports."
     ],
     "small": {
-      "artwork": "Use the original filled pictogram at 16 px.",
-      "source": "src/art/mini-pc/mono.svg"
-    }
+      "artwork": "Simplify front I/O to an enlarged power LED and two bold port bars through 24 px.",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Hard%20Drive/SVG/ic_fluent_hard_drive_20_filled.svg"
+    },
+    "smallMax": 24
   },
   {
     "slug": "desktop",
@@ -5774,19 +5779,20 @@
       "台式主机"
     ],
     "website": "preview.html#light-desktop",
-    "brandColor": "#575094",
-    "source": "src/art/desktop/mono.svg",
-    "license": "MIT",
+    "brandColor": "#8B5CF6",
+    "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Desktop%20computer/Flat/desktop_computer_flat.svg",
+    "license": "MIT (Microsoft Fluent Emoji); modified",
     "quality": "vector",
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Original monitor on a pedestal with a separate tower and front power button."
+      "Combine a widescreen monitor adapted from Microsoft Fluent Emoji Desktop computer and Fluent Desktop with a compact RGB-lit side tower in the unified Fluent color gradient palette."
     ],
     "small": {
-      "artwork": "Use the original filled pictogram at 16 px.",
-      "source": "src/art/desktop/mono.svg"
-    }
+      "artwork": "Simplify screen highlight and tower front strip for crisp legibility through 24 px.",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Desktop%20computer/Flat/desktop_computer_flat.svg"
+    },
+    "smallMax": 24
   },
   {
     "slug": "laptop",
@@ -5800,19 +5806,20 @@
       "notebook computer"
     ],
     "website": "preview.html#light-laptop",
-    "brandColor": "#994966",
-    "source": "src/art/laptop/mono.svg",
-    "license": "MIT",
+    "brandColor": "#EC4899",
+    "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Laptop/SVG/ic_fluent_laptop_48_color.svg",
+    "license": "MIT (Microsoft Fluent UI System Icons); modified",
     "quality": "vector",
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Original open laptop with an inset screen, hinged base and a trackpad notch."
+      "Adapt Microsoft Fluent UI System Icons Laptop color geometry with a dark slate bezel, luminous rose-to-violet display gradient and metallic silver-slate keyboard wedge."
     ],
     "small": {
-      "artwork": "Use the original filled pictogram at 16 px.",
-      "source": "src/art/laptop/mono.svg"
-    }
+      "artwork": "Thicken the metallic base lip and omit the tiny thumb notch through 24 px.",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Laptop/SVG/ic_fluent_laptop_48_color.svg"
+    },
+    "smallMax": 24
   },
   {
     "slug": "sbc",
@@ -5828,18 +5835,18 @@
       "开发板主机"
     ],
     "website": "preview.html#light-sbc",
-    "brandColor": "#506F32",
-    "source": "src/art/sbc/mono.svg",
-    "license": "MIT",
+    "brandColor": "#16A34A",
+    "source": "https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/electronics.svg",
+    "license": "MIT (Icons8 Flat Color Icons); modified",
     "quality": "vector",
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Original asymmetric circuit board with two edge connectors, a central chip, mounting holes and a pin header."
+      "Combine the emerald PCB and chip motif of Icons8 Flat Color Icons electronics with Fluent Developer Board edge ports in the unified Fluent color gradient system, adding golden GPIO headers and a cyan SoC core."
     ],
     "small": {
-      "artwork": "Enlarge the chip recess and combine the row of header pins into a slot through 24 px.",
-      "source": "src/art/sbc/mono.svg"
+      "artwork": "Reduce GPIO header to four bold pins and simplify edge port openings through 24 px.",
+      "source": "https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/electronics.svg"
     },
     "smallMax": 24
   },
@@ -5856,19 +5863,20 @@
       "network address translation"
     ],
     "website": "preview.html#light-nat",
-    "brandColor": "#8A641B",
-    "source": "src/art/nat/mono.svg",
-    "license": "MIT",
+    "brandColor": "#F59E0B",
+    "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Share%20Android/SVG/ic_fluent_share_android_32_color.svg",
+    "license": "MIT (Microsoft Fluent UI System Icons); modified",
     "quality": "vector",
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Original one-to-two port map: a single jack connects through a branching trace to two destination sockets."
+      "Expand the branching node motif of Microsoft Fluent UI System Icons Share Android into a one-to-three NAT port-mapping diagram with an amber public-IP hub and emerald, azure and violet private port nodes."
     ],
     "small": {
-      "artwork": "Use the original filled pictogram at 16 px.",
-      "source": "src/art/nat/mono.svg"
-    }
+      "artwork": "Widen the branching pipes and slightly enlarge all four nodes through 24 px.",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Share%20Android/SVG/ic_fluent_share_android_32_color.svg"
+    },
+    "smallMax": 24
   },
   {
     "slug": "gpu",
@@ -5883,18 +5891,18 @@
       "显卡服务器"
     ],
     "website": "preview.html#light-gpu",
-    "brandColor": "#80478F",
-    "source": "src/art/gpu/mono.svg",
-    "license": "MIT",
+    "brandColor": "#7C3AED",
+    "source": "https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/electronics.svg",
+    "license": "MIT (Icons8 Flat Color Icons); modified",
     "quality": "vector",
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Original graphics card with a slot bracket, edge contacts, vents and a cooling fan."
+      "Build a discrete GPU accelerator card inspired by Icons8 Flat Color Icons electronics hardware palette in the unified Fluent color gradient system, featuring a violet-indigo shroud, RGB accent strip, cyan fan blades, silver bracket and gold PCIe edge."
     ],
     "small": {
-      "artwork": "Use three broad fan blades and two large vents through 24 px.",
-      "source": "src/art/gpu/mono.svg"
+      "artwork": "Simplify cooling fan to four bold blades and widen the PCIe edge connector through 24 px.",
+      "source": "https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/electronics.svg"
     },
     "smallMax": 24
   },

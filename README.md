@@ -4,9 +4,9 @@
 
 Self-contained cloud, VPS, hosting, and generic infrastructure icons for monitoring dashboards, status pages, directories, and documentation. Load directly via jsDelivr CDN or self-host offline.
 
-当前共收录 **241** 个图标（`vector` 156 · `redrawn` 85；全部提供 SVG 与 8 档 PNG；**187** 个含深色变体，**86** 个含小尺寸专版）。
+当前共收录 **241** 个图标（`vector` 156 · `redrawn` 85；全部提供 SVG 与 8 档 PNG；**187** 个含深色变体，**94** 个含小尺寸专版）。
 
-Currently **241** icons (156 `vector`, 85 `redrawn`; all with SVG + 8 PNG sizes; **187** dark variants, **86** compact small masters).
+Currently **241** icons (156 `vector`, 85 `redrawn`; all with SVG + 8 PNG sizes; **187** dark variants, **94** compact small masters).
 
 [![全部图标预览（上：浅色背景，下：深色背景） / All icons on light and dark backgrounds](preview.png)](https://zhdsmy.github.io/vps-icons/preview.html)
 
@@ -233,11 +233,11 @@ English and Chinese names appear together when they differ. The next column list
 | ![](png/color/24/civo.png) | Civo | — | [`civo`](svg/color/civo.svg) | — | — | vector | [↗](https://www.civo.com/assets-rebrand/favicons/favicon.svg) |
 | ![](png/color/24/exoscale.png) | Exoscale | — | [`exoscale`](svg/color/exoscale.svg) | [✓](svg/color-dark/exoscale.svg) | [≤24](svg/small/color/exoscale.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/exoscale.svg) |
 | ![](png/color/24/vercel.png) | Vercel | — | [`vercel`](svg/color/vercel.svg) | [✓](svg/color-dark/vercel.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/vercel.svg) |
-| ![](png/color/24/home.png) | Home · 家宽 | — | [`home`](svg/color/home.svg) | [✓](svg/color-dark/home.svg) | — | vector | [↗](src/art/home/mono.svg) |
-| ![](png/color/24/nas.png) | NAS · 网络存储 | — | [`nas`](svg/color/nas.svg) | [✓](svg/color-dark/nas.svg) | — | vector | [↗](src/art/nas/mono.svg) |
-| ![](png/color/24/relay.png) | Relay · 中转 | — | [`relay`](svg/color/relay.svg) | [✓](svg/color-dark/relay.svg) | — | vector | [↗](src/art/relay/mono.svg) |
-| ![](png/color/24/other.png) | Other · 其他 | — | [`other`](svg/color/other.svg) | [✓](svg/color-dark/other.svg) | — | vector | [↗](src/art/other/mono.svg) |
-| ![](png/color/24/unknown.png) | Unknown · 未知厂商 | — | [`unknown`](svg/color/unknown.svg) | [✓](svg/color-dark/unknown.svg) | — | vector | [↗](src/art/unknown/mono.svg) |
+| ![](png/color/24/home.png) | Home · 家宽 | — | [`home`](svg/color/home.svg) | [✓](svg/color-dark/home.svg) | [≤24](svg/small/color/home.svg) | vector | [↗](https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Home/SVG/ic_fluent_home_48_color.svg) |
+| ![](png/color/24/nas.png) | NAS · 网络存储 | — | [`nas`](svg/color/nas.svg) | [✓](svg/color-dark/nas.svg) | [≤24](svg/small/color/nas.svg) | vector | [↗](https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Hard%20Drive/SVG/ic_fluent_hard_drive_20_filled.svg) |
+| ![](png/color/24/relay.png) | Relay · 中转 | — | [`relay`](svg/color/relay.svg) | [✓](svg/color-dark/relay.svg) | [≤24](svg/small/color/relay.svg) | vector | [↗](https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Arrow%20Swap/SVG/ic_fluent_arrow_swap_24_filled.svg) |
+| ![](png/color/24/other.png) | Other · 其他 | — | [`other`](svg/color/other.svg) | [✓](svg/color-dark/other.svg) | — | vector | [↗](https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Apps/SVG/ic_fluent_apps_48_color.svg) |
+| ![](png/color/24/unknown.png) | Unknown · 未知厂商 | — | [`unknown`](svg/color/unknown.svg) | [✓](svg/color-dark/unknown.svg) | [≤24](svg/small/color/unknown.svg) | vector | [↗](https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Question%20Circle/SVG/ic_fluent_question_circle_48_color.svg) |
 | ![](png/color/24/render.png) | Render | — | [`render`](svg/color/render.svg) | [✓](svg/color-dark/render.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/render.svg) |
 | ![](png/color/24/railway.png) | Railway | — | [`railway`](svg/color/railway.svg) | [✓](svg/color-dark/railway.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/railway.svg) |
 | ![](png/color/24/heroku.png) | Heroku | — | [`heroku`](svg/color/heroku.svg) | [✓](svg/color-dark/heroku.svg) | [≤24](svg/small/color/heroku.svg) | vector | [↗](https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/heroku-icon.svg) |
@@ -406,15 +406,15 @@ English and Chinese names appear together when they differ. The next column list
 | ![](png/color/24/boil.png) | Boil Cloud | — | [`boil`](svg/color/boil.svg) | [✓](svg/color-dark/boil.svg) | [≤24](svg/small/color/boil.svg) | redrawn | [↗](https://cloud.boil.network/assets/img/logo.png) |
 | ![](png/color/24/po0.png) | PortChannel Zero | — | [`po0`](svg/color/po0.svg) | [✓](svg/color-dark/po0.svg) | [≤24](svg/small/color/po0.svg) | vector | [↗](https://po0.io/) |
 | ![](png/color/24/pqs.png) | PQS · PQS彼得巧私有雲 | 彼得巧 | [`pqs`](svg/color/pqs.svg) | [✓](svg/color-dark/pqs.svg) | [≤24](svg/small/color/pqs.svg) | redrawn | [↗](https://www.pqs.pw/assets/img/logo.png) |
-| ![](png/color/24/home-cloud.png) | Home Cloud · 家里云 | — | [`home-cloud`](svg/color/home-cloud.svg) | [✓](svg/color-dark/home-cloud.svg) | [≤24](svg/small/color/home-cloud.svg) | vector | [↗](src/art/home-cloud/mono.svg) |
-| ![](png/color/24/router.png) | Router · 路由器 | — | [`router`](svg/color/router.svg) | [✓](svg/color-dark/router.svg) | [≤24](svg/small/color/router.svg) | vector | [↗](src/art/router/mono.svg) |
-| ![](png/color/24/server.png) | Dedicated Server · 独立服务器 | — | [`server`](svg/color/server.svg) | [✓](svg/color-dark/server.svg) | [≤24](svg/small/color/server.svg) | vector | [↗](src/art/server/mono.svg) |
-| ![](png/color/24/mini-pc.png) | Mini PC · 小主机 | — | [`mini-pc`](svg/color/mini-pc.svg) | [✓](svg/color-dark/mini-pc.svg) | — | vector | [↗](src/art/mini-pc/mono.svg) |
-| ![](png/color/24/desktop.png) | Desktop PC · 台式机 | — | [`desktop`](svg/color/desktop.svg) | [✓](svg/color-dark/desktop.svg) | — | vector | [↗](src/art/desktop/mono.svg) |
-| ![](png/color/24/laptop.png) | Laptop · 笔记本 | — | [`laptop`](svg/color/laptop.svg) | [✓](svg/color-dark/laptop.svg) | — | vector | [↗](src/art/laptop/mono.svg) |
-| ![](png/color/24/sbc.png) | Single-Board Computer · 单板机 | — | [`sbc`](svg/color/sbc.svg) | [✓](svg/color-dark/sbc.svg) | [≤24](svg/small/color/sbc.svg) | vector | [↗](src/art/sbc/mono.svg) |
-| ![](png/color/24/nat.png) | NAT Gateway · NAT 机 | — | [`nat`](svg/color/nat.svg) | [✓](svg/color-dark/nat.svg) | — | vector | [↗](src/art/nat/mono.svg) |
-| ![](png/color/24/gpu.png) | GPU Server · GPU 服务器 | — | [`gpu`](svg/color/gpu.svg) | [✓](svg/color-dark/gpu.svg) | [≤24](svg/small/color/gpu.svg) | vector | [↗](src/art/gpu/mono.svg) |
+| ![](png/color/24/home-cloud.png) | Home Cloud · 家里云 | — | [`home-cloud`](svg/color/home-cloud.svg) | [✓](svg/color-dark/home-cloud.svg) | [≤24](svg/small/color/home-cloud.svg) | vector | [↗](https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Cloud/SVG/ic_fluent_cloud_48_color.svg) |
+| ![](png/color/24/router.png) | Router · 路由器 | — | [`router`](svg/color/router.svg) | [✓](svg/color-dark/router.svg) | [≤24](svg/small/color/router.svg) | vector | [↗](https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Router/SVG/ic_fluent_router_24_filled.svg) |
+| ![](png/color/24/server.png) | Dedicated Server · 独立服务器 | — | [`server`](svg/color/server.svg) | [✓](svg/color-dark/server.svg) | [≤24](svg/small/color/server.svg) | vector | [↗](https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/database.svg) |
+| ![](png/color/24/mini-pc.png) | Mini PC · 小主机 | — | [`mini-pc`](svg/color/mini-pc.svg) | [✓](svg/color-dark/mini-pc.svg) | [≤24](svg/small/color/mini-pc.svg) | vector | [↗](https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Hard%20Drive/SVG/ic_fluent_hard_drive_20_filled.svg) |
+| ![](png/color/24/desktop.png) | Desktop PC · 台式机 | — | [`desktop`](svg/color/desktop.svg) | [✓](svg/color-dark/desktop.svg) | [≤24](svg/small/color/desktop.svg) | vector | [↗](https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Desktop%20computer/Flat/desktop_computer_flat.svg) |
+| ![](png/color/24/laptop.png) | Laptop · 笔记本 | — | [`laptop`](svg/color/laptop.svg) | [✓](svg/color-dark/laptop.svg) | [≤24](svg/small/color/laptop.svg) | vector | [↗](https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Laptop/SVG/ic_fluent_laptop_48_color.svg) |
+| ![](png/color/24/sbc.png) | Single-Board Computer · 单板机 | — | [`sbc`](svg/color/sbc.svg) | [✓](svg/color-dark/sbc.svg) | [≤24](svg/small/color/sbc.svg) | vector | [↗](https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/electronics.svg) |
+| ![](png/color/24/nat.png) | NAT Gateway · NAT 机 | — | [`nat`](svg/color/nat.svg) | [✓](svg/color-dark/nat.svg) | [≤24](svg/small/color/nat.svg) | vector | [↗](https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Share%20Android/SVG/ic_fluent_share_android_32_color.svg) |
+| ![](png/color/24/gpu.png) | GPU Server · GPU 服务器 | — | [`gpu`](svg/color/gpu.svg) | [✓](svg/color-dark/gpu.svg) | [≤24](svg/small/color/gpu.svg) | vector | [↗](https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/electronics.svg) |
 | ![](png/color/24/synology.png) | Synology · 群晖 | — | [`synology`](svg/color/synology.svg) | [✓](svg/color-dark/synology.svg) | [≤32](svg/small/color/synology.svg) | vector | [↗](https://fileres.synology.com/images/www/company/branding/Synology_logo_Black.zip) |
 | ![](png/color/24/qnap.png) | QNAP · 威联通 | — | [`qnap`](svg/color/qnap.svg) | [✓](svg/color-dark/qnap.svg) | [≤32](svg/small/color/qnap.svg) | vector | [↗](https://www.qnap.com/assets/img/header/2025/qnap-logo.svg) |
 | ![](png/color/24/ugreen-nas.png) | UGREEN NAS · 绿联 | — | [`ugreen-nas`](svg/color/ugreen-nas.svg) | [✓](svg/color-dark/ugreen-nas.svg) | — | redrawn | [↗](https://ai.ugreen.com/cdn/shop/files/favicon_green.png?crop=center&height=32&v=1776422247&width=32) |
@@ -476,7 +476,10 @@ npm ci && npm run build && npm run check
 | `Proprietary brand artwork; no open license identified; CC0-1.0 Simple Icons monochrome mark, brand rights reserved` | 2 |
 | `Proprietary brand artwork; no open license identified; Source Sans Pro outlines under SIL OFL-1.1` | 1 |
 | `Proprietary brand artwork; no open license identified; Lexend glyph outlines under SIL OFL-1.1` | 1 |
-| `MIT` | 14 |
+| `MIT` | 0 |
+| `MIT (Microsoft Fluent UI System Icons); modified` | 10 |
+| `MIT (Microsoft Fluent Emoji); modified` | 1 |
+| `MIT (Icons8 Flat Color Icons); modified` | 3 |
 | `MIT (LobeHub artwork); brand rights reserved` | 10 |
 | `CC0-1.0 (Simple Icons collection); brand rights reserved` | 28 |
 | `CC0-1.0 (SVG Logos collection); brand rights reserved` | 10 |
