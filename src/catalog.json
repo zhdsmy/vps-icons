@@ -2916,9 +2916,9 @@
     "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
     "quality": "vector",
     "format": "svg",
-    "hasDark": false,
+    "hasDark": true,
     "processing": [
-      "Normalize the Simple Icons rounded-square k badge and optically size to 50 x 50 on the 64-unit canvas."
+      "Normalize the Simple Icons rounded-square k badge to 50 x 50, fill the k cutout white with a deepened light-mode blue (#0089E6), add a brighter color-dark variant (#14A3FF), and keep the punched-out k in monochrome."
     ],
     "small": {
       "artwork": "Use the isolated brand symbol at 16 px.",
@@ -2985,17 +2985,18 @@
     ],
     "website": "https://kinsta.com",
     "brandColor": "#101010",
-    "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/kinsta.svg",
-    "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+    "source": "https://kinsta.com/wp-content/themes/kinsta/images/custom-pages/page/press/kinsta-icon.svg?v=20250707",
+    "license": "Proprietary brand artwork; no open license identified",
     "quality": "vector",
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Extract the initial K from the native Kinsta wordmark for the square composition. Reverse its ink on dark surfaces."
+      "Adopt the current official Kinsta press icon optically scaled to 50 x 50, converting the blurred bar masks to clean linear gradients.",
+      "Use the official light tile variant on dark surfaces and punch the two kinetic bars out of the badge in monochrome."
     ],
     "small": {
-      "artwork": "Use the isolated brand symbol at 16 px.",
-      "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/kinsta.svg"
+      "artwork": "Use the official standalone rounded-square badge at 16 px.",
+      "source": "https://kinsta.com/wp-content/themes/kinsta/images/custom-pages/page/press/kinsta-icon.svg?v=20250707"
     }
   },
   {
@@ -3015,7 +3016,7 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Optically size the official Gandi dark-square g badge to 50 x 50, add a subtly bordered slate card in color-dark so it separates on dark surfaces, and punch the g out of the badge in monochrome."
+      "Optically size the official Gandi dark-square g badge to 50 x 50, use a lifted bordered slate card (#2A3747 / #768FA8) in color-dark so it separates cleanly on dark surfaces, and punch the g out of the badge in monochrome."
     ],
     "small": {
       "artwork": "Use the isolated brand symbol at 16 px.",
@@ -3334,14 +3335,16 @@
     "license": "Proprietary brand artwork; no open license identified",
     "quality": "redrawn",
     "format": "svg",
-    "hasDark": false,
+    "hasDark": true,
     "processing": [
-      "Reconstruct both interlocking green angular bands against the provider-linked GitHub avatar and remove the white field."
+      "Reconstruct both interlocking green angular bands against the provider-linked GitHub avatar and remove the white field.",
+      "Add a brightened color-dark variant and open the inner band gap through 24 px for small-size legibility."
     ],
     "small": {
-      "artwork": "Use the isolated brand symbol at 16 px.",
+      "artwork": "Widen the gap between the two interlocking bands at 16 and 24 px.",
       "source": "https://avatars.githubusercontent.com/u/2410618?v=4&s=512"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "liteserver",
@@ -3360,7 +3363,8 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Rebuild the four overlapping ribbon segments, following the curves and sampled inks of the official square icon."
+      "Rebuild the four overlapping ribbon segments, following the curves and sampled inks of the official square icon.",
+      "Deepen the three lower lime-green ribbon segments on light surfaces while retaining the bright greens on dark surfaces."
     ],
     "small": {
       "artwork": "Use the isolated brand symbol at 16 px.",
@@ -3529,9 +3533,10 @@
     "license": "Proprietary brand artwork; no open license identified",
     "quality": "redrawn",
     "format": "svg",
-    "hasDark": false,
+    "hasDark": true,
     "processing": [
-      "Hand-draw the blue head, expression and curling blue-green arms from the mascot in the provider-linked organization avatar. Use just the face at 16–32 px."
+      "Hand-draw the blue head, expression and curling blue-green arms from the mascot in the provider-linked organization avatar. Use just the face at 16–32 px.",
+      "Slightly deepen the light-mode compact face and add brightened color-dark variants for dark surfaces."
     ],
     "small": {
       "artwork": "Use the isolated mascot head and eye cutouts at 16–32 px.",
@@ -3582,12 +3587,13 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Separate the framed lambda from the black favicon tile and reverse the ink on dark backgrounds."
+      "Separate the framed lambda from the black favicon tile, optically size the square frame to 50 x 50, reverse the ink on dark backgrounds, and reinforce the border and glyph through 24 px."
     ],
     "small": {
-      "artwork": "Use the standalone brand mark at 16 px.",
+      "artwork": "Reinforce the square frame border and lambda strokes inside the 50 x 50 optical box at 16 and 24 px.",
       "source": "https://lambda.com/hubfs/favicon-48x48-1.svg"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "runpod",
@@ -3700,19 +3706,20 @@
     ],
     "website": "https://www.crusoe.ai",
     "brandColor": "#C73361",
-    "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/crusoe-color.svg",
-    "license": "MIT (LobeHub artwork); brand rights reserved",
+    "source": "https://cdn.prod.website-files.com/6855c1aa175582ee23e0aa19/68762899486863fd46acd673_logo-footer.svg",
+    "license": "Proprietary brand artwork; no open license identified",
     "quality": "vector",
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Retain the native warm gradient and use the same leaf contour for mono.",
-      "Use darker gold and orange stops on white and lift the burgundy tip on dark."
+      "Replace the retired leaf mark with the current Crusoe radiating spiral symbol from the official footer SVG.",
+      "Use charcoal ink on white, pure white on dark surfaces, and a stroke-reinforced simplified spiral through 24 px."
     ],
     "small": {
-      "artwork": "Use the standalone brand mark at 16 px.",
-      "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/crusoe-color.svg"
-    }
+      "artwork": "Keep the outer and middle vortex rays with reinforced strokes at 16 and 24 px so the spiral stays sharp.",
+      "source": "https://cdn.prod.website-files.com/6855c1aa175582ee23e0aa19/68762899486863fd46acd673_logo-footer.svg"
+    },
+    "smallMax": 24
   },
   {
     "slug": "hyperstack",
