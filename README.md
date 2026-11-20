@@ -4,9 +4,9 @@
 
 Self-contained cloud, VPS, hosting, and generic infrastructure icons for monitoring dashboards, status pages, directories, and documentation. Load directly via jsDelivr CDN or self-host offline.
 
-当前共收录 **215** 个图标（`vector` 138 · `redrawn` 77；全部提供 SVG 与 8 档 PNG；**161** 个含深色变体，**70** 个含小尺寸专版）。
+当前共收录 **220** 个图标（`vector` 140 · `redrawn` 80；全部提供 SVG 与 8 档 PNG；**166** 个含深色变体，**72** 个含小尺寸专版）。
 
-Currently **215** icons (138 `vector`, 77 `redrawn`; all with SVG + 8 PNG sizes; **161** dark variants, **70** compact small masters).
+Currently **220** icons (140 `vector`, 80 `redrawn`; all with SVG + 8 PNG sizes; **166** dark variants, **72** compact small masters).
 
 [在线/本地对照预览 · Preview](preview.html) · [完整元数据索引 · index.json](index.json)
 
@@ -394,6 +394,11 @@ All current entries ship as SVG (zero PNG-only, `upscaled`, or `placeholder` ico
 | ![](png/color/24/666clouds.png) | 666Clouds · 六六云 | [`666clouds`](svg/color/666clouds.svg) | — | — | redrawn | [↗](https://www.666clouds.com/favicon.ico) |
 | ![](png/color/24/v5-server.png) | V5 Server · V5 Server | [`v5-server`](svg/color/v5-server.svg) | [✓](svg/color-dark/v5-server.svg) | — | redrawn | [↗](https://v5.net/favicon.ico) |
 | ![](png/color/24/wap-ac.png) | wap.ac · wap.ac | [`wap-ac`](svg/color/wap-ac.svg) | [✓](svg/color-dark/wap-ac.svg) | [≤24](svg/small/color/wap-ac.svg) | redrawn | [↗](https://wap.ac/favicon.ico) |
+| ![](png/color/24/synology.png) | Synology · 群晖 | [`synology`](svg/color/synology.svg) | [✓](svg/color-dark/synology.svg) | [≤32](svg/small/color/synology.svg) | vector | [↗](https://fileres.synology.com/images/www/company/branding/Synology_logo_Black.zip) |
+| ![](png/color/24/qnap.png) | QNAP · 威联通 | [`qnap`](svg/color/qnap.svg) | [✓](svg/color-dark/qnap.svg) | [≤32](svg/small/color/qnap.svg) | vector | [↗](https://www.qnap.com/assets/img/header/2025/qnap-logo.svg) |
+| ![](png/color/24/ugreen-nas.png) | UGREEN NAS · 绿联 | [`ugreen-nas`](svg/color/ugreen-nas.svg) | [✓](svg/color-dark/ugreen-nas.svg) | — | redrawn | [↗](https://ai.ugreen.com/cdn/shop/files/favicon_green.png?crop=center&height=32&v=1776422247&width=32) |
+| ![](png/color/24/zspace.png) | ZSpace NAS · 极空间 | [`zspace`](svg/color/zspace.svg) | [✓](svg/color-dark/zspace.svg) | — | redrawn | [↗](https://img.zconnect.cn/home/pc_zs_logo.png) |
+| ![](png/color/24/fnos.png) | fnOS · 飞牛 | [`fnos`](svg/color/fnos.svg) | [✓](svg/color-dark/fnos.svg) | — | redrawn | [↗](https://static2.fnnas.com/official/fnos-logo.png) |
 
 ---
 
@@ -438,7 +443,7 @@ npm ci && npm run build && npm run check
 
 | 允许的 `license` 值 / Accepted license statement | 条目数 / Icons |
 |---|---:|
-| `Proprietary brand artwork; no open license identified` | 154 |
+| `Proprietary brand artwork; no open license identified` | 159 |
 | `Proprietary brand artwork; no open license identified; CC0-1.0 Simple Icons monochrome balloon, brand rights reserved` | 1 |
 | `Proprietary brand artwork; no open license identified; CC0-1.0 Simple Icons monochrome mark, brand rights reserved` | 2 |
 | `Proprietary brand artwork; no open license identified; Source Sans Pro outlines under SIL OFL-1.1` | 1 |
