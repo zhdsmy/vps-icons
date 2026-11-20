@@ -4594,8 +4594,8 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Reconstruct the three segments of the globe above the GAINET wordmark. Adapt the official white silhouette to charcoal on light backgrounds.",
-      "Broaden the three globe strokes and give the arc more height in the compact master."
+      "Reconstruct the three bold segments of the globe dome above the GAINET wordmark with fuller arc height faithful to the official header. Adapt the white silhouette to charcoal on light backgrounds.",
+      "Broaden the three globe bands further in the compact master through 32 px."
     ],
     "small": {
       "artwork": "Use a taller three-segment globe with broader strokes through 32 px.",
@@ -4705,10 +4705,10 @@
       "Simplify the horizontal globe stripes at sidebar sizes, keeping the central bar and lower-right hook."
     ],
     "small": {
-      "artwork": "Use widely separated horizontal bands at 16 and 24 px.",
+      "artwork": "Use five boldly separated horizontal globe bands with the central G-hook through 32 px.",
       "source": "https://www.cht.com.tw/home/eshop/-/media/web/images/logo/cht_logo.svg"
     },
-    "smallMax": 24
+    "smallMax": 32
   },
   {
     "slug": "viettel-idc",
@@ -4726,9 +4726,10 @@
     "license": "Proprietary brand artwork; no open license identified",
     "quality": "redrawn",
     "format": "svg",
-    "hasDark": false,
+    "hasDark": true,
     "processing": [
-      "Reconstruct the single curved V from Viettel IDC’s customer portal icon; its rounded fold also appears in the portal header."
+      "Reconstruct the single curved V from Viettel IDC’s customer portal icon; its rounded fold also appears in the portal header.",
+      "Lift the red fill on dark surfaces for higher contrast."
     ],
     "small": {
       "artwork": "Use the isolated brand mark at sidebar sizes.",
@@ -4803,12 +4804,14 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Isolate the open cloud and checkmark from the provider wordmark."
+      "Isolate the open cloud and checkmark from the provider wordmark.",
+      "Reinforce the native outline with a matching stroke in the compact master for 16 and 24 px."
     ],
     "small": {
-      "artwork": "Use the standalone brand mark at 16 px.",
+      "artwork": "Reinforce the native cloud outline and checkmark with a matching stroke for 16 and 24 px.",
       "source": "https://vollcloud.com/templates/voll/includes/ws/images/logo.svg"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "terabix",
@@ -4827,12 +4830,14 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Keep all four blue pieces of the official T emblem from the site header."
+      "Keep all four blue pieces of the official T emblem from the site header.",
+      "Reinforce the four bars in the compact master for 16 and 24 px to preserve legibility."
     ],
     "small": {
-      "artwork": "Use the standalone brand mark at 16 px.",
+      "artwork": "Reinforce the four native T bars with a matching stroke for 16 and 24 px.",
       "source": "https://terabix.net/wp-content/uploads/2023/09/Asset-2.svg"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "ipraft",
@@ -4901,12 +4906,14 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Extract the two sloped rounded outlines from the official mark. Preserve the red overlap in color and separate the layers with a clear gap for mono."
+      "Extract the two sloped rounded outlines from the official mark. Preserve the red overlap in color and separate the layers with a clear gap for mono.",
+      "Widen the monochrome layer gap in the compact master so both cards remain distinct at 16 and 24 px."
     ],
     "small": {
-      "artwork": "Use the standalone brand mark at 16 px.",
+      "artwork": "Increase the offset and monochrome gap between the two sloped cards for 16 and 24 px.",
       "source": "https://onidel.com/onidel-logo-dark.svg"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "raksmart",
@@ -4973,12 +4980,14 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Reconstruct the two-color globe from the site icon, leaving the latitude and longitude gaps transparent."
+      "Geometrically reconstruct the two-color 4x4 segmented globe from the site icon with crisp transparent latitude and longitude gaps.",
+      "Use a simplified 3x3 segmented globe with wider gaps at 16 and 24 px so small renders stay crisp."
     ],
     "small": {
-      "artwork": "Use the standalone brand mark at 16 px.",
+      "artwork": "Use a simplified bolder two-tone segmented globe with wider latitude and meridian gaps for 16 and 24 px.",
       "source": "https://tnahosting.net/wp-content/uploads/2025/10/cropped-favicon-192x192.png"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "ethernet-servers",
@@ -4997,13 +5006,15 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Rebuild the standalone three-tier server E of the site icon. Use the stronger header blue on light backgrounds.",
-      "Header color reference: https://www.ethernetservers.com/templates/lagom2/assets/img/logo/logo_big.944106186.png"
+      "Geometrically reconstruct the smooth perspective three-tier server E and indicator dashes from the official header lockup, removing raster staircase edges.",
+      "Header color reference: https://www.ethernetservers.com/templates/lagom2/assets/img/logo/logo_big.944106186.png",
+      "Omit the tiny indicator dashes and widen bar gaps at 16 and 24 px."
     ],
     "small": {
-      "artwork": "Use the standalone brand mark at 16 px.",
+      "artwork": "Use the clean three-tier perspective server E with wider bar gaps and without sub-pixel dashes for 16 and 24 px.",
       "source": "https://www.ethernetservers.com/templates/lagom2/assets/img/favicons/favicon-192.png"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "lightlayer",
@@ -5026,7 +5037,7 @@
       "Rebuild the narrow upright L and its three warm bands from the provider favicon."
     ],
     "small": {
-      "artwork": "Widen the upright L and its three stripes through 32 px.",
+      "artwork": "Use a sturdier centered upright L and broader warm bands through 32 px.",
       "source": "https://lightlayer.net/favicon.ico"
     },
     "smallMax": 32

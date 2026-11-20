@@ -4,9 +4,9 @@
 
 Self-contained cloud, VPS, hosting, and generic infrastructure icons for monitoring dashboards, status pages, directories, and documentation. Load directly via jsDelivr CDN or self-host offline.
 
-当前共收录 **241** 个图标（`vector` 156 · `redrawn` 85；全部提供 SVG 与 8 档 PNG；**187** 个含深色变体，**98** 个含小尺寸专版）。
+当前共收录 **241** 个图标（`vector` 156 · `redrawn` 85；全部提供 SVG 与 8 档 PNG；**188** 个含深色变体，**103** 个含小尺寸专版）。
 
-Currently **241** icons (156 `vector`, 85 `redrawn`; all with SVG + 8 PNG sizes; **187** dark variants, **98** compact small masters).
+Currently **241** icons (156 `vector`, 85 `redrawn`; all with SVG + 8 PNG sizes; **188** dark variants, **103** compact small masters).
 
 [![全部图标预览（上：浅色背景，下：深色背景） / All icons on light and dark backgrounds](preview.png)](https://zhdsmy.github.io/vps-icons/preview.html)
 
@@ -368,19 +368,19 @@ English and Chinese names appear together when they differ. The next column list
 | ![](png/color/24/xinnet.png) | Xinnet · 新网 | — | [`xinnet`](svg/color/xinnet.svg) | [✓](svg/color-dark/xinnet.svg) | — | redrawn | [↗](https://imgi.xinnet.com/static/xinnet/images/newIndex/logo.1a7a2e6.png) |
 | ![](png/color/24/vpsor.png) | GYStack · 硅云 | — | [`vpsor`](svg/color/vpsor.svg) | [✓](svg/color-dark/vpsor.svg) | — | redrawn | [↗](https://cdn.vpsor.cn/2.0/img/home/20210912_seo_logo.jpg) |
 | ![](png/color/24/iij.png) | Internet Initiative Japan | — | [`iij`](svg/color/iij.svg) | [✓](svg/color-dark/iij.svg) | [≤24](svg/small/color/iij.svg) | redrawn | [↗](https://www.iij.ad.jp/favicon.ico) |
-| ![](png/color/24/hicloud.png) | Chunghwa Telecom hicloud · 中华电信 hicloud | — | [`hicloud`](svg/color/hicloud.svg) | [✓](svg/color-dark/hicloud.svg) | [≤24](svg/small/color/hicloud.svg) | vector | [↗](https://www.cht.com.tw/home/eshop/-/media/web/images/logo/cht_logo.svg) |
-| ![](png/color/24/viettel-idc.png) | Viettel IDC | — | [`viettel-idc`](svg/color/viettel-idc.svg) | — | — | redrawn | [↗](https://portal.viettelidc.com.vn/img/Favicon-IDC.png) |
+| ![](png/color/24/hicloud.png) | Chunghwa Telecom hicloud · 中华电信 hicloud | — | [`hicloud`](svg/color/hicloud.svg) | [✓](svg/color-dark/hicloud.svg) | [≤32](svg/small/color/hicloud.svg) | vector | [↗](https://www.cht.com.tw/home/eshop/-/media/web/images/logo/cht_logo.svg) |
+| ![](png/color/24/viettel-idc.png) | Viettel IDC | — | [`viettel-idc`](svg/color/viettel-idc.svg) | [✓](svg/color-dark/viettel-idc.svg) | — | redrawn | [↗](https://portal.viettelidc.com.vn/img/Favicon-IDC.png) |
 | ![](png/color/24/biznet-gio.png) | Biznet Gio | — | [`biznet-gio`](svg/color/biznet-gio.svg) | [✓](svg/color-dark/biznet-gio.svg) | — | redrawn | [↗](https://web-cms.biznetgio.com/uploads/Biznet_GIO_Logo_1_header_78e8b0eceb.webp) |
 | ![](png/color/24/100tb.png) | 100TB | — | [`100tb`](svg/color/100tb.svg) | [✓](svg/color-dark/100tb.svg) | — | vector | [↗](https://100tb.io/favicons/sakura.svg) |
-| ![](png/color/24/vollcloud.png) | VollCloud | — | [`vollcloud`](svg/color/vollcloud.svg) | [✓](svg/color-dark/vollcloud.svg) | — | vector | [↗](https://vollcloud.com/templates/voll/includes/ws/images/logo.svg) |
-| ![](png/color/24/terabix.png) | Terabix | — | [`terabix`](svg/color/terabix.svg) | [✓](svg/color-dark/terabix.svg) | — | vector | [↗](https://terabix.net/wp-content/uploads/2023/09/Asset-2.svg) |
+| ![](png/color/24/vollcloud.png) | VollCloud | — | [`vollcloud`](svg/color/vollcloud.svg) | [✓](svg/color-dark/vollcloud.svg) | [≤24](svg/small/color/vollcloud.svg) | vector | [↗](https://vollcloud.com/templates/voll/includes/ws/images/logo.svg) |
+| ![](png/color/24/terabix.png) | Terabix | — | [`terabix`](svg/color/terabix.svg) | [✓](svg/color-dark/terabix.svg) | [≤24](svg/small/color/terabix.svg) | vector | [↗](https://terabix.net/wp-content/uploads/2023/09/Asset-2.svg) |
 | ![](png/color/24/ipraft.png) | iPRaft | — | [`ipraft`](svg/color/ipraft.svg) | [✓](svg/color-dark/ipraft.svg) | — | vector | [↗](https://ipraft.com/) |
 | ![](png/color/24/cubecloud.png) | CubeCloud · 魔方云 | — | [`cubecloud`](svg/color/cubecloud.svg) | [✓](svg/color-dark/cubecloud.svg) | — | vector | [↗](https://www.cubecloud.net/) |
-| ![](png/color/24/onidel.png) | Onidel | — | [`onidel`](svg/color/onidel.svg) | [✓](svg/color-dark/onidel.svg) | — | vector | [↗](https://onidel.com/onidel-logo-dark.svg) |
+| ![](png/color/24/onidel.png) | Onidel | — | [`onidel`](svg/color/onidel.svg) | [✓](svg/color-dark/onidel.svg) | [≤24](svg/small/color/onidel.svg) | vector | [↗](https://onidel.com/onidel-logo-dark.svg) |
 | ![](png/color/24/raksmart.png) | RAKsmart | — | [`raksmart`](svg/color/raksmart.svg) | — | — | redrawn | [↗](https://cn.raksmart.com/static/images/logo3.png) |
 | ![](png/color/24/orangevps.png) | OrangeVPS | — | [`orangevps`](svg/color/orangevps.svg) | — | — | redrawn | [↗](https://orangevps.com/wp-content/uploads/2026/06/cropped-IMG_3369-180x180.png) |
-| ![](png/color/24/tnahosting.png) | TNAHosting | — | [`tnahosting`](svg/color/tnahosting.svg) | [✓](svg/color-dark/tnahosting.svg) | — | redrawn | [↗](https://tnahosting.net/wp-content/uploads/2025/10/cropped-favicon-192x192.png) |
-| ![](png/color/24/ethernet-servers.png) | Ethernet Servers | — | [`ethernet-servers`](svg/color/ethernet-servers.svg) | [✓](svg/color-dark/ethernet-servers.svg) | — | redrawn | [↗](https://www.ethernetservers.com/templates/lagom2/assets/img/favicons/favicon-192.png) |
+| ![](png/color/24/tnahosting.png) | TNAHosting | — | [`tnahosting`](svg/color/tnahosting.svg) | [✓](svg/color-dark/tnahosting.svg) | [≤24](svg/small/color/tnahosting.svg) | redrawn | [↗](https://tnahosting.net/wp-content/uploads/2025/10/cropped-favicon-192x192.png) |
+| ![](png/color/24/ethernet-servers.png) | Ethernet Servers | — | [`ethernet-servers`](svg/color/ethernet-servers.svg) | [✓](svg/color-dark/ethernet-servers.svg) | [≤24](svg/small/color/ethernet-servers.svg) | redrawn | [↗](https://www.ethernetservers.com/templates/lagom2/assets/img/favicons/favicon-192.png) |
 | ![](png/color/24/lightlayer.png) | LightLayer | — | [`lightlayer`](svg/color/lightlayer.svg) | [✓](svg/color-dark/lightlayer.svg) | [≤32](svg/small/color/lightlayer.svg) | redrawn | [↗](https://lightlayer.net/favicon.ico) |
 | ![](png/color/24/isif.png) | ISIF Cloud | — | [`isif`](svg/color/isif.svg) | [✓](svg/color-dark/isif.svg) | [≤32](svg/small/color/isif.svg) | vector | [↗](https://cloud.isif.net/assets/assets-logo-full-Lpb6vKT3.js) |
 | ![](png/color/24/acckcloud.png) | ACCK Cloud | — | [`acckcloud`](svg/color/acckcloud.svg) | [✓](svg/color-dark/acckcloud.svg) | [≤24](svg/small/color/acckcloud.svg) | vector | [↗](https://acck.io/assets/HomeDefault-BGAv2I4p.js) |
