@@ -6,7 +6,9 @@ Self-contained cloud, VPS, hosting, and generic infrastructure icons for monitor
 
 <!-- stats -->
 
-[在线/本地对照预览 · Preview](preview.html) · [完整元数据索引 · index.json](index.json)
+![全部图标预览（上：浅色背景，下：深色背景） / All icons on light and dark backgrounds](preview.png)
+
+[完整元数据索引 · index.json](index.json) · [本地交互预览 · preview.html](preview.html)
 
 ---
 
@@ -127,7 +129,7 @@ At 16–32 px (sidebars, server tables, badges), wide wordmarks, hairlines, and 
 | `slug` | `string` | 唯一文件名标识（小写 `kebab-case`）。 / Unique lowercase `kebab-case` identifier used in paths. |
 | `name` / `names["zh-CN"]` | `string` | 英文主名称与简体中文名称。 / Primary English and Simplified Chinese names. |
 | `aliases` | `string[]` | 每个别名仅指向一个条目。比较别名、slug 和英文名时忽略大小写、空白和标点。 / Each alias identifies one entry across aliases, slugs and English names, ignoring case, whitespace and punctuation. |
-| `website` | `string` | 厂商官网 HTTPS 链接（5 个通用图标指向 `preview.html` 锚点）。 / Official HTTPS website (or `preview.html` anchor for generic icons). |
+| `website` | `string` | 厂商官网 HTTPS 链接（通用图标指向 `preview.html` 锚点）。 / Official HTTPS website (or `preview.html` anchor for generic icons). |
 | `brandColor` | `string` | 十六进制品牌主色（`#RRGGBB`）。 / Primary hex brand color. |
 | `source` / `monoSource?` | `string` | 主图与可选单色图的原始来源 URL（5 个原创图标为仓库内路径）。 / Provenance URL(s) for primary and optional monochrome masters. |
 | `sourcePage?` / `paletteSource?` | `string` | 图源说明页与配色来源的 HTTPS 链接。 / HTTPS links to the source page and color reference. |
@@ -191,7 +193,7 @@ Contributions of new active providers, official native vector upgrades for `redr
    Provide a verifiable HTTPS source URL (prefer official vector marks) and accurate license. Use lowercase `kebab-case` slugs.
 3. **准备图稿 / Prepare masters**：将整理好的图稿放在 `src/art/<slug>/`（`color.svg`、`mono.svg`，暗底对比不足时补 `color-dark.svg`，16–32 px 易糊时在 `small/` 放小尺寸专版）。统一使用 `viewBox="0 0 64 64"` 与光学留白（满幅方块缩至约 50 × 50，圆形/图形约 56 × 56），单色图仅使用 `currentColor` 且保留徽章镂空轮廓。
    Place prepared masters under `src/art/<slug>/` using `viewBox="0 0 64 64"`, optical padding (~50 × 50 for solid squares, ~56 × 56 for circles/marks), and `currentColor` for monochrome.
-4. **更新目录 / Update catalog**：在 `src/catalog.json` 中补充名称、`aliases`、`website`、`brandColor`、`source`、`license`、`quality`（如实标注 `vector` / `redrawn` 等）、`hasDark`、`smallMax` 与 `processing`。不要手动编辑 `svg/`、`png/`、`index.json`、`preview.html` 或 `README.md`。
+4. **更新目录 / Update catalog**：在 `src/catalog.json` 中补充名称、`aliases`、`website`、`brandColor`、`source`、`license`、`quality`（如实标注 `vector` / `redrawn` 等）、`hasDark`、`smallMax` 与 `processing`。不要手动编辑 `svg/`、`png/`、`index.json`、`preview.html`、`preview.png` 或 `README.md`。
    Update `src/catalog.json` with honest `quality` and provenance. Never hand-edit generated files.
 5. **构建与校验 / Build & verify**（需 Node.js ≥ 22）：运行下方命令，直接在浏览器打开 `preview.html` 检查浅色（`#ffffff`）与深色（`#111827`）背景下的 16 / 24 / 32 px 效果，并一并提交源文件与生成产物（CI 会验证 `git status` 无未提交差异）。
 

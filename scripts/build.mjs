@@ -59,6 +59,20 @@ for (const dir of ['svg', 'png']) {
     if (file.isFile() && file.name.endsWith('.' + dir) && !generated.has(path)) unlinkSync(path)
   }
 }
+// README overview: every icon at 32 px, light panel over dark panel.
+const cols = 24, cell = 40, pad = 16
+const panelWidth = cols * cell + pad * 2, panelHeight = Math.ceil(index.icons.length / cols) * cell + pad * 2
+const panel = (variant, background, top) => `<rect y="${top}" width="${panelWidth}" height="${panelHeight}" fill="${background}"/>` +
+  index.icons.map(({ slug, variants }, n) => {
+    const v = variants.png.includes(variant) ? variant : 'color'
+    const href = variants.svg.length
+      ? 'data:image/svg+xml;base64,' + Buffer.from(read(svgPath(slug, v))).toString('base64')
+      : 'data:image/png;base64,' + readFileSync(pngPath(slug, v, 32)).toString('base64')
+    const x = pad + (n % cols) * cell + 4, y = top + pad + Math.floor(n / cols) * cell + 4
+    return `<image x="${x}" y="${y}" width="32" height="32" href="${href}"/>`
+  }).join('')
+write('preview.png', render(`<svg xmlns="http://www.w3.org/2000/svg" width="${panelWidth}" height="${panelHeight * 2}">` +
+  panel('color', '#ffffff', 0) + panel('color-dark', '#111827', panelHeight) + '</svg>', panelWidth))
 write('index.json', JSON.stringify(index, null, 2) + '\n')
 write('preview.html', preview(index))
 write('README.md', readme(index, read('src/readme.md')))
