@@ -21,10 +21,10 @@
     "hasDark": true,
     "processing": [
       "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters.",
-      "For 16 and 24 px, enlarge the original lowercase letterforms vertically, reinforce their strokes and redraw the smile and arrowhead as one heavier silhouette."
+      "For 16 and 24 px, keep the original proportions and reinforce the letterforms, smile and arrowhead with matching strokes."
     ],
     "small": {
-      "artwork": "Compact aws wordmark adapted from the linked SVG Logos vector, with a reinforced smile arrow for 16 and 24 px.",
+      "artwork": "Compact aws logo from the linked SVG Logos vector at its original proportions, with reinforced strokes for 16 and 24 px.",
       "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/aws.svg"
     }
   },
