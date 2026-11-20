@@ -21,14 +21,15 @@ body:has(#light:target) [href="#light"], body:has(#dark:target) [href="#dark"] {
 .light { --bg: #fff; --ink: #14251d; --muted: #526258; --line: #e0e5df }
 .dark { --bg: #111827; --ink: #f1f5f9; --muted: #94a3b8; --line: #273449 }
 h2 { font-size: 20px; letter-spacing: -.03em; padding: 16px 18px 6px }
-table { border-collapse: collapse; width: 100%; min-width: 435px }
+table { border-collapse: collapse; width: 100%; min-width: 660px }
 th, td { border-bottom: 1px solid var(--line); padding: 8px 5px }
 thead th { color: var(--muted); font-size: 12px; font-weight: 500 }
+thead th:nth-child(2) { text-align: left }
 th:first-child { padding-left: 18px; text-align: left }
 tbody th { font-weight: 600; font-size: 14px; line-height: 1.25 }
 tbody th a { color: inherit; text-decoration: none }
 a:hover { text-decoration: underline }
-code { display: block; font: 11px/1.5 ui-monospace, SFMono-Regular, Menlo, monospace; color: var(--muted); margin-top: 3px }
+.quality { font: 12px/1.5 ui-monospace, SFMono-Regular, Menlo, monospace; color: var(--muted) }
 .pair { display: flex; align-items: center; justify-content: center; gap: 6px }
 #light:target ~ main .dark, #dark:target ~ main .light { display: none }
 body:has(#dark:target) { background: #0b1120; color: #f1f5f9 }
@@ -36,7 +37,7 @@ body:has(#dark:target) header p { color: #cbd5e1 }
 body:has(#dark:target) header p.sub { color: #94a3b8 }
 body:has(#light:target, #dark:target) .panels { grid-template-columns: minmax(0, 1fr) }
 body:has(#light:target, #dark:target) main { max-width: 960px }
-@media(max-width: 1050px) { .panels { grid-template-columns: minmax(0, 1fr) } }
+@media(max-width: 1430px) { .panels { grid-template-columns: minmax(0, 1fr) } }
 </style>
 <span id="light" class="view"></span><span id="dark" class="view"></span><span id="both" class="view"></span>
 <main>
