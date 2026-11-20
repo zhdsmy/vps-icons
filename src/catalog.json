@@ -1638,11 +1638,14 @@
     "slug": "yandex-cloud",
     "name": "Yandex Cloud",
     "names": {
-      "zh-CN": "Yandex 云"
+      "zh-CN": "Yandex Cloud"
     },
     "aliases": [
       "yandexcloud",
       "yandex cloud"
+    ],
+    "nicknames": [
+      "Yandex 云"
     ],
     "website": "https://yandex.cloud",
     "brandColor": "#5282FF",
