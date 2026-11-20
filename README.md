@@ -8,9 +8,9 @@ Self-contained cloud, VPS, hosting, and generic infrastructure icons for monitor
 
 Currently **215** icons (138 `vector`, 77 `redrawn`; all with SVG + 8 PNG sizes; **161** dark variants, **70** compact small masters).
 
-![全部图标预览（上：浅色背景，下：深色背景） / All icons on light and dark backgrounds](preview.png)
+[![全部图标预览（上：浅色背景，下：深色背景） / All icons on light and dark backgrounds](preview.png)](https://zhdsmy.github.io/vps-icons/preview.html)
 
-[完整元数据索引 · index.json](index.json) · [本地交互预览 · preview.html](preview.html)
+[在线交互预览 · Live preview](https://zhdsmy.github.io/vps-icons/preview.html) · [完整元数据索引 · index.json](index.json)
 
 ---
 
