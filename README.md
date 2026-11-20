@@ -4,9 +4,9 @@
 
 Self-contained cloud, VPS, hosting, and generic infrastructure icons for monitoring dashboards, status pages, directories, and documentation. Load directly via jsDelivr CDN or self-host offline.
 
-当前共收录 **215** 个图标（`vector` 138 · `redrawn` 77；全部提供 SVG 与 8 档 PNG；**161** 个含深色变体，**70** 个含小尺寸专版）。
+当前共收录 **220** 个图标（`vector` 139 · `redrawn` 81；全部提供 SVG 与 8 档 PNG；**166** 个含深色变体，**74** 个含小尺寸专版）。
 
-Currently **215** icons (138 `vector`, 77 `redrawn`; all with SVG + 8 PNG sizes; **161** dark variants, **70** compact small masters).
+Currently **220** icons (139 `vector`, 81 `redrawn`; all with SVG + 8 PNG sizes; **166** dark variants, **74** compact small masters).
 
 [![全部图标预览（上：浅色背景，下：深色背景） / All icons on light and dark backgrounds](preview.png)](https://zhdsmy.github.io/vps-icons/preview.html)
 
@@ -396,6 +396,11 @@ All current entries ship as SVG (zero PNG-only, `upscaled`, or `placeholder` ico
 | ![](png/color/24/666clouds.png) | 666Clouds · 六六云 | [`666clouds`](svg/color/666clouds.svg) | — | — | redrawn | [↗](https://www.666clouds.com/favicon.ico) |
 | ![](png/color/24/v5-server.png) | V5 Server · V5 Server | [`v5-server`](svg/color/v5-server.svg) | [✓](svg/color-dark/v5-server.svg) | — | redrawn | [↗](https://v5.net/favicon.ico) |
 | ![](png/color/24/wap-ac.png) | wap.ac · wap.ac | [`wap-ac`](svg/color/wap-ac.svg) | [✓](svg/color-dark/wap-ac.svg) | [≤24](svg/small/color/wap-ac.svg) | redrawn | [↗](https://wap.ac/favicon.ico) |
+| ![](png/color/24/highendnetwork.png) | HighEndNetwork · HighEndNetwork | [`highendnetwork`](svg/color/highendnetwork.svg) | [✓](svg/color-dark/highendnetwork.svg) | [≤32](svg/small/color/highendnetwork.svg) | redrawn | [↗](https://t.me/highendnetwork) |
+| ![](png/color/24/wepc.png) | WePC · WePC 车库云 | [`wepc`](svg/color/wepc.svg) | [✓](svg/color-dark/wepc.svg) | — | redrawn | [↗](https://wepc.au/assets/img/logo.png) |
+| ![](png/color/24/boil.png) | Boil Cloud · Boil Cloud | [`boil`](svg/color/boil.svg) | [✓](svg/color-dark/boil.svg) | [≤24](svg/small/color/boil.svg) | redrawn | [↗](https://cloud.boil.network/assets/img/logo.png) |
+| ![](png/color/24/po0.png) | PortChannel Zero · PortChannel Zero | [`po0`](svg/color/po0.svg) | [✓](svg/color-dark/po0.svg) | [≤24](svg/small/color/po0.svg) | vector | [↗](https://po0.io/) |
+| ![](png/color/24/pqs.png) | PQS · PQS 彼得巧私有雲 | [`pqs`](svg/color/pqs.svg) | [✓](svg/color-dark/pqs.svg) | [≤24](svg/small/color/pqs.svg) | redrawn | [↗](https://www.pqs.pw/assets/img/logo.png) |
 
 ---
 
@@ -440,7 +445,7 @@ npm ci && npm run build && npm run check
 
 | 允许的 `license` 值 / Accepted license statement | 条目数 / Icons |
 |---|---:|
-| `Proprietary brand artwork; no open license identified` | 154 |
+| `Proprietary brand artwork; no open license identified` | 159 |
 | `Proprietary brand artwork; no open license identified; CC0-1.0 Simple Icons monochrome balloon, brand rights reserved` | 1 |
 | `Proprietary brand artwork; no open license identified; CC0-1.0 Simple Icons monochrome mark, brand rights reserved` | 2 |
 | `Proprietary brand artwork; no open license identified; Source Sans Pro outlines under SIL OFL-1.1` | 1 |

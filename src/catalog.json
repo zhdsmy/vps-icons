@@ -5431,5 +5431,142 @@
       "source": "https://wap.ac/favicon.ico"
     },
     "smallMax": 24
+  },
+  {
+    "slug": "highendnetwork",
+    "name": "HighEndNetwork",
+    "names": {
+      "zh-CN": "HighEndNetwork"
+    },
+    "aliases": [
+      "HighEnd",
+      "HEN",
+      "High End Network"
+    ],
+    "website": "https://billing.highendnetwork.com/",
+    "brandColor": "#B5272C",
+    "source": "https://t.me/highendnetwork",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Trace the red arc, two-tone wordmark and NETWORK subtitle from the public channel avatar using Potrace. The channel links to the billing portal."
+    ],
+    "small": {
+      "artwork": "Pair the arc with bold H and E initials through 32 px.",
+      "source": "https://t.me/highendnetwork"
+    },
+    "smallMax": 32
+  },
+  {
+    "slug": "wepc",
+    "name": "WePC",
+    "names": {
+      "zh-CN": "WePC 车库云"
+    },
+    "aliases": [
+      "WePC.au",
+      "车库云",
+      "車庫雲"
+    ],
+    "website": "https://wepc.au",
+    "brandColor": "#1888E6",
+    "source": "https://wepc.au/assets/img/logo.png",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Reconstruct the two straight-sided strokes of the W from the left of the official WePC lockup. Lift the indigo on dark backgrounds."
+    ],
+    "small": {
+      "artwork": "Use the standalone brand symbol at 16 px.",
+      "source": "https://wepc.au/assets/img/logo.png"
+    }
+  },
+  {
+    "slug": "boil",
+    "name": "Boil Cloud",
+    "names": {
+      "zh-CN": "Boil Cloud"
+    },
+    "aliases": [
+      "Boil Network",
+      "BoilCloud",
+      "boil.network"
+    ],
+    "website": "https://cloud.boil.network/",
+    "brandColor": "#171717",
+    "source": "https://cloud.boil.network/assets/img/logo.png",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Isolate the circuit-cloud B from the official black-on-white wordmark and trace its shape with Potrace. Reverse the ink on dark surfaces."
+    ],
+    "small": {
+      "artwork": "Thicken the cloud and B. Simplify the three terminals through 24 px.",
+      "source": "https://cloud.boil.network/assets/img/logo.png"
+    },
+    "smallMax": 24
+  },
+  {
+    "slug": "po0",
+    "name": "PortChannel Zero",
+    "names": {
+      "zh-CN": "PortChannel Zero"
+    },
+    "aliases": [
+      "PO0.com",
+      "PO0.io",
+      "PortChannel Zero LLC",
+      "Port Channel Zero"
+    ],
+    "website": "https://po0.io/",
+    "brandColor": "#20242B",
+    "source": "https://po0.io/",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Extract the header globe from the official SVG. Expand its strokes and use solid ink for small-scale contrast."
+    ],
+    "small": {
+      "artwork": "Widen the globe and meridian lines. Omit the thin vertical axis through 24 px.",
+      "source": "https://po0.io/"
+    },
+    "smallMax": 24
+  },
+  {
+    "slug": "pqs",
+    "name": "PQS",
+    "names": {
+      "zh-CN": "PQS 彼得巧私有雲"
+    },
+    "aliases": [
+      "PittQiao",
+      "PQS彼得巧私有雲",
+      "彼得巧",
+      "PittQiao Network Information",
+      "pqs.pw"
+    ],
+    "website": "https://www.pqs.pw/",
+    "brandColor": "#002B61",
+    "source": "https://www.pqs.pw/assets/img/logo.png",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Isolate the crested bird from the PittQiao company wordmark. Use Potrace to retain the eye and to separate the orange, teal and navy shapes."
+    ],
+    "small": {
+      "artwork": "Shorten the fine curves and enlarge the eye of the bird through 24 px.",
+      "source": "https://www.pqs.pw/assets/img/logo.png"
+    },
+    "smallMax": 24
   }
 ]
