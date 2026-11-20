@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="currentColor">
+  <path fill-rule="evenodd" d="M3 9H12V54H7V15H3Z"/>
+  <path fill-rule="evenodd" d="M14 15h41q4 0 4 4v26q0 4 -4 4h-41q-4 0 -4 -4v-26q0 -4 4 -4Z M24.8 32a12.2 12.2 0 1 0 24.4 0a12.2 12.2 0 1 0 -24.4 0Z M15 24h7v3h-7Z M15 30h7v3h-7Z M15 36h7v3h-7Z"/>
+  <path fill-rule="evenodd" d="M15 48H23V54H15Z M26 48H47V54H26Z"/>
+  <path fill-rule="evenodd" d="M34.4 32a2.6 2.6 0 1 0 5.2 0a2.6 2.6 0 1 0 -5.2 0Z"/>
+  <path transform="rotate(0 37 32)" d="M36 31Q32 26 37 22Q42 21 44 25Q40 24 39 30Z"/>
+  <path transform="rotate(90 37 32)" d="M36 31Q32 26 37 22Q42 21 44 25Q40 24 39 30Z"/>
+  <path transform="rotate(180 37 32)" d="M36 31Q32 26 37 22Q42 21 44 25Q40 24 39 30Z"/>
+  <path transform="rotate(270 37 32)" d="M36 31Q32 26 37 22Q42 21 44 25Q40 24 39 30Z"/>
+</svg>

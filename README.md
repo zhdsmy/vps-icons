@@ -4,9 +4,9 @@
 
 Self-contained cloud, VPS, hosting, and generic infrastructure icons for monitoring dashboards, status pages, directories, and documentation. Load directly via jsDelivr CDN or self-host offline.
 
-当前共收录 **225** 个图标（`vector` 144 · `redrawn` 81；全部提供 SVG 与 8 档 PNG；**171** 个含深色变体，**77** 个含小尺寸专版）。
+当前共收录 **229** 个图标（`vector` 148 · `redrawn` 81；全部提供 SVG 与 8 档 PNG；**175** 个含深色变体，**79** 个含小尺寸专版）。
 
-Currently **225** icons (144 `vector`, 81 `redrawn`; all with SVG + 8 PNG sizes; **171** dark variants, **77** compact small masters).
+Currently **229** icons (148 `vector`, 81 `redrawn`; all with SVG + 8 PNG sizes; **175** dark variants, **79** compact small masters).
 
 [![全部图标预览（上：浅色背景，下：深色背景） / All icons on light and dark backgrounds](preview.png)](https://zhdsmy.github.io/vps-icons/preview.html)
 
@@ -406,6 +406,10 @@ All current entries ship as SVG (zero PNG-only, `upscaled`, or `placeholder` ico
 | ![](png/color/24/server.png) | Dedicated Server · 独立服务器 | [`server`](svg/color/server.svg) | [✓](svg/color-dark/server.svg) | [≤24](svg/small/color/server.svg) | vector | [↗](src/art/server/mono.svg) |
 | ![](png/color/24/mini-pc.png) | Mini PC · 小主机 | [`mini-pc`](svg/color/mini-pc.svg) | [✓](svg/color-dark/mini-pc.svg) | — | vector | [↗](src/art/mini-pc/mono.svg) |
 | ![](png/color/24/desktop.png) | Desktop PC · 台式机 | [`desktop`](svg/color/desktop.svg) | [✓](svg/color-dark/desktop.svg) | — | vector | [↗](src/art/desktop/mono.svg) |
+| ![](png/color/24/laptop.png) | Laptop · 笔记本 | [`laptop`](svg/color/laptop.svg) | [✓](svg/color-dark/laptop.svg) | — | vector | [↗](src/art/laptop/mono.svg) |
+| ![](png/color/24/sbc.png) | Single-Board Computer · 单板机 | [`sbc`](svg/color/sbc.svg) | [✓](svg/color-dark/sbc.svg) | [≤24](svg/small/color/sbc.svg) | vector | [↗](src/art/sbc/mono.svg) |
+| ![](png/color/24/nat.png) | NAT Gateway · NAT 机 | [`nat`](svg/color/nat.svg) | [✓](svg/color-dark/nat.svg) | — | vector | [↗](src/art/nat/mono.svg) |
+| ![](png/color/24/gpu.png) | GPU Server · GPU 服务器 | [`gpu`](svg/color/gpu.svg) | [✓](svg/color-dark/gpu.svg) | [≤24](svg/small/color/gpu.svg) | vector | [↗](src/art/gpu/mono.svg) |
 
 ---
 
@@ -455,7 +459,7 @@ npm ci && npm run build && npm run check
 | `Proprietary brand artwork; no open license identified; CC0-1.0 Simple Icons monochrome mark, brand rights reserved` | 2 |
 | `Proprietary brand artwork; no open license identified; Source Sans Pro outlines under SIL OFL-1.1` | 1 |
 | `Proprietary brand artwork; no open license identified; Lexend glyph outlines under SIL OFL-1.1` | 1 |
-| `MIT` | 10 |
+| `MIT` | 14 |
 | `MIT (LobeHub artwork); brand rights reserved` | 10 |
 | `CC0-1.0 (Simple Icons collection); brand rights reserved` | 26 |
 | `CC0-1.0 (SVG Logos collection); brand rights reserved` | 9 |

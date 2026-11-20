@@ -8086,6 +8086,160 @@
           "mono-white"
         ]
       }
+    },
+    {
+      "slug": "laptop",
+      "name": "Laptop",
+      "names": {
+        "zh-CN": "笔记本"
+      },
+      "aliases": [
+        "笔记本电脑",
+        "笔电",
+        "notebook computer"
+      ],
+      "website": "preview.html#light-laptop",
+      "brandColor": "#994966",
+      "source": "src/art/laptop/mono.svg",
+      "license": "MIT",
+      "quality": "vector",
+      "processing": [
+        "Original open laptop with an inset screen, hinged base and a trackpad notch."
+      ],
+      "small": {
+        "artwork": "Use the original filled pictogram at 16 px.",
+        "source": "src/art/laptop/mono.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "sbc",
+      "name": "Single-Board Computer",
+      "names": {
+        "zh-CN": "单板机"
+      },
+      "aliases": [
+        "开发板",
+        "盒子",
+        "single board computer",
+        "单板电脑",
+        "开发板主机"
+      ],
+      "website": "preview.html#light-sbc",
+      "brandColor": "#506F32",
+      "source": "src/art/sbc/mono.svg",
+      "license": "MIT",
+      "quality": "vector",
+      "processing": [
+        "Original asymmetric circuit board with two edge connectors, a central chip, mounting holes and a pin header."
+      ],
+      "small": {
+        "artwork": "Enlarge the chip recess and combine the row of header pins into a slot through 24 px.",
+        "source": "src/art/sbc/mono.svg",
+        "maxSize": 24
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "nat",
+      "name": "NAT Gateway",
+      "names": {
+        "zh-CN": "NAT 机"
+      },
+      "aliases": [
+        "NAT主机",
+        "端口映射",
+        "port forwarding",
+        "network address translation"
+      ],
+      "website": "preview.html#light-nat",
+      "brandColor": "#8A641B",
+      "source": "src/art/nat/mono.svg",
+      "license": "MIT",
+      "quality": "vector",
+      "processing": [
+        "Original one-to-two port map: a single jack connects through a branching trace to two destination sockets."
+      ],
+      "small": {
+        "artwork": "Use the original filled pictogram at 16 px.",
+        "source": "src/art/nat/mono.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "gpu",
+      "name": "GPU Server",
+      "names": {
+        "zh-CN": "GPU 服务器"
+      },
+      "aliases": [
+        "显卡",
+        "图形处理器",
+        "graphics card",
+        "显卡服务器"
+      ],
+      "website": "preview.html#light-gpu",
+      "brandColor": "#80478F",
+      "source": "src/art/gpu/mono.svg",
+      "license": "MIT",
+      "quality": "vector",
+      "processing": [
+        "Original graphics card with a slot bracket, edge contacts, vents and a cooling fan."
+      ],
+      "small": {
+        "artwork": "Use three broad fan blades and two large vents through 24 px.",
+        "source": "src/art/gpu/mono.svg",
+        "maxSize": 24
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
     }
   ]
 }

@@ -23,7 +23,7 @@ export const licenses = new Set([
 ])
 const genericIcons = new Set([
   'home', 'nas', 'relay', 'other', 'unknown',
-  'home-cloud', 'router', 'server', 'mini-pc', 'desktop',
+  'home-cloud', 'router', 'server', 'mini-pc', 'desktop', 'laptop', 'sbc', 'nat', 'gpu',
 ])
 const variants = [
   { svg: 'color', png: ['color'] },
