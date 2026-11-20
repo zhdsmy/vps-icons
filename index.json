@@ -8026,16 +8026,17 @@
         "小方盒主机"
       ],
       "website": "preview.html#light-mini-pc",
-      "brandColor": "#28776A",
-      "source": "src/art/mini-pc/mono.svg",
-      "license": "MIT",
+      "brandColor": "#0D9488",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Hard%20Drive/SVG/ic_fluent_hard_drive_20_filled.svg",
+      "license": "MIT (Microsoft Fluent UI System Icons); modified",
       "quality": "vector",
       "processing": [
-        "Original low enclosure in three-quarter view with a USB socket and power button on the front face."
+        "Build a compact 2.5D aluminum Mini-PC chassis in the unified Fluent color gradient palette, pairing a teal-mint top deck with a dark front fascia, glowing power LED and amber/cyan front ports."
       ],
       "small": {
-        "artwork": "Use the original filled pictogram at 16 px.",
-        "source": "src/art/mini-pc/mono.svg"
+        "artwork": "Simplify front I/O to an enlarged power LED and two bold port bars through 24 px.",
+        "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Hard%20Drive/SVG/ic_fluent_hard_drive_20_filled.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -8064,16 +8065,17 @@
         "台式主机"
       ],
       "website": "preview.html#light-desktop",
-      "brandColor": "#575094",
-      "source": "src/art/desktop/mono.svg",
-      "license": "MIT",
+      "brandColor": "#8B5CF6",
+      "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Desktop%20computer/Flat/desktop_computer_flat.svg",
+      "license": "MIT (Microsoft Fluent Emoji); modified",
       "quality": "vector",
       "processing": [
-        "Original monitor on a pedestal with a separate tower and front power button."
+        "Combine a widescreen monitor adapted from Microsoft Fluent Emoji Desktop computer and Fluent Desktop with a compact RGB-lit side tower in the unified Fluent color gradient palette."
       ],
       "small": {
-        "artwork": "Use the original filled pictogram at 16 px.",
-        "source": "src/art/desktop/mono.svg"
+        "artwork": "Simplify screen highlight and tower front strip for crisp legibility through 24 px.",
+        "source": "https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Desktop%20computer/Flat/desktop_computer_flat.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -8101,16 +8103,17 @@
         "notebook computer"
       ],
       "website": "preview.html#light-laptop",
-      "brandColor": "#994966",
-      "source": "src/art/laptop/mono.svg",
-      "license": "MIT",
+      "brandColor": "#EC4899",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Laptop/SVG/ic_fluent_laptop_48_color.svg",
+      "license": "MIT (Microsoft Fluent UI System Icons); modified",
       "quality": "vector",
       "processing": [
-        "Original open laptop with an inset screen, hinged base and a trackpad notch."
+        "Adapt Microsoft Fluent UI System Icons Laptop color geometry with a dark slate bezel, luminous rose-to-violet display gradient and metallic silver-slate keyboard wedge."
       ],
       "small": {
-        "artwork": "Use the original filled pictogram at 16 px.",
-        "source": "src/art/laptop/mono.svg"
+        "artwork": "Thicken the metallic base lip and omit the tiny thumb notch through 24 px.",
+        "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Laptop/SVG/ic_fluent_laptop_48_color.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -8140,16 +8143,16 @@
         "开发板主机"
       ],
       "website": "preview.html#light-sbc",
-      "brandColor": "#506F32",
-      "source": "src/art/sbc/mono.svg",
-      "license": "MIT",
+      "brandColor": "#16A34A",
+      "source": "https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/electronics.svg",
+      "license": "MIT (Icons8 Flat Color Icons); modified",
       "quality": "vector",
       "processing": [
-        "Original asymmetric circuit board with two edge connectors, a central chip, mounting holes and a pin header."
+        "Combine the emerald PCB and chip motif of Icons8 Flat Color Icons electronics with Fluent Developer Board edge ports in the unified Fluent color gradient system, adding golden GPIO headers and a cyan SoC core."
       ],
       "small": {
-        "artwork": "Enlarge the chip recess and combine the row of header pins into a slot through 24 px.",
-        "source": "src/art/sbc/mono.svg",
+        "artwork": "Reduce GPIO header to four bold pins and simplify edge port openings through 24 px.",
+        "source": "https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/electronics.svg",
         "maxSize": 24
       },
       "variants": {
@@ -8179,16 +8182,17 @@
         "network address translation"
       ],
       "website": "preview.html#light-nat",
-      "brandColor": "#8A641B",
-      "source": "src/art/nat/mono.svg",
-      "license": "MIT",
+      "brandColor": "#F59E0B",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Share%20Android/SVG/ic_fluent_share_android_32_color.svg",
+      "license": "MIT (Microsoft Fluent UI System Icons); modified",
       "quality": "vector",
       "processing": [
-        "Original one-to-two port map: a single jack connects through a branching trace to two destination sockets."
+        "Expand the branching node motif of Microsoft Fluent UI System Icons Share Android into a one-to-three NAT port-mapping diagram with an amber public-IP hub and emerald, azure and violet private port nodes."
       ],
       "small": {
-        "artwork": "Use the original filled pictogram at 16 px.",
-        "source": "src/art/nat/mono.svg"
+        "artwork": "Widen the branching pipes and slightly enlarge all four nodes through 24 px.",
+        "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Share%20Android/SVG/ic_fluent_share_android_32_color.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [

@@ -4,9 +4,9 @@
 
 Self-contained cloud, VPS, hosting, and generic infrastructure icons for monitoring dashboards, status pages, directories, and documentation. Load directly via jsDelivr CDN or self-host offline.
 
-当前共收录 **241** 个图标（`vector` 156 · `redrawn` 85；全部提供 SVG 与 8 档 PNG；**187** 个含深色变体，**88** 个含小尺寸专版）。
+当前共收录 **241** 个图标（`vector` 156 · `redrawn` 85；全部提供 SVG 与 8 档 PNG；**187** 个含深色变体，**92** 个含小尺寸专版）。
 
-Currently **241** icons (156 `vector`, 85 `redrawn`; all with SVG + 8 PNG sizes; **187** dark variants, **88** compact small masters).
+Currently **241** icons (156 `vector`, 85 `redrawn`; all with SVG + 8 PNG sizes; **187** dark variants, **92** compact small masters).
 
 [![全部图标预览（上：浅色背景，下：深色背景） / All icons on light and dark backgrounds](preview.png)](https://zhdsmy.github.io/vps-icons/preview.html)
 
@@ -404,11 +404,11 @@ All current entries ship as SVG (zero PNG-only, `upscaled`, or `placeholder` ico
 | ![](png/color/24/home-cloud.png) | Home Cloud · 家里云 | [`home-cloud`](svg/color/home-cloud.svg) | [✓](svg/color-dark/home-cloud.svg) | [≤24](svg/small/color/home-cloud.svg) | vector | [↗](https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Cloud/SVG/ic_fluent_cloud_48_color.svg) |
 | ![](png/color/24/router.png) | Router · 路由器 | [`router`](svg/color/router.svg) | [✓](svg/color-dark/router.svg) | [≤24](svg/small/color/router.svg) | vector | [↗](https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Router/SVG/ic_fluent_router_24_filled.svg) |
 | ![](png/color/24/server.png) | Dedicated Server · 独立服务器 | [`server`](svg/color/server.svg) | [✓](svg/color-dark/server.svg) | [≤24](svg/small/color/server.svg) | vector | [↗](https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/database.svg) |
-| ![](png/color/24/mini-pc.png) | Mini PC · 小主机 | [`mini-pc`](svg/color/mini-pc.svg) | [✓](svg/color-dark/mini-pc.svg) | — | vector | [↗](src/art/mini-pc/mono.svg) |
-| ![](png/color/24/desktop.png) | Desktop PC · 台式机 | [`desktop`](svg/color/desktop.svg) | [✓](svg/color-dark/desktop.svg) | — | vector | [↗](src/art/desktop/mono.svg) |
-| ![](png/color/24/laptop.png) | Laptop · 笔记本 | [`laptop`](svg/color/laptop.svg) | [✓](svg/color-dark/laptop.svg) | — | vector | [↗](src/art/laptop/mono.svg) |
-| ![](png/color/24/sbc.png) | Single-Board Computer · 单板机 | [`sbc`](svg/color/sbc.svg) | [✓](svg/color-dark/sbc.svg) | [≤24](svg/small/color/sbc.svg) | vector | [↗](src/art/sbc/mono.svg) |
-| ![](png/color/24/nat.png) | NAT Gateway · NAT 机 | [`nat`](svg/color/nat.svg) | [✓](svg/color-dark/nat.svg) | — | vector | [↗](src/art/nat/mono.svg) |
+| ![](png/color/24/mini-pc.png) | Mini PC · 小主机 | [`mini-pc`](svg/color/mini-pc.svg) | [✓](svg/color-dark/mini-pc.svg) | [≤24](svg/small/color/mini-pc.svg) | vector | [↗](https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Hard%20Drive/SVG/ic_fluent_hard_drive_20_filled.svg) |
+| ![](png/color/24/desktop.png) | Desktop PC · 台式机 | [`desktop`](svg/color/desktop.svg) | [✓](svg/color-dark/desktop.svg) | [≤24](svg/small/color/desktop.svg) | vector | [↗](https://github.com/microsoft/fluentui-emoji/blob/1ffb34c752ecf5d402f04cfb4b392c77f57c54bc/assets/Desktop%20computer/Flat/desktop_computer_flat.svg) |
+| ![](png/color/24/laptop.png) | Laptop · 笔记本 | [`laptop`](svg/color/laptop.svg) | [✓](svg/color-dark/laptop.svg) | [≤24](svg/small/color/laptop.svg) | vector | [↗](https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Laptop/SVG/ic_fluent_laptop_48_color.svg) |
+| ![](png/color/24/sbc.png) | Single-Board Computer · 单板机 | [`sbc`](svg/color/sbc.svg) | [✓](svg/color-dark/sbc.svg) | [≤24](svg/small/color/sbc.svg) | vector | [↗](https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/electronics.svg) |
+| ![](png/color/24/nat.png) | NAT Gateway · NAT 机 | [`nat`](svg/color/nat.svg) | [✓](svg/color-dark/nat.svg) | [≤24](svg/small/color/nat.svg) | vector | [↗](https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Share%20Android/SVG/ic_fluent_share_android_32_color.svg) |
 | ![](png/color/24/gpu.png) | GPU Server · GPU 服务器 | [`gpu`](svg/color/gpu.svg) | [✓](svg/color-dark/gpu.svg) | [≤24](svg/small/color/gpu.svg) | vector | [↗](src/art/gpu/mono.svg) |
 | ![](png/color/24/synology.png) | Synology · 群晖 | [`synology`](svg/color/synology.svg) | [✓](svg/color-dark/synology.svg) | [≤32](svg/small/color/synology.svg) | vector | [↗](https://fileres.synology.com/images/www/company/branding/Synology_logo_Black.zip) |
 | ![](png/color/24/qnap.png) | QNAP · 威联通 | [`qnap`](svg/color/qnap.svg) | [✓](svg/color-dark/qnap.svg) | [≤32](svg/small/color/qnap.svg) | vector | [↗](https://www.qnap.com/assets/img/header/2025/qnap-logo.svg) |
@@ -471,10 +471,10 @@ npm ci && npm run build && npm run check
 | `Proprietary brand artwork; no open license identified; CC0-1.0 Simple Icons monochrome mark, brand rights reserved` | 2 |
 | `Proprietary brand artwork; no open license identified; Source Sans Pro outlines under SIL OFL-1.1` | 1 |
 | `Proprietary brand artwork; no open license identified; Lexend glyph outlines under SIL OFL-1.1` | 1 |
-| `MIT` | 9 |
-| `MIT (Microsoft Fluent UI System Icons); modified` | 4 |
-| `MIT (Microsoft Fluent Emoji); modified` | 0 |
-| `MIT (Icons8 Flat Color Icons); modified` | 1 |
+| `MIT` | 4 |
+| `MIT (Microsoft Fluent UI System Icons); modified` | 7 |
+| `MIT (Microsoft Fluent Emoji); modified` | 1 |
+| `MIT (Icons8 Flat Color Icons); modified` | 2 |
 | `MIT (LobeHub artwork); brand rights reserved` | 10 |
 | `CC0-1.0 (Simple Icons collection); brand rights reserved` | 28 |
 | `CC0-1.0 (SVG Logos collection); brand rights reserved` | 10 |
