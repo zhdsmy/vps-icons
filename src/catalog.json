@@ -350,8 +350,7 @@
     },
     "aliases": [
       "ctyun",
-      "tianyiyun",
-      "china telecom"
+      "tianyiyun"
     ],
     "website": "https://www.ctyun.cn",
     "brandColor": "#DF0428",
@@ -4721,9 +4720,7 @@
       "zh-CN": "中华电信 hicloud"
     },
     "aliases": [
-      "中華電信",
-      "hicloud",
-      "HiNet"
+      "hicloud"
     ],
     "website": "https://cloud.hinet.net/",
     "brandColor": "#0065AC",
