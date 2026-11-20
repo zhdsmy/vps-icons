@@ -4,9 +4,9 @@
 
 Self-contained cloud, VPS, hosting, and generic infrastructure icons for monitoring dashboards, status pages, directories, and documentation. Load directly via jsDelivr CDN or self-host offline.
 
-当前共收录 **241** 个图标（`vector` 156 · `redrawn` 85；全部提供 SVG 与 8 档 PNG；**187** 个含深色变体，**86** 个含小尺寸专版）。
+当前共收录 **241** 个图标（`vector` 156 · `redrawn` 85；全部提供 SVG 与 8 档 PNG；**187** 个含深色变体，**88** 个含小尺寸专版）。
 
-Currently **241** icons (156 `vector`, 85 `redrawn`; all with SVG + 8 PNG sizes; **187** dark variants, **86** compact small masters).
+Currently **241** icons (156 `vector`, 85 `redrawn`; all with SVG + 8 PNG sizes; **187** dark variants, **88** compact small masters).
 
 [![全部图标预览（上：浅色背景，下：深色背景） / All icons on light and dark backgrounds](preview.png)](https://zhdsmy.github.io/vps-icons/preview.html)
 
@@ -228,8 +228,8 @@ All current entries ship as SVG (zero PNG-only, `upscaled`, or `placeholder` ico
 | ![](png/color/24/civo.png) | Civo · Civo | [`civo`](svg/color/civo.svg) | — | — | vector | [↗](https://www.civo.com/assets-rebrand/favicons/favicon.svg) |
 | ![](png/color/24/exoscale.png) | Exoscale · Exoscale | [`exoscale`](svg/color/exoscale.svg) | [✓](svg/color-dark/exoscale.svg) | [≤24](svg/small/color/exoscale.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/exoscale.svg) |
 | ![](png/color/24/vercel.png) | Vercel · Vercel | [`vercel`](svg/color/vercel.svg) | [✓](svg/color-dark/vercel.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/vercel.svg) |
-| ![](png/color/24/home.png) | Home · 家宽 | [`home`](svg/color/home.svg) | [✓](svg/color-dark/home.svg) | — | vector | [↗](src/art/home/mono.svg) |
-| ![](png/color/24/nas.png) | NAS · 网络存储 | [`nas`](svg/color/nas.svg) | [✓](svg/color-dark/nas.svg) | — | vector | [↗](src/art/nas/mono.svg) |
+| ![](png/color/24/home.png) | Home · 家宽 | [`home`](svg/color/home.svg) | [✓](svg/color-dark/home.svg) | [≤24](svg/small/color/home.svg) | vector | [↗](https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Home/SVG/ic_fluent_home_48_color.svg) |
+| ![](png/color/24/nas.png) | NAS · 网络存储 | [`nas`](svg/color/nas.svg) | [✓](svg/color-dark/nas.svg) | [≤24](svg/small/color/nas.svg) | vector | [↗](https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Hard%20Drive/SVG/ic_fluent_hard_drive_20_filled.svg) |
 | ![](png/color/24/relay.png) | Relay · 中转 | [`relay`](svg/color/relay.svg) | [✓](svg/color-dark/relay.svg) | — | vector | [↗](src/art/relay/mono.svg) |
 | ![](png/color/24/other.png) | Other · 其他 | [`other`](svg/color/other.svg) | [✓](svg/color-dark/other.svg) | — | vector | [↗](src/art/other/mono.svg) |
 | ![](png/color/24/unknown.png) | Unknown · 未知厂商 | [`unknown`](svg/color/unknown.svg) | [✓](svg/color-dark/unknown.svg) | — | vector | [↗](src/art/unknown/mono.svg) |
@@ -401,9 +401,9 @@ All current entries ship as SVG (zero PNG-only, `upscaled`, or `placeholder` ico
 | ![](png/color/24/boil.png) | Boil Cloud · Boil Cloud | [`boil`](svg/color/boil.svg) | [✓](svg/color-dark/boil.svg) | [≤24](svg/small/color/boil.svg) | redrawn | [↗](https://cloud.boil.network/assets/img/logo.png) |
 | ![](png/color/24/po0.png) | PortChannel Zero · PortChannel Zero | [`po0`](svg/color/po0.svg) | [✓](svg/color-dark/po0.svg) | [≤24](svg/small/color/po0.svg) | vector | [↗](https://po0.io/) |
 | ![](png/color/24/pqs.png) | PQS · PQS 彼得巧私有雲 | [`pqs`](svg/color/pqs.svg) | [✓](svg/color-dark/pqs.svg) | [≤24](svg/small/color/pqs.svg) | redrawn | [↗](https://www.pqs.pw/assets/img/logo.png) |
-| ![](png/color/24/home-cloud.png) | Home Cloud · 家里云 | [`home-cloud`](svg/color/home-cloud.svg) | [✓](svg/color-dark/home-cloud.svg) | [≤24](svg/small/color/home-cloud.svg) | vector | [↗](src/art/home-cloud/mono.svg) |
-| ![](png/color/24/router.png) | Router · 路由器 | [`router`](svg/color/router.svg) | [✓](svg/color-dark/router.svg) | [≤24](svg/small/color/router.svg) | vector | [↗](src/art/router/mono.svg) |
-| ![](png/color/24/server.png) | Dedicated Server · 独立服务器 | [`server`](svg/color/server.svg) | [✓](svg/color-dark/server.svg) | [≤24](svg/small/color/server.svg) | vector | [↗](src/art/server/mono.svg) |
+| ![](png/color/24/home-cloud.png) | Home Cloud · 家里云 | [`home-cloud`](svg/color/home-cloud.svg) | [✓](svg/color-dark/home-cloud.svg) | [≤24](svg/small/color/home-cloud.svg) | vector | [↗](https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Cloud/SVG/ic_fluent_cloud_48_color.svg) |
+| ![](png/color/24/router.png) | Router · 路由器 | [`router`](svg/color/router.svg) | [✓](svg/color-dark/router.svg) | [≤24](svg/small/color/router.svg) | vector | [↗](https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Router/SVG/ic_fluent_router_24_filled.svg) |
+| ![](png/color/24/server.png) | Dedicated Server · 独立服务器 | [`server`](svg/color/server.svg) | [✓](svg/color-dark/server.svg) | [≤24](svg/small/color/server.svg) | vector | [↗](https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/database.svg) |
 | ![](png/color/24/mini-pc.png) | Mini PC · 小主机 | [`mini-pc`](svg/color/mini-pc.svg) | [✓](svg/color-dark/mini-pc.svg) | — | vector | [↗](src/art/mini-pc/mono.svg) |
 | ![](png/color/24/desktop.png) | Desktop PC · 台式机 | [`desktop`](svg/color/desktop.svg) | [✓](svg/color-dark/desktop.svg) | — | vector | [↗](src/art/desktop/mono.svg) |
 | ![](png/color/24/laptop.png) | Laptop · 笔记本 | [`laptop`](svg/color/laptop.svg) | [✓](svg/color-dark/laptop.svg) | — | vector | [↗](src/art/laptop/mono.svg) |
@@ -471,7 +471,10 @@ npm ci && npm run build && npm run check
 | `Proprietary brand artwork; no open license identified; CC0-1.0 Simple Icons monochrome mark, brand rights reserved` | 2 |
 | `Proprietary brand artwork; no open license identified; Source Sans Pro outlines under SIL OFL-1.1` | 1 |
 | `Proprietary brand artwork; no open license identified; Lexend glyph outlines under SIL OFL-1.1` | 1 |
-| `MIT` | 14 |
+| `MIT` | 9 |
+| `MIT (Microsoft Fluent UI System Icons); modified` | 4 |
+| `MIT (Microsoft Fluent Emoji); modified` | 0 |
+| `MIT (Icons8 Flat Color Icons); modified` | 1 |
 | `MIT (LobeHub artwork); brand rights reserved` | 10 |
 | `CC0-1.0 (Simple Icons collection); brand rights reserved` | 28 |
 | `CC0-1.0 (SVG Logos collection); brand rights reserved` | 10 |

@@ -1715,16 +1715,17 @@
         "家庭宽带"
       ],
       "website": "preview.html#light-home",
-      "brandColor": "#18795B",
-      "source": "src/art/home/mono.svg",
-      "license": "MIT",
+      "brandColor": "#F97316",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Home/SVG/ic_fluent_home_48_color.svg",
+      "license": "MIT (Microsoft Fluent UI System Icons); modified",
       "quality": "vector",
       "processing": [
-        "Original filled geometric pictogram drawn on the common canvas."
+        "Adapt the Microsoft Fluent UI System Icons Home color house and add emerald-to-cyan Wi-Fi broadband signal arcs at top right to distinguish home broadband from home cloud."
       ],
       "small": {
-        "artwork": "Use the primary graphic mark at 16 px.",
-        "source": "src/art/home/mono.svg"
+        "artwork": "Widen the Wi-Fi arcs and omit the small attic window through 24 px.",
+        "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Home/SVG/ic_fluent_home_48_color.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -1752,16 +1753,17 @@
         "storage"
       ],
       "website": "preview.html#light-nas",
-      "brandColor": "#3467A3",
-      "source": "src/art/nas/mono.svg",
-      "license": "MIT",
+      "brandColor": "#2563EB",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Hard%20Drive/SVG/ic_fluent_hard_drive_20_filled.svg",
+      "license": "MIT (Microsoft Fluent UI System Icons); modified",
       "quality": "vector",
       "processing": [
-        "Original filled geometric pictogram optically balanced to 50 x 48 on the common canvas with subtle rounded bays and crisp LED cutouts."
+        "Build a two-bay desktop NAS enclosure in the Microsoft Fluent UI System Icons color gradient palette, pairing a metallic titanium shell with twin cyan-cobalt vertical drive bays and status LEDs."
       ],
       "small": {
-        "artwork": "Use the primary graphic mark at 16 px.",
-        "source": "src/art/nas/mono.svg"
+        "artwork": "Simplify bay details to bold twin drive bays, enlarged green LEDs and a clean lower bar through 24 px.",
+        "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Hard%20Drive/SVG/ic_fluent_hard_drive_20_filled.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -7906,16 +7908,16 @@
         "jialiyun"
       ],
       "website": "preview.html#light-home-cloud",
-      "brandColor": "#116E8A",
-      "source": "src/art/home-cloud/mono.svg",
-      "license": "MIT",
+      "brandColor": "#0EA5E9",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Cloud/SVG/ic_fluent_cloud_48_color.svg",
+      "license": "MIT (Microsoft Fluent UI System Icons); modified",
       "quality": "vector",
       "processing": [
-        "Original cloud above a gabled house, separated by an open roofline. A server bay is cut into the front wall."
+        "Compose the Microsoft Fluent UI System Icons Cloud color geometry with the warm roofed House from ic_fluent_home_48_color.svg (same pinned commit) and add a dark-slate homelab server bay with glowing status LEDs. Tune gradients for dark backgrounds and build an evenodd mono silhouette."
       ],
       "small": {
-        "artwork": "Omit the status lamp and square off the server slot through 24 px.",
-        "source": "src/art/home-cloud/mono.svg",
+        "artwork": "Simplify the indoor server bay into a single bold slot with enlarged status LED through 24 px.",
+        "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Cloud/SVG/ic_fluent_cloud_48_color.svg",
         "maxSize": 24
       },
       "variants": {
@@ -7946,16 +7948,16 @@
         "luyouqi"
       ],
       "website": "preview.html#light-router",
-      "brandColor": "#9E5124",
-      "source": "src/art/router/mono.svg",
-      "license": "MIT",
+      "brandColor": "#F59E0B",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Router/SVG/ic_fluent_router_24_filled.svg",
+      "license": "MIT (Microsoft Fluent UI System Icons); modified",
       "quality": "vector",
       "processing": [
-        "Original twin-antenna router with a low chassis, short feet and front-panel indicators."
+        "Reconstruct the dual-antenna wireless router from Fluent Router geometry in the Fluent color gradient system, adding amber-orange signal arcs, an azure top deck and multi-color front status LEDs."
       ],
       "small": {
-        "artwork": "Combine the indicators into two clear panel slots through 24 px.",
-        "source": "src/art/router/mono.svg",
+        "artwork": "Thicken the twin antennas and signal waves and enlarge the three front LEDs through 24 px.",
+        "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Router/SVG/ic_fluent_router_24_filled.svg",
         "maxSize": 24
       },
       "variants": {
@@ -7985,16 +7987,16 @@
         "dedicated machine"
       ],
       "website": "preview.html#light-server",
-      "brandColor": "#3F5A79",
-      "source": "src/art/server/mono.svg",
-      "license": "MIT",
+      "brandColor": "#4F46E5",
+      "source": "https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/database.svg",
+      "license": "MIT (Icons8 Flat Color Icons); modified",
       "quality": "vector",
       "processing": [
-        "Original three-unit rack with a tall frame, bay handles and activity lamps."
+        "Adapt the stacked three-tier rack silhouette from Icons8 Flat Color Icons database into the unified Fluent color gradient palette with indigo-violet blades, color-coded status LEDs and silver drive vents."
       ],
       "small": {
-        "artwork": "Widen the gaps between units and retain one handle per bay through 24 px.",
-        "source": "src/art/server/mono.svg",
+        "artwork": "Enlarge each blade status LED and simplify vent bars through 24 px.",
+        "source": "https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/database.svg",
         "maxSize": 24
       },
       "variants": {
