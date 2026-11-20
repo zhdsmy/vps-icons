@@ -333,7 +333,7 @@
     "format": "svg",
     "hasDark": false,
     "processing": [
-      "Hand-draw the blue rounded-square badge and pixelated U mark as clean SVG against the 512 x 512 official GitHub organization avatar, optically sized to 50 x 50 with larger crisp pixel blocks at 16 and 24 px."
+      "Hand-draw the blue rounded-square badge and pixelated U mark as clean SVG against the 512 x 512 official GitHub organization avatar, optically sized to 50 x 50 with matching badge-cutout monochrome and bolder pixel blocks at 16 and 24 px."
     ],
     "small": {
       "artwork": "Use the optically sized badge and U mark with bolder pixel blocks at 16 and 24 px.",
@@ -361,12 +361,13 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+      "Isolate the native mark, center it on the 64-unit viewBox, prepare the monochrome and color-dark masters, and add a stroke-reinforced 16/24 px small variant."
     ],
     "small": {
-      "artwork": "Use the primary graphic mark at 16 px.",
+      "artwork": "Use the stroke-reinforced cloud-and-arrow mark at 16 and 24 px.",
       "source": "https://www.ctyun.cn/s/q04sv38ZSzTBF4mEHo-3dVsyWITNHb2AHhoKmmcfMQvFLURsx3V4aUR26W8PQUqCT8irIp8kNZZFmZcjQa3tK6eXmmMshjNGFvsiB8BbIGaFz_TPP8FfRddLJaCyZHeBXWsC1L62ycvoisuSuYDeDRtmnH44p_kJ"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "digitalocean",
@@ -436,12 +437,13 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Keep the native isometric stacked-cube mark, replace the washed-out single-hue color-dark with vivid two-tone greens and mint edges, and convert monochrome to solid-ink facets without gray opacity."
+      "Keep the native isometric stacked-cube mark, replace the washed-out single-hue color-dark with vivid two-tone greens and mint edges, and add a bolder 16/24 px small variant with solid-block monochrome cubes."
     ],
     "small": {
-      "artwork": "Use the primary graphic mark at 16 px.",
+      "artwork": "Use the edge-reinforced cube mark and solid-block monochrome silhouette at 16 and 24 px.",
       "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/linode.svg"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "akamai",
@@ -462,12 +464,13 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+      "Isolate the native mark, center it on the 64-unit viewBox, prepare the monochrome and color-dark masters, and add a stroke-reinforced 16/24 px small variant so all three wave arcs stay crisp."
     ],
     "small": {
-      "artwork": "Use the primary graphic mark at 16 px.",
+      "artwork": "Use the stroke-reinforced three-wave mark at 16 and 24 px.",
       "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/akamai.svg"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "hetzner",
@@ -562,10 +565,10 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Center the native looped ribbon cleanly within 94% width and add an optically taller, bolder 16/24 px small variant for crisp sidebar legibility."
+      "Center the native looped ribbon cleanly within 94% width and add an optically taller, thicker 16/24 px small variant for crisp sidebar legibility."
     ],
     "small": {
-      "artwork": "Use the optically taller, bolder looped-ribbon mark at 16 and 24 px.",
+      "artwork": "Use the optically taller, thicker looped-ribbon mark at 16 and 24 px.",
       "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/upcloud.svg"
     },
     "smallMax": 24
@@ -637,10 +640,10 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Reconstruct the native 3-tier isometric diamond stack with opaque single/overlap brand blues matching Kamatera logo.png (removing washed-out 0.5 opacity), a solid-ink stacked-tier monochrome mark, and a bolder 16/24 px small variant."
+      "Reconstruct the native 3-tier isometric diamond stack with opaque single/overlap brand blues matching Kamatera logo.png (removing washed-out 0.5 opacity), a solid-ink stacked-tier monochrome mark, and a cleanly separated 3-tier 16/24 px small variant."
     ],
     "small": {
-      "artwork": "Use the bolder 3-tier isometric stack at 16 and 24 px.",
+      "artwork": "Use the cleanly separated 3-tier isometric stack at 16 and 24 px.",
       "source": "https://www.kamatera.com/wp-content/themes/kamatera/images/Group%20666.svg"
     },
     "paletteSource": "https://www.kamatera.com/wp-content/uploads/cropped-cropped-06169472-7db8-4ba3-91f6-3b4e34b5e168-1.png",
@@ -739,7 +742,7 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Keep the native hatching-servers-in-egg geometry with strengthened cool-silver eggshell contrast on light backgrounds, opaque tones in color-dark, a solid-ink cracked-egg monochrome silhouette, and a simplified 16/24 px small variant."
+      "Keep the native hatching-servers-in-egg geometry with strengthened cool-silver eggshell contrast on light backgrounds, lightened server towers in color-dark for #111827 legibility, a solid-ink cracked-egg monochrome silhouette, and a simplified 16/24 px small variant."
     ],
     "small": {
       "artwork": "Use the simplified wider hatching-egg mark with bolder vents at 16 and 24 px.",
@@ -766,15 +769,16 @@
     "license": "Proprietary brand artwork; no open license identified",
     "quality": "redrawn",
     "format": "svg",
-    "hasDark": false,
+    "hasDark": true,
     "processing": [
       "Hand-draw the metallic grey circular ring, diagonal green orbital swoosh, and top-right spear tip as clean geometric SVG against the 1120 x 1032 official full logo (cross-checked with the 256 x 256 GitHub avatar).",
-      "Separate the ribbon and ring with a crisp cutout channel so color and monochrome variants remain clean on light and dark backgrounds."
+      "Separate the ribbon and ring with a crisp cutout channel, add a brightened color-dark variant for dark backgrounds, and provide a centered 16/24 px small variant with a reinforced spear tip."
     ],
     "small": {
-      "artwork": "Use the primary CloudCone emblem at 16 px.",
+      "artwork": "Use the centered CloudCone emblem with a reinforced spear tip at 16 and 24 px.",
       "source": "https://cloudcone.com/wp-content/uploads/2017/05/cloudcone-logo-full.png"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "racknerd",
@@ -910,16 +914,17 @@
     "license": "Proprietary brand artwork; no open license identified",
     "quality": "vector",
     "format": "svg",
-    "hasDark": false,
+    "hasDark": true,
     "processing": [
-      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters.",
+      "Isolate the native mark, center it on the 64-unit viewBox, add a brightened blue color-dark variant, and add a 16/24 px small variant with reinforced outer walls and inner cube seams.",
       "Header loader vector; blue palette sampled from the official Apple touch icon."
     ],
     "small": {
-      "artwork": "Use the primary graphic mark at 16 px.",
+      "artwork": "Use the reinforced notched-cube mark with wider inner seams at 16 and 24 px.",
       "source": "https://akile.ai/"
     },
-    "paletteSource": "https://akile.ai/logo-apple-512x512.png"
+    "paletteSource": "https://akile.ai/logo-apple-512x512.png",
+    "smallMax": 24
   },
   {
     "slug": "bagevm",
@@ -939,12 +944,13 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Hand-draw the swirling B badge as clean SVG against the official header logo (logo-dark.png) and 32 x 32 favicon, using vivid lightened brand indigo (#9491FF) in color-dark."
+      "Hand-draw the swirling B badge as clean SVG against the official header logo (logo-dark.png) and 32 x 32 favicon, using vivid lightened brand indigo (#9491FF) in color-dark and a simplified 16/24 px small variant without outer splash dots."
     ],
     "small": {
-      "artwork": "Use the primary swirling B emblem at 16 px.",
+      "artwork": "Use the simplified swirling B emblem without outer splash dots at 16 and 24 px.",
       "source": "https://www.bagevm.com/templates/bagevm/assets/media/logos/logo-dark.png"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "dmit",
@@ -1028,13 +1034,14 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Hand-draw the blue cloud and white cartoon dog head as clean SVG against the 320 x 320 official Telegram channel avatar and 128 x 128 transparent official logo (https://assets.dogyun.com/home/img/logo-128px.png).",
-      "Add a subtle white outer contour around the dark snout and ears in color-dark for dark surfaces, and punch out the dog face via evenodd for monochrome."
+      "Hand-draw and optically center the blue cloud and white cartoon dog head as clean SVG against the 320 x 320 official Telegram channel avatar and 128 x 128 transparent official logo (https://assets.dogyun.com/home/img/logo-128px.png).",
+      "Add a white outer contour around the snout and ears in color-dark for dark surfaces, punch out the dog face via evenodd for monochrome, and provide a bolder 16/24 px small variant."
     ],
     "small": {
-      "artwork": "Use the primary DogYun mascot mark at 16 px.",
+      "artwork": "Use the bolder DogYun mascot mark with reinforced contours at 16 and 24 px.",
       "source": "https://t.me/dogyun"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "misaka",
@@ -1107,12 +1114,13 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Keep the native layered shield mark, add a brightened cyan-blue color-dark variant, and remove opacity shading from monochrome so the concentric shields render cleanly."
+      "Keep the native layered shield mark, add a brightened cyan-blue color-dark variant, remove opacity shading from monochrome, and provide a bolder 16/24 px small variant with wider layer gaps and deeper top-arch contrast on light backgrounds."
     ],
     "small": {
-      "artwork": "Use the primary graphic mark at 16 px.",
+      "artwork": "Use the bolder concentric shield mark with wider layer gaps at 16 and 24 px.",
       "source": "https://www.colocrossing.com/wp-content/uploads/2026/10/ColoCrossing_website_logo-1.svg"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "evoxt",
@@ -1132,12 +1140,13 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Isolate the native 3-wave mark on the 64-unit viewBox; set the middle wave to Evoxt brand navy (#2B3A67) on light backgrounds and #FFFFFF in color-dark so all three waves stay legible on both themes."
+      "Isolate the native 3-wave mark on the 64-unit viewBox; set the middle wave to Evoxt brand navy (#2B3A67) on light backgrounds and #FFFFFF in color-dark, and add a 16/24 px small variant with wider vertical wave separation and reinforced strokes."
     ],
     "small": {
-      "artwork": "Use the primary graphic mark at 16 px.",
+      "artwork": "Use the wider-spaced, stroke-reinforced three-wave mark at 16 and 24 px.",
       "source": "https://evoxt.com/img/evoxtblack-icon.svg"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "spartan-host",
