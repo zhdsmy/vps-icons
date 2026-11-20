@@ -5156,20 +5156,18 @@
     ],
     "website": "https://bytevirt.com",
     "brandColor": "#3850E6",
-    "source": "https://bytevirt.com/assets/img/logo.png",
+    "source": "https://t.me/bytevirt",
     "license": "Proprietary brand artwork; no open license identified",
     "quality": "redrawn",
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Extract the hexagonal cloud emblem from the left of the official header, opening the white portions for transparent mono.",
-      "Small artwork reference: official ByteVirt channel https://t.me/bytevirt"
+      "Trace the hexagonal cloud emblem from the official ByteVirt channel avatar (checked against https://bytevirt.com/assets/img/logo.png), keeping the inner cloud cutout open across all sizes."
     ],
     "small": {
-      "artwork": "Open the central cloud outline and hexagonal channel through 32 px.",
+      "artwork": "Use the standalone hexagonal cloud emblem with open cloud and channel cutouts at sidebar sizes.",
       "source": "https://t.me/bytevirt"
-    },
-    "smallMax": 32
+    }
   },
   {
     "slug": "bestvm",
@@ -5396,9 +5394,9 @@
     "license": "Proprietary brand artwork; no open license identified",
     "quality": "redrawn",
     "format": "svg",
-    "hasDark": false,
+    "hasDark": true,
     "processing": [
-      "Isolate the cloud above the DigitalVirt wordmark and redraw its two sweeping color bands over the cyan-blue gradient."
+      "Isolate the cloud above the DigitalVirt wordmark and redraw its two sweeping color bands over the cyan-blue gradient. Lift the deep blue stop for dark backgrounds."
     ],
     "small": {
       "artwork": "Use the standalone brand mark at 16 px.",
@@ -5422,7 +5420,7 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Redraw the central cloud mascot and its squinting face from the MoeCloud header. Remove the flanking clouds and the overlapping lettering."
+      "Redraw the central cloud mascot and its squinting face from the MoeCloud header, deepening the light-mode cloud tint and cyan outline for white-background contrast."
     ],
     "small": {
       "artwork": "Use a heavier cloud outline and facial features through 32 px.",
@@ -6067,12 +6065,14 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Isolate the horned F from the official header, fit its alpha outline with Potrace and brighten the blue for dark backgrounds."
+      "Isolate the horned F from the official header, fit its alpha outline with Potrace and brighten the blue for dark backgrounds.",
+      "For 16 and 24 px, keep the original proportions and reinforce the horned F contour with a matching stroke."
     ],
     "small": {
-      "artwork": "Use the isolated emblem at sidebar sizes.",
+      "artwork": "Reinforce the horned F contour with a matching stroke for 16 and 24 px.",
       "source": "https://static2.fnnas.com/official/fnos-logo.png"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "unraid",
@@ -6203,7 +6203,7 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Rebuild the blue rounded tile and fit its transparent S, dot and OS counters with Potrace from the official icon. Use the same cutouts for monochrome."
+      "Rebuild the blue rounded tile and fit its S, dot and OS counters with Potrace from the official icon. Back the color variants with white so the counters stay crisp on dark backgrounds while monochrome keeps transparent cutouts."
     ],
     "small": {
       "artwork": "Omit the small OS lettering and keep the striped S and dot through 24 px.",
@@ -6232,7 +6232,7 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Retain the berry and leaf layers of the pinned SVG Logos mark. Cut the colored cells out for monochrome and outline the dark variant."
+      "Retain the berry and leaf layers of the pinned SVG Logos mark, closing the silhouette path cleanly. Cut the colored cells out for monochrome and outline and brighten the dark variant."
     ],
     "small": {
       "artwork": "Use two leaves and seven enlarged drupelets at 16 and 24 px.",
