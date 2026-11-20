@@ -4,9 +4,9 @@
 
 Self-contained cloud, VPS, hosting, and generic infrastructure icons for monitoring dashboards, status pages, directories, and documentation. Load directly via jsDelivr CDN or self-host offline.
 
-当前共收录 **241** 个图标（`vector` 156 · `redrawn` 85；全部提供 SVG 与 8 档 PNG；**194** 个含深色变体，**115** 个含小尺寸专版）。
+当前共收录 **241** 个图标（`vector` 157 · `redrawn` 84；全部提供 SVG 与 8 档 PNG；**197** 个含深色变体，**123** 个含小尺寸专版）。
 
-Currently **241** icons (156 `vector`, 85 `redrawn`; all with SVG + 8 PNG sizes; **194** dark variants, **115** compact small masters).
+Currently **241** icons (157 `vector`, 84 `redrawn`; all with SVG + 8 PNG sizes; **197** dark variants, **123** compact small masters).
 
 [![全部图标预览（上：浅色背景，下：深色背景） / All icons on light and dark backgrounds](preview.png)](https://zhdsmy.github.io/vps-icons/preview.html)
 
@@ -297,25 +297,25 @@ English and Chinese names appear together when they differ. The next column list
 | ![](png/color/24/kt-cloud.png) | kt cloud | — | [`kt-cloud`](svg/color/kt-cloud.svg) | [✓](svg/color-dark/kt-cloud.svg) | — | vector | [↗](https://upload.wikimedia.org/wikipedia/commons/2/22/KT_Corp_2D_logo.svg) |
 | ![](png/color/24/akkocloud.png) | AkkoCloud | — | [`akkocloud`](svg/color/akkocloud.svg) | [✓](svg/color-dark/akkocloud.svg) | [≤32](svg/small/color/akkocloud.svg) | redrawn | [↗](https://www.akkocloud.com/templates/akko/assets/img/logo-1.png) |
 | ![](png/color/24/rackspace.png) | Rackspace Technology | — | [`rackspace`](svg/color/rackspace.svg) | [✓](svg/color-dark/rackspace.svg) | — | vector | [↗](https://www.rackspace.com/wp-content/uploads/2026/10/Rackspace_Logo_Black.svg) |
-| ![](png/color/24/cloudways.png) | Cloudways | — | [`cloudways`](svg/color/cloudways.svg) | [✓](svg/color-dark/cloudways.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/cloudways.svg) |
-| ![](png/color/24/infomaniak.png) | Infomaniak | — | [`infomaniak`](svg/color/infomaniak.svg) | — | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/infomaniak.svg) |
+| ![](png/color/24/cloudways.png) | Cloudways | — | [`cloudways`](svg/color/cloudways.svg) | [✓](svg/color-dark/cloudways.svg) | [≤24](svg/small/color/cloudways.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/cloudways.svg) |
+| ![](png/color/24/infomaniak.png) | Infomaniak | — | [`infomaniak`](svg/color/infomaniak.svg) | [✓](svg/color-dark/infomaniak.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/infomaniak.svg) |
 | ![](png/color/24/wp-engine.png) | WP Engine | — | [`wp-engine`](svg/color/wp-engine.svg) | [✓](svg/color-dark/wp-engine.svg) | [≤24](svg/small/color/wp-engine.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/wpengine.svg) |
 | ![](png/color/24/koyeb.png) | Koyeb | — | [`koyeb`](svg/color/koyeb.svg) | [✓](svg/color-dark/koyeb.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/koyeb.svg) |
-| ![](png/color/24/kinsta.png) | Kinsta | — | [`kinsta`](svg/color/kinsta.svg) | [✓](svg/color-dark/kinsta.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/kinsta.svg) |
+| ![](png/color/24/kinsta.png) | Kinsta | — | [`kinsta`](svg/color/kinsta.svg) | [✓](svg/color-dark/kinsta.svg) | — | vector | [↗](https://kinsta.com/wp-content/themes/kinsta/images/custom-pages/page/press/kinsta-icon.svg?v=20250707) |
 | ![](png/color/24/gandi.png) | Gandi | — | [`gandi`](svg/color/gandi.svg) | [✓](svg/color-dark/gandi.svg) | — | vector | [↗](https://www.gandi.net/static/images/favicon.e848261f33f9.svg) |
 | ![](png/color/24/strato.png) | STRATO | — | [`strato`](svg/color/strato.svg) | — | — | vector | [↗](https://www.strato.de/_assets/img/svg/logo_strato_white_mobile.svg) |
 | ![](png/color/24/servers-com.png) | Servers.com | — | [`servers-com`](svg/color/servers-com.svg) | — | — | vector | [↗](https://www.servers.com/global/generated/assets/favicon.svg) |
 | ![](png/color/24/hostgator.png) | HostGator | — | [`hostgator`](svg/color/hostgator.svg) | — | [≤24](svg/small/color/hostgator.svg) | vector | [↗](https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/hostgator-icon.svg) |
 | ![](png/color/24/siteground.png) | SiteGround | — | [`siteground`](svg/color/siteground.svg) | [✓](svg/color-dark/siteground.svg) | — | vector | [↗](https://web.archive.org/web/20240806201808im_/https://static-cdn.siteground.com/assets/img/svg/logos/sg_black.svg) |
 | ![](png/color/24/hosting-com.png) | hosting.com | — | [`hosting-com`](svg/color/hosting-com.svg) | [✓](svg/color-dark/hosting-com.svg) | — | vector | [↗](https://hosting.com/assets/brand/hosting-logo-on-dark.svg) |
-| ![](png/color/24/hostus.png) | HostUS | — | [`hostus`](svg/color/hostus.svg) | [✓](svg/color-dark/hostus.svg) | — | vector | [↗](https://hostus.us/img/logo.svg) |
+| ![](png/color/24/hostus.png) | HostUS | — | [`hostus`](svg/color/hostus.svg) | [✓](svg/color-dark/hostus.svg) | [≤24](svg/small/color/hostus.svg) | vector | [↗](https://hostus.us/img/logo.svg) |
 | ![](png/color/24/webdock.png) | Webdock | — | [`webdock`](svg/color/webdock.svg) | [✓](svg/color-dark/webdock.svg) | — | vector | [↗](https://webdock.io/__l5e/assets-v1/b754cb92-e545-492b-8c5f-a17bb9978f16/webdock-favicon.svg) |
 | ![](png/color/24/ruvds.png) | RUVDS | — | [`ruvds`](svg/color/ruvds.svg) | [✓](svg/color-dark/ruvds.svg) | [≤24](svg/small/color/ruvds.svg) | vector | [↗](https://ruvds.com/img/ruvds-logo-w.svg?v=1) |
 | ![](png/color/24/firstvds.png) | FirstVDS | — | [`firstvds`](svg/color/firstvds.svg) | [✓](svg/color-dark/firstvds.svg) | [≤24](svg/small/color/firstvds.svg) | vector | [↗](https://firstvds.ru/) |
-| ![](png/color/24/clouvider.png) | Clouvider | — | [`clouvider`](svg/color/clouvider.svg) | [✓](svg/color-dark/clouvider.svg) | — | vector | [↗](https://www.clouvider.com/resources/manifest/safari-pinned-tab.svg) |
+| ![](png/color/24/clouvider.png) | Clouvider | — | [`clouvider`](svg/color/clouvider.svg) | [✓](svg/color-dark/clouvider.svg) | [≤24](svg/small/color/clouvider.svg) | vector | [↗](https://www.clouvider.com/resources/manifest/safari-pinned-tab.svg) |
 | ![](png/color/24/reg-ru.png) | REG.RU | — | [`reg-ru`](svg/color/reg-ru.svg) | [✓](svg/color-dark/reg-ru.svg) | — | vector | [↗](https://help.reg.ru/) |
-| ![](png/color/24/inmotion-hosting.png) | InMotion Hosting | — | [`inmotion-hosting`](svg/color/inmotion-hosting.svg) | [✓](svg/color-dark/inmotion-hosting.svg) | [≤32](svg/small/color/inmotion-hosting.svg) | redrawn | [↗](https://avatars.githubusercontent.com/u/7607996?v=4&s=512) |
-| ![](png/color/24/cloudsigma.png) | CloudSigma | — | [`cloudsigma`](svg/color/cloudsigma.svg) | — | — | redrawn | [↗](https://avatars.githubusercontent.com/u/2410618?v=4&s=512) |
+| ![](png/color/24/inmotion-hosting.png) | InMotion Hosting | — | [`inmotion-hosting`](svg/color/inmotion-hosting.svg) | [✓](svg/color-dark/inmotion-hosting.svg) | [≤32](svg/small/color/inmotion-hosting.svg) | vector | [↗](https://www.inmotionhosting.com/wp-content/themes/imh-responsive/assets/svg/imh-25-logo.svg) |
+| ![](png/color/24/cloudsigma.png) | CloudSigma | — | [`cloudsigma`](svg/color/cloudsigma.svg) | [✓](svg/color-dark/cloudsigma.svg) | [≤24](svg/small/color/cloudsigma.svg) | redrawn | [↗](https://avatars.githubusercontent.com/u/2410618?v=4&s=512) |
 | ![](png/color/24/liteserver.png) | LiteServer | — | [`liteserver`](svg/color/liteserver.svg) | [✓](svg/color-dark/liteserver.svg) | — | redrawn | [↗](https://liteserver.nl/inhoud/uploads/2020/10/favicon.png) |
 | ![](png/color/24/alphavps.png) | AlphaVPS | — | [`alphavps`](svg/color/alphavps.svg) | [✓](svg/color-dark/alphavps.svg) | — | redrawn | [↗](https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/152862/logo2.png) |
 | ![](png/color/24/host-europe.png) | Host Europe | — | [`host-europe`](svg/color/host-europe.svg) | [✓](svg/color-dark/host-europe.svg) | — | redrawn | [↗](https://www.hosteurope.de/blog/wp-content/themes/he-blog/_icons/apple-touch-icon.png) |
@@ -323,14 +323,14 @@ English and Chinese names appear together when they differ. The next column list
 | ![](png/color/24/atlantic-net.png) | Atlantic.Net | — | [`atlantic-net`](svg/color/atlantic-net.svg) | [✓](svg/color-dark/atlantic-net.svg) | [≤32](svg/small/color/atlantic-net.svg) | redrawn | [↗](https://www.atlantic.net/wp-content/themes/anet/img/site/icons/icon-512-any.png) |
 | ![](png/color/24/servarica.png) | ServaRICA | — | [`servarica`](svg/color/servarica.svg) | [✓](svg/color-dark/servarica.svg) | [≤24](svg/small/color/servarica.svg) | redrawn | [↗](https://servarica.com/logo-icon.png) |
 | ![](png/color/24/krypt.png) | Krypt | — | [`krypt`](svg/color/krypt.svg) | [✓](svg/color-dark/krypt.svg) | — | redrawn | [↗](https://www.linkedin.com/showcase/kryptcom/) |
-| ![](png/color/24/beget.png) | Beget | — | [`beget`](svg/color/beget.svg) | — | [≤32](svg/small/color/beget.svg) | redrawn | [↗](https://avatars.githubusercontent.com/u/7524527?v=4&s=512) |
-| ![](png/color/24/coreweave.png) | CoreWeave | — | [`coreweave`](svg/color/coreweave.svg) | [✓](svg/color-dark/coreweave.svg) | — | vector | [↗](https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/coreweave-icon.svg) |
-| ![](png/color/24/lambda.png) | Lambda | — | [`lambda`](svg/color/lambda.svg) | [✓](svg/color-dark/lambda.svg) | — | vector | [↗](https://lambda.com/hubfs/favicon-48x48-1.svg) |
-| ![](png/color/24/runpod.png) | Runpod | — | [`runpod`](svg/color/runpod.svg) | [✓](svg/color-dark/runpod.svg) | — | vector | [↗](https://cdn.prod.website-files.com/69ce570adca53340abab8376/69cfb722ebc6a6cfe4f48961_runpod-logo-white.svg) |
+| ![](png/color/24/beget.png) | Beget | — | [`beget`](svg/color/beget.svg) | [✓](svg/color-dark/beget.svg) | [≤32](svg/small/color/beget.svg) | redrawn | [↗](https://avatars.githubusercontent.com/u/7524527?v=4&s=512) |
+| ![](png/color/24/coreweave.png) | CoreWeave | — | [`coreweave`](svg/color/coreweave.svg) | [✓](svg/color-dark/coreweave.svg) | [≤24](svg/small/color/coreweave.svg) | vector | [↗](https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/coreweave-icon.svg) |
+| ![](png/color/24/lambda.png) | Lambda | — | [`lambda`](svg/color/lambda.svg) | [✓](svg/color-dark/lambda.svg) | [≤24](svg/small/color/lambda.svg) | vector | [↗](https://lambda.com/hubfs/favicon-48x48-1.svg) |
+| ![](png/color/24/runpod.png) | Runpod | — | [`runpod`](svg/color/runpod.svg) | [✓](svg/color-dark/runpod.svg) | [≤24](svg/small/color/runpod.svg) | vector | [↗](https://cdn.prod.website-files.com/69ce570adca53340abab8376/69cfb722ebc6a6cfe4f48961_runpod-logo-white.svg) |
 | ![](png/color/24/vast-ai.png) | Vast.ai | — | [`vast-ai`](svg/color/vast-ai.svg) | [✓](svg/color-dark/vast-ai.svg) | [≤24](svg/small/color/vast-ai.svg) | vector | [↗](https://vast.ai/vast_logo.svg) |
 | ![](png/color/24/paperspace.png) | Paperspace | — | [`paperspace`](svg/color/paperspace.svg) | [✓](svg/color-dark/paperspace.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/paperspace.svg) |
 | ![](png/color/24/nebius.png) | Nebius | — | [`nebius`](svg/color/nebius.svg) | [✓](svg/color-dark/nebius.svg) | — | vector | [↗](https://nebius.com/favicon/favicon.svg) |
-| ![](png/color/24/crusoe.png) | Crusoe | — | [`crusoe`](svg/color/crusoe.svg) | [✓](svg/color-dark/crusoe.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/crusoe-color.svg) |
+| ![](png/color/24/crusoe.png) | Crusoe | — | [`crusoe`](svg/color/crusoe.svg) | [✓](svg/color-dark/crusoe.svg) | [≤24](svg/small/color/crusoe.svg) | vector | [↗](https://cdn.prod.website-files.com/6855c1aa175582ee23e0aa19/68762899486863fd46acd673_logo-footer.svg) |
 | ![](png/color/24/hyperstack.png) | Hyperstack | — | [`hyperstack`](svg/color/hyperstack.svg) | [✓](svg/color-dark/hyperstack.svg) | — | vector | [↗](https://www.hyperstack.cloud/hubfs/hyperstack_2023/home/logo.svg) |
 | ![](png/color/24/modal.png) | Modal | — | [`modal`](svg/color/modal.svg) | [✓](svg/color-dark/modal.svg) | [≤24](svg/small/color/modal.svg) | vector | [↗](https://modal.com/assets/favicon.svg) |
 | ![](png/color/24/zeabur.png) | Zeabur | — | [`zeabur`](svg/color/zeabur.svg) | [✓](svg/color-dark/zeabur.svg) | — | vector | [↗](https://zeabur.com/logo.svg) |
@@ -471,7 +471,7 @@ npm ci && npm run build && npm run check
 
 | 允许的 `license` 值 / Accepted license statement | 条目数 / Icons |
 |---|---:|
-| `Proprietary brand artwork; no open license identified` | 167 |
+| `Proprietary brand artwork; no open license identified` | 169 |
 | `Proprietary brand artwork; no open license identified; CC0-1.0 Simple Icons monochrome balloon, brand rights reserved` | 1 |
 | `Proprietary brand artwork; no open license identified; CC0-1.0 Simple Icons monochrome mark, brand rights reserved` | 2 |
 | `Proprietary brand artwork; no open license identified; Source Sans Pro outlines under SIL OFL-1.1` | 1 |
@@ -480,8 +480,8 @@ npm ci && npm run build && npm run check
 | `MIT (Microsoft Fluent UI System Icons); modified` | 10 |
 | `MIT (Microsoft Fluent Emoji); modified` | 1 |
 | `MIT (Icons8 Flat Color Icons); modified` | 3 |
-| `MIT (LobeHub artwork); brand rights reserved` | 10 |
-| `CC0-1.0 (Simple Icons collection); brand rights reserved` | 28 |
+| `MIT (LobeHub artwork); brand rights reserved` | 9 |
+| `CC0-1.0 (Simple Icons collection); brand rights reserved` | 27 |
 | `CC0-1.0 (SVG Logos collection); brand rights reserved` | 10 |
 | `CC0-1.0 (SVG Logos collection); brand rights reserved; CC0-1.0 Simple Icons monochrome mark, brand rights reserved` | 1 |
 | `CC0-1.0 (TheSVG collection); brand rights reserved` | 1 |

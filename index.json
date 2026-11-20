@@ -3780,10 +3780,10 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
-        "Redraw the open cloud segments and the four symmetrical knot loops from the official lockup. Use compound paths for the crossing and its four open counters, a brightened red on dark surfaces, and a stroke-reinforced compact master through 24 px."
+        "Redraw the open cloud segments and the four symmetrical knot loops from the official lockup. Use compound paths for the crossing and its four open counters, a brightened red (#FF5C6C) on dark surfaces, and a simplified bold four-loop compact master through 24 px."
       ],
       "small": {
-        "artwork": "Reinforce the cloud arcs and inner knot weight for legibility at 16–24 px.",
+        "artwork": "Reinforce the cloud arcs and simplify the inner knot to four bold open loops at 16–24 px.",
         "source": "https://web.archive.org/web/20261018200308im_/https://www.cucloud.cn/templets/1/default/images/about-woyun-logo.png",
         "maxSize": 24
       },
@@ -3853,7 +3853,7 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
-        "Deepen the mint-to-blue gradient (#00B584 to #0082D6) for white-background legibility, keep the bright neon gradient in color-dark, and add a stroke-reinforced 16/24 px small variant."
+        "Deepen the mint-to-blue gradient (#008A64 to #0064B5) for crisp white-background legibility, keep the bright neon gradient in color-dark, and strengthen the stroke-reinforced 16/24 px small variant."
       ],
       "small": {
         "artwork": "Use the stroke-reinforced HNCloud cloud-line mark at 16 and 24 px.",
@@ -4068,11 +4068,13 @@
       "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
       "quality": "vector",
       "processing": [
-        "Center the native standalone mark and apply its brand ink. Use a lighter ink on dark surfaces."
+        "Center the native standalone mark and apply its brand ink. Use a lighter ink on dark surfaces.",
+        "Provide a compact master with three bold speed bars through 24 px so the streaks do not blur at 16 px."
       ],
       "small": {
-        "artwork": "Use the isolated brand symbol at 16 px.",
-        "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/cloudways.svg"
+        "artwork": "Use a fuller cloud with three bold, cleanly separated speed bars at 16 and 24 px.",
+        "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/cloudways.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -4103,7 +4105,7 @@
       "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
       "quality": "vector",
       "processing": [
-        "Normalize the Simple Icons rounded-square k badge and optically size to 50 x 50 on the 64-unit canvas."
+        "Normalize the Simple Icons rounded-square k badge to 50 x 50, fill the k cutout white with a deepened light-mode blue (#0089E6), add a brighter color-dark variant (#14A3FF), and keep the punched-out k in monochrome."
       ],
       "small": {
         "artwork": "Use the isolated brand symbol at 16 px.",
@@ -4112,10 +4114,12 @@
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -4203,15 +4207,16 @@
       ],
       "website": "https://kinsta.com",
       "brandColor": "#101010",
-      "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/kinsta.svg",
-      "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+      "source": "https://kinsta.com/wp-content/themes/kinsta/images/custom-pages/page/press/kinsta-icon.svg?v=20250707",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Extract the initial K from the native Kinsta wordmark for the square composition. Reverse its ink on dark surfaces."
+        "Adopt the current official Kinsta press icon optically scaled to 50 x 50, converting the blurred bar masks to clean linear gradients.",
+        "Use the official light tile variant on dark surfaces and punch the two kinetic bars out of the badge in monochrome."
       ],
       "small": {
-        "artwork": "Use the isolated brand symbol at 16 px.",
-        "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/kinsta.svg"
+        "artwork": "Use the official standalone rounded-square badge at 16 px.",
+        "source": "https://kinsta.com/wp-content/themes/kinsta/images/custom-pages/page/press/kinsta-icon.svg?v=20250707"
       },
       "variants": {
         "svg": [
@@ -4242,7 +4247,7 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Optically size the official Gandi dark-square g badge to 50 x 50, add a subtly bordered slate card in color-dark so it separates on dark surfaces, and punch the g out of the badge in monochrome."
+        "Optically size the official Gandi dark-square g badge to 50 x 50, use a lifted bordered slate card (#2A3747 / #768FA8) in color-dark so it separates cleanly on dark surfaces, and punch the g out of the badge in monochrome."
       ],
       "small": {
         "artwork": "Use the isolated brand symbol at 16 px.",
@@ -4451,11 +4456,13 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Isolate the orange and black server rack from the official header. Reverse the black ink on dark surfaces."
+        "Isolate the orange and black server rack from the official header. Reverse the black ink on dark surfaces.",
+        "Simplify the small rack bars with wider pixel-safe gaps through 24 px so 16 px color and mono stay sharp."
       ],
       "small": {
-        "artwork": "Use the isolated brand symbol at 16 px.",
-        "source": "https://hostus.us/img/logo.svg"
+        "artwork": "Use a simplified bold split server-rack mark with wider bar gaps at 16 and 24 px.",
+        "source": "https://hostus.us/img/logo.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -4593,11 +4600,13 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Reverse the negative-space pinned-tab paths into the standalone mascot. Color its eyes from the official touch icon palette."
+        "Reverse the negative-space pinned-tab paths into the standalone mascot. Color its eyes from the official touch icon palette.",
+        "Provide a simplified bold four-tentacle compact mascot through 24 px so 16 px stays crisp."
       ],
       "small": {
-        "artwork": "Use the isolated brand symbol at 16 px.",
-        "source": "https://www.clouvider.com/resources/manifest/safari-pinned-tab.svg"
+        "artwork": "Use a simplified bold octopus mascot with larger eyes and four thick tentacles at 16 and 24 px.",
+        "source": "https://www.clouvider.com/resources/manifest/safari-pinned-tab.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -4660,15 +4669,15 @@
       ],
       "website": "https://www.inmotionhosting.com",
       "brandColor": "#C42227",
-      "source": "https://avatars.githubusercontent.com/u/7607996?v=4&s=512",
+      "source": "https://www.inmotionhosting.com/wp-content/themes/imh-responsive/assets/svg/imh-25-logo.svg",
       "license": "Proprietary brand artwork; no open license identified",
-      "quality": "redrawn",
+      "quality": "vector",
       "processing": [
-        "Normalize the two-wedge speed emblem for 48+ px and provide a vertically boosted bold two-wedge small variant at <= 32 px so 16 px lines stay sharp."
+        "Isolate the native red two-wedge speed emblem from the official header SVG for 48+ px, add a brightened dark-mode red, and keep a vertically boosted bold two-wedge small variant at <= 32 px."
       ],
       "small": {
         "artwork": "Use the vertically boosted bold two-wedge InMotion mark at 16, 24, and 32 px.",
-        "source": "https://avatars.githubusercontent.com/u/7607996?v=4&s=512",
+        "source": "https://www.inmotionhosting.com/wp-content/themes/imh-responsive/assets/svg/imh-25-logo.svg",
         "maxSize": 32
       },
       "variants": {
@@ -4700,19 +4709,23 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
-        "Reconstruct both interlocking green angular bands against the provider-linked GitHub avatar and remove the white field."
+        "Reconstruct both interlocking green angular bands against the provider-linked GitHub avatar and remove the white field.",
+        "Add a brightened color-dark variant and open the inner band gap through 24 px for small-size legibility."
       ],
       "small": {
-        "artwork": "Use the isolated brand symbol at 16 px.",
-        "source": "https://avatars.githubusercontent.com/u/2410618?v=4&s=512"
+        "artwork": "Widen the gap between the two interlocking bands at 16 and 24 px.",
+        "source": "https://avatars.githubusercontent.com/u/2410618?v=4&s=512",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -4733,7 +4746,8 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
-        "Rebuild the four overlapping ribbon segments, following the curves and sampled inks of the official square icon."
+        "Rebuild the four overlapping ribbon segments, following the curves and sampled inks of the official square icon.",
+        "Deepen the three lower lime-green ribbon segments on light surfaces while retaining the bright greens on dark surfaces."
       ],
       "small": {
         "artwork": "Use the isolated brand symbol at 16 px.",
@@ -4981,7 +4995,8 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
-        "Hand-draw the blue head, expression and curling blue-green arms from the mascot in the provider-linked organization avatar. Use just the face at 16–32 px."
+        "Hand-draw the blue head, expression and curling blue-green arms from the mascot in the provider-linked organization avatar. Use just the face at 16–32 px.",
+        "Slightly deepen the light-mode compact face and add brightened color-dark variants for dark surfaces."
       ],
       "small": {
         "artwork": "Use the isolated mascot head and eye cutouts at 16–32 px.",
@@ -4991,10 +5006,12 @@
       "variants": {
         "svg": [
           "color",
+          "color-dark",
           "mono"
         ],
         "png": [
           "color",
+          "color-dark",
           "mono-black",
           "mono-white"
         ]
@@ -5015,11 +5032,13 @@
       "license": "CC0-1.0 (SVG Logos collection); brand rights reserved",
       "quality": "vector",
       "processing": [
-        "Center the two paths of the CW mark and reverse the black strokes on dark backgrounds."
+        "Center the two paths of the CW mark and reverse the black strokes on dark backgrounds.",
+        "Open the W stroke gaps and slightly boost vertical height through 24 px for 16 px legibility."
       ],
       "small": {
-        "artwork": "Use the standalone brand mark at 16 px.",
-        "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/coreweave-icon.svg"
+        "artwork": "Widen the diagonal gaps between the C and W strokes and boost vertical balance at 16 and 24 px.",
+        "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/coreweave-icon.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -5052,11 +5071,12 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Separate the framed lambda from the black favicon tile and reverse the ink on dark backgrounds."
+        "Separate the framed lambda from the black favicon tile, optically size the square frame to 50 x 50, reverse the ink on dark backgrounds, and reinforce the border and glyph through 24 px."
       ],
       "small": {
-        "artwork": "Use the standalone brand mark at 16 px.",
-        "source": "https://lambda.com/hubfs/favicon-48x48-1.svg"
+        "artwork": "Reinforce the square frame border and lambda strokes inside the 50 x 50 optical box at 16 and 24 px.",
+        "source": "https://lambda.com/hubfs/favicon-48x48-1.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -5087,11 +5107,13 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Lift the three-dimensional cube from the official navigation wordmark using the purple favicon palette."
+        "Lift the three-dimensional cube from the official navigation wordmark using the purple favicon palette.",
+        "Reinforce the cube walls through 24 px so 16 px light and monochrome lines stay bold."
       ],
       "small": {
-        "artwork": "Use the standalone brand mark at 16 px.",
-        "source": "https://cdn.prod.website-files.com/69ce570adca53340abab8376/69cfb722ebc6a6cfe4f48961_runpod-logo-white.svg"
+        "artwork": "Reinforce the isometric cube strokes with matching rounded ink at 16 and 24 px.",
+        "source": "https://cdn.prod.website-files.com/69ce570adca53340abab8376/69cfb722ebc6a6cfe4f48961_runpod-logo-white.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -5227,16 +5249,17 @@
       ],
       "website": "https://www.crusoe.ai",
       "brandColor": "#C73361",
-      "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/crusoe-color.svg",
-      "license": "MIT (LobeHub artwork); brand rights reserved",
+      "source": "https://cdn.prod.website-files.com/6855c1aa175582ee23e0aa19/68762899486863fd46acd673_logo-footer.svg",
+      "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Retain the native warm gradient and use the same leaf contour for mono.",
-        "Use darker gold and orange stops on white and lift the burgundy tip on dark."
+        "Replace the retired leaf mark with the current Crusoe radiating spiral symbol from the official footer SVG.",
+        "Use charcoal ink on white, pure white on dark surfaces, and a stroke-reinforced simplified spiral through 24 px."
       ],
       "small": {
-        "artwork": "Use the standalone brand mark at 16 px.",
-        "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/crusoe-color.svg"
+        "artwork": "Keep the outer and middle vortex rays with reinforced strokes at 16 and 24 px so the spiral stays sharp.",
+        "source": "https://cdn.prod.website-files.com/6855c1aa175582ee23e0aa19/68762899486863fd46acd673_logo-footer.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
