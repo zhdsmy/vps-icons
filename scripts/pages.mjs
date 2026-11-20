@@ -45,7 +45,7 @@ export function preview({ icons, sizes }) {
         const images = [color, mono].map(v => `<img src="${pngPath(slug, v, size)}" width="${size}" height="${size}" alt="${v}">`).join('')
         return `<td><div class="pair">${images}</div></td>`
       }).join('')
-      return `<tr id="${theme}-${slug}"><th scope="row"><a href="${displayPath(icon, color)}" title="${slug}">${escape(displayName(icon))}</a></th><td class="quality">${icon.quality}</td>${cells}</tr>`
+      return `<tr id="${theme}-${slug}"><th scope="row"><a href="${displayPath(icon, color)}" title="${slug}">${escape(icon.name)}${icon.name === icon.names['zh-CN'] ? '' : '<br>' + escape(icon.names['zh-CN'])}</a></th><td class="quality">${icon.quality}</td>${cells}</tr>`
     }).join('\n')
     return `<section class="panel ${theme}" aria-label="${heading}"><h2>${heading}</h2>
 <table><thead><tr><th scope="col">名称 / Name</th><th scope="col">来源质量 / Quality</th>${samples.map(n => `<th scope="col">${n} px</th>`).join('')}</tr></thead><tbody>${rows}</tbody></table></section>`
