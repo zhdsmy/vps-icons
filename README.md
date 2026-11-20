@@ -4,9 +4,9 @@
 
 Self-contained cloud, VPS, hosting, and generic infrastructure icons for monitoring dashboards, status pages, directories, and documentation. Load directly via jsDelivr CDN or self-host offline.
 
-当前共收录 **229** 个图标（`vector` 148 · `redrawn` 81；全部提供 SVG 与 8 档 PNG；**175** 个含深色变体，**79** 个含小尺寸专版）。
+当前共收录 **241** 个图标（`vector` 156 · `redrawn` 85；全部提供 SVG 与 8 档 PNG；**187** 个含深色变体，**86** 个含小尺寸专版）。
 
-Currently **229** icons (148 `vector`, 81 `redrawn`; all with SVG + 8 PNG sizes; **175** dark variants, **79** compact small masters).
+Currently **241** icons (156 `vector`, 85 `redrawn`; all with SVG + 8 PNG sizes; **187** dark variants, **86** compact small masters).
 
 [![全部图标预览（上：浅色背景，下：深色背景） / All icons on light and dark backgrounds](preview.png)](https://zhdsmy.github.io/vps-icons/preview.html)
 
@@ -410,6 +410,18 @@ All current entries ship as SVG (zero PNG-only, `upscaled`, or `placeholder` ico
 | ![](png/color/24/sbc.png) | Single-Board Computer · 单板机 | [`sbc`](svg/color/sbc.svg) | [✓](svg/color-dark/sbc.svg) | [≤24](svg/small/color/sbc.svg) | vector | [↗](src/art/sbc/mono.svg) |
 | ![](png/color/24/nat.png) | NAT Gateway · NAT 机 | [`nat`](svg/color/nat.svg) | [✓](svg/color-dark/nat.svg) | — | vector | [↗](src/art/nat/mono.svg) |
 | ![](png/color/24/gpu.png) | GPU Server · GPU 服务器 | [`gpu`](svg/color/gpu.svg) | [✓](svg/color-dark/gpu.svg) | [≤24](svg/small/color/gpu.svg) | vector | [↗](src/art/gpu/mono.svg) |
+| ![](png/color/24/synology.png) | Synology · 群晖 | [`synology`](svg/color/synology.svg) | [✓](svg/color-dark/synology.svg) | [≤32](svg/small/color/synology.svg) | vector | [↗](https://fileres.synology.com/images/www/company/branding/Synology_logo_Black.zip) |
+| ![](png/color/24/qnap.png) | QNAP · 威联通 | [`qnap`](svg/color/qnap.svg) | [✓](svg/color-dark/qnap.svg) | [≤32](svg/small/color/qnap.svg) | vector | [↗](https://www.qnap.com/assets/img/header/2025/qnap-logo.svg) |
+| ![](png/color/24/ugreen-nas.png) | UGREEN NAS · 绿联 | [`ugreen-nas`](svg/color/ugreen-nas.svg) | [✓](svg/color-dark/ugreen-nas.svg) | — | redrawn | [↗](https://ai.ugreen.com/cdn/shop/files/favicon_green.png?crop=center&height=32&v=1776422247&width=32) |
+| ![](png/color/24/zspace.png) | ZSpace NAS · 极空间 | [`zspace`](svg/color/zspace.svg) | [✓](svg/color-dark/zspace.svg) | — | redrawn | [↗](https://img.zconnect.cn/home/pc_zs_logo.png) |
+| ![](png/color/24/fnos.png) | fnOS · 飞牛 | [`fnos`](svg/color/fnos.svg) | [✓](svg/color-dark/fnos.svg) | — | redrawn | [↗](https://static2.fnnas.com/official/fnos-logo.png) |
+| ![](png/color/24/unraid.png) | Unraid · Unraid | [`unraid`](svg/color/unraid.svg) | [✓](svg/color-dark/unraid.svg) | [≤24](svg/small/color/unraid.svg) | vector | [↗](https://cdn.craft.cloud/481d40bf-939a-4dc1-918d-b4d4b48b7c04/builds/a3439d20-ed75-4651-906c-888c8ed3e763/artifacts/static/favicon/safari-pinned-tab.svg) |
+| ![](png/color/24/truenas.png) | TrueNAS · TrueNAS | [`truenas`](svg/color/truenas.svg) | [✓](svg/color-dark/truenas.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/truenas.svg) |
+| ![](png/color/24/proxmox.png) | Proxmox VE · Proxmox 虚拟环境 | [`proxmox`](svg/color/proxmox.svg) | [✓](svg/color-dark/proxmox.svg) | — | vector | [↗](https://www.proxmox.com/favicon.svg) |
+| ![](png/color/24/openwrt.png) | OpenWrt · OpenWrt | [`openwrt`](svg/color/openwrt.svg) | [✓](svg/color-dark/openwrt.svg) | [≤24](svg/small/color/openwrt.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/openwrt.svg) |
+| ![](png/color/24/istoreos.png) | iStoreOS · iStoreOS 酷友社软路由 | [`istoreos`](svg/color/istoreos.svg) | [✓](svg/color-dark/istoreos.svg) | [≤24](svg/small/color/istoreos.svg) | redrawn | [↗](https://site.istoreos.com/favicon.ico) |
+| ![](png/color/24/raspberry-pi.png) | Raspberry Pi · 树莓派 | [`raspberry-pi`](svg/color/raspberry-pi.svg) | [✓](svg/color-dark/raspberry-pi.svg) | [≤24](svg/small/color/raspberry-pi.svg) | vector | [↗](https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/raspberry-pi.svg) |
+| ![](png/color/24/esxi.png) | VMware ESXi · VMware ESXi | [`esxi`](svg/color/esxi.svg) | [✓](svg/color-dark/esxi.svg) | [≤24](svg/small/color/esxi.svg) | vector | [↗](https://raw.githubusercontent.com/homarr-labs/dashboard-icons/d4b500dc40a8e1043b1581cabb7208892cf35472/svg/vmware-esxi.svg) |
 
 ---
 
@@ -454,18 +466,19 @@ npm ci && npm run build && npm run check
 
 | 允许的 `license` 值 / Accepted license statement | 条目数 / Icons |
 |---|---:|
-| `Proprietary brand artwork; no open license identified` | 159 |
+| `Proprietary brand artwork; no open license identified` | 167 |
 | `Proprietary brand artwork; no open license identified; CC0-1.0 Simple Icons monochrome balloon, brand rights reserved` | 1 |
 | `Proprietary brand artwork; no open license identified; CC0-1.0 Simple Icons monochrome mark, brand rights reserved` | 2 |
 | `Proprietary brand artwork; no open license identified; Source Sans Pro outlines under SIL OFL-1.1` | 1 |
 | `Proprietary brand artwork; no open license identified; Lexend glyph outlines under SIL OFL-1.1` | 1 |
 | `MIT` | 14 |
 | `MIT (LobeHub artwork); brand rights reserved` | 10 |
-| `CC0-1.0 (Simple Icons collection); brand rights reserved` | 26 |
-| `CC0-1.0 (SVG Logos collection); brand rights reserved` | 9 |
+| `CC0-1.0 (Simple Icons collection); brand rights reserved` | 28 |
+| `CC0-1.0 (SVG Logos collection); brand rights reserved` | 10 |
 | `CC0-1.0 (SVG Logos collection); brand rights reserved; CC0-1.0 Simple Icons monochrome mark, brand rights reserved` | 1 |
 | `CC0-1.0 (TheSVG collection); brand rights reserved` | 1 |
 | `CC0-1.0 (auth-badges artwork via theSVG); official mascot and trademarks belong to Time4VPS` | 1 |
 | `Apache-2.0 (Scaleway Ultraviolet); brand rights reserved` | 1 |
+| `Apache-2.0 (Dashboard Icons collection); brand rights reserved` | 1 |
 | `Public domain (PD-textlogo, Wikimedia Commons); trademark rights reserved` | 1 |
 | `Public domain (Wikimedia Commons, PD-textlogo); trademark rights reserved by KT.` | 1 |

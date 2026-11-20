@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="f0" x1="0%" y1="0%" x2="100%" y2="90%">
+      <stop stop-color="#539ffa"/>
+      <stop offset="1" stop-color="#1241c8"/>
+    </linearGradient>
+    <linearGradient id="f1" x1="0%" y1="0%" x2="100%" y2="90%">
+      <stop stop-color="#1139b7"/>
+      <stop offset="1" stop-color="#0763c5"/>
+    </linearGradient>
+    <linearGradient id="f2" x1="0%" y1="0%" x2="100%" y2="90%">
+      <stop stop-color="#78acfa"/>
+      <stop offset="1" stop-color="#1d71ed"/>
+    </linearGradient>
+    <linearGradient id="f3" x1="0%" y1="0%" x2="100%" y2="90%">
+      <stop stop-color="#74b5fa"/>
+      <stop offset="1" stop-color="#315bdc"/>
+    </linearGradient>
+    <linearGradient id="f4" x1="0%" y1="0%" x2="100%" y2="90%">
+      <stop stop-color="#082ca9"/>
+      <stop offset="1" stop-color="#1737ac"/>
+    </linearGradient>
+    <linearGradient id="f5" x1="0%" y1="0%" x2="100%" y2="90%">
+      <stop stop-color="#70a3fa"/>
+      <stop offset="1" stop-color="#2151d6"/>
+    </linearGradient>
+  </defs>
+  <g transform="matrix(0.1376 0 0 0.1376 9.9165 2.8993)">
+    <path d="M19 49 89 8 319 141 249 181Z" fill="url(#f0)"/>
+    <path d="M19 49 89 89 89 171 19 212Z" fill="url(#f1)"/>
+    <path d="M19 212 89 171 143 201 72 242Z" fill="url(#f2)"/>
+    <path d="M2 283 72 242 231 334 231 415Z" fill="url(#f3)"/>
+    <path d="M231 252 301 211 301 374 231 415Z" fill="url(#f4)"/>
+    <path d="M178 222 249 181 301 211 231 252Z" fill="url(#f5)"/>
+  </g>
+</svg>

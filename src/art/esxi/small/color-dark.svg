@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <g transform="matrix(1.04 0 0 1.04 -1.28 -1.28)">
+    <path d="M34 7H46Q57 7 57 18V25H53V18Q53 11 46 11H30Z" fill="#78be20" fill-rule="evenodd"/>
+    <path d="M26 7L22 11H18Q11 11 11 18V45Q11 53 19 53H24V57H18Q7 57 7 45V18Q7 7 18 7Z" fill="#00c1d5" fill-rule="evenodd"/>
+    <path d="M24 47H21Q16 47 16 41V22Q16 16 22 16H40Q46 16 46 22V26H42V22Q42 20 40 20H22Q20 20 20 22V41Q20 43 22 43H24Z" fill="#0091da" fill-rule="evenodd"/>
+    <path d="M28 34a6.5 6.5 0 1 0 13 0a6.5 6.5 0 1 0 -13 0Z M31.7 34a2.8 2.8 0 1 0 5.6 0a2.8 2.8 0 1 0 -5.6 0Z M44 28H57V41H44Z M48 32V37H53V32Z M28 44H41V57H28Z M32 48V53H37V48Z M44 50.5a6.5 6.5 0 1 0 13 0a6.5 6.5 0 1 0 -13 0Z M47.7 50.5a2.8 2.8 0 1 0 5.6 0a2.8 2.8 0 1 0 -5.6 0Z" fill="#82a6f4" fill-rule="evenodd"/>
+  </g>
+</svg>
