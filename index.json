@@ -5466,11 +5466,13 @@
       "license": "CC0-1.0 (SVG Logos collection); brand rights reserved",
       "quality": "vector",
       "processing": [
-        "Use the standalone keyhole and network spokes. Lighten the graphite and blue on dark surfaces."
+        "Use the standalone keyhole and network spokes. Lighten the graphite and blue on dark surfaces.",
+        "Reinforce the native network spokes and nodes with matching strokes at 16 and 24 px."
       ],
       "small": {
-        "artwork": "Use the standalone brand mark at 16 px.",
-        "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/keycdn-icon.svg"
+        "artwork": "Reinforce the native keyhole and network spokes with matching strokes for 16 and 24 px.",
+        "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/keycdn-icon.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -5609,7 +5611,8 @@
       "quality": "vector",
       "processing": [
         "Use the Scaleway Ultraviolet Dedibox product artwork and its two purple layers. Remove the tile for monochrome.",
-        "Simplify the four-node product diagram for small sizes."
+        "Simplify the four-node product diagram for small sizes.",
+        "Slightly deepen the light lavender tile on white so the rounded card keeps a visible edge."
       ],
       "small": {
         "artwork": "Use four solid nodes over a single chassis with an open drive slot at 16, 24 and 32 px.",
@@ -5683,9 +5686,9 @@
         "Strengthen the compact enclosure and reduce the stack to two separated horizontal rules."
       ],
       "small": {
-        "artwork": "Use the reinforced enclosure and two distinct rules at 16 and 24 px.",
+        "artwork": "Use the reinforced enclosure and two bold separated rules through 32 px.",
         "source": "https://hostodo.com/img/favicon.png",
-        "maxSize": 24
+        "maxSize": 32
       },
       "variants": {
         "svg": [
@@ -5788,7 +5791,8 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
-        "Redraw the cloud and the two colored letters from the official favicon. At small sizes, isolate the WH and adjust the ink for each surface."
+        "Redraw the cloud and the two colored letters from the official favicon. At small sizes, isolate the WH and adjust the ink for each surface.",
+        "Lift the dark-mode cloud fill and strengthen its light outline so the cloud stays legible on dark surfaces."
       ],
       "small": {
         "artwork": "Use the two enlarged WH letters without the surrounding cloud through 32 px.",
@@ -5825,11 +5829,13 @@
       "quality": "redrawn",
       "processing": [
         "Redraw the opposing blue chevrons and slotted chassis from the official NOCIX favicon, also verified against the larger cached favicon. Use a lighter navy on dark surfaces.",
-        "Darken the two outer cyan facets on white to preserve the split diagonal silhouette."
+        "Darken the two outer cyan facets on white to preserve the split diagonal silhouette.",
+        "Open the horizontal separation and chassis drive slot in the compact master for 16 and 24 px."
       ],
       "small": {
-        "artwork": "Use the standalone brand mark at 16 px.",
-        "source": "https://www.nocix.net/favicon.ico"
+        "artwork": "Widen the horizontal gaps and enlarge the chassis drive slot for 16 and 24 px.",
+        "source": "https://www.nocix.net/favicon.ico",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -5861,7 +5867,8 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Isolate the Kimsufi wordmark above the OVHcloud endorsement. Use its original K outline at small sizes."
+        "Isolate the Kimsufi wordmark above the OVHcloud endorsement. Use its original K outline at small sizes.",
+        "Deepen the cyan gradient stops on light backgrounds for better contrast against white."
       ],
       "small": {
         "artwork": "Use the initial K cut directly from the product wordmark through 32 px.",
@@ -5973,11 +5980,13 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "vector",
       "processing": [
-        "Isolate the brand mark from the official vector and center its visible bounds on a 64-unit canvas."
+        "Isolate the brand mark from the official vector and center its visible bounds on a 64-unit canvas.",
+        "Add a compact stroke-reinforced master for 16 and 24 px so the outer droplets remain visible."
       ],
       "small": {
-        "artwork": "Use the isolated brand mark at sidebar sizes.",
-        "source": "https://web.arena.ne.jp/images/ico_logo_default.svg"
+        "artwork": "Reinforce the native splash necks and satellite droplets with matching strokes for 16 and 24 px.",
+        "source": "https://web.arena.ne.jp/images/ico_logo_default.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -6230,11 +6239,13 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
-        "Reconstruct the two interlocking rounded frames and central diagonal from the official header and favicon."
+        "Reconstruct the two interlocking rounded frames and central diagonal from the official header and favicon.",
+        "Open the two frame breaks in the compact master so the interlocking geometry stays distinct at 16 and 24 px."
       ],
       "small": {
-        "artwork": "Use the isolated brand mark at sidebar sizes.",
-        "source": "https://www.unicloud.com/upload/images/2024/7/1fd82770e622c26c.png"
+        "artwork": "Widen the two interlocking frame breaks for 16 and 24 px.",
+        "source": "https://www.unicloud.com/upload/images/2024/7/1fd82770e622c26c.png",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -6266,8 +6277,8 @@
       "license": "Proprietary brand artwork; no open license identified",
       "quality": "redrawn",
       "processing": [
-        "Redraw the cloud outline and the three rectilinear E2E characters from the official cloud header.",
-        "Fit the compact documentation badge to 50 units and open the letter counters for the sidebar."
+        "Redraw the cloud outline and interlocking E2E characters from the official cloud header at authentic bold stroke weights.",
+        "Fit the compact documentation badge to 50 units with opened E2E spacing and a brighter blue on dark surfaces."
       ],
       "small": {
         "source": "https://docs.e2enetworks.com/favicon.svg",

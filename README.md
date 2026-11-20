@@ -4,9 +4,9 @@
 
 Self-contained cloud, VPS, hosting, and generic infrastructure icons for monitoring dashboards, status pages, directories, and documentation. Load directly via jsDelivr CDN or self-host offline.
 
-当前共收录 **241** 个图标（`vector` 156 · `redrawn` 85；全部提供 SVG 与 8 档 PNG；**187** 个含深色变体，**94** 个含小尺寸专版）。
+当前共收录 **241** 个图标（`vector` 156 · `redrawn` 85；全部提供 SVG 与 8 档 PNG；**187** 个含深色变体，**98** 个含小尺寸专版）。
 
-Currently **241** icons (156 `vector`, 85 `redrawn`; all with SVG + 8 PNG sizes; **187** dark variants, **94** compact small masters).
+Currently **241** icons (156 `vector`, 85 `redrawn`; all with SVG + 8 PNG sizes; **187** dark variants, **98** compact small masters).
 
 [![全部图标预览（上：浅色背景，下：深色背景） / All icons on light and dark backgrounds](preview.png)](https://zhdsmy.github.io/vps-icons/preview.html)
 
@@ -337,28 +337,28 @@ English and Chinese names appear together when they differ. The next column list
 | ![](png/color/24/tensordock.png) | TensorDock | — | [`tensordock`](svg/color/tensordock.svg) | [✓](svg/color-dark/tensordock.svg) | — | vector | [↗](https://www.tensordock.com/assets/favicon/safari-pinned-tab.svg) |
 | ![](png/color/24/deno-deploy.png) | Deno Deploy | — | [`deno-deploy`](svg/color/deno-deploy.svg) | [✓](svg/color-dark/deno-deploy.svg) | — | vector | [↗](https://deno.com/logos/deploy/mark.svg?__frsh_c=2c7be834343e725c25fa21f2d98d4350fa3b3f96) |
 | ![](png/color/24/cdn77.png) | CDN77 | — | [`cdn77`](svg/color/cdn77.svg) | [✓](svg/color-dark/cdn77.svg) | — | vector | [↗](https://www.cdn77.com/safari-pinned-tab.svg) |
-| ![](png/color/24/keycdn.png) | KeyCDN | — | [`keycdn`](svg/color/keycdn.svg) | [✓](svg/color-dark/keycdn.svg) | — | vector | [↗](https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/keycdn-icon.svg) |
+| ![](png/color/24/keycdn.png) | KeyCDN | — | [`keycdn`](svg/color/keycdn.svg) | [✓](svg/color-dark/keycdn.svg) | [≤24](svg/small/color/keycdn.svg) | vector | [↗](https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/keycdn-icon.svg) |
 | ![](png/color/24/sealos.png) | Sealos | — | [`sealos`](svg/color/sealos.svg) | [✓](svg/color-dark/sealos.svg) | — | vector | [↗](https://sealos.io) |
 | ![](png/color/24/advin-servers.png) | Advin Servers | — | [`advin-servers`](svg/color/advin-servers.svg) | [✓](svg/color-dark/advin-servers.svg) | — | vector | [↗](https://advinservers.com/eagle_white.svg) |
 | ![](png/color/24/lunanode.png) | LunaNode | — | [`lunanode`](svg/color/lunanode.svg) | [✓](svg/color-dark/lunanode.svg) | — | vector | [↗](https://raw.githubusercontent.com/glincker/thesvg/8980fb3d96d7e20a5ada9b85db56110d529d3c55/public/icons/lunanode-badge/default.svg) |
 | ![](png/color/24/dedibox.png) | Dedibox | — | [`dedibox`](svg/color/dedibox.svg) | [✓](svg/color-dark/dedibox.svg) | [≤32](svg/small/color/dedibox.svg) | vector | [↗](https://raw.githubusercontent.com/scaleway/ultraviolet/4d3aa101bfbc358782b8353650ccd06fd8df40df/packages/icons/src/components/ProductIcon/assets/primary/dedibox.svg) |
 | ![](png/color/24/ramnode.png) | RamNode | — | [`ramnode`](svg/color/ramnode.svg) | — | — | redrawn | [↗](https://ramnode.com/lovable-uploads/ramnode-favicon.jpeg) |
-| ![](png/color/24/hostodo.png) | Hostodo | — | [`hostodo`](svg/color/hostodo.svg) | [✓](svg/color-dark/hostodo.svg) | [≤24](svg/small/color/hostodo.svg) | redrawn | [↗](https://hostodo.com/img/favicon.png) |
+| ![](png/color/24/hostodo.png) | Hostodo | — | [`hostodo`](svg/color/hostodo.svg) | [✓](svg/color-dark/hostodo.svg) | [≤32](svg/small/color/hostodo.svg) | redrawn | [↗](https://hostodo.com/img/favicon.png) |
 | ![](png/color/24/hosteons.png) | HostEONS | — | [`hosteons`](svg/color/hosteons.svg) | [✓](svg/color-dark/hosteons.svg) | — | redrawn | [↗](https://www.google.com/s2/favicons?domain=hosteons.com&sz=256) |
 | ![](png/color/24/letbox.png) | LetBox | — | [`letbox`](svg/color/letbox.svg) | — | [≤32](svg/small/color/letbox.svg) | redrawn | [↗](https://my.letbox.com/assets/img/logo.png) |
 | ![](png/color/24/webhorizon.png) | WebHorizon | — | [`webhorizon`](svg/color/webhorizon.svg) | [✓](svg/color-dark/webhorizon.svg) | [≤32](svg/small/color/webhorizon.svg) | redrawn | [↗](https://webhorizon.net/images/favicon.png) |
-| ![](png/color/24/nocix.png) | Nocix | — | [`nocix`](svg/color/nocix.svg) | [✓](svg/color-dark/nocix.svg) | — | redrawn | [↗](https://www.nocix.net/favicon.ico) |
+| ![](png/color/24/nocix.png) | Nocix | — | [`nocix`](svg/color/nocix.svg) | [✓](svg/color-dark/nocix.svg) | [≤24](svg/small/color/nocix.svg) | redrawn | [↗](https://www.nocix.net/favicon.ico) |
 | ![](png/color/24/kimsufi.png) | Kimsufi | — | [`kimsufi`](svg/color/kimsufi.svg) | [✓](svg/color-dark/kimsufi.svg) | [≤32](svg/small/color/kimsufi.svg) | vector | [↗](https://www.kimsufi.com/components/kimsufi/header.6c21aa24/logo.svg) |
 | ![](png/color/24/soyoustart.png) | So you Start | — | [`soyoustart`](svg/color/soyoustart.svg) | [✓](svg/color-dark/soyoustart.svg) | [≤32](svg/small/color/soyoustart.svg) | vector | [↗](https://www.soyoustart.com/7af16cdb/contrib/ovh_theme_patternlab/images/logos/soYouStart_logo.svg) |
 | ![](png/color/24/inspur-cloud.png) | Inspur Cloud · 浪潮云 | — | [`inspur-cloud`](svg/color/inspur-cloud.svg) | [✓](svg/color-dark/inspur-cloud.svg) | — | vector | [↗](https://cloud.inspur.com/cn/template/images/favicon.svg) |
-| ![](png/color/24/webarena.png) | WebARENA | — | [`webarena`](svg/color/webarena.svg) | [✓](svg/color-dark/webarena.svg) | — | vector | [↗](https://web.arena.ne.jp/images/ico_logo_default.svg) |
+| ![](png/color/24/webarena.png) | WebARENA | — | [`webarena`](svg/color/webarena.svg) | [✓](svg/color-dark/webarena.svg) | [≤24](svg/small/color/webarena.svg) | vector | [↗](https://web.arena.ne.jp/images/ico_logo_default.svg) |
 | ![](png/color/24/gabia.png) | Gabia | — | [`gabia`](svg/color/gabia.svg) | [✓](svg/color-dark/gabia.svg) | [≤32](svg/small/color/gabia.svg) | vector | [↗](https://static.gabia.com/www/common/img/logo.svg) |
 | ![](png/color/24/cafe24.png) | Cafe24 | — | [`cafe24`](svg/color/cafe24.svg) | [✓](svg/color-dark/cafe24.svg) | [≤32](svg/small/color/cafe24.svg) | vector | [↗](https://img.cafe24.com/images/common/cafe24.svg) |
 | ![](png/color/24/bizfly-cloud.png) | BizFly Cloud | — | [`bizfly-cloud`](svg/color/bizfly-cloud.svg) | [✓](svg/color-dark/bizfly-cloud.svg) | — | vector | [↗](https://bizflycloud.vn/logo/bizfly-cloud.svg) |
 | ![](png/color/24/idcloudhost.png) | IDCloudHost | — | [`idcloudhost`](svg/color/idcloudhost.svg) | — | — | vector | [↗](https://console.idcloudhost.com/app/favicon.svg) |
 | ![](png/color/24/exabytes.png) | Exabytes | — | [`exabytes`](svg/color/exabytes.svg) | [✓](svg/color-dark/exabytes.svg) | — | vector | [↗](https://www.exabytes.com/images/freshdesk/logo-exabytes-grow-ai.svg) |
 | ![](png/color/24/nipa-cloud.png) | NIPA Cloud | — | [`nipa-cloud`](svg/color/nipa-cloud.svg) | [✓](svg/color-dark/nipa-cloud.svg) | — | vector | [↗](https://nipa.cloud/_next/static/media/base-N-logo.ccc7391f.svg) |
-| ![](png/color/24/unisyscloud.png) | Unicloud · 紫光云 | — | [`unisyscloud`](svg/color/unisyscloud.svg) | [✓](svg/color-dark/unisyscloud.svg) | — | redrawn | [↗](https://www.unicloud.com/upload/images/2024/7/1fd82770e622c26c.png) |
+| ![](png/color/24/unisyscloud.png) | Unicloud · 紫光云 | — | [`unisyscloud`](svg/color/unisyscloud.svg) | [✓](svg/color-dark/unisyscloud.svg) | [≤24](svg/small/color/unisyscloud.svg) | redrawn | [↗](https://www.unicloud.com/upload/images/2024/7/1fd82770e622c26c.png) |
 | ![](png/color/24/e2e-networks.png) | E2E Networks | — | [`e2e-networks`](svg/color/e2e-networks.svg) | [✓](svg/color-dark/e2e-networks.svg) | [≤32](svg/small/color/e2e-networks.svg) | redrawn | [↗](https://www.e2enetworks.com/e2e-cloud-logo.png) |
 | ![](png/color/24/baishan.png) | BaishanCloud · 白山云 | — | [`baishan`](svg/color/baishan.svg) | [✓](svg/color-dark/baishan.svg) | — | redrawn | [↗](https://uc.portal.baishancloud.com/static/logo_baishan.png) |
 | ![](png/color/24/21vianet.png) | VNET Group · 世纪互联 | — | [`21vianet`](svg/color/21vianet.svg) | [✓](svg/color-dark/21vianet.svg) | [≤32](svg/small/color/21vianet.svg) | redrawn | [↗](https://www.vnet.com/home/images/logo.png) |
