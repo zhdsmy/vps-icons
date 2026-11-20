@@ -1,10 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="currentColor">
-  <path fill-rule="evenodd" d="M3 9H12V54H7V15H3Z"/>
-  <path fill-rule="evenodd" d="M14 15h41q4 0 4 4v26q0 4 -4 4h-41q-4 0 -4 -4v-26q0 -4 4 -4Z M24.8 32a12.2 12.2 0 1 0 24.4 0a12.2 12.2 0 1 0 -24.4 0Z M15 24h7v3h-7Z M15 30h7v3h-7Z M15 36h7v3h-7Z"/>
-  <path fill-rule="evenodd" d="M15 48H23V54H15Z M26 48H47V54H26Z"/>
-  <path fill-rule="evenodd" d="M34.4 32a2.6 2.6 0 1 0 5.2 0a2.6 2.6 0 1 0 -5.2 0Z"/>
-  <path transform="rotate(0 37 32)" d="M36 31Q32 26 37 22Q42 21 44 25Q40 24 39 30Z"/>
-  <path transform="rotate(90 37 32)" d="M36 31Q32 26 37 22Q42 21 44 25Q40 24 39 30Z"/>
-  <path transform="rotate(180 37 32)" d="M36 31Q32 26 37 22Q42 21 44 25Q40 24 39 30Z"/>
-  <path transform="rotate(270 37 32)" d="M36 31Q32 26 37 22Q42 21 44 25Q40 24 39 30Z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="currentColor"><path fill-rule="evenodd" d="M6.5 12H12.5V16H55A5 5 0 0 1 60 21V42A5 5 0 0 1 55 47H45V50A2 2 0 0 1 43 52H19A2 2 0 0 1 17 50V47H12.5V51.5A2.5 2.5 0 0 1 10 54A2.5 2.5 0 0 1 7.5 51.5V17H6.5A2.5 2.5 0 0 1 4 14.5A2.5 2.5 0 0 1 6.5 12Z M27.2 32a9.8 9.8 0 1 0 19.6 0a9.8 9.8 0 1 0 -19.6 0Z M32.8 32a4.2 4.2 0 1 0 8.4 0a4.2 4.2 0 1 0 -8.4 0Z M17.5 25H20A1.5 1.5 0 0 1 21.5 26.5V26.5A1.5 1.5 0 0 1 20 28H17.5A1.5 1.5 0 0 1 16 26.5V26.5A1.5 1.5 0 0 1 17.5 25Z M17.5 30.5H20A1.5 1.5 0 0 1 21.5 32V32A1.5 1.5 0 0 1 20 33.5H17.5A1.5 1.5 0 0 1 16 32V32A1.5 1.5 0 0 1 17.5 30.5Z M17.5 36H20A1.5 1.5 0 0 1 21.5 37.5V37.5A1.5 1.5 0 0 1 20 39H17.5A1.5 1.5 0 0 1 16 37.5V37.5A1.5 1.5 0 0 1 17.5 36Z"/></svg>

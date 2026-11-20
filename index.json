@@ -1791,16 +1791,17 @@
         "forward"
       ],
       "website": "preview.html#light-relay",
-      "brandColor": "#8854AD",
-      "source": "src/art/relay/mono.svg",
-      "license": "MIT",
+      "brandColor": "#06B6D4",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Arrow%20Swap/SVG/ic_fluent_arrow_swap_24_filled.svg",
+      "license": "MIT (Microsoft Fluent UI System Icons); modified",
       "quality": "vector",
       "processing": [
-        "Original filled geometric pictogram drawn on the common canvas."
+        "Adapt the opposing horizontal arrows of Microsoft Fluent UI System Icons Arrow Swap into a dual-tone Fluent color gradient pair (cyan-blue outbound and amber-coral-rose return) for traffic relay."
       ],
       "small": {
-        "artwork": "Use the primary graphic mark at 16 px.",
-        "source": "src/art/relay/mono.svg"
+        "artwork": "Slightly thicken the opposing arrow shafts and heads through 24 px.",
+        "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Arrow%20Swap/SVG/ic_fluent_arrow_swap_24_filled.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -1828,16 +1829,16 @@
         "misc"
       ],
       "website": "preview.html#light-other",
-      "brandColor": "#576579",
-      "source": "src/art/other/mono.svg",
-      "license": "MIT",
+      "brandColor": "#6366F1",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Apps/SVG/ic_fluent_apps_48_color.svg",
+      "license": "MIT (Microsoft Fluent UI System Icons); modified",
       "quality": "vector",
       "processing": [
-        "Original filled geometric pictogram drawn on the common canvas."
+        "Adapt the four-tile grid with rotated top-right diamond from Microsoft Fluent UI System Icons Apps into four harmonious jewel-tone gradients (azure, violet, emerald and amber-orange) sized to a 50x50 optical footprint."
       ],
       "small": {
-        "artwork": "Use the primary graphic mark at 16 px.",
-        "source": "src/art/other/mono.svg"
+        "artwork": "Use the crisp four-tile grid directly at 16 px.",
+        "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Apps/SVG/ic_fluent_apps_48_color.svg"
       },
       "variants": {
         "svg": [
@@ -1865,16 +1866,17 @@
         "placeholder"
       ],
       "website": "preview.html#light-unknown",
-      "brandColor": "#64748B",
-      "source": "src/art/unknown/mono.svg",
-      "license": "MIT",
+      "brandColor": "#6366F1",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Question%20Circle/SVG/ic_fluent_question_circle_48_color.svg",
+      "license": "MIT (Microsoft Fluent UI System Icons); modified",
       "quality": "vector",
       "processing": [
-        "Original filled geometric pictogram drawn on the common canvas."
+        "Adapt Microsoft Fluent UI System Icons Question Circle with a luminous sky-indigo-violet gradient orb, soft specular highlight and bold white question mark."
       ],
       "small": {
-        "artwork": "Use the primary graphic mark at 16 px.",
-        "source": "src/art/unknown/mono.svg"
+        "artwork": "Thicken the question mark stroke and enlarge its dot through 24 px.",
+        "source": "https://github.com/microsoft/fluentui-system-icons/blob/6c2c9075cf8952ef48369b2475233b6e9761efed/assets/Question%20Circle/SVG/ic_fluent_question_circle_48_color.svg",
+        "maxSize": 24
       },
       "variants": {
         "svg": [
@@ -8221,16 +8223,16 @@
         "显卡服务器"
       ],
       "website": "preview.html#light-gpu",
-      "brandColor": "#80478F",
-      "source": "src/art/gpu/mono.svg",
-      "license": "MIT",
+      "brandColor": "#7C3AED",
+      "source": "https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/electronics.svg",
+      "license": "MIT (Icons8 Flat Color Icons); modified",
       "quality": "vector",
       "processing": [
-        "Original graphics card with a slot bracket, edge contacts, vents and a cooling fan."
+        "Build a discrete GPU accelerator card inspired by Icons8 Flat Color Icons electronics hardware palette in the unified Fluent color gradient system, featuring a violet-indigo shroud, RGB accent strip, cyan fan blades, silver bracket and gold PCIe edge."
       ],
       "small": {
-        "artwork": "Use three broad fan blades and two large vents through 24 px.",
-        "source": "src/art/gpu/mono.svg",
+        "artwork": "Simplify cooling fan to four bold blades and widen the PCIe edge connector through 24 px.",
+        "source": "https://github.com/icons8/flat-color-icons/blob/1bf90d5ff118bc6690120ff9fdfe234565b7e414/svg/electronics.svg",
         "maxSize": 24
       },
       "variants": {
