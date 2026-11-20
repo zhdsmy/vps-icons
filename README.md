@@ -4,9 +4,9 @@
 
 Self-contained cloud, VPS, hosting, and generic infrastructure icons for monitoring dashboards, status pages, directories, and documentation. Load directly via jsDelivr CDN or self-host offline.
 
-当前共收录 **241** 个图标（`vector` 157 · `redrawn` 84；全部提供 SVG 与 8 档 PNG；**197** 个含深色变体，**123** 个含小尺寸专版）。
+当前共收录 **241** 个图标（`vector` 156 · `redrawn` 85；全部提供 SVG 与 8 档 PNG；**197** 个含深色变体，**123** 个含小尺寸专版）。
 
-Currently **241** icons (157 `vector`, 84 `redrawn`; all with SVG + 8 PNG sizes; **197** dark variants, **123** compact small masters).
+Currently **241** icons (156 `vector`, 85 `redrawn`; all with SVG + 8 PNG sizes; **197** dark variants, **123** compact small masters).
 
 [![全部图标预览（上：浅色背景，下：深色背景） / All icons on light and dark backgrounds](preview.png)](https://zhdsmy.github.io/vps-icons/preview.html)
 
@@ -371,7 +371,7 @@ English and Chinese names appear together when they differ. The next column list
 | ![](png/color/24/hicloud.png) | Chunghwa Telecom hicloud · 中华电信 hicloud | — | [`hicloud`](svg/color/hicloud.svg) | [✓](svg/color-dark/hicloud.svg) | [≤32](svg/small/color/hicloud.svg) | vector | [↗](https://www.cht.com.tw/home/eshop/-/media/web/images/logo/cht_logo.svg) |
 | ![](png/color/24/viettel-idc.png) | Viettel IDC | — | [`viettel-idc`](svg/color/viettel-idc.svg) | [✓](svg/color-dark/viettel-idc.svg) | — | redrawn | [↗](https://portal.viettelidc.com.vn/img/Favicon-IDC.png) |
 | ![](png/color/24/biznet-gio.png) | Biznet Gio | — | [`biznet-gio`](svg/color/biznet-gio.svg) | [✓](svg/color-dark/biznet-gio.svg) | — | redrawn | [↗](https://web-cms.biznetgio.com/uploads/Biznet_GIO_Logo_1_header_78e8b0eceb.webp) |
-| ![](png/color/24/100tb.png) | 100TB | — | [`100tb`](svg/color/100tb.svg) | [✓](svg/color-dark/100tb.svg) | — | vector | [↗](https://100tb.io/favicons/sakura.svg) |
+| ![](png/color/24/100tb.png) | 100TB | — | [`100tb`](svg/color/100tb.svg) | [✓](svg/color-dark/100tb.svg) | — | redrawn | [↗](https://100tb.io/login) |
 | ![](png/color/24/vollcloud.png) | VollCloud | — | [`vollcloud`](svg/color/vollcloud.svg) | [✓](svg/color-dark/vollcloud.svg) | [≤24](svg/small/color/vollcloud.svg) | vector | [↗](https://vollcloud.com/templates/voll/includes/ws/images/logo.svg) |
 | ![](png/color/24/terabix.png) | Terabix | — | [`terabix`](svg/color/terabix.svg) | [✓](svg/color-dark/terabix.svg) | [≤24](svg/small/color/terabix.svg) | vector | [↗](https://terabix.net/wp-content/uploads/2023/09/Asset-2.svg) |
 | ![](png/color/24/ipraft.png) | iPRaft | — | [`ipraft`](svg/color/ipraft.svg) | [✓](svg/color-dark/ipraft.svg) | — | vector | [↗](https://ipraft.com/) |

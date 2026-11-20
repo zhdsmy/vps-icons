@@ -4803,17 +4803,17 @@
     ],
     "website": "https://100tb.io",
     "brandColor": "#3B5DE7",
-    "source": "https://100tb.io/favicons/sakura.svg",
+    "source": "https://100tb.io/login",
     "license": "Proprietary brand artwork; no open license identified",
-    "quality": "vector",
+    "quality": "redrawn",
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Keep the official blue favicon tile and white cloud. Use the cloud contour alone for mono."
+      "Redraw the site logo shown on 100tb.io pages (bg-accent-600 #3B5DE7 rounded tile with a white bold 1); the cloud favicon is the Sakura template default. Knock the 1 out of the tile for mono."
     ],
     "small": {
       "artwork": "Use the standalone brand mark at 16 px.",
-      "source": "https://100tb.io/favicons/sakura.svg"
+      "source": "https://100tb.io/login"
     }
   },
   {
