@@ -5986,10 +5986,10 @@
       "Use the nine bars from the official pinned-tab vector, applying the red-to-orange sequence in the site favicon with higher light-background contrast."
     ],
     "small": {
-      "artwork": "Thicken and separate the nine bars at 16 and 24 px.",
+      "artwork": "Thicken and separate the nine bars at 16, 24 and 32 px.",
       "source": "https://cdn.craft.cloud/481d40bf-939a-4dc1-918d-b4d4b48b7c04/builds/a3439d20-ed75-4651-906c-888c8ed3e763/artifacts/static/favicon/safari-pinned-tab.svg"
     },
-    "smallMax": 24,
+    "smallMax": 32,
     "paletteSource": "https://cdn.craft.cloud/481d40bf-939a-4dc1-918d-b4d4b48b7c04/builds/a3439d20-ed75-4651-906c-888c8ed3e763/artifacts/static/favicon/favicon.ico"
   },
   {
