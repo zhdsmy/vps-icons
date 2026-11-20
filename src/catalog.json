@@ -5568,5 +5568,255 @@
       "source": "https://www.pqs.pw/assets/img/logo.png"
     },
     "smallMax": 24
+  },
+  {
+    "slug": "home-cloud",
+    "name": "Home Cloud",
+    "names": {
+      "zh-CN": "家里云"
+    },
+    "aliases": [
+      "家庭云",
+      "家庭服务器",
+      "home server",
+      "homelab",
+      "jialiyun"
+    ],
+    "website": "preview.html#light-home-cloud",
+    "brandColor": "#116E8A",
+    "source": "src/art/home-cloud/mono.svg",
+    "license": "MIT",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Original cloud above a gabled house, separated by an open roofline. A server bay is cut into the front wall."
+    ],
+    "small": {
+      "artwork": "Omit the status lamp and square off the server slot through 24 px.",
+      "source": "src/art/home-cloud/mono.svg"
+    },
+    "smallMax": 24
+  },
+  {
+    "slug": "router",
+    "name": "Router",
+    "names": {
+      "zh-CN": "路由器"
+    },
+    "aliases": [
+      "软路由",
+      "無線路由器",
+      "wireless router",
+      "soft router",
+      "luyouqi"
+    ],
+    "website": "preview.html#light-router",
+    "brandColor": "#9E5124",
+    "source": "src/art/router/mono.svg",
+    "license": "MIT",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Original twin-antenna router with a low chassis, short feet and front-panel indicators."
+    ],
+    "small": {
+      "artwork": "Combine the indicators into two clear panel slots through 24 px.",
+      "source": "src/art/router/mono.svg"
+    },
+    "smallMax": 24
+  },
+  {
+    "slug": "server",
+    "name": "Dedicated Server",
+    "names": {
+      "zh-CN": "独立服务器"
+    },
+    "aliases": [
+      "机架服务器",
+      "独服",
+      "rack server",
+      "dedicated machine"
+    ],
+    "website": "preview.html#light-server",
+    "brandColor": "#3F5A79",
+    "source": "src/art/server/mono.svg",
+    "license": "MIT",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Original three-unit rack with a tall frame, bay handles and activity lamps."
+    ],
+    "small": {
+      "artwork": "Widen the gaps between units and retain one handle per bay through 24 px.",
+      "source": "src/art/server/mono.svg"
+    },
+    "smallMax": 24
+  },
+  {
+    "slug": "mini-pc",
+    "name": "Mini PC",
+    "names": {
+      "zh-CN": "小主机"
+    },
+    "aliases": [
+      "迷你主机",
+      "迷你电脑",
+      "mini computer",
+      "小方盒主机"
+    ],
+    "website": "preview.html#light-mini-pc",
+    "brandColor": "#28776A",
+    "source": "src/art/mini-pc/mono.svg",
+    "license": "MIT",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Original low enclosure in three-quarter view with a USB socket and power button on the front face."
+    ],
+    "small": {
+      "artwork": "Use the original filled pictogram at 16 px.",
+      "source": "src/art/mini-pc/mono.svg"
+    }
+  },
+  {
+    "slug": "desktop",
+    "name": "Desktop PC",
+    "names": {
+      "zh-CN": "台式机"
+    },
+    "aliases": [
+      "台式电脑",
+      "桌上型電腦",
+      "desktop computer",
+      "台式主机"
+    ],
+    "website": "preview.html#light-desktop",
+    "brandColor": "#575094",
+    "source": "src/art/desktop/mono.svg",
+    "license": "MIT",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Original monitor on a pedestal with a separate tower and front power button."
+    ],
+    "small": {
+      "artwork": "Use the original filled pictogram at 16 px.",
+      "source": "src/art/desktop/mono.svg"
+    }
+  },
+  {
+    "slug": "laptop",
+    "name": "Laptop",
+    "names": {
+      "zh-CN": "笔记本"
+    },
+    "aliases": [
+      "笔记本电脑",
+      "笔电",
+      "notebook computer"
+    ],
+    "website": "preview.html#light-laptop",
+    "brandColor": "#994966",
+    "source": "src/art/laptop/mono.svg",
+    "license": "MIT",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Original open laptop with an inset screen, hinged base and a trackpad notch."
+    ],
+    "small": {
+      "artwork": "Use the original filled pictogram at 16 px.",
+      "source": "src/art/laptop/mono.svg"
+    }
+  },
+  {
+    "slug": "sbc",
+    "name": "Single-Board Computer",
+    "names": {
+      "zh-CN": "单板机"
+    },
+    "aliases": [
+      "开发板",
+      "盒子",
+      "single board computer",
+      "单板电脑",
+      "开发板主机"
+    ],
+    "website": "preview.html#light-sbc",
+    "brandColor": "#506F32",
+    "source": "src/art/sbc/mono.svg",
+    "license": "MIT",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Original asymmetric circuit board with two edge connectors, a central chip, mounting holes and a pin header."
+    ],
+    "small": {
+      "artwork": "Enlarge the chip recess and combine the row of header pins into a slot through 24 px.",
+      "source": "src/art/sbc/mono.svg"
+    },
+    "smallMax": 24
+  },
+  {
+    "slug": "nat",
+    "name": "NAT Gateway",
+    "names": {
+      "zh-CN": "NAT 机"
+    },
+    "aliases": [
+      "NAT主机",
+      "端口映射",
+      "port forwarding",
+      "network address translation"
+    ],
+    "website": "preview.html#light-nat",
+    "brandColor": "#8A641B",
+    "source": "src/art/nat/mono.svg",
+    "license": "MIT",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Original one-to-two port map: a single jack connects through a branching trace to two destination sockets."
+    ],
+    "small": {
+      "artwork": "Use the original filled pictogram at 16 px.",
+      "source": "src/art/nat/mono.svg"
+    }
+  },
+  {
+    "slug": "gpu",
+    "name": "GPU Server",
+    "names": {
+      "zh-CN": "GPU 服务器"
+    },
+    "aliases": [
+      "显卡",
+      "图形处理器",
+      "graphics card",
+      "显卡服务器"
+    ],
+    "website": "preview.html#light-gpu",
+    "brandColor": "#80478F",
+    "source": "src/art/gpu/mono.svg",
+    "license": "MIT",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Original graphics card with a slot bracket, edge contacts, vents and a cooling fan."
+    ],
+    "small": {
+      "artwork": "Use three broad fan blades and two large vents through 24 px.",
+      "source": "src/art/gpu/mono.svg"
+    },
+    "smallMax": 24
   }
 ]
