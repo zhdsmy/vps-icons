@@ -2,6 +2,14 @@ import { displayPath, licenses, pngPath, qualities, read, svgPath } from './cata
 
 const escape = s => s.replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;').replaceAll('"', '&quot;')
 
+function displayName({ name, names }) {
+  return name === names['zh-CN'] ? name : `${name} · ${names['zh-CN']}`
+}
+
+function tableText(value) {
+  return escape(value).replaceAll('|', '&#124;').replace(/[\r\n]+/g, ' ')
+}
+
 function stats(icons) {
   const counts = Object.fromEntries(qualities.map(q => [q, 0]))
   let dark = 0
@@ -20,26 +28,27 @@ function stats(icons) {
 export function preview({ icons, sizes }) {
   const s = stats(icons)
   const qText = s.activeQualities.map(q => `${q} ${s.counts[q]}`).join(' · ')
+  const samples = sizes.filter(n => n <= 64)
+  const sizeList = samples.join(' / ')
   const summary = [
-    `<p>共 <strong>${s.total}</strong> 个图标（${qText} · 深色变体 ${s.dark} · 小尺寸专版 ${s.small}）。按 16 / 32 / 64 px 原尺寸对比浅色与深色背景下的彩色和单色 PNG，点击名称打开对应图稿。</p>`,
-    `<p class="sub">${s.total} icons (${qText} · ${s.dark} dark variants · ${s.small} compact small masters). Native-size 16 / 32 / 64 px color and monochrome PNGs on light and dark surfaces. Opens directly in any browser without a local server.</p>`,
+    `<p>共 <strong>${s.total}</strong> 个图标（${qText} · 深色变体 ${s.dark} · 小尺寸专版 ${s.small}）。按 ${sizeList} px 原尺寸对比浅色与深色背景下的彩色和单色 PNG，点击名称打开对应图稿。</p>`,
+    `<p class="sub">${s.total} icons (${qText} · ${s.dark} dark variants · ${s.small} compact small masters). Native-size ${sizeList} px color and monochrome PNGs on light and dark surfaces. Opens directly in any browser without a local server.</p>`,
   ].join('\n    ')
 
-  const samples = sizes.filter(n => [16, 32, 64].includes(n))
   function panel(theme) {
     const heading = theme === 'light' ? '浅色 / Light (#ffffff)' : '深色 / Dark (#111827)'
     const rows = icons.map(icon => {
-      const { name, slug, variants } = icon
+      const { slug, variants } = icon
       const color = theme === 'dark' && variants.png.includes('color-dark') ? 'color-dark' : 'color'
       const mono = theme === 'light' ? 'mono-black' : 'mono-white'
       const cells = samples.map(size => {
         const images = [color, mono].map(v => `<img src="${pngPath(slug, v, size)}" width="${size}" height="${size}" alt="${v}">`).join('')
         return `<td><div class="pair">${images}</div></td>`
       }).join('')
-      return `<tr id="${theme}-${slug}"><th scope="row"><a href="${displayPath(icon, color)}">${escape(name)}</a><code>${slug}</code></th>${cells}</tr>`
+      return `<tr id="${theme}-${slug}"><th scope="row"><a href="${displayPath(icon, color)}" title="${slug}">${escape(displayName(icon))}</a></th><td class="quality">${icon.quality}</td>${cells}</tr>`
     }).join('\n')
     return `<section class="panel ${theme}" aria-label="${heading}"><h2>${heading}</h2>
-<table><thead><tr><th scope="col">Icon</th>${samples.map(n => `<th scope="col">${n} px</th>`).join('')}</tr></thead><tbody>${rows}</tbody></table></section>`
+<table><thead><tr><th scope="col">名称 / Name</th><th scope="col">来源质量 / Quality</th>${samples.map(n => `<th scope="col">${n} px</th>`).join('')}</tr></thead><tbody>${rows}</tbody></table></section>`
   }
   return read('src/preview.html')
     .replace('<!-- summary -->', summary)
@@ -71,7 +80,7 @@ export function readme({ icons, sizes }, template) {
     const smallCell = icon.small.maxSize
       ? (missingSvg ? `≤${icon.small.maxSize}` : `[≤${icon.small.maxSize}](${svgPath(icon.slug, 'color', true)})`)
       : '—'
-    return `| ![](${pngPath(icon.slug, 'color', 24)}) | ${icon.name} · ${icon.names['zh-CN']} | [` + '`' + `${icon.slug}` + '`' + `](${displayPath(icon, 'color')}) | ${dark} | ${smallCell} | ${quality} | [↗](${icon.source}) |`
+    return `| ![](${pngPath(icon.slug, 'color', 24)}) | ${tableText(displayName(icon))} | ${icon.nicknames?.map(tableText).join('、') ?? '—'} | [` + '`' + `${icon.slug}` + '`' + `](${displayPath(icon, 'color')}) | ${dark} | ${smallCell} | ${quality} | [↗](${icon.source}) |`
   })
   return template
     .replace('<!-- stats -->', statsBlock)

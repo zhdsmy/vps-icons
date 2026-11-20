@@ -11,12 +11,12 @@ const lookupKey = value => value.normalize('NFKC').toLowerCase().replace(/[\p{P}
 function checkAliasOwner(value, slug) {
   const key = lookupKey(value)
   const owner = aliasOwners.get(key)
-  assert(!owner || owner === slug, `${slug}: "${value}" conflicts with an alias of ${owner}`)
+  assert(!owner || owner === slug, `${slug}: "${value}" conflicts with an alias or nickname of ${owner}`)
   return key
 }
-for (const { slug, aliases, license } of index.icons) {
+for (const { slug, aliases, nicknames = [], license } of index.icons) {
   assert(licenses.has(license), `${slug}: unrecognized license "${license}"`)
-  for (const alias of aliases) aliasOwners.set(checkAliasOwner(alias, slug), slug)
+  for (const alias of [...aliases, ...nicknames]) aliasOwners.set(checkAliasOwner(alias, slug), slug)
 }
 for (const { slug, name } of index.icons) {
   checkAliasOwner(slug, slug)

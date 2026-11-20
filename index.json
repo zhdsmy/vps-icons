@@ -22,6 +22,9 @@
         "amazon",
         "yamaxun"
       ],
+      "nicknames": [
+        "AWS"
+      ],
       "website": "https://aws.amazon.com",
       "brandColor": "#252F3E",
       "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/aws.svg",
@@ -54,12 +57,16 @@
       "slug": "google-cloud",
       "name": "Google Cloud",
       "names": {
-        "zh-CN": "谷歌云"
+        "zh-CN": "Google Cloud"
       },
       "aliases": [
         "gcp",
         "google",
         "gugeyun"
+      ],
+      "nicknames": [
+        "谷歌云",
+        "GCP"
       ],
       "website": "https://cloud.google.com",
       "brandColor": "#4285F4",
@@ -90,11 +97,14 @@
       "slug": "azure",
       "name": "Microsoft Azure",
       "names": {
-        "zh-CN": "微软 Azure"
+        "zh-CN": "微软智能云 Azure"
       },
       "aliases": [
         "azure",
         "weiruan"
+      ],
+      "nicknames": [
+        "微软云"
       ],
       "website": "https://azure.microsoft.com",
       "brandColor": "#0078D4",
@@ -125,12 +135,17 @@
       "slug": "oracle-cloud",
       "name": "Oracle Cloud Infrastructure",
       "names": {
-        "zh-CN": "甲骨文云"
+        "zh-CN": "Oracle Cloud Infrastructure"
       },
       "aliases": [
         "oci",
         "oracle",
         "jiaguwen"
+      ],
+      "nicknames": [
+        "甲骨文",
+        "甲骨文云",
+        "OCI"
       ],
       "website": "https://www.oracle.com/cloud/",
       "brandColor": "#C74634",
@@ -205,6 +220,9 @@
         "cf",
         "cloudflare workers"
       ],
+      "nicknames": [
+        "CF"
+      ],
       "website": "https://www.cloudflare.com",
       "brandColor": "#F38020",
       "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/cloudflare-color.svg",
@@ -241,6 +259,9 @@
         "ali",
         "alibabacloud"
       ],
+      "nicknames": [
+        "阿里"
+      ],
       "website": "https://www.aliyun.com",
       "brandColor": "#FF6A00",
       "source": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/alibabacloud-color.svg",
@@ -276,6 +297,9 @@
         "tencent",
         "tengxunyun",
         "qcloud"
+      ],
+      "nicknames": [
+        "腾讯"
       ],
       "website": "https://cloud.tencent.com",
       "brandColor": "#006EFF",
@@ -1032,6 +1056,9 @@
         "cc",
         "cloudcone"
       ],
+      "nicknames": [
+        "CC"
+      ],
       "website": "https://cloudcone.com",
       "brandColor": "#4F9748",
       "source": "https://cloudcone.com/wp-content/uploads/2017/05/cloudcone-logo-full.png",
@@ -1067,6 +1094,9 @@
         "rn",
         "racknerd"
       ],
+      "nicknames": [
+        "RN"
+      ],
       "website": "https://www.racknerd.com",
       "brandColor": "#0078BF",
       "source": "https://www.racknerd.com/favicon.png",
@@ -1098,11 +1128,14 @@
       "slug": "greencloud",
       "name": "GreenCloud",
       "names": {
-        "zh-CN": "绿云"
+        "zh-CN": "GreenCloud"
       },
       "aliases": [
         "greencloudvps",
         "lvyun"
+      ],
+      "nicknames": [
+        "绿云"
       ],
       "website": "https://greencloudvps.com",
       "brandColor": "#76B900",
@@ -1168,12 +1201,15 @@
       "slug": "v-ps",
       "name": "V.PS",
       "names": {
-        "zh-CN": "小秘书"
+        "zh-CN": "V.PS"
       },
       "aliases": [
         "v.ps",
         "xiaomishu",
         "xtom"
+      ],
+      "nicknames": [
+        "小秘书"
       ],
       "website": "https://v.ps",
       "brandColor": "#0D0D0D",
@@ -1212,6 +1248,9 @@
         "ak",
         "akile",
         "akilecloud"
+      ],
+      "nicknames": [
+        "AK"
       ],
       "website": "https://akile.ai",
       "brandColor": "#2979FF",
@@ -1286,6 +1325,9 @@
         "dama",
         "大妈"
       ],
+      "nicknames": [
+        "大妈"
+      ],
       "website": "https://www.dmit.io",
       "brandColor": "#0068FF",
       "source": "https://www.dmit.io/templates/dmit_theme_2020/dmit/assets/images/dmit_logo.svg",
@@ -1315,12 +1357,16 @@
       "slug": "bandwagonhost",
       "name": "BandwagonHost",
       "names": {
-        "zh-CN": "搬瓦工"
+        "zh-CN": "BandwagonHost"
       },
       "aliases": [
         "bwh",
         "bandwagon",
         "banwagong"
+      ],
+      "nicknames": [
+        "搬瓦工",
+        "瓦工"
       ],
       "website": "https://bandwagonhost.com",
       "brandColor": "#F0A500",
@@ -1356,6 +1402,9 @@
       "aliases": [
         "dog yun",
         "gouyun"
+      ],
+      "nicknames": [
+        "狗云"
       ],
       "website": "https://www.dogyun.com",
       "brandColor": "#0E6EB8",
@@ -1464,6 +1513,9 @@
         "ccs",
         "colocrossing"
       ],
+      "nicknames": [
+        "CCS"
+      ],
       "website": "https://www.colocrossing.com",
       "brandColor": "#006895",
       "source": "https://www.colocrossing.com/wp-content/uploads/2026/10/ColoCrossing_website_logo-1.svg",
@@ -1530,11 +1582,14 @@
       "slug": "spartan-host",
       "name": "Spartan Host",
       "names": {
-        "zh-CN": "斯巴达"
+        "zh-CN": "Spartan Host"
       },
       "aliases": [
         "spartan",
         "sibada"
+      ],
+      "nicknames": [
+        "斯巴达"
       ],
       "website": "https://spartanhost.org",
       "brandColor": "#1D80C0",
@@ -2104,6 +2159,9 @@
       },
       "aliases": [
         "go daddy"
+      ],
+      "nicknames": [
+        "狗爹"
       ],
       "website": "https://www.godaddy.com",
       "brandColor": "#1BDBDB",
@@ -2867,6 +2925,9 @@
         "reliable site",
         "reliablesite.net"
       ],
+      "nicknames": [
+        "RS"
+      ],
       "website": "https://www.reliablesite.net",
       "brandColor": "#FFAE00",
       "source": "https://www.reliablesite.net/static/img/minified-svg/logo.svg",
@@ -3069,7 +3130,7 @@
       "slug": "sakura-internet",
       "name": "SAKURA internet",
       "names": {
-        "zh-CN": "樱花互联网"
+        "zh-CN": "SAKURA internet"
       },
       "aliases": [
         "さくらインターネット",
@@ -3246,10 +3307,13 @@
       "slug": "neburst",
       "name": "Neburst Networks",
       "names": {
-        "zh-CN": "奶爸云"
+        "zh-CN": "Neburst Networks"
       },
       "aliases": [
         "neburst networks",
+        "奶爸"
+      ],
+      "nicknames": [
         "奶爸"
       ],
       "website": "https://neburst.com/",
@@ -3424,7 +3488,7 @@
       "slug": "naver-cloud",
       "name": "NAVER Cloud Platform",
       "names": {
-        "zh-CN": "NAVER 云"
+        "zh-CN": "NAVER Cloud Platform"
       },
       "aliases": [
         "ncp",
@@ -3460,7 +3524,7 @@
       "slug": "nhn-cloud",
       "name": "NHN Cloud",
       "names": {
-        "zh-CN": "NHN 云"
+        "zh-CN": "NHN Cloud"
       },
       "aliases": [
         "엔에이치엔 클라우드"
@@ -3860,7 +3924,7 @@
       "slug": "kt-cloud",
       "name": "kt cloud",
       "names": {
-        "zh-CN": "KT 云"
+        "zh-CN": "kt cloud"
       },
       "aliases": [
         "케이티클라우드"
@@ -5893,7 +5957,7 @@
       "slug": "webarena",
       "name": "WebARENA",
       "names": {
-        "zh-CN": "NTT WebARENA"
+        "zh-CN": "WebARENA"
       },
       "aliases": [
         "webarena",
@@ -6484,7 +6548,7 @@
       "slug": "iij",
       "name": "Internet Initiative Japan",
       "names": {
-        "zh-CN": "日本互联网倡议"
+        "zh-CN": "Internet Initiative Japan"
       },
       "aliases": [
         "iij",
@@ -6561,7 +6625,7 @@
       "slug": "viettel-idc",
       "name": "Viettel IDC",
       "names": {
-        "zh-CN": "越南 Viettel IDC"
+        "zh-CN": "Viettel IDC"
       },
       "aliases": [
         "viettel idc",
@@ -7203,11 +7267,14 @@
       "slug": "bestvm",
       "name": "BestVM",
       "names": {
-        "zh-CN": "BestVM（富婆）"
+        "zh-CN": "BestVM"
       },
       "aliases": [
         "富婆",
         "bestvm.cloud"
+      ],
+      "nicknames": [
+        "富婆"
       ],
       "website": "https://bestvm.cloud",
       "brandColor": "#192335",
@@ -7346,11 +7413,14 @@
       "slug": "rfchost",
       "name": "RFCHost",
       "names": {
-        "zh-CN": "花卷"
+        "zh-CN": "RFCHost"
       },
       "aliases": [
         "花卷",
         "rfc host"
+      ],
+      "nicknames": [
+        "花卷"
       ],
       "website": "https://rfchost.com",
       "brandColor": "#00BC83",
@@ -7461,6 +7531,9 @@
       "aliases": [
         "fiber state",
         "AS26042"
+      ],
+      "nicknames": [
+        "FS"
       ],
       "website": "https://fiberstate.com",
       "brandColor": "#CC0000",
@@ -7742,12 +7815,15 @@
       "slug": "wepc",
       "name": "WePC",
       "names": {
-        "zh-CN": "WePC 车库云"
+        "zh-CN": "WePC"
       },
       "aliases": [
         "WePC.au",
         "车库云",
         "車庫雲"
+      ],
+      "nicknames": [
+        "车库云"
       ],
       "website": "https://wepc.au",
       "brandColor": "#1888E6",
@@ -7856,7 +7932,7 @@
       "slug": "pqs",
       "name": "PQS",
       "names": {
-        "zh-CN": "PQS 彼得巧私有雲"
+        "zh-CN": "PQS彼得巧私有雲"
       },
       "aliases": [
         "PittQiao",
@@ -7864,6 +7940,9 @@
         "彼得巧",
         "PittQiao Network Information",
         "pqs.pw"
+      ],
+      "nicknames": [
+        "彼得巧"
       ],
       "website": "https://www.pqs.pw/",
       "brandColor": "#002B61",
@@ -8522,12 +8601,15 @@
       "slug": "proxmox",
       "name": "Proxmox VE",
       "names": {
-        "zh-CN": "Proxmox 虚拟环境"
+        "zh-CN": "Proxmox VE"
       },
       "aliases": [
         "proxmox",
         "PVE",
         "Proxmox Virtual Environment"
+      ],
+      "nicknames": [
+        "PVE"
       ],
       "website": "https://www.proxmox.com/en/products/proxmox-virtual-environment/overview",
       "brandColor": "#E57000",
@@ -8597,7 +8679,7 @@
       "slug": "istoreos",
       "name": "iStoreOS",
       "names": {
-        "zh-CN": "iStoreOS 酷友社软路由"
+        "zh-CN": "iStoreOS"
       },
       "aliases": [
         "iStoreOS",

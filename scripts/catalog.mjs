@@ -61,6 +61,7 @@ const icons = catalog.map(({ format, hasDark, smallMax, ...data }) => {
   assert.match(data.brandColor, /^#[a-f\d]{6}$/i)
   assert(listOfText([data.name, data.names?.['zh-CN'], data.source, data.license, data.website, data.small?.source, data.small?.artwork]), slug)
   assert(listOfText(data.aliases) && listOfText(data.processing), slug)
+  assert(data.nicknames === undefined || listOfText(data.nicknames), `${slug}: nicknames must be a non-empty array of non-empty strings`)
   checkUrls(slug, data)
   if (smallMax) assert(sizes.includes(smallMax), slug)
   if (quality === 'upscaled') assert(data.nativeSize?.length === 2 && Math.max(...data.nativeSize) <= 64, slug)

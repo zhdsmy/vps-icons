@@ -127,8 +127,9 @@ At 16–32 px (sidebars, server tables, badges), wide wordmarks, hairlines, and 
 | `sizes` | `number[]` | 导出的 PNG 像素尺寸列表（`[16, 24, 32, 48, 64, 128, 256, 512]`）。 / Exported PNG widths in px. |
 | `icons[]` | `object[]` | 图标条目数组。 / Array of icon records. |
 | `slug` | `string` | 唯一文件名标识（小写 `kebab-case`）。 / Unique lowercase `kebab-case` identifier used in paths. |
-| `name` / `names["zh-CN"]` | `string` | 英文主名称与简体中文名称。 / Primary English and Simplified Chinese names. |
-| `aliases` | `string[]` | 每个别名仅指向一个条目。比较别名、slug 和英文名时忽略大小写、空白和标点。 / Each alias identifies one entry across aliases, slugs and English names, ignoring case, whitespace and punctuation. |
+| `name` / `names["zh-CN"]` | `string` | 英文名与中文名。品牌有官方中文名时使用官方名称，否则沿用英文名。 / English and Chinese names. Brands use their official Chinese name when available, otherwise the English name. |
+| `aliases` | `string[]` | 检索键，可包含拼音。别名、常用名、slug 和英文名按 NFKC 规范化并忽略大小写、空白和标点后，不能指向不同条目。 / Search keys, including pinyin. Across entries, aliases and nicknames must be unique and cannot shadow a slug or English name after NFKC normalization and removal of case, whitespace and punctuation differences. |
+| `nicknames?` | `string[]` | 中文社区常用的简称或外号。提供时至少包含一个非空字符串。 / Common names in Chinese-speaking communities. When present, contains one or more non-empty strings. |
 | `website` | `string` | 厂商官网 HTTPS 链接（通用图标指向 `preview.html` 锚点）。 / Official HTTPS website (or `preview.html` anchor for generic icons). |
 | `brandColor` | `string` | 十六进制品牌主色（`#RRGGBB`）。 / Primary hex brand color. |
 | `source` / `monoSource?` | `string` | 主图与可选单色图的原始来源 URL（5 个原创图标为仓库内路径）。 / Provenance URL(s) for primary and optional monochrome masters. |
@@ -175,8 +176,12 @@ At 16–32 px (sidebars, server tables, badges), wide wordmarks, hairlines, and 
 
 <!-- catalog-note -->
 
-| 图标 / Icon | 名称 / Name | Slug | 深色 / Dark | 小图 / Small | 来源质量 / Quality | 来源 / Source |
-|---|---|---|:---:|:---:|---|---|
+名称不同时并列显示英文名与中文名。常用名列列出中文社区的叫法，缺省时显示「—」。
+
+English and Chinese names appear together when they differ. The next column lists common community names or an em dash when none are recorded.
+
+| 图标 / Icon | 名称 / Name | 常用名 / Also known as | Slug | 深色 / Dark | 小图 / Small | 来源质量 / Quality | 来源 / Source |
+|---|---|---|---|:---:|:---:|---|---|
 <!-- catalog -->
 
 ---
