@@ -333,7 +333,7 @@
     "format": "svg",
     "hasDark": false,
     "processing": [
-      "Hand-draw the blue rounded-square badge and pixelated U mark as clean SVG against the 512 x 512 official GitHub organization avatar, optically sized to 50 x 50 with larger crisp pixel blocks at 16 and 24 px."
+      "Hand-draw the blue rounded-square badge and pixelated U mark as clean SVG against the 512 x 512 official GitHub organization avatar, optically sized to 50 x 50 with matching badge-cutout monochrome and bolder pixel blocks at 16 and 24 px."
     ],
     "small": {
       "artwork": "Use the optically sized badge and U mark with bolder pixel blocks at 16 and 24 px.",
@@ -361,12 +361,13 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+      "Isolate the native mark, center it on the 64-unit viewBox, prepare the monochrome and color-dark masters, and add a stroke-reinforced 16/24 px small variant."
     ],
     "small": {
-      "artwork": "Use the primary graphic mark at 16 px.",
+      "artwork": "Use the stroke-reinforced cloud-and-arrow mark at 16 and 24 px.",
       "source": "https://www.ctyun.cn/s/q04sv38ZSzTBF4mEHo-3dVsyWITNHb2AHhoKmmcfMQvFLURsx3V4aUR26W8PQUqCT8irIp8kNZZFmZcjQa3tK6eXmmMshjNGFvsiB8BbIGaFz_TPP8FfRddLJaCyZHeBXWsC1L62ycvoisuSuYDeDRtmnH44p_kJ"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "digitalocean",
@@ -436,12 +437,13 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Keep the native isometric stacked-cube mark, replace the washed-out single-hue color-dark with vivid two-tone greens and mint edges, and convert monochrome to solid-ink facets without gray opacity."
+      "Keep the native isometric stacked-cube mark, replace the washed-out single-hue color-dark with vivid two-tone greens and mint edges, and add a bolder 16/24 px small variant with solid-block monochrome cubes."
     ],
     "small": {
-      "artwork": "Use the primary graphic mark at 16 px.",
+      "artwork": "Use the edge-reinforced cube mark and solid-block monochrome silhouette at 16 and 24 px.",
       "source": "https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/linode.svg"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "akamai",
@@ -462,12 +464,13 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Isolate the native mark, center it on the 64-unit viewBox and prepare the monochrome and color masters."
+      "Isolate the native mark, center it on the 64-unit viewBox, prepare the monochrome and color-dark masters, and add a stroke-reinforced 16/24 px small variant so all three wave arcs stay crisp."
     ],
     "small": {
-      "artwork": "Use the primary graphic mark at 16 px.",
+      "artwork": "Use the stroke-reinforced three-wave mark at 16 and 24 px.",
       "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/akamai.svg"
-    }
+    },
+    "smallMax": 24
   },
   {
     "slug": "hetzner",
@@ -562,10 +565,10 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Center the native looped ribbon cleanly within 94% width and add an optically taller, bolder 16/24 px small variant for crisp sidebar legibility."
+      "Center the native looped ribbon cleanly within 94% width and add an optically taller, thicker 16/24 px small variant for crisp sidebar legibility."
     ],
     "small": {
-      "artwork": "Use the optically taller, bolder looped-ribbon mark at 16 and 24 px.",
+      "artwork": "Use the optically taller, thicker looped-ribbon mark at 16 and 24 px.",
       "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/upcloud.svg"
     },
     "smallMax": 24
@@ -637,10 +640,10 @@
     "format": "svg",
     "hasDark": true,
     "processing": [
-      "Reconstruct the native 3-tier isometric diamond stack with opaque single/overlap brand blues matching Kamatera logo.png (removing washed-out 0.5 opacity), a solid-ink stacked-tier monochrome mark, and a bolder 16/24 px small variant."
+      "Reconstruct the native 3-tier isometric diamond stack with opaque single/overlap brand blues matching Kamatera logo.png (removing washed-out 0.5 opacity), a solid-ink stacked-tier monochrome mark, and a cleanly separated 3-tier 16/24 px small variant."
     ],
     "small": {
-      "artwork": "Use the bolder 3-tier isometric stack at 16 and 24 px.",
+      "artwork": "Use the cleanly separated 3-tier isometric stack at 16 and 24 px.",
       "source": "https://www.kamatera.com/wp-content/themes/kamatera/images/Group%20666.svg"
     },
     "paletteSource": "https://www.kamatera.com/wp-content/uploads/cropped-cropped-06169472-7db8-4ba3-91f6-3b4e34b5e168-1.png",

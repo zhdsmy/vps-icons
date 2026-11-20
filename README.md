@@ -4,9 +4,9 @@
 
 Self-contained cloud, VPS, hosting, and generic infrastructure icons for monitoring dashboards, status pages, directories, and documentation. Load directly via jsDelivr CDN or self-host offline.
 
-当前共收录 **241** 个图标（`vector` 156 · `redrawn` 85；全部提供 SVG 与 8 档 PNG；**187** 个含深色变体，**94** 个含小尺寸专版）。
+当前共收录 **241** 个图标（`vector` 156 · `redrawn` 85；全部提供 SVG 与 8 档 PNG；**187** 个含深色变体，**97** 个含小尺寸专版）。
 
-Currently **241** icons (156 `vector`, 85 `redrawn`; all with SVG + 8 PNG sizes; **187** dark variants, **94** compact small masters).
+Currently **241** icons (156 `vector`, 85 `redrawn`; all with SVG + 8 PNG sizes; **187** dark variants, **97** compact small masters).
 
 [![全部图标预览（上：浅色背景，下：深色背景） / All icons on light and dark backgrounds](preview.png)](https://zhdsmy.github.io/vps-icons/preview.html)
 
@@ -198,11 +198,11 @@ English and Chinese names appear together when they differ. The next column list
 | ![](png/color/24/jd-cloud.png) | JD Cloud · 京东云 | — | [`jd-cloud`](svg/color/jd-cloud.svg) | [✓](svg/color-dark/jd-cloud.svg) | [≤24](svg/small/color/jd-cloud.svg) | vector | [↗](https://img1.jcloudcs.com/portal/header/jdcloud-logo-2021.svg) |
 | ![](png/color/24/volcengine.png) | Volcengine · 火山引擎 | — | [`volcengine`](svg/color/volcengine.svg) | — | — | vector | [↗](https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.104.0/icons/volcengine-color.svg) |
 | ![](png/color/24/ucloud.png) | UCloud · 优刻得 | — | [`ucloud`](svg/color/ucloud.svg) | — | [≤24](svg/small/color/ucloud.svg) | redrawn | [↗](https://avatars.githubusercontent.com/u/14289247?v=4&s=512) |
-| ![](png/color/24/ctyun.png) | China Telecom Cloud · 天翼云 | — | [`ctyun`](svg/color/ctyun.svg) | [✓](svg/color-dark/ctyun.svg) | — | vector | [↗](https://www.ctyun.cn/s/q04sv38ZSzTBF4mEHo-3dVsyWITNHb2AHhoKmmcfMQvFLURsx3V4aUR26W8PQUqCT8irIp8kNZZFmZcjQa3tK6eXmmMshjNGFvsiB8BbIGaFz_TPP8FfRddLJaCyZHeBXWsC1L62ycvoisuSuYDeDRtmnH44p_kJ) |
+| ![](png/color/24/ctyun.png) | China Telecom Cloud · 天翼云 | — | [`ctyun`](svg/color/ctyun.svg) | [✓](svg/color-dark/ctyun.svg) | [≤24](svg/small/color/ctyun.svg) | vector | [↗](https://www.ctyun.cn/s/q04sv38ZSzTBF4mEHo-3dVsyWITNHb2AHhoKmmcfMQvFLURsx3V4aUR26W8PQUqCT8irIp8kNZZFmZcjQa3tK6eXmmMshjNGFvsiB8BbIGaFz_TPP8FfRddLJaCyZHeBXWsC1L62ycvoisuSuYDeDRtmnH44p_kJ) |
 | ![](png/color/24/digitalocean.png) | DigitalOcean | — | [`digitalocean`](svg/color/digitalocean.svg) | — | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/digitalocean.svg) |
 | ![](png/color/24/vultr.png) | Vultr | — | [`vultr`](svg/color/vultr.svg) | — | — | vector | [↗](https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/vultr-icon.svg) |
-| ![](png/color/24/linode.png) | Linode | — | [`linode`](svg/color/linode.svg) | [✓](svg/color-dark/linode.svg) | — | vector | [↗](https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/linode.svg) |
-| ![](png/color/24/akamai.png) | Akamai · 阿卡迈 | — | [`akamai`](svg/color/akamai.svg) | [✓](svg/color-dark/akamai.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/akamai.svg) |
+| ![](png/color/24/linode.png) | Linode | — | [`linode`](svg/color/linode.svg) | [✓](svg/color-dark/linode.svg) | [≤24](svg/small/color/linode.svg) | vector | [↗](https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/linode.svg) |
+| ![](png/color/24/akamai.png) | Akamai · 阿卡迈 | — | [`akamai`](svg/color/akamai.svg) | [✓](svg/color-dark/akamai.svg) | [≤24](svg/small/color/akamai.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/akamai.svg) |
 | ![](png/color/24/hetzner.png) | Hetzner | — | [`hetzner`](svg/color/hetzner.svg) | [✓](svg/color-dark/hetzner.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/hetzner.svg) |
 | ![](png/color/24/ovhcloud.png) | OVHcloud | — | [`ovhcloud`](svg/color/ovhcloud.svg) | [✓](svg/color-dark/ovhcloud.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/ovh.svg) |
 | ![](png/color/24/scaleway.png) | Scaleway | — | [`scaleway`](svg/color/scaleway.svg) | [✓](svg/color-dark/scaleway.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/scaleway.svg) |
