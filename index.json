@@ -7900,6 +7900,195 @@
           "mono-white"
         ]
       }
+    },
+    {
+      "slug": "unraid",
+      "name": "Unraid",
+      "names": {
+        "zh-CN": "Unraid"
+      },
+      "aliases": [
+        "unraid os",
+        "unRAID Server"
+      ],
+      "website": "https://unraid.net/",
+      "brandColor": "#D83D2E",
+      "source": "https://cdn.craft.cloud/481d40bf-939a-4dc1-918d-b4d4b48b7c04/builds/a3439d20-ed75-4651-906c-888c8ed3e763/artifacts/static/favicon/safari-pinned-tab.svg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Use the nine bars from the official pinned-tab vector, applying the red-to-orange sequence in the site favicon with higher light-background contrast."
+      ],
+      "small": {
+        "artwork": "Thicken and separate the nine bars at 16 and 24 px.",
+        "source": "https://cdn.craft.cloud/481d40bf-939a-4dc1-918d-b4d4b48b7c04/builds/a3439d20-ed75-4651-906c-888c8ed3e763/artifacts/static/favicon/safari-pinned-tab.svg",
+        "maxSize": 24
+      },
+      "paletteSource": "https://cdn.craft.cloud/481d40bf-939a-4dc1-918d-b4d4b48b7c04/builds/a3439d20-ed75-4651-906c-888c8ed3e763/artifacts/static/favicon/favicon.ico",
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "truenas",
+      "name": "TrueNAS",
+      "names": {
+        "zh-CN": "TrueNAS"
+      },
+      "aliases": [
+        "FreeNAS",
+        "TrueNAS CORE",
+        "TrueNAS SCALE"
+      ],
+      "website": "https://www.truenas.com/",
+      "brandColor": "#0095D5",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/truenas.svg",
+      "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+      "quality": "vector",
+      "processing": [
+        "Separate the five facets of the Simple Icons cube and match their colors to the official TrueNAS favicon, deepening the light surfaces for contrast."
+      ],
+      "small": {
+        "artwork": "Use the isolated emblem at sidebar sizes.",
+        "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/truenas.svg"
+      },
+      "paletteSource": "https://www.truenas.com/wp-content/uploads/2020/08/cropped-TN-favicon-250x250.png",
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "proxmox",
+      "name": "Proxmox VE",
+      "names": {
+        "zh-CN": "Proxmox 虚拟环境"
+      },
+      "aliases": [
+        "proxmox",
+        "PVE",
+        "Proxmox Virtual Environment"
+      ],
+      "website": "https://www.proxmox.com/en/products/proxmox-virtual-environment/overview",
+      "brandColor": "#E57000",
+      "source": "https://www.proxmox.com/favicon.svg",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "vector",
+      "processing": [
+        "Isolate the four interlocking X arms from the official Proxmox SVG favicon. Reverse the two black arms to near-white on dark backgrounds."
+      ],
+      "small": {
+        "artwork": "Use the isolated emblem at sidebar sizes.",
+        "source": "https://www.proxmox.com/favicon.svg"
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "openwrt",
+      "name": "OpenWrt",
+      "names": {
+        "zh-CN": "OpenWrt"
+      },
+      "aliases": [
+        "open wrt",
+        "OpenWrt 路由器"
+      ],
+      "website": "https://openwrt.org/",
+      "brandColor": "#00A3E1",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/openwrt.svg",
+      "license": "CC0-1.0 (Simple Icons collection); brand rights reserved",
+      "quality": "vector",
+      "processing": [
+        "Retain the Simple Icons signal and ring outlines, using the cyan and navy of the official favicon. Separate the arches and ring from the central dot in the compact version."
+      ],
+      "small": {
+        "artwork": "Use two broader signal arches, a larger dot and an open ring at 16 and 24 px.",
+        "source": "https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/openwrt.svg",
+        "maxSize": 24
+      },
+      "paletteSource": "https://openwrt.org/favicon.ico",
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
+    },
+    {
+      "slug": "istoreos",
+      "name": "iStoreOS",
+      "names": {
+        "zh-CN": "iStoreOS 酷友社软路由"
+      },
+      "aliases": [
+        "iStoreOS",
+        "酷友社 iStoreOS",
+        "iStore OS"
+      ],
+      "website": "https://site.istoreos.com/",
+      "brandColor": "#0060FF",
+      "source": "https://site.istoreos.com/favicon.ico",
+      "license": "Proprietary brand artwork; no open license identified",
+      "quality": "redrawn",
+      "processing": [
+        "Rebuild the blue rounded tile and fit its transparent S, dot and OS counters with Potrace from the official icon. Use the same cutouts for monochrome."
+      ],
+      "small": {
+        "artwork": "Omit the small OS lettering and keep the striped S and dot through 24 px.",
+        "source": "https://site.istoreos.com/favicon.ico",
+        "maxSize": 24
+      },
+      "variants": {
+        "svg": [
+          "color",
+          "color-dark",
+          "mono"
+        ],
+        "png": [
+          "color",
+          "color-dark",
+          "mono-black",
+          "mono-white"
+        ]
+      }
     }
   ]
 }

@@ -4,9 +4,9 @@
 
 Self-contained cloud, VPS, hosting, and generic infrastructure icons for monitoring dashboards, status pages, directories, and documentation. Load directly via jsDelivr CDN or self-host offline.
 
-当前共收录 **220** 个图标（`vector` 140 · `redrawn` 80；全部提供 SVG 与 8 档 PNG；**166** 个含深色变体，**72** 个含小尺寸专版）。
+当前共收录 **225** 个图标（`vector` 144 · `redrawn` 81；全部提供 SVG 与 8 档 PNG；**171** 个含深色变体，**75** 个含小尺寸专版）。
 
-Currently **220** icons (140 `vector`, 80 `redrawn`; all with SVG + 8 PNG sizes; **166** dark variants, **72** compact small masters).
+Currently **225** icons (144 `vector`, 81 `redrawn`; all with SVG + 8 PNG sizes; **171** dark variants, **75** compact small masters).
 
 [在线/本地对照预览 · Preview](preview.html) · [完整元数据索引 · index.json](index.json)
 
@@ -399,6 +399,11 @@ All current entries ship as SVG (zero PNG-only, `upscaled`, or `placeholder` ico
 | ![](png/color/24/ugreen-nas.png) | UGREEN NAS · 绿联 | [`ugreen-nas`](svg/color/ugreen-nas.svg) | [✓](svg/color-dark/ugreen-nas.svg) | — | redrawn | [↗](https://ai.ugreen.com/cdn/shop/files/favicon_green.png?crop=center&height=32&v=1776422247&width=32) |
 | ![](png/color/24/zspace.png) | ZSpace NAS · 极空间 | [`zspace`](svg/color/zspace.svg) | [✓](svg/color-dark/zspace.svg) | — | redrawn | [↗](https://img.zconnect.cn/home/pc_zs_logo.png) |
 | ![](png/color/24/fnos.png) | fnOS · 飞牛 | [`fnos`](svg/color/fnos.svg) | [✓](svg/color-dark/fnos.svg) | — | redrawn | [↗](https://static2.fnnas.com/official/fnos-logo.png) |
+| ![](png/color/24/unraid.png) | Unraid · Unraid | [`unraid`](svg/color/unraid.svg) | [✓](svg/color-dark/unraid.svg) | [≤24](svg/small/color/unraid.svg) | vector | [↗](https://cdn.craft.cloud/481d40bf-939a-4dc1-918d-b4d4b48b7c04/builds/a3439d20-ed75-4651-906c-888c8ed3e763/artifacts/static/favicon/safari-pinned-tab.svg) |
+| ![](png/color/24/truenas.png) | TrueNAS · TrueNAS | [`truenas`](svg/color/truenas.svg) | [✓](svg/color-dark/truenas.svg) | — | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/truenas.svg) |
+| ![](png/color/24/proxmox.png) | Proxmox VE · Proxmox 虚拟环境 | [`proxmox`](svg/color/proxmox.svg) | [✓](svg/color-dark/proxmox.svg) | — | vector | [↗](https://www.proxmox.com/favicon.svg) |
+| ![](png/color/24/openwrt.png) | OpenWrt · OpenWrt | [`openwrt`](svg/color/openwrt.svg) | [✓](svg/color-dark/openwrt.svg) | [≤24](svg/small/color/openwrt.svg) | vector | [↗](https://cdn.jsdelivr.net/npm/simple-icons@16.38.0/icons/openwrt.svg) |
+| ![](png/color/24/istoreos.png) | iStoreOS · iStoreOS 酷友社软路由 | [`istoreos`](svg/color/istoreos.svg) | [✓](svg/color-dark/istoreos.svg) | [≤24](svg/small/color/istoreos.svg) | redrawn | [↗](https://site.istoreos.com/favicon.ico) |
 
 ---
 
@@ -443,14 +448,14 @@ npm ci && npm run build && npm run check
 
 | 允许的 `license` 值 / Accepted license statement | 条目数 / Icons |
 |---|---:|
-| `Proprietary brand artwork; no open license identified` | 159 |
+| `Proprietary brand artwork; no open license identified` | 162 |
 | `Proprietary brand artwork; no open license identified; CC0-1.0 Simple Icons monochrome balloon, brand rights reserved` | 1 |
 | `Proprietary brand artwork; no open license identified; CC0-1.0 Simple Icons monochrome mark, brand rights reserved` | 2 |
 | `Proprietary brand artwork; no open license identified; Source Sans Pro outlines under SIL OFL-1.1` | 1 |
 | `Proprietary brand artwork; no open license identified; Lexend glyph outlines under SIL OFL-1.1` | 1 |
 | `MIT` | 5 |
 | `MIT (LobeHub artwork); brand rights reserved` | 10 |
-| `CC0-1.0 (Simple Icons collection); brand rights reserved` | 26 |
+| `CC0-1.0 (Simple Icons collection); brand rights reserved` | 28 |
 | `CC0-1.0 (SVG Logos collection); brand rights reserved` | 9 |
 | `CC0-1.0 (SVG Logos collection); brand rights reserved; CC0-1.0 Simple Icons monochrome mark, brand rights reserved` | 1 |
 | `CC0-1.0 (TheSVG collection); brand rights reserved` | 1 |
