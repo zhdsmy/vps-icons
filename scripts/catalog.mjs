@@ -21,7 +21,10 @@ export const licenses = new Set([
   'Public domain (PD-textlogo, Wikimedia Commons); trademark rights reserved',
   'Public domain (Wikimedia Commons, PD-textlogo); trademark rights reserved by KT.',
 ])
-const genericIcons = new Set(['home', 'nas', 'relay', 'other', 'unknown'])
+const genericIcons = new Set([
+  'home', 'nas', 'relay', 'other', 'unknown',
+  'home-cloud', 'router', 'server', 'mini-pc', 'desktop',
+])
 const variants = [
   { svg: 'color', png: ['color'] },
   { svg: 'color-dark', png: ['color-dark'] },
