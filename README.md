@@ -4,9 +4,9 @@
 
 Self-contained cloud, VPS, hosting, and generic infrastructure icons for monitoring dashboards, status pages, directories, and documentation. Load directly via jsDelivr CDN or self-host offline.
 
-当前共收录 **241** 个图标（`vector` 156 · `redrawn` 85；全部提供 SVG 与 8 档 PNG；**197** 个含深色变体，**123** 个含小尺寸专版）。
+当前共收录 **263** 个图标（`vector` 171 · `redrawn` 92；全部提供 SVG 与 8 档 PNG；**217** 个含深色变体，**139** 个含小尺寸专版）。
 
-Currently **241** icons (156 `vector`, 85 `redrawn`; all with SVG + 8 PNG sizes; **197** dark variants, **123** compact small masters).
+Currently **263** icons (171 `vector`, 92 `redrawn`; all with SVG + 8 PNG sizes; **217** dark variants, **139** compact small masters).
 
 [![全部图标预览（上：浅色背景，下：深色背景） / All icons on light and dark backgrounds](preview.png)](https://zhdsmy.github.io/vps-icons/preview.html)
 
@@ -427,6 +427,28 @@ English and Chinese names appear together when they differ. The next column list
 | ![](png/color/24/istoreos.png) | iStoreOS | — | [`istoreos`](svg/color/istoreos.svg) | [✓](svg/color-dark/istoreos.svg) | [≤24](svg/small/color/istoreos.svg) | redrawn | [↗](https://site.istoreos.com/favicon.ico) |
 | ![](png/color/24/raspberry-pi.png) | Raspberry Pi · 树莓派 | — | [`raspberry-pi`](svg/color/raspberry-pi.svg) | [✓](svg/color-dark/raspberry-pi.svg) | [≤24](svg/small/color/raspberry-pi.svg) | vector | [↗](https://raw.githubusercontent.com/gilbarbara/logos/b9edc65f8946027cb5e2fe6c772e914cf3649fba/logos/raspberry-pi.svg) |
 | ![](png/color/24/esxi.png) | VMware ESXi | — | [`esxi`](svg/color/esxi.svg) | [✓](svg/color-dark/esxi.svg) | [≤24](svg/small/color/esxi.svg) | vector | [↗](https://raw.githubusercontent.com/homarr-labs/dashboard-icons/d4b500dc40a8e1043b1581cabb7208892cf35472/svg/vmware-esxi.svg) |
+| ![](png/color/24/hkt.png) | HKT · 香港电讯 | — | [`hkt`](svg/color/hkt.svg) | [✓](svg/color-dark/hkt.svg) | [≤24](svg/small/color/hkt.svg) | vector | [↗](https://www.hkt.com/) |
+| ![](png/color/24/hinet.png) | HiNet · 中华电信 HiNet | — | [`hinet`](svg/color/hinet.svg) | [✓](svg/color-dark/hinet.svg) | [≤32](svg/small/color/hinet.svg) | redrawn | [↗](https://webmail.hinet.net/images/hinet.png) |
+| ![](png/color/24/seednet.png) | Seednet · 远传大宽频 | — | [`seednet`](svg/color/seednet.svg) | [✓](svg/color-dark/seednet.svg) | [≤32](svg/small/color/seednet.svg) | redrawn | [↗](https://service.seed.net.tw/images/hd_sn_logo.gif) |
+| ![](png/color/24/ctcsci.png) | CTCSCI Tech Limited | — | [`ctcsci`](svg/color/ctcsci.svg) | [✓](svg/color-dark/ctcsci.svg) | — | vector | [↗](https://ctcsci.com/img/logo.8914e22f.svg) |
+| ![](png/color/24/china-telecom.png) | China Telecom · 中国电信 | — | [`china-telecom`](svg/color/china-telecom.svg) | [✓](svg/color-dark/china-telecom.svg) | — | redrawn | [↗](https://www.chinatelecomglobal.com/img/logo.svg) |
+| ![](png/color/24/china-unicom.png) | China Unicom · 中国联通 | — | [`china-unicom`](svg/color/china-unicom.svg) | [✓](svg/color-dark/china-unicom.svg) | — | redrawn | [↗](https://www.chinaunicom.com.hk/en/images/home2024/logo_menu.svg) |
+| ![](png/color/24/china-mobile.png) | China Mobile · 中国移动 | — | [`china-mobile`](svg/color/china-mobile.svg) | [✓](svg/color-dark/china-mobile.svg) | — | vector | [↗](https://www.chinamobileltd.com/tc/images/global/logo.svg) |
+| ![](png/color/24/pccw-global.png) | PCCW Global | — | [`pccw-global`](svg/color/pccw-global.svg) | [✓](svg/color-dark/pccw-global.svg) | [≤32](svg/small/color/pccw-global.svg) | vector | [↗](https://www.pccwglobal.com/wp-content/uploads/2024/12/PCCWGxCC_Logos-02-black.svg) |
+| ![](png/color/24/hkbn.png) | HKBN · 香港宽频 | — | [`hkbn`](svg/color/hkbn.svg) | [✓](svg/color-dark/hkbn.svg) | [≤24](svg/small/color/hkbn.svg) | vector | [↗](https://www.hkbn.net/group/assets/about-us/2e3286a8-83cf-4fb1-a91a-35e9605ad425/) |
+| ![](png/color/24/hgc.png) | HGC Global Communications · 环球全域电讯 | — | [`hgc`](svg/color/hgc.svg) | [✓](svg/color-dark/hgc.svg) | [≤24](svg/small/color/hgc.svg) | redrawn | [↗](https://cdn.hgc-intl.com/share/assets/images/logo/hgc-logo-en-horizontal-color.png) |
+| ![](png/color/24/taiwan-mobile.png) | Taiwan Mobile · 台湾大哥大 | — | [`taiwan-mobile`](svg/color/taiwan-mobile.svg) | — | [≤24](svg/small/color/taiwan-mobile.svg) | vector | [↗](https://english.taiwanmobile.com/images/twm_350logo_en.svg) |
+| ![](png/color/24/retn.png) | RETN | — | [`retn`](svg/color/retn.svg) | [✓](svg/color-dark/retn.svg) | [≤32](svg/small/color/retn.svg) | vector | [↗](https://retn.net/_next/static/chunks/993-90e760432f7540aa30a9.js) |
+| ![](png/color/24/gsl-networks.png) | Global Secure Layer | — | [`gsl-networks`](svg/color/gsl-networks.svg) | — | — | vector | [↗](https://globalsecurelayer.com/images/globalsecurelayer.svg) |
+| ![](png/color/24/ntt.png) | NTT | — | [`ntt`](svg/color/ntt.svg) | [✓](svg/color-dark/ntt.svg) | [≤32](svg/small/color/ntt.svg) | vector | [↗](https://group.ntt/common/img/logo_site_a.svg) |
+| ![](png/color/24/kddi.png) | KDDI | — | [`kddi`](svg/color/kddi.svg) | [✓](svg/color-dark/kddi.svg) | [≤32](svg/small/color/kddi.svg) | redrawn | [↗](https://www.kddi.com/extlib/common/img_new/cmn_logo01.png) |
+| ![](png/color/24/softbank.png) | SoftBank · 软银 | — | [`softbank`](svg/color/softbank.svg) | [✓](svg/color-dark/softbank.svg) | — | vector | [↗](https://www.softbank.jp/site/set/data/top/img/shared/2026/logo-sb-black.svg) |
+| ![](png/color/24/singtel.png) | Singtel · 新加坡电信 | — | [`singtel`](svg/color/singtel.svg) | [✓](svg/color-dark/singtel.svg) | [≤24](svg/small/color/singtel.svg) | vector | [↗](https://cdn1.singteldigital.com/content/dam/singtel/personal/products-services/mobile/phones/singtel-favicon.svg) |
+| ![](png/color/24/cogent.png) | Cogent Communications | — | [`cogent`](svg/color/cogent.svg) | [✓](svg/color-dark/cogent.svg) | [≤32](svg/small/color/cogent.svg) | redrawn | [↗](https://upload.wikimedia.org/wikipedia/commons/archive/b/b9/20220309142845%21Cogent_Communications_logo.svg) |
+| ![](png/color/24/hurricane-electric.png) | Hurricane Electric | — | [`hurricane-electric`](svg/color/hurricane-electric.svg) | [✓](svg/color-dark/hurricane-electric.svg) | [≤24](svg/small/color/hurricane-electric.svg) | vector | [↗](https://upload.wikimedia.org/wikipedia/commons/archive/4/4a/20241117212143%21Logo_of_Hurricane_Electric.svg) |
+| ![](png/color/24/lumen.png) | Lumen | — | [`lumen`](svg/color/lumen.svg) | [✓](svg/color-dark/lumen.svg) | [≤32](svg/small/color/lumen.svg) | vector | [↗](https://www.lumen.com/content/dam/lumen/logo/Lumen-logo-R.svg) |
+| ![](png/color/24/arelion.png) | Arelion | — | [`arelion`](svg/color/arelion.svg) | [✓](svg/color-dark/arelion.svg) | [≤32](svg/small/color/arelion.svg) | vector | [↗](https://www.arelion.com/ArelionLogo.svg) |
+| ![](png/color/24/tata-communications.png) | Tata Communications · 塔塔通讯 | — | [`tata-communications`](svg/color/tata-communications.svg) | [✓](svg/color-dark/tata-communications.svg) | [≤32](svg/small/color/tata-communications.svg) | vector | [↗](https://www.tatacommunications.com/hubfs/Tata-Communications/Logos/Tata%20Communications%20Logo%20White.svg) |
 
 ---
 
@@ -471,7 +493,7 @@ npm ci && npm run build && npm run check
 
 | 允许的 `license` 值 / Accepted license statement | 条目数 / Icons |
 |---|---:|
-| `Proprietary brand artwork; no open license identified` | 169 |
+| `Proprietary brand artwork; no open license identified` | 189 |
 | `Proprietary brand artwork; no open license identified; CC0-1.0 Simple Icons monochrome balloon, brand rights reserved` | 1 |
 | `Proprietary brand artwork; no open license identified; CC0-1.0 Simple Icons monochrome mark, brand rights reserved` | 2 |
 | `Proprietary brand artwork; no open license identified; Source Sans Pro outlines under SIL OFL-1.1` | 1 |
@@ -488,5 +510,5 @@ npm ci && npm run build && npm run check
 | `CC0-1.0 (auth-badges artwork via theSVG); official mascot and trademarks belong to Time4VPS` | 1 |
 | `Apache-2.0 (Scaleway Ultraviolet); brand rights reserved` | 1 |
 | `Apache-2.0 (Dashboard Icons collection); brand rights reserved` | 1 |
-| `Public domain (PD-textlogo, Wikimedia Commons); trademark rights reserved` | 1 |
+| `Public domain (PD-textlogo, Wikimedia Commons); trademark rights reserved` | 3 |
 | `Public domain (Wikimedia Commons, PD-textlogo); trademark rights reserved by KT.` | 1 |

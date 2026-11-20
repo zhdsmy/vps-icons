@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs><radialGradient id="sheen" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="translate(111.442 145.382) scale(154.839 123.371)"><stop offset="0.9" stop-color="#A4B4FF"/><stop offset="0.963" stop-color="#C5E6FF"/><stop offset="0.997" stop-color="#FFFFFF"/><stop offset="1" stop-color="#A4B4FF"/></radialGradient></defs>
+  <path fill="url(#sheen)" d="M15.043 9.274H29.278L26.531 26.755L39.517 9.274H56L38.418 32.599L49.257 54.726H32.524L24.982 35.896L22.085 54.726H8L15.043 9.274Z"/>
+</svg>

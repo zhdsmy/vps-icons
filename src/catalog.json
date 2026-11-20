@@ -6295,5 +6295,671 @@
       "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/d4b500dc40a8e1043b1581cabb7208892cf35472/svg/vmware-esxi.svg"
     },
     "smallMax": 24
+  },
+  {
+    "slug": "hkt",
+    "name": "HKT",
+    "names": {
+      "zh-CN": "香港电讯"
+    },
+    "aliases": [
+      "香港电讯",
+      "香港電訊",
+      "Hong Kong Telecommunications",
+      "hkt.com",
+      "Netvigator",
+      "網上行",
+      "AS4760"
+    ],
+    "website": "https://www.hkt.com/?locale=zh",
+    "brandColor": "#00458C",
+    "source": "https://www.hkt.com/",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Extract the three native letter outlines from the HKT header. Match the blue of its touch icon, and use its white wordmark on dark."
+    ],
+    "small": {
+      "artwork": "Set all three letters into the blue square of the official touch icon. Knock the letters out for monochrome.",
+      "source": "https://www.hkt.com/"
+    },
+    "smallMax": 24,
+    "vectorSource": "https://www.hkt.com/_next/static/chunks/0tvxi1te0ktin.js"
+  },
+  {
+    "slug": "hinet",
+    "name": "HiNet",
+    "names": {
+      "zh-CN": "中华电信 HiNet"
+    },
+    "aliases": [
+      "中华电信",
+      "中華電信",
+      "中華電信 HiNet",
+      "Chunghwa Telecom",
+      "Chunghwa Telecom HiNet",
+      "HiNet 光世代",
+      "hinet.net",
+      "AS3462"
+    ],
+    "website": "https://www.cht.com.tw/home/consumer/broadband/hinet/hinet-light",
+    "brandColor": "#014099",
+    "source": "https://webmail.hinet.net/images/hinet.png",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Reconstruct the blue lettering and red dot from the HiNet mail header. Retain the pale tilted oval and its square highlights in color."
+    ],
+    "small": {
+      "artwork": "Use the opening Hi and its red dot over a simplified tilted oval through 32 px.",
+      "source": "https://webmail.hinet.net/images/hinet.png"
+    },
+    "smallMax": 32
+  },
+  {
+    "slug": "seednet",
+    "name": "Seednet",
+    "names": {
+      "zh-CN": "远传大宽频"
+    },
+    "aliases": [
+      "遠傳大寬頻",
+      "远传大宽频",
+      "速博",
+      "數位聯合電信",
+      "数字联合电信",
+      "seed.net.tw",
+      "AS4780"
+    ],
+    "website": "https://service.seed.net.tw/index.htm",
+    "brandColor": "#00827D",
+    "source": "https://service.seed.net.tw/images/hd_sn_logo.gif",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Trace the orange seed lettering and the white net counters from the service header. Reconstruct its tapered teal screen and omit the neighboring page decoration."
+    ],
+    "small": {
+      "artwork": "Keep the original teal net panel and its three white letters through 32 px.",
+      "source": "https://service.seed.net.tw/images/hd_sn_logo.gif"
+    },
+    "smallMax": 32
+  },
+  {
+    "slug": "ctcsci",
+    "name": "CTCSCI Tech Limited",
+    "names": {
+      "zh-CN": "CTCSCI Tech Limited"
+    },
+    "aliases": [
+      "CTCSCI",
+      "ctcsci.com",
+      "AS9886"
+    ],
+    "website": "https://ctcsci.com/",
+    "brandColor": "#4080EC",
+    "source": "https://ctcsci.com/img/logo.8914e22f.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Keep the four transformed links from the network’s masthead SVG. Omit the separate text group and lighten the four inks for dark surfaces."
+    ],
+    "small": {
+      "artwork": "The same linked symbol fills the canvas at each size.",
+      "source": "https://ctcsci.com/img/logo.8914e22f.svg"
+    }
+  },
+  {
+    "slug": "china-telecom",
+    "name": "China Telecom",
+    "names": {
+      "zh-CN": "中国电信"
+    },
+    "aliases": [
+      "中国电信",
+      "中國電信",
+      "电信",
+      "電信",
+      "Chinanet",
+      "CN2",
+      "CN2 GIA",
+      "163",
+      "AS4809",
+      "CTGNet",
+      "AS4134",
+      "AS23764"
+    ],
+    "website": "https://www.chinatelecom-h.com/sc/global/home.php",
+    "brandColor": "#02489D",
+    "source": "https://www.chinatelecomglobal.com/img/logo.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Isolate the orbital emblem from the 2500 by 686 bitmap embedded in the China Telecom Global header. Fit its outer contour and central aperture with Potrace."
+    ],
+    "small": {
+      "artwork": "Retain the unlettered orbital emblem at every size.",
+      "source": "https://www.chinatelecomglobal.com/img/logo.svg"
+    }
+  },
+  {
+    "slug": "china-unicom",
+    "name": "China Unicom",
+    "names": {
+      "zh-CN": "中国联通"
+    },
+    "aliases": [
+      "中国联通",
+      "中國聯通",
+      "联通",
+      "聯通",
+      "AS4837",
+      "AS9929",
+      "CUII",
+      "China Unicom Industrial Internet"
+    ],
+    "website": "https://www.chinaunicom.com.hk/sc/global/home.php",
+    "brandColor": "#E71D2B",
+    "source": "https://www.chinaunicom.com.hk/en/images/home2024/logo_menu.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Isolate the red Chinese knot from the high-resolution embedded bitmap in the official header and fit its continuous curves with Potrace. Preserve the square inner apertures."
+    ],
+    "small": {
+      "artwork": "Use the unlettered knot at all sizes.",
+      "source": "https://www.chinaunicom.com.hk/en/images/home2024/logo_menu.svg"
+    }
+  },
+  {
+    "slug": "china-mobile",
+    "name": "China Mobile",
+    "names": {
+      "zh-CN": "中国移动"
+    },
+    "aliases": [
+      "中国移动",
+      "中國移動",
+      "移动",
+      "移動",
+      "CMI",
+      "CMIN2",
+      "AS58453",
+      "CMHK",
+      "AS9808",
+      "China Mobile International"
+    ],
+    "website": "https://www.chinamobileltd.com/sc/global/home.php",
+    "brandColor": "#0085CC",
+    "source": "https://www.chinamobileltd.com/tc/images/global/logo.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Use the five native folded-ribbon paths from the China Mobile half of its anniversary header. Remove the anniversary and bilingual lettering."
+    ],
+    "small": {
+      "artwork": "Keep the five separate ribbons and their original interstices.",
+      "source": "https://www.chinamobileltd.com/tc/images/global/logo.svg"
+    }
+  },
+  {
+    "slug": "pccw-global",
+    "name": "PCCW Global",
+    "names": {
+      "zh-CN": "PCCW Global"
+    },
+    "aliases": [
+      "电讯盈科环球",
+      "電訊盈科環球",
+      "pccwglobal.com",
+      "AS3491",
+      "PCCW Global Limited"
+    ],
+    "website": "https://www.pccwglobal.com/",
+    "brandColor": "#16263F",
+    "source": "https://www.pccwglobal.com/wp-content/uploads/2024/12/PCCWGxCC_Logos-02-black.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Set the two words of the native PCCW Global group on separate baselines so both read inside the square. Exclude the dividing line and Console Connect lockup."
+    ],
+    "small": {
+      "artwork": "Use the slanted P from the native lettering on the blue square shown by the brand favicon.",
+      "source": "https://www.pccwglobal.com/wp-content/uploads/2025/05/pccw-global-favicon.ico"
+    },
+    "smallMax": 32
+  },
+  {
+    "slug": "hkbn",
+    "name": "HKBN",
+    "names": {
+      "zh-CN": "香港宽频"
+    },
+    "aliases": [
+      "香港宽频",
+      "香港寬頻",
+      "Hong Kong Broadband Network",
+      "hkbn.net",
+      "AS9269"
+    ],
+    "website": "https://www.hkbnltd.net/",
+    "brandColor": "#003E68",
+    "source": "https://www.hkbn.net/group/assets/about-us/2e3286a8-83cf-4fb1-a91a-35e9605ad425/",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Extract the banner emblem from the official header paths and check the crop against the media-library artwork. Keep the orange point and the open current at its foot."
+    ],
+    "small": {
+      "artwork": "Widen the current and enlarge its orange point within the emblem.",
+      "source": "https://www.hkbn.net/group/assets/about-us/2e3286a8-83cf-4fb1-a91a-35e9605ad425/"
+    },
+    "smallMax": 24,
+    "vectorSource": "https://www.hkbn.net/group/_next/static/chunks/8838-5ee304acc2c05b98.js"
+  },
+  {
+    "slug": "hgc",
+    "name": "HGC Global Communications",
+    "names": {
+      "zh-CN": "环球全域电讯"
+    },
+    "aliases": [
+      "环球全域电讯",
+      "環球全域電訊",
+      "环电",
+      "環電",
+      "HGC Broadband",
+      "环电宽频",
+      "環電寬頻",
+      "Hutchison Global Communications",
+      "和记环球电讯",
+      "和記環球電訊",
+      "AS9304",
+      "hgc.com.hk",
+      "huanqiuquanyudianxun"
+    ],
+    "website": "https://www.hgc.com.hk/",
+    "brandColor": "#E2211C",
+    "source": "https://cdn.hgc-intl.com/share/assets/images/logo/hgc-logo-en-horizontal-color.png",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Reconstruct the geometric red HGC wordmark (split-stem H and mid-notched G and C) from the official HGC International horizontal logo, lifting red to #FF4D47 on dark surfaces.",
+      "Use HGC’s official native vector split-H emblem (https://www.hgcbroadband.com/uploads/icons/hgc.svg) for 16 and 24 px."
+    ],
+    "small": {
+      "artwork": "Use HGC’s official standalone split-H vector mark at 16 and 24 px.",
+      "source": "https://www.hgcbroadband.com/uploads/icons/hgc.svg"
+    },
+    "smallMax": 24
+  },
+  {
+    "slug": "taiwan-mobile",
+    "name": "Taiwan Mobile",
+    "names": {
+      "zh-CN": "台湾大哥大"
+    },
+    "aliases": [
+      "台灣大哥大",
+      "臺灣大哥大",
+      "台湾大哥大",
+      "TFN",
+      "Taiwan Fixed Network",
+      "台灣固網",
+      "台湾固网",
+      "AS9924",
+      "taiwanmobile.com"
+    ],
+    "website": "https://www.taiwanmobile.com/",
+    "brandColor": "#F06A2F",
+    "source": "https://english.taiwanmobile.com/images/twm_350logo_en.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Use the 24 native facets of the official Taiwan Mobile jewel. Underpaint shared edges to avoid transparent seams. Cut channels between grouped facets for monochrome."
+    ],
+    "small": {
+      "artwork": "Merge the outer facets into six broad wedges while retaining the six central triangles.",
+      "source": "https://english.taiwanmobile.com/images/twm_350logo_en.svg"
+    },
+    "smallMax": 24
+  },
+  {
+    "slug": "retn",
+    "name": "RETN",
+    "names": {
+      "zh-CN": "RETN"
+    },
+    "aliases": [
+      "RETN Networks",
+      "AS9002",
+      "retn.net"
+    ],
+    "website": "https://retn.net/",
+    "brandColor": "#0052A4",
+    "source": "https://retn.net/_next/static/chunks/993-90e760432f7540aa30a9.js",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Use the blue and magenta outlines from the official header bundle. Omit the registration symbol at panel sizes."
+    ],
+    "small": {
+      "artwork": "Use the official app icon’s blue tile and reversed R, cut through the monochrome tile.",
+      "source": "https://retn.net/apple-touch-icon.png"
+    },
+    "smallMax": 32
+  },
+  {
+    "slug": "gsl-networks",
+    "name": "Global Secure Layer",
+    "names": {
+      "zh-CN": "Global Secure Layer"
+    },
+    "aliases": [
+      "GSL Networks",
+      "GSL",
+      "AS137409",
+      "AS7578",
+      "gslnetworks.com.au"
+    ],
+    "website": "https://globalsecurelayer.com/",
+    "brandColor": "#03A9F4",
+    "source": "https://globalsecurelayer.com/images/globalsecurelayer.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": false,
+    "processing": [
+      "Isolate the four crossed ribbon facets from the official horizontal signature. Open the overpasses in monochrome."
+    ],
+    "small": {
+      "artwork": "Keep the same freestanding network symbol at all sizes.",
+      "source": "https://globalsecurelayer.com/images/globalsecurelayer.svg"
+    }
+  },
+  {
+    "slug": "ntt",
+    "name": "NTT",
+    "names": {
+      "zh-CN": "NTT"
+    },
+    "aliases": [
+      "NTT Communications",
+      "NTT Global IP Network",
+      "AS2914",
+      "NTT Com",
+      "日本电信电话",
+      "日本電信電話"
+    ],
+    "website": "https://group.ntt/en/",
+    "brandColor": "#0072BC",
+    "source": "https://group.ntt/common/img/logo_site_a.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Keep the current NTT Group signature and its Dynamic Loop outlines. Lift the blue on dark panels."
+    ],
+    "small": {
+      "artwork": "Center the Dynamic Loop without the adjoining lettering.",
+      "source": "https://group.ntt/common/img/logo_site_a.svg"
+    },
+    "smallMax": 32
+  },
+  {
+    "slug": "kddi",
+    "name": "KDDI",
+    "names": {
+      "zh-CN": "KDDI"
+    },
+    "aliases": [
+      "KDDI Corporation",
+      "AS2516",
+      "kddi.com"
+    ],
+    "website": "https://www.kddi.com/english/",
+    "brandColor": "#0E0D6A",
+    "source": "https://www.kddi.com/extlib/common/img_new/cmn_logo01.png",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Reconstruct the italic KDDI outlines and curved metallic highlight from the corporate header, omitting the campaign slogan. Cut a curved slit in the monochrome lettering."
+    ],
+    "small": {
+      "artwork": "Enlarge the signature K and retain its curved highlight.",
+      "source": "https://www.kddi.com/extlib/common/img_new/cmn_logo01.png"
+    },
+    "smallMax": 32
+  },
+  {
+    "slug": "softbank",
+    "name": "SoftBank",
+    "names": {
+      "zh-CN": "软银"
+    },
+    "aliases": [
+      "软银",
+      "軟銀",
+      "SoftBank Corp.",
+      "AS17676",
+      "softbank.jp",
+      "ruanyin"
+    ],
+    "website": "https://www.softbank.jp/en/",
+    "brandColor": "#B7BBBE",
+    "source": "https://www.softbank.jp/site/set/data/top/img/shared/2026/logo-sb-black.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Isolate the paired silver bars from the SoftBank signature. Use a deeper silver on white and a lighter silver on dark panels."
+    ],
+    "small": {
+      "artwork": "Retain the same two bars and their original gap at every size.",
+      "source": "https://www.softbank.jp/site/set/data/top/img/shared/2026/logo-sb-black.svg"
+    }
+  },
+  {
+    "slug": "singtel",
+    "name": "Singtel",
+    "names": {
+      "zh-CN": "新加坡电信"
+    },
+    "aliases": [
+      "新加坡电信",
+      "新加坡電信",
+      "Singapore Telecommunications",
+      "AS7473",
+      "Singtel Internet Exchange",
+      "STiX",
+      "singtel.com"
+    ],
+    "website": "https://www.singtel.com/",
+    "brandColor": "#ED1A3D",
+    "source": "https://cdn1.singteldigital.com/content/dam/singtel/personal/products-services/mobile/phones/singtel-favicon.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Extract the signature from the official vector favicon, retaining all five ascending and descending dots. Omit the white container."
+    ],
+    "small": {
+      "artwork": "Keep all five dots above the enlarged initial S from the wordmark through 24 px.",
+      "source": "https://cdn1.singteldigital.com/content/dam/singtel/personal/products-services/mobile/phones/singtel-favicon.svg"
+    },
+    "smallMax": 24
+  },
+  {
+    "slug": "cogent",
+    "name": "Cogent Communications",
+    "names": {
+      "zh-CN": "Cogent Communications"
+    },
+    "aliases": [
+      "Cogent",
+      "AS174",
+      "cogentco.com"
+    ],
+    "website": "https://www.cogentco.com/en/",
+    "brandColor": "#0172BB",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/archive/b/b9/20220309142845%21Cogent_Communications_logo.svg",
+    "license": "Public domain (PD-textlogo, Wikimedia Commons); trademark rights reserved",
+    "quality": "redrawn",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Use the archived Commons vectorization, matched against the carrier header. Preserve the blue filled o and neutral lowercase lettering."
+    ],
+    "small": {
+      "artwork": "Isolate the opening c and solid blue o at their original spacing.",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/archive/b/b9/20220309142845%21Cogent_Communications_logo.svg"
+    },
+    "smallMax": 32
+  },
+  {
+    "slug": "hurricane-electric",
+    "name": "Hurricane Electric",
+    "names": {
+      "zh-CN": "Hurricane Electric"
+    },
+    "aliases": [
+      "HE",
+      "he.net",
+      "AS6939",
+      "Hurricane Electric Internet Services"
+    ],
+    "website": "https://he.net/",
+    "brandColor": "#313A90",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/archive/4/4a/20241117212143%21Logo_of_Hurricane_Electric.svg",
+    "license": "Public domain (PD-textlogo, Wikimedia Commons); trademark rights reserved",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Use the encircled, interlocking HE monogram from the archived map artwork. Keep the ring and the original serif letterforms as separate layers."
+    ],
+    "small": {
+      "artwork": "Open up the monogram by enlarging and slightly thickening the initials inside the ring.",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/archive/4/4a/20241117212143%21Logo_of_Hurricane_Electric.svg"
+    },
+    "smallMax": 24
+  },
+  {
+    "slug": "lumen",
+    "name": "Lumen",
+    "names": {
+      "zh-CN": "Lumen"
+    },
+    "aliases": [
+      "Lumen Technologies",
+      "Level3",
+      "Level 3 Communications",
+      "CenturyLink",
+      "AS3356",
+      "lumen.com"
+    ],
+    "website": "https://www.lumen.com/en-us/home.html",
+    "brandColor": "#0C9ED9",
+    "source": "https://www.lumen.com/content/dam/lumen/logo/Lumen-logo-R.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Center the wordmark without the registration sign. Retain the detached cyan stroke of the E."
+    ],
+    "small": {
+      "artwork": "Use the two-piece E as in the official favicon, using its original vector outlines.",
+      "source": "https://www.lumen.com/content/dam/lumen/logo/Lumen-logo-R.svg"
+    },
+    "smallMax": 32
+  },
+  {
+    "slug": "arelion",
+    "name": "Arelion",
+    "names": {
+      "zh-CN": "Arelion"
+    },
+    "aliases": [
+      "Telia Carrier",
+      "TeliaSonera International Carrier",
+      "AS1299",
+      "arelion.com"
+    ],
+    "website": "https://www.arelion.com/",
+    "brandColor": "#000000",
+    "source": "https://www.arelion.com/ArelionLogo.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Center the official eight-ray symbol and wordmark. Use the positive and reverse colors in the media kit."
+    ],
+    "small": {
+      "artwork": "Isolate the eight-ray symbol at its original proportions.",
+      "source": "https://www.arelion.com/ArelionLogo.svg"
+    },
+    "smallMax": 32
+  },
+  {
+    "slug": "tata-communications",
+    "name": "Tata Communications",
+    "names": {
+      "zh-CN": "塔塔通讯"
+    },
+    "aliases": [
+      "Tata Communications Limited",
+      "塔塔通讯",
+      "塔塔通訊",
+      "塔塔通信",
+      "AS6453",
+      "VSNL",
+      "tatacommunications.com"
+    ],
+    "website": "https://www.tatacommunications.com/",
+    "brandColor": "#126CA0",
+    "source": "https://www.tatacommunications.com/hubfs/Tata-Communications/Logos/Tata%20Communications%20Logo%20White.svg",
+    "license": "Proprietary brand artwork; no open license identified",
+    "quality": "vector",
+    "format": "svg",
+    "hasDark": true,
+    "processing": [
+      "Stack the outlined TATA above COMMUNICATIONS, following the carrier’s two-line favicon layout, and adapt the blue lettering for each background."
+    ],
+    "small": {
+      "artwork": "Use the group symbol displayed beside the carrier wordmark in its header, taking the contours from the parent brand’s SVG.",
+      "source": "https://www.tata.com/etc.clientlibs/tata/clientlibs/assets/resources/img/pages/nav/Tata_Logo2.svg"
+    },
+    "smallMax": 32
   }
 ]
